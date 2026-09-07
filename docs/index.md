@@ -31,6 +31,8 @@ features:
     details: Order VII Rule 11 traps, strategic filing timing, and model prayer checklists — the failure modes that cause pleadings to be rejected.
 ---
 
+<CivilSuitNavigator />
+
 ## How to use this guide
 
 Every Section and Order in this guide follows the same six-part schema, so you can navigate any provision the same way:
