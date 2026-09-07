@@ -13,6 +13,7 @@ The guide is built in batches. Each provision added must satisfy the full six-pa
 | Order XXXIX | [`orders/order-39`](/orders/order-39) |
 | Sections 144, 148A, 151 | [`sections/sec-144-148a-151`](/sections/sec-144-148a-151) |
 | Sections 36–74 — Execution | [`sections/sec-36-to-74`](/sections/sec-36-to-74) |
+| Sections 96–115 — Appeals, Review & Revision | [`sections/sec-96-to-115`](/sections/sec-96-to-115) |
 | Drafting toolkit | [`drafts/`](/drafts/) |
 
 ## Planned
@@ -24,14 +25,9 @@ The guide is built in batches. Each provision added must satisfy the full six-pa
 - Sections 40–46: precepts, execution against legal representatives
 - Order XXI in full — the execution engine, all 106 rules
 
-**Parts VII & VIII — Appeals, Review, Revision**
-- Sections 96–99A and Order XLI: first appeals, no appeal from consent decree, Section 96(3)
-- Sections 100–103 and Order XLII: second appeal, substantial question of law
-- Sections 104–106 and Order XLIII: appeals from orders
-- Section 107: powers of the appellate court
-- Sections 109, 112: appeals to the Supreme Court
-- Section 114 and Order XLVII: review
-- Section 115: revision
+**Parts VII & VIII — Appeals (remainder)**
+- Sections 109, 112 and Order XLV: appeals to the Supreme Court
+- Order XLI in full — all 37 rules of first appeal procedure
 
 **Part XI (remainder) — Miscellaneous**
 - Sections 145–147, 149, 150, 152, 153, 153A, 153B

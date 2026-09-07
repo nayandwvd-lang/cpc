@@ -31,6 +31,10 @@ export default defineConfig({
           { text: 'Part I — Suits in General (ss. 9–35B)', link: '/sections/sec-9-to-14' },
           { text: 'Jurisdiction & Transfer (ss. 15–25)', link: '/sections/sec-15-to-25' },
           { text: 'Part II — Execution (ss. 36–74)', link: '/sections/sec-36-to-74' },
+          {
+            text: 'Parts VII & VIII — Appeals, Review, Revision (ss. 96–115)',
+            link: '/sections/sec-96-to-115'
+          },
           { text: 'Part XI — Miscellaneous (ss. 144–158)', link: '/sections/sec-144-148a-151' }
         ]
       },
@@ -72,8 +76,13 @@ export default defineConfig({
       },
       {
         text: 'Parts VII & VIII — Appeals, Review, Revision (Sections 96 to 115)',
-        collapsed: true,
-        items: [{ text: 'Coming in a later batch', link: '/roadmap' }]
+        collapsed: false,
+        items: [
+          {
+            text: 'Sections 96–115 — Appeals, Review & Revision',
+            link: '/sections/sec-96-to-115'
+          }
+        ]
       },
       {
         text: 'Part XI — Miscellaneous & Inherent Powers (Sections 144 to 158)',
