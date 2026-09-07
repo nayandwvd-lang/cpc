@@ -28,12 +28,13 @@ Most CPC material either reproduces the bare Act or paraphrases it. This does ne
 | Jurisdiction, res sub judice & res judicata | ss. 9–14 |
 | Place of suing, objections & transfer | ss. 15–25 |
 | Restitution, caveat & inherent powers | ss. 144, 148A, 151 |
+| Execution — the executing court, s. 47, modes, attachment, rateable distribution | ss. 36–74 |
 | Parties — joinder, misjoinder, splitting of claims | Orders I & II |
 | Pleadings, amendment, rejection of plaint, set-off & counter-claim | Orders VI, VII & VIII |
 | Temporary injunctions & disobedience | Order XXXIX |
 | Courtroom Drafting Toolkit | 10 annotated model drafts + filing checklists |
 
-**Next:** execution (ss. 36–74), appeals, review and revision (ss. 96–115).
+**Next:** appeals, review and revision (ss. 96–115), and Order XXI in full.
 
 ## Running it locally
 

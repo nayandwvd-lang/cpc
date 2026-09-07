@@ -12,6 +12,7 @@ The guide is built in batches. Each provision added must satisfy the full six-pa
 | Orders VI, VII & VIII | [`orders/order-6-7-8`](/orders/order-6-7-8) |
 | Order XXXIX | [`orders/order-39`](/orders/order-39) |
 | Sections 144, 148A, 151 | [`sections/sec-144-148a-151`](/sections/sec-144-148a-151) |
+| Sections 36–74 — Execution | [`sections/sec-36-to-74`](/sections/sec-36-to-74) |
 | Drafting toolkit | [`drafts/`](/drafts/) |
 
 ## Planned
@@ -19,14 +20,9 @@ The guide is built in batches. Each provision added must satisfy the full six-pa
 **Part I (remainder) — Suits in General**
 - Sections 26–35B: institution of suits, summons, costs, compensatory costs, costs for causing delay
 
-**Part II — Execution (Sections 36 to 74)**
-- Sections 36–37: courts by which decrees may be executed
-- Sections 38–46: transfer of decrees, precepts
-- Sections 47: questions to be determined by the executing court
-- Sections 51–54: modes of execution, arrest and detention, attachment, partition
-- Sections 60–64: property liable to attachment, exemptions, private alienation after attachment
-- Sections 73–74: rateable distribution, resistance to execution
-- Order XXI in full — the execution engine
+**Part II — Execution (remainder)**
+- Sections 40–46: precepts, execution against legal representatives
+- Order XXI in full — the execution engine, all 106 rules
 
 **Parts VII & VIII — Appeals, Review, Revision**
 - Sections 96–99A and Order XLI: first appeals, no appeal from consent decree, Section 96(3)
