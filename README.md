@@ -65,3 +65,5 @@ Open an issue or a pull request.
 > **A note on use.** This is a study and practice aid, not a substitute for the bare Act, the current State amendments, or professional judgment. Verify every citation and the current text of every provision before relying on it in court.
 
 Built with [VitePress](https://vitepress.dev). Licensed MIT.
+
+**Nayan Dwivedi** — [LinkedIn](https://www.linkedin.com/in/nayandwivedi/) · [nayandwivedi.in](https://www.nayandwivedi.in/)
