@@ -1,6 +1,6 @@
 ---
 title: "Sections 15–25 — Place of Suing, Objections to Jurisdiction & Transfer"
-outline: [2, 3]
+outline: 2
 ---
 
 # Sections 15 to 25 — Place of Suing, Objections to Jurisdiction and Transfer of Suits

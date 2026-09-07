@@ -1,6 +1,6 @@
 ---
 title: "Sections 9–14 — Jurisdiction, Res Sub Judice & Res Judicata"
-outline: [2, 3]
+outline: 2
 ---
 
 # Sections 9 to 14 — Jurisdiction of Civil Courts, Res Sub Judice and Res Judicata

@@ -1,6 +1,6 @@
 ---
 title: "Order XXXIX — Temporary Injunctions and Interlocutory Orders"
-outline: [2, 3]
+outline: 2
 ---
 
 # Order XXXIX — Temporary Injunctions and Interlocutory Orders

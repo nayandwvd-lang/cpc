@@ -1,0 +1,306 @@
+/* ==========================================================================
+   CPC Guide — visual layer
+
+   Design premise: this is a reference consulted under time pressure, not a
+   document read end to end. The job of the styling is to let a reader tell,
+   at a glance and without reading a word, WHAT KIND of text they are looking
+   at — statutory text, the author's commentary, a case ratio, or a warning.
+
+   Nothing here changes layout. It is colour, type and rhythm only.
+   ========================================================================== */
+
+/* --------------------------------------------------------------------------
+   1. Identity — the oxblood already declared in the theme-color meta tag
+   -------------------------------------------------------------------------- */
+
+:root {
+  --cpc-oxblood: #8b1a1a;
+  --cpc-oxblood-light: #a52222;
+  --cpc-parchment: #fdfaf6;
+  --cpc-rule: #e3d9d9;
+
+  --vp-c-brand-1: var(--cpc-oxblood);
+  --vp-c-brand-2: var(--cpc-oxblood-light);
+  --vp-c-brand-3: var(--cpc-oxblood);
+  --vp-c-brand-soft: rgba(139, 26, 26, 0.1);
+
+  /* Custom containers must NOT inherit the brand, or every callout turns red
+     and the distinction between a takeaway and a trap is lost. */
+  --vp-c-tip-1: #0f766e;
+  --vp-c-tip-2: #0d9488;
+  --vp-c-tip-3: #0f766e;
+  --vp-c-tip-soft: rgba(15, 118, 110, 0.1);
+
+  --vp-c-note-1: #3f5b8b;
+  --vp-c-note-soft: rgba(63, 91, 139, 0.1);
+
+  --vp-c-warning-1: #a16207;
+  --vp-c-warning-soft: rgba(161, 98, 7, 0.1);
+
+  --vp-c-danger-1: #b91c1c;
+  --vp-c-danger-soft: rgba(185, 28, 28, 0.1);
+}
+
+.dark {
+  /* #8b1a1a fails contrast on a dark ground; lift it rather than abandon it. */
+  --cpc-oxblood: #e59089;
+  --cpc-oxblood-light: #f0a8a2;
+  --cpc-parchment: #201d1d;
+  --cpc-rule: #3a3232;
+
+  --vp-c-brand-1: var(--cpc-oxblood);
+  --vp-c-brand-2: var(--cpc-oxblood-light);
+  --vp-c-brand-3: #a52626;
+  --vp-c-brand-soft: rgba(229, 144, 137, 0.14);
+
+  --vp-c-tip-1: #5eead4;
+  --vp-c-tip-2: #99f6e4;
+  --vp-c-tip-3: #0f766e;
+  --vp-c-tip-soft: rgba(94, 234, 212, 0.12);
+
+  --vp-c-note-1: #a5b8dd;
+  --vp-c-note-soft: rgba(165, 184, 221, 0.12);
+
+  --vp-c-warning-1: #fbbf24;
+  --vp-c-warning-soft: rgba(251, 191, 36, 0.12);
+
+  --vp-c-danger-1: #fca5a5;
+  --vp-c-danger-soft: rgba(252, 165, 165, 0.12);
+}
+
+/* --------------------------------------------------------------------------
+   2. Bare Act text — the single most important distinction on the page
+
+   Every blockquote in this guide is verbatim statutory text. Giving it a
+   serif face, a parchment ground and an oxblood rule means the reader never
+   has to ask "is this the Act, or is this the author?"
+   -------------------------------------------------------------------------- */
+
+.vp-doc blockquote {
+  font-family: Georgia, 'Iowan Old Style', 'Times New Roman', serif;
+  font-size: 1.02rem;
+  line-height: 1.7;
+  color: var(--vp-c-text-1);
+  background: var(--cpc-parchment);
+  border-left: 3px solid var(--cpc-oxblood);
+  border-radius: 0 4px 4px 0;
+  margin: 20px 0;
+  padding: 14px 20px;
+}
+
+.vp-doc blockquote > p {
+  margin: 0 0 12px;
+}
+
+.vp-doc blockquote > p:last-child {
+  margin-bottom: 0;
+}
+
+/* Section numbers and operative words are bolded inside the bare text. */
+.vp-doc blockquote strong {
+  color: var(--cpc-oxblood);
+  font-weight: 700;
+}
+
+/* --------------------------------------------------------------------------
+   3. Provision headings — the real navigation anchors
+
+   With the outline now indexing h2 only, the h2 is what a reader scans for.
+   A full-width rule above it makes each provision a visible slab.
+   -------------------------------------------------------------------------- */
+
+.vp-doc h2 {
+  border-top: 2px solid var(--cpc-oxblood);
+  border-bottom: none;
+  margin-top: 56px;
+  padding-top: 20px;
+  font-size: 1.5rem;
+  letter-spacing: -0.01em;
+}
+
+/* The six schema parts. Subordinate to the provision, but findable. */
+.vp-doc h3 {
+  margin-top: 36px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid var(--cpc-rule);
+  font-size: 1.12rem;
+  color: var(--vp-c-text-1);
+}
+
+/* --------------------------------------------------------------------------
+   4. Tables — this guide is mostly tables, so scanning them is the whole game
+   -------------------------------------------------------------------------- */
+
+.vp-doc table {
+  display: table;
+  width: 100%;
+  margin: 22px 0;
+  font-size: 0.92rem;
+  line-height: 1.55;
+  border-collapse: collapse;
+}
+
+.vp-doc tr {
+  background: transparent;
+  border-top: none;
+}
+
+.vp-doc th {
+  background: var(--vp-c-bg-soft);
+  border: 1px solid var(--cpc-rule);
+  color: var(--cpc-oxblood);
+  font-size: 0.76rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  text-align: left;
+  padding: 10px 14px;
+}
+
+.vp-doc td {
+  border: 1px solid var(--cpc-rule);
+  padding: 10px 14px;
+  vertical-align: top;
+}
+
+/* Zebra striping — the rows are tall and the eye loses its place without it. */
+.vp-doc tbody tr:nth-child(even) td {
+  background: var(--vp-c-bg-soft);
+}
+
+/* The first column is almost always the provision or the trigger. */
+.vp-doc td:first-child {
+  font-weight: 600;
+}
+
+/* VitePress ships tables as `display: block; overflow-x: auto`, which scrolls
+   on mobile but stops columns sizing properly on desktop. Use a real table on
+   wide screens and hand the scroll back on narrow ones — the interlocking
+   matrices are three and four columns wide and must not squash. */
+@media (max-width: 640px) {
+  .vp-doc table {
+    display: block;
+    width: auto;
+    overflow-x: auto;
+  }
+
+  .vp-doc th,
+  .vp-doc td {
+    padding: 8px 10px;
+  }
+}
+
+/* --------------------------------------------------------------------------
+   5. Callouts — four distinct meanings, so four distinct colours
+
+   tip     = illustration / practitioner takeaway   (teal)
+   info    = architecture / verify before citing    (slate blue)
+   warning = do this before you file                (amber)
+   danger  = the trap that loses the case           (red)
+   -------------------------------------------------------------------------- */
+
+.vp-doc .custom-block {
+  border-left-width: 3px;
+  border-radius: 0 6px 6px 0;
+  font-size: 0.95rem;
+}
+
+.vp-doc .custom-block-title {
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+/* Danger blocks carry the "five ways this fails" lists — give them weight. */
+.vp-doc .custom-block.danger {
+  border-left-width: 4px;
+}
+
+/* --------------------------------------------------------------------------
+   6. Long-form reading comfort
+   -------------------------------------------------------------------------- */
+
+.vp-doc p,
+.vp-doc li {
+  line-height: 1.75;
+}
+
+.vp-doc li + li {
+  margin-top: 6px;
+}
+
+/* Case names are italicised throughout; keep them legible, not faint. */
+.vp-doc em {
+  color: var(--vp-c-text-1);
+}
+
+/* Inline citations like `s. 100(4)` should read as legal shorthand. */
+.vp-doc :not(pre) > code {
+  color: var(--cpc-oxblood);
+  background: var(--vp-c-bg-soft);
+  font-size: 0.86em;
+}
+
+/* Sidebar: the active provision should be unmistakable. */
+.VPSidebarItem.is-active > .item > .link > .text {
+  font-weight: 700;
+}
+
+/* Outline: provision headings are long ("Sections 104 to 107 with Order
+   XLIII — ..."). Truncating them to one line hides the very words that
+   distinguish one entry from the next, so let them wrap instead. */
+.VPDocAsideOutline .outline-link {
+  overflow: visible;
+  white-space: normal;
+  text-overflow: unset;
+  line-height: 1.4;
+  padding: 3px 0;
+}
+
+/* --------------------------------------------------------------------------
+   7. Print — practitioners print sections and carry them into court
+   -------------------------------------------------------------------------- */
+
+@media print {
+  .VPNav,
+  .VPSidebar,
+  .VPDocAside,
+  .VPDocFooter,
+  .VPFooter,
+  .VPLocalNav {
+    display: none !important;
+  }
+
+  .VPDoc,
+  .VPDoc .container,
+  .VPDoc .content,
+  .VPDoc .content-container {
+    max-width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  .vp-doc {
+    font-size: 10.5pt;
+  }
+
+  /* Never break a provision heading or a callout across a page. */
+  .vp-doc h2,
+  .vp-doc h3 {
+    page-break-after: avoid;
+  }
+
+  .vp-doc blockquote,
+  .vp-doc .custom-block,
+  .vp-doc table {
+    page-break-inside: avoid;
+  }
+
+  /* Print the destination of every link, so a printout stays citable. */
+  .vp-doc a[href^='http']::after {
+    content: ' (' attr(href) ')';
+    font-size: 8pt;
+    color: #555;
+  }
+}

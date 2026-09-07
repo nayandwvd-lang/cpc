@@ -1,6 +1,6 @@
 ---
 title: "Orders I & II — Parties to Suits and Frame of Suit"
-outline: [2, 3]
+outline: 2
 ---
 
 # Orders I & II — Parties to Suits, Frame of Suit and Order II Rule 2

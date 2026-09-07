@@ -1,6 +1,6 @@
 ---
 title: "Orders VI, VII & VIII — Pleadings, Plaint and Written Statement"
-outline: [2, 3]
+outline: 2
 ---
 
 # Orders VI, VII & VIII — Pleadings, Amendment, Rejection of Plaint, Set-off and Counter-claim

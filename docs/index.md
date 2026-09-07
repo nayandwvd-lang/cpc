@@ -7,11 +7,11 @@ hero:
   tagline: The Code of Civil Procedure, 1908 — deconstructed for academic mastery and built for courtroom use. Searchable, offline-ready, citation-first.
   actions:
     - theme: brand
+      text: Find a provision
+      link: /find
+    - theme: alt
       text: Start with Jurisdiction (ss. 9–14)
       link: /sections/sec-9-to-14
-    - theme: alt
-      text: Pleadings (O. VI–VIII)
-      link: /orders/order-6-7-8
     - theme: alt
       text: Drafting Toolkit
       link: /drafts/
@@ -44,7 +44,7 @@ Every Section and Order in this guide follows the same six-part schema, so you c
 | 5 | **Landmark & Modern Jurisprudence** | What has the Supreme Court actually held, and what is the ratio? |
 | 6 | **The Advocate's Toolkit** | What gets your pleading rejected, and how do you time the filing? |
 
-Use the search box (or press `/`) to search the full text of every provision offline.
+Press <kbd>/</kbd> to search the full text of every provision offline, or use [**Find a provision**](/find) to jump straight to a section by number or by what you are trying to do.
 
 ::: warning A note on authority
 This is a study and practice aid. The CPC is amended by State legislatures and supplemented by High Court Rules, and case law moves. Always verify the bare text, the applicable State amendment, and the current status of every judgment before you file or cite.
@@ -55,6 +55,8 @@ This is a study and practice aid. The CPC is amended by State legislatures and s
 **Sections**
 - [Sections 9–14](/sections/sec-9-to-14) — Jurisdiction of civil courts, res sub judice, res judicata, fraud, foreign judgments
 - [Sections 15–25](/sections/sec-15-to-25) — Pecuniary and territorial jurisdiction, place of suing, objections under Section 21, transfer of suits
+- [Sections 36–74](/sections/sec-36-to-74) — Execution: the executing court, Section 47, modes of execution, arrest, attachment, rateable distribution
+- [Sections 96–115](/sections/sec-96-to-115) — Appeals, review and revision: first and second appeals, appeals from orders, Section 114 review, Section 115 revision
 - [Sections 144, 148A, 151](/sections/sec-144-148a-151) — Restitution, caveat, inherent powers
 
 **Orders**
@@ -64,3 +66,5 @@ This is a study and practice aid. The CPC is amended by State legislatures and s
 
 **Toolkit**
 - [Model petitions and applications](/drafts/)
+
+Not yet covered: Order XXI in full, the trial Orders (IX–XX), and the special-suit Orders. See the [roadmap](/roadmap).

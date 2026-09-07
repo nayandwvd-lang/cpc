@@ -1,6 +1,6 @@
 ---
 title: "Sections 36 to 74 — Execution"
-outline: [2, 3]
+outline: 2
 ---
 
 # Sections 36 to 74 — Execution

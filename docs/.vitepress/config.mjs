@@ -25,6 +25,7 @@ export default defineConfig({
 
     nav: [
       { text: 'Home', link: '/' },
+      { text: 'Find a provision', link: '/find' },
       {
         text: 'Sections',
         items: [
@@ -50,6 +51,11 @@ export default defineConfig({
     ],
 
     sidebar: [
+      {
+        text: 'Start here',
+        collapsed: false,
+        items: [{ text: 'Find a provision', link: '/find' }]
+      },
       {
         text: 'Part I — Suits in General (Sections 9 to 35B)',
         collapsed: false,
@@ -127,7 +133,10 @@ export default defineConfig({
       }
     ],
 
-    outline: { level: [2, 3], label: 'On this page' },
+    // The six-part schema repeats verbatim under every provision, so indexing
+    // h3 turned the outline into 36 identical entries. Level 2 only = one entry
+    // per provision, which is what a reader is actually navigating between.
+    outline: { level: 2, label: 'Provisions on this page' },
 
     docFooter: { prev: 'Previous provision', next: 'Next provision' },
 
