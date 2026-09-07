@@ -1,0 +1,17 @@
+{
+  "name": "cpc-master-practitioner-guide",
+  "version": "1.0.0",
+  "description": "CPC Master Practitioner & Academic Guide — an offline-ready, searchable reference to the Code of Civil Procedure, 1908",
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs",
+    "local:dev": "./.tooling/node node_modules/vitepress/bin/vitepress.js dev docs",
+    "local:build": "./.tooling/node node_modules/vitepress/bin/vitepress.js build docs"
+  },
+  "dependencies": {
+    "vitepress": "1.6.3"
+  },
+  "license": "MIT"
+}
