@@ -44,6 +44,9 @@ export default defineConfig({
         items: [
           { text: 'Parties & Frame of Suit (O. I–II)', link: '/orders/order-1-and-2' },
           { text: 'Pleadings (O. VI–VIII)', link: '/orders/order-6-7-8' },
+          { text: 'Appearance & Discovery (O. IX–XI)', link: '/orders/order-9-to-11' },
+          { text: 'Admissions, Documents & Issues (O. XII–XV)', link: '/orders/order-12-to-15' },
+          { text: 'Evidence & Judgment (O. XVI–XX)', link: '/orders/order-16-to-20' },
           { text: 'Temporary Injunctions (O. XXXIX)', link: '/orders/order-39' }
         ]
       },
@@ -118,8 +121,21 @@ export default defineConfig({
       },
       {
         text: 'First Schedule — Orders: Trial',
-        collapsed: true,
-        items: [{ text: 'Coming in a later batch', link: '/roadmap' }]
+        collapsed: false,
+        items: [
+          {
+            text: 'Orders IX, X & XI — Appearance, Examination of Parties, Discovery',
+            link: '/orders/order-9-to-11'
+          },
+          {
+            text: 'Orders XII–XV — Admissions, Documents, Issues, First Hearing',
+            link: '/orders/order-12-to-15'
+          },
+          {
+            text: 'Orders XVI–XX — Witnesses, Adjournments, Evidence, Judgment',
+            link: '/orders/order-16-to-20'
+          }
+        ]
       },
       {
         text: 'First Schedule — Orders: Execution',

@@ -32,10 +32,13 @@ Most CPC material either reproduces the bare Act or paraphrases it. This does ne
 | Appeals, review & revision — first and second appeals, appeals from orders, review, revision | ss. 96–115 |
 | Parties — joinder, misjoinder, splitting of claims | Orders I & II |
 | Pleadings, amendment, rejection of plaint, set-off & counter-claim | Orders VI, VII & VIII |
+| Appearance, *ex parte* decrees, examination of parties, s. 89 reference, discovery | Orders IX, X & XI |
+| Admissions & judgment on admissions, documents, settlement of issues, first hearing | Orders XII, XIII, XIV & XV |
+| Witnesses, adjournments, evidence on affidavit, affidavits, judgment & decree | Orders XVI–XX |
 | Temporary injunctions & disobedience | Order XXXIX |
 | Courtroom Drafting Toolkit | 10 annotated model drafts + filing checklists |
 
-**Next:** Order XXI in full, and the trial Orders (IX–XX).
+**Next:** Order XXI in full, the commission and attachment Orders (XXVI, XXXVIII, XL), and the special-suit Orders.
 
 ## Running it locally
 

@@ -10,6 +10,9 @@ The guide is built in batches. Each provision added must satisfy the full six-pa
 | Sections 15–20, 21, 21A, 22–25 | [`sections/sec-15-to-25`](/sections/sec-15-to-25) |
 | Orders I & II | [`orders/order-1-and-2`](/orders/order-1-and-2) |
 | Orders VI, VII & VIII | [`orders/order-6-7-8`](/orders/order-6-7-8) |
+| Orders IX, X & XI — appearance, examination of parties, discovery | [`orders/order-9-to-11`](/orders/order-9-to-11) |
+| Orders XII, XIII, XIV & XV — admissions, documents, issues, first hearing | [`orders/order-12-to-15`](/orders/order-12-to-15) |
+| Orders XVI–XX — witnesses, adjournments, evidence, affidavits, judgment | [`orders/order-16-to-20`](/orders/order-16-to-20) |
 | Order XXXIX | [`orders/order-39`](/orders/order-39) |
 | Sections 144, 148A, 151 | [`sections/sec-144-148a-151`](/sections/sec-144-148a-151) |
 | Sections 36–74 — Execution | [`sections/sec-36-to-74`](/sections/sec-36-to-74) |
@@ -33,8 +36,9 @@ The guide is built in batches. Each provision added must satisfy the full six-pa
 - Sections 145–147, 149, 150, 152, 153, 153A, 153B
 - Section 158 and the savings provisions
 
-**First Schedule — Trial**
-- Orders IX (default), X (examination), XI (discovery), XII (admissions), XIII (documents), XIV (issues), XV, XVI (witnesses), XVII (adjournments), XVIII (hearing), XIX (affidavits), XX (judgment and decree)
+**First Schedule — Trial (remainder)**
+- Order XVI-A in full — attendance of witnesses confined in prison
+- The substituted Commercial Courts Act, 2015 regime for Orders XI, XV-A and XVIII in Specified Value suits
 
 **First Schedule — Interlocutory (remainder)**
 - Orders XXXVIII (arrest and attachment before judgment), XL (receivers), XXVI (commissions)

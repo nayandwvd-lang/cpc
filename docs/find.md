@@ -27,6 +27,20 @@ Press <kbd>/</kbd> anywhere on the site to search the full text of every provisi
 | Amend a pleading | O. VI R. 17 | [Pleadings and amendment](/orders/order-6-7-8#order-vi-—-pleadings-generally-and-amendment) |
 | **Get a plaint rejected** | O. VII R. 11 | [The plaint and its rejection](/orders/order-6-7-8#order-vii-—-the-plaint-and-rejection-of-the-plaint) |
 | File a set-off or counter-claim | O. VIII RR. 6, 6A | [Written statement](/orders/order-6-7-8#order-viii-—-written-statement-set-off-and-counter-claim) |
+| **Set aside an *ex parte* decree** | O. IX R. 13 | [Appearance and non-appearance](/orders/order-9-to-11#order-ix-—-appearance-and-the-consequences-of-non-appearance) |
+| Get a dismissed suit restored | O. IX R. 9 | [Appearance and non-appearance](/orders/order-9-to-11#order-ix-—-appearance-and-the-consequences-of-non-appearance) |
+| Refer a dispute to mediation or arbitration | s. 89, O. X R. 1A | [Examination of parties](/orders/order-9-to-11#order-x-—-examination-of-parties-by-the-court-and-the-section-89-reference) |
+| Serve interrogatories or seek discovery of documents | O. XI RR. 1, 12 | [Discovery and inspection](/orders/order-9-to-11#order-xi-—-discovery-interrogatories-and-inspection) |
+| **Get judgment on an admission** | O. XII R. 6 | [Admissions](/orders/order-12-to-15#order-xii-—-admissions-and-judgment-on-admissions) |
+| Impound an insufficiently stamped document | O. XIII R. 8 | [Production of documents](/orders/order-12-to-15#order-xiii-—-production-impounding-and-return-of-documents) |
+| Frame or add an issue, or press a preliminary issue | O. XIV RR. 1, 2, 5 | [Settlement of issues](/orders/order-12-to-15#order-xiv-—-settlement-of-issues-and-determination-of-suit-on-issues-of-law) |
+| Dispose of the suit at the first hearing | O. XV RR. 1–4 | [Disposal at first hearing](/orders/order-12-to-15#order-xv-—-disposal-of-the-suit-at-the-first-hearing) |
+| Summon a witness, or compel production of a document | O. XVI RR. 1, 6, 10 | [Witnesses](/orders/order-16-to-20#order-xvi-—-summoning-and-attendance-of-witnesses) |
+| **Resist or obtain an adjournment** | O. XVII RR. 1–3 | [Adjournments](/orders/order-16-to-20#order-xvii-—-adjournments) |
+| File evidence on affidavit, or recall a witness | O. XVIII RR. 4, 17 | [Hearing and evidence](/orders/order-16-to-20#order-xviii-—-hearing-of-the-suit-and-examination-of-witnesses) |
+| Draft an affidavit that will survive attack | O. XIX RR. 1–3 | [Affidavits](/orders/order-16-to-20#order-xix-—-affidavits) |
+| **Get the decree drawn so it can be executed** | O. XX RR. 6, 12, 18 | [Judgment and decree](/orders/order-16-to-20#order-xx-—-judgment-and-decree) |
+| Correct a decree that does not match the judgment | s. 152, O. XX R. 6 | [Judgment and decree](/orders/order-16-to-20#order-xx-—-judgment-and-decree) |
 | Get or resist a temporary injunction | O. XXXIX RR. 1–2 | [Temporary injunctions](/orders/order-39#rules-1-and-2-—-the-grant-of-a-temporary-injunction) |
 | Punish breach of an injunction | O. XXXIX R. 2A | [Disobedience](/orders/order-39#rule-2a-—-the-consequence-of-disobedience) |
 | Get a receiver appointed | O. XL | [Other interlocutory orders](/orders/order-39#rules-6-to-10-—-the-other-interlocutory-orders) |
@@ -82,6 +96,18 @@ Press <kbd>/</kbd> anywhere on the site to search the full text of every provisi
 | **VI** | Pleadings generally; R. 17 amendment | [O. VI–VIII](/orders/order-6-7-8#order-vi-—-pleadings-generally-and-amendment) |
 | **VII** | The plaint; **R. 11 rejection** | [O. VI–VIII](/orders/order-6-7-8#order-vii-—-the-plaint-and-rejection-of-the-plaint) |
 | **VIII** | Written statement; RR. 6, 6A set-off and counter-claim | [O. VI–VIII](/orders/order-6-7-8#order-viii-—-written-statement-set-off-and-counter-claim) |
+| **IX** | Appearance; *ex parte* decree; **R. 13 setting aside**, R. 9 restoration | [O. IX–XI](/orders/order-9-to-11#order-ix-—-appearance-and-the-consequences-of-non-appearance) |
+| **X** | Examination of parties; R. 1A and the **section 89** reference | [O. IX–XI](/orders/order-9-to-11#order-x-—-examination-of-parties-by-the-court-and-the-section-89-reference) |
+| **XI** | Discovery, interrogatories, inspection; R. 21 dismissal | [O. IX–XI](/orders/order-9-to-11#order-xi-—-discovery-interrogatories-and-inspection) |
+| **XII** | Admissions; **R. 6 judgment on admissions** | [O. XII–XV](/orders/order-12-to-15#order-xii-—-admissions-and-judgment-on-admissions) |
+| **XIII** | Production, impounding and return of documents | [O. XII–XV](/orders/order-12-to-15#order-xiii-—-production-impounding-and-return-of-documents) |
+| **XIV** | Settlement of issues; R. 2 preliminary issues | [O. XII–XV](/orders/order-12-to-15#order-xiv-—-settlement-of-issues-and-determination-of-suit-on-issues-of-law) |
+| **XV** | Disposal of the suit at the first hearing | [O. XII–XV](/orders/order-12-to-15#order-xv-—-disposal-of-the-suit-at-the-first-hearing) |
+| **XVI** | Summoning and attendance of witnesses; RR. 10–12 default | [O. XVI–XX](/orders/order-16-to-20#order-xvi-—-summoning-and-attendance-of-witnesses) |
+| **XVII** | Adjournments — the **three-adjournment cap**; R. 3 | [O. XVI–XX](/orders/order-16-to-20#order-xvii-—-adjournments) |
+| **XVIII** | Right to begin; **R. 4 evidence on affidavit**; R. 17 recall | [O. XVI–XX](/orders/order-16-to-20#order-xviii-—-hearing-of-the-suit-and-examination-of-witnesses) |
+| **XIX** | Affidavits — R. 3 knowledge versus belief | [O. XVI–XX](/orders/order-16-to-20#order-xix-—-affidavits) |
+| **XX** | Judgment and decree; **R. 6 contents**, R. 12 mesne profits, R. 18 partition | [O. XVI–XX](/orders/order-16-to-20#order-xx-—-judgment-and-decree) |
 | **XXXIX** | Temporary injunctions RR. 1–2; **R. 2A disobedience** | [O. XXXIX](/orders/order-39#rules-1-and-2-—-the-grant-of-a-temporary-injunction) |
 | **XLI** | First appeal procedure — RR. 22, 23, 27, 31, 33 | [ss. 96–115](/sections/sec-96-to-115#sections-96-97-and-99-with-order-xli-—-the-first-appeal) |
 | **XLII** | Second appeal procedure | [ss. 96–115](/sections/sec-96-to-115#sections-100-100a-101-and-103-with-order-xlii-—-the-second-appeal) |
@@ -90,4 +116,4 @@ Press <kbd>/</kbd> anywhere on the site to search the full text of every provisi
 
 ## Not yet covered
 
-Order XXI in full, the trial Orders (IX–XX), Orders XXVI, XXXVIII and XL, and the special-suit Orders (XXII, XXIII, XXXII, XXXIII, XXXIV, XXXVII). See the [roadmap](/roadmap).
+Order XXI in full, Orders XXVI, XXXVIII and XL, and the special-suit Orders (XXII, XXIII, XXXII, XXXIII, XXXIV, XXXVII). See the [roadmap](/roadmap).

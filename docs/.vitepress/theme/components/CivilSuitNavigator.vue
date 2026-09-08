@@ -27,7 +27,24 @@ const S96 = '/sections/sec-96-to-115'
 const S144 = '/sections/sec-144-148a-151'
 const O12 = '/orders/order-1-and-2'
 const O678 = '/orders/order-6-7-8'
+const O911 = '/orders/order-9-to-11'
+const O1215 = '/orders/order-12-to-15'
+const O1620 = '/orders/order-16-to-20'
 const O39 = '/orders/order-39'
+
+/* Heading anchors inside the three trial chapters, named once. */
+const A_IX = `${O911}#order-ix-—-appearance-and-the-consequences-of-non-appearance`
+const A_X = `${O911}#order-x-—-examination-of-parties-by-the-court-and-the-section-89-reference`
+const A_XI = `${O911}#order-xi-—-discovery-interrogatories-and-inspection`
+const A_XII = `${O1215}#order-xii-—-admissions-and-judgment-on-admissions`
+const A_XIII = `${O1215}#order-xiii-—-production-impounding-and-return-of-documents`
+const A_XIV = `${O1215}#order-xiv-—-settlement-of-issues-and-determination-of-suit-on-issues-of-law`
+const A_XV = `${O1215}#order-xv-—-disposal-of-the-suit-at-the-first-hearing`
+const A_XVI = `${O1620}#order-xvi-—-summoning-and-attendance-of-witnesses`
+const A_XVII = `${O1620}#order-xvii-—-adjournments`
+const A_XVIII = `${O1620}#order-xviii-—-hearing-of-the-suit-and-examination-of-witnesses`
+const A_XIX = `${O1620}#order-xix-—-affidavits`
+const A_XX = `${O1620}#order-xx-—-judgment-and-decree`
 
 /* Covered chip. */
 const c = (label, to, note) => ({ label, to, note })
@@ -55,7 +72,7 @@ const stages = [
         title: 'Pre-institution ADR',
         blurb:
           'Where the court discerns elements of a settlement, it formulates terms and refers the parties out. A reference is not a dismissal — the suit survives and returns if the reference fails.',
-        chips: [p('s. 89', 'Arbitration, conciliation, judicial settlement, mediation')]
+        chips: [c('s. 89', A_X, 'Arbitration, conciliation, judicial settlement, mediation — the reference under Order X Rule 1A')]
       },
       {
         title: 'Is the civil court competent at all?',
@@ -177,9 +194,21 @@ const stages = [
         blurb:
           'Non-appearance has asymmetric costs. An ex parte decree opens two doors — set aside under Order IX Rule 13, or appeal under section 96(2) — and the choice is strategic.',
         chips: [
-          p('O. IX', 'Appearance and consequence of non-appearance'),
-          c('O. IX R. 13', `${S96}#sections-96-97-and-99-with-order-xli-—-the-first-appeal`, 'Setting aside an ex parte decree — treated under the first appeal'),
+          c('O. IX', A_IX, 'Appearance and consequence of non-appearance'),
+          c('O. IX R. 13', A_IX, 'Setting aside an ex parte decree — the two conditions'),
+          c('O. IX R. 9', A_IX, 'Restoration of a suit dismissed for default'),
           c('s. 96(2)', `${S96}#sections-96-97-and-99-with-order-xli-—-the-first-appeal`, 'Appeal from an ex parte decree')
+        ]
+      },
+      {
+        title: 'Examination of parties and the section 89 reference',
+        blurb:
+          'The Code\'s only inquisitorial moment. The court ascertains what is really admitted and what is really denied, and must then direct the parties to opt for one of the four modes of settlement.',
+        chips: [
+          c('O. X R. 1', A_X, 'Ascertainment of admissions and denials'),
+          c('O. X R. 1A', A_X, 'Direction to opt for a mode of settlement'),
+          c('O. X R. 2', A_X, 'Oral examination of a party or his companion'),
+          c('O. X R. 4', A_X, 'Consequence of refusal or inability to answer')
         ]
       }
     ]
@@ -236,8 +265,10 @@ const stages = [
         blurb:
           'The under-used part of the Code. Discovery narrows the issues before trial and builds the admissions that make Order XII Rule 6 possible.',
         chips: [
-          p('O. XI', 'Discovery and inspection'),
-          p('O. XI R. 12', 'Application for discovery of documents')
+          c('O. XI R. 1', A_XI, 'Interrogatories — leave, and the ten-day answer'),
+          c('O. XI R. 12', A_XI, 'Application for discovery of documents'),
+          c('O. XI R. 14', A_XI, 'Production of documents by order of the court'),
+          c('O. XI R. 21', A_XI, 'Non-compliance — dismissal or striking out the defence')
         ]
       },
       {
@@ -261,8 +292,19 @@ const stages = [
         blurb:
           'Admissions are the cheapest victory in civil litigation. Rule 6 lets the court pass judgment on an admission at any stage, without waiting for the rest of the suit.',
         chips: [
-          p('O. XII', 'Admissions'),
-          p('O. XII R. 6', 'Judgment on admissions')
+          c('O. XII R. 2', A_XII, 'Notice to admit documents'),
+          c('O. XII R. 6', A_XII, 'Judgment on admissions — at any stage'),
+          c('O. XII R. 8', A_XII, 'Notice to produce documents')
+        ]
+      },
+      {
+        title: 'Production and impounding of documents',
+        blurb:
+          'Documents must be produced at or before the settlement of issues. Admissibility and mode of proof are different questions, and the stamp objection is fatal at the moment of tender.',
+        chips: [
+          c('O. XIII R. 1', A_XIII, 'Original documents to be produced at or before settlement of issues'),
+          c('O. XIII R. 4', A_XIII, 'Endorsement on admitted documents'),
+          c('O. XIII R. 8', A_XIII, 'Court may impound an insufficiently stamped document')
         ]
       },
       {
@@ -270,8 +312,19 @@ const stages = [
         blurb:
           'Issues arise where a material proposition is affirmed by one side and denied by the other. A suit tried on wrongly framed issues is the classic ground for remand.',
         chips: [
-          p('O. XIV', 'Settlement of issues'),
-          p('O. XIV R. 2', 'Court to pronounce judgment on all issues')
+          c('O. XIV R. 1', A_XIV, 'Settlement of issues — material propositions'),
+          c('O. XIV R. 2', A_XIV, 'Court to pronounce judgment on all issues'),
+          c('O. XIV R. 5', A_XIV, 'Power to amend, and to frame additional issues')
+        ]
+      },
+      {
+        title: 'Disposal at the first hearing',
+        blurb:
+          'Where there is no issue of fact, or the parties are not at issue on any question, the court may pronounce judgment at once. Rarely used, and decisive when it is.',
+        chips: [
+          c('O. XV R. 1', A_XV, 'Parties not at issue — judgment at once'),
+          c('O. XV R. 3', A_XV, 'Where more than one issue and a decisive one can be tried'),
+          c('O. XV R. 4', A_XV, 'Failure to produce evidence — judgment forthwith')
         ]
       },
       {
@@ -279,23 +332,33 @@ const stages = [
         blurb:
           'The list of witnesses is time-bound. Miss the deadline and you are asking for an indulgence, not exercising a right.',
         chips: [
-          p('O. XVI', 'Summoning and attendance of witnesses'),
-          p('O. XVI R. 1', 'List of witnesses and summons')
+          c('O. XVI R. 1', A_XVI, 'List of witnesses within fifteen days of settlement of issues'),
+          c('O. XVI R. 1A', A_XVI, 'Witness produced without a summons'),
+          c('O. XVI R. 6', A_XVI, 'Summons to produce a document'),
+          c('O. XVI RR. 10–12', A_XVI, 'Non-attendance — proclamation, attachment, fine')
         ]
       },
       {
         title: 'Adjournments',
         blurb:
           'Not more than three adjournments to a party during the hearing of the suit. The provision is honoured in the breach, but it is the hook for a costs order.',
-        chips: [p('O. XVII', 'Adjournments'), p('s. 35B', 'Costs for causing delay')]
+        chips: [
+          c('O. XVII R. 1', A_XVII, 'Sufficient cause; not more than three adjournments'),
+          c('O. XVII R. 2', A_XVII, 'Parties fail to appear — Order IX applies'),
+          c('O. XVII R. 3', A_XVII, 'Failure to produce evidence — suit decided forthwith'),
+          p('s. 35B', 'Costs for causing delay')
+        ]
       },
       {
         title: 'Evidence, examination and cross',
         blurb:
           'Examination-in-chief on affidavit, cross-examination in court. The affidavit does not become evidence until the deponent is tendered for cross.',
         chips: [
-          p('O. XVIII', 'Hearing of the suit and examination of witnesses'),
-          p('O. XVIII R. 4', 'Examination-in-chief on affidavit')
+          c('O. XVIII R. 1', A_XVIII, 'Right to begin'),
+          c('O. XVIII R. 3A', A_XVIII, 'Party to appear before his own witnesses'),
+          c('O. XVIII R. 4', A_XVIII, 'Examination-in-chief on affidavit'),
+          c('O. XVIII R. 17', A_XVIII, 'Court may recall and examine a witness'),
+          c('O. XIX RR. 1–3', A_XIX, 'Affidavits — knowledge, belief, and the grounds of belief')
         ]
       },
       {
@@ -323,15 +386,21 @@ const stages = [
           'Judgment is the statement of grounds; the decree is the formal adjudication that is executed and appealed. The distinction drives limitation for both.',
         chips: [
           p('s. 33', 'Judgment and decree'),
-          p('O. XX', 'Judgment and decree — contents and drawing up'),
-          p('O. XX R. 5', 'Court to state its decision on each issue')
+          c('O. XX R. 1', A_XX, 'Pronouncement — thirty days, and sixty at the outside'),
+          c('O. XX R. 5', A_XX, 'Court to state its decision, with reasons, on each issue'),
+          c('O. XX R. 6', A_XX, 'Contents of the decree — it must agree with the judgment'),
+          c('O. XX R. 6A', A_XX, 'Decree within fifteen days; appeal on the judgment copy'),
+          c('O. XX R. 12', A_XX, 'Decree for possession and mesne profits — the inquiry'),
+          c('O. XX R. 18', A_XX, 'Partition decree; the Collector under section 54')
         ]
       },
       {
         title: 'Interest',
         blurb:
           'Three periods, three sources: interest accrued before suit, pendente lite, and post-decree. Only the last two are in the court’s discretion under section 34.',
-        chips: [p('s. 34', 'Interest — pendente lite and post-decree')]
+        chips: [
+          c('s. 34', A_XX, 'Interest — pendente lite and post-decree; silence is a refusal')
+        ]
       },
       {
         title: 'Costs',
