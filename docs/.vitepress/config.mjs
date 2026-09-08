@@ -1,4 +1,5 @@
 import { defineConfig } from 'vitepress'
+import { cpcContainers } from './markdown/containers.mjs'
 
 export default defineConfig({
   title: 'CPC Master Practitioner & Academic Guide',
@@ -13,6 +14,12 @@ export default defineConfig({
 
   head: [['meta', { name: 'theme-color', content: '#8b1a1a' }]],
 
+  // ::: oneminute and ::: story. Written by hand rather than pulled from npm —
+  // see markdown/containers.mjs for why these are markdown and not components.
+  markdown: {
+    config: (md) => cpcContainers(md)
+  },
+
   themeConfig: {
     siteTitle: 'CPC Guide',
 
@@ -25,7 +32,9 @@ export default defineConfig({
 
     nav: [
       { text: 'Home', link: '/' },
+      { text: 'Start here', link: '/start' },
       { text: 'Find a provision', link: '/find' },
+      { text: 'Glossary', link: '/glossary' },
       {
         text: 'Sections',
         items: [
@@ -47,6 +56,7 @@ export default defineConfig({
           { text: 'Appearance & Discovery (O. IX–XI)', link: '/orders/order-9-to-11' },
           { text: 'Admissions, Documents & Issues (O. XII–XV)', link: '/orders/order-12-to-15' },
           { text: 'Evidence & Judgment (O. XVI–XX)', link: '/orders/order-16-to-20' },
+          { text: 'Execution of Decrees (O. XXI)', link: '/orders/order-21' },
           { text: 'Temporary Injunctions (O. XXXIX)', link: '/orders/order-39' }
         ]
       },
@@ -57,7 +67,11 @@ export default defineConfig({
       {
         text: 'Start here',
         collapsed: false,
-        items: [{ text: 'Find a provision', link: '/find' }]
+        items: [
+          { text: 'Never studied CPC? Read this first', link: '/start' },
+          { text: 'Glossary — every word explained', link: '/glossary' },
+          { text: 'Find a provision', link: '/find' }
+        ]
       },
       {
         text: 'Part I — Suits in General (Sections 9 to 35B)',
@@ -139,8 +153,13 @@ export default defineConfig({
       },
       {
         text: 'First Schedule — Orders: Execution',
-        collapsed: true,
-        items: [{ text: 'Coming in a later batch', link: '/roadmap' }]
+        collapsed: false,
+        items: [
+          {
+            text: 'Order XXI — Execution of Decrees and Orders',
+            link: '/orders/order-21'
+          }
+        ]
       },
       {
         text: 'Courtroom Drafting Toolkit',

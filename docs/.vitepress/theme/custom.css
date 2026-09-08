@@ -259,7 +259,137 @@
 }
 
 /* --------------------------------------------------------------------------
-   7. Print — practitioners print sections and carry them into court
+   7. The two teaching containers
+   ------------------------------------------------------------------------
+
+   ::: oneminute — the plain-English answer BEFORE the statute. It has to look
+   like the friendliest thing on the page, because for a beginner it is the
+   only part of the provision they can read cold. Deliberately NOT one of the
+   four custom-block colours: those already mean takeaway / architecture /
+   before-you-file / trap, and a fifth meaning needs a fifth look.
+
+   ::: story — a worked example on invented facts. The badge is not decoration;
+   it is the honesty mechanism. A reader must never mistake Anita's shop for a
+   reported case, so the label travels with the block, including in print.
+   -------------------------------------------------------------------------- */
+
+.vp-doc .cpc-oneminute {
+  margin: 22px 0;
+  padding: 16px 20px 4px;
+  border: 1px solid var(--vp-c-brand-1);
+  border-left-width: 5px;
+  border-radius: 10px;
+  background: linear-gradient(
+    180deg,
+    var(--vp-c-brand-soft) 0%,
+    transparent 120px
+  );
+}
+
+.vp-doc .cpc-oneminute-head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 6px 12px;
+  margin: 0 0 8px;
+}
+
+.cpc-oneminute-kicker {
+  flex: none;
+  padding: 3px 10px;
+  border-radius: 999px;
+  background: var(--vp-c-brand-1);
+  color: #fff;
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+.dark .cpc-oneminute-kicker {
+  color: #1b1717;
+}
+
+.cpc-oneminute-title {
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--vp-c-text-1);
+}
+
+/* Slightly larger and looser than body copy — this is the paragraph we most
+   want a struggling reader to actually finish. */
+.vp-doc .cpc-oneminute p:not(.cpc-oneminute-head) {
+  font-size: 1.02rem;
+  line-height: 1.8;
+  margin: 0 0 12px;
+}
+
+.vp-doc .cpc-oneminute ul,
+.vp-doc .cpc-oneminute ol {
+  margin: 0 0 12px;
+  line-height: 1.75;
+}
+
+.vp-doc .cpc-oneminute strong {
+  color: var(--vp-c-brand-1);
+}
+
+/* ---- story ---- */
+
+.vp-doc .cpc-story {
+  position: relative;
+  margin: 22px 0;
+  padding: 16px 20px 4px;
+  border: 1px dashed var(--vp-c-divider);
+  border-radius: 10px;
+  background: var(--vp-c-bg-soft);
+}
+
+.vp-doc .cpc-story-head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 6px 12px;
+  margin: 0 0 10px;
+}
+
+.cpc-story-badge {
+  flex: none;
+  padding: 3px 10px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 999px;
+  background: var(--vp-c-bg);
+  color: var(--vp-c-text-3);
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+.cpc-story-title {
+  font-size: 0.98rem;
+  font-weight: 700;
+  color: var(--vp-c-text-1);
+}
+
+.vp-doc .cpc-story p:not(.cpc-story-head) {
+  line-height: 1.78;
+  margin: 0 0 12px;
+}
+
+.vp-doc .cpc-story > :last-child {
+  margin-bottom: 12px;
+}
+
+/* Tables inside a story are usually a timeline of who did what, when. */
+.vp-doc .cpc-story table {
+  margin: 4px 0 14px;
+}
+
+/* --------------------------------------------------------------------------
+   8. Print — practitioners print sections and carry them into court
    -------------------------------------------------------------------------- */
 
 @media print {
@@ -293,8 +423,30 @@
 
   .vp-doc blockquote,
   .vp-doc .custom-block,
+  .vp-doc .cpc-oneminute,
+  .vp-doc .cpc-story,
   .vp-doc table {
     page-break-inside: avoid;
+  }
+
+  /* Colour is gone on paper, so the two teaching blocks keep their identity
+     through borders alone — and the invented-facts badge must survive, or a
+     printout could be mistaken for a note on a real case. */
+  .vp-doc .cpc-oneminute {
+    background: none;
+    border: 1.5pt solid #000;
+    border-left-width: 4pt;
+  }
+
+  .cpc-oneminute-kicker {
+    background: none !important;
+    color: #000 !important;
+    border: 0.5pt solid #000;
+  }
+
+  .vp-doc .cpc-story {
+    background: none;
+    border: 1pt dashed #666;
   }
 
   /* Print the destination of every link, so a printout stays citable. */
