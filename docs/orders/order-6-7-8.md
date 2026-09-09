@@ -550,42 +550,82 @@ Never describe the amendment in prose. Annex a three-column schedule — **Parag
 
 ## Order VII — The Plaint, and Rejection of the Plaint
 
-### 1. Verbatim Bare Act Text & Statutory Mechanics
+### The dispute this solves
 
-> **Rule 1. Particulars to be contained in plaint.** — The plaint shall contain the following particulars: —
+::: oneminute The court reads your plaint, believes every word of it, and throws it out anyway.
+Anita's plaint says the goods were delivered on 3 March 2019, that payment fell due on 2 April 2019, and that the cause of action arose on 2 April 2019. She files the suit in 2025.
+
+Bharat does not file a written statement. He does not deny the debt. He does not say the goods were never delivered. He applies under **Order VII Rule 11(d)** and reads three paragraphs of Anita's own plaint aloud.
+
+That is the whole application, and it succeeds.
+
+**Rule 11 is a demurrer.** The court reads the plaint, **assumes every word of it is true**, ignores the defence entirely — and asks whether, even then, the suit must fail. Anita's plaint is not disbelieved. It is believed, and it discloses on its face a claim barred by Article 14 of the Limitation Act, with no ground of exemption pleaded under Rule 6.
+
+The rule has six grounds, and they divide into two very different kinds. **Clauses (a) and (d)** — no cause of action, and barred by any law — are decided on the plaint alone and kill the suit at the threshold. **Clauses (b) and (c)** — undervaluation and deficient stamp — cannot be used to kill anything until the court has first fixed a time and the plaintiff has then failed to comply. There is no rejection under those clauses without a prior opportunity.
+
+And the word "shall" matters: *"The plaint **shall** be rejected."* Once a ground is made out the court has **no discretion**. All the judgment lies in the anterior finding that the ground exists.
+
+**The one idea to carry through this block:** Order VII is where you write the case and Rule 11 is where it is read back to you with no charity and no defence. Draft every plaint as though the first thing that will happen to it is that an opponent will read it aloud, looking for the sentence that defeats it.
+:::
+
+::: story Why "he has no case" is the wrong thing to say in a Rule 11 application
+The most common way to lose a Rule 11 application is to argue that the plaintiff's case is bad.
+
+It sounds like exactly the right argument. It is the one argument the rule does not permit.
+
+**Rule 11(a) asks whether the plaint *discloses* a cause of action** — not whether the plaintiff will prove it, not whether the defendant has an answer, not whether the claim is likely to succeed. The court assumes the averments are true. So "he cannot prove delivery", "the document is forged", "the account was settled in 2020" — every one of those is a defence, and defences are tried, not demurred.
+
+*Saleem Bhai* makes the point structurally rather than as a matter of emphasis: **the pleas taken in the written statement are wholly irrelevant** to a Rule 11 application, a trial court should not direct a written statement to be filed before deciding one, and the power may be exercised **at any stage** — including before the written statement is filed and before issues are framed.
+
+So what does work? Two things, and only two.
+
+**First, that the plaint does not state a complete cause of action even on its own terms.** Not a weak case — an incomplete one. A plaint against a bank alleging that it "acted illegally, arbitrarily and in bad faith, and has caused the Plaintiff loss of ₹2 crore" pleads no contract, no duty, no act, no date, no breach. There is nothing there to prove. Contrast a plaint that pleads a loan, a date, a rate, a demand and a refusal: it may be entirely false, and it is not liable to be rejected.
+
+**Second, that the plaint's own averments disclose a bar.** Limitation apparent from the pleaded dates. A statutory ouster of the civil court's jurisdiction that the plaint's own case attracts. Res judicata where the earlier judgment is on the record and needs no evidence. The test in Rule 11(d) is textual — "where the suit **appears from the statement in the plaint** to be barred by any law" — and *Popat and Kotecha* confines it accordingly: it does not permit the court to travel beyond the plaint, and a mixed question of fact and law must be tried as an issue.
+
+**And there is a boundary on the other side**, because otherwise clever drafting would defeat the rule entirely. *T. Arivandandam* holds that the court must read the plaint **meaningfully**, not formally, and see through a device constructed to camouflage the absence of a cause of action. *Church of Christ Charitable Trust* restates it: a bundle of facts which, even if proved, would not entitle the plaintiff to relief does not become a cause of action because it has been arranged into paragraphs.
+
+**The lesson is about which document you are arguing from.** In a Rule 11 application the only document on the table is the plaint. If your submission requires the judge to look at anything else, you are making a trial argument at the wrong hearing — and you will usually be told so.
+:::
+
+### The Act, decompiled
+
+Order VII does two jobs. **Rules 1 to 7** say what a plaint must contain — the parties, the cause of action **and when it arose**, the facts showing jurisdiction, the relief, the valuation, and any ground of exemption from limitation. **Rules 9 to 14** govern what happens to it — admission, return, rejection, and the documents that must be filed with it. Between them sits **Rule 11**, the most heavily used provision in the chapter.
+
+> **Rule 1. Particulars to be contained in plaint.** — The plaint [[!shall contain]] the following particulars: —
 > (a) the name of the Court in which the suit is brought;
 > (b) the name, description and place of residence of the plaintiff;
 > (c) the name, description and place of residence of the defendant, so far as they can be ascertained;
 > (d) where the plaintiff or the defendant is a minor or a person of unsound mind, a statement to that effect;
-> (e) the facts constituting the cause of action and when it arose;
+> (e) the facts constituting the [[=cause of action]] **and when it arose**;
 > (f) the facts showing that the Court has jurisdiction;
 > (g) the relief which the plaintiff claims;
 > (h) where the plaintiff has allowed a set-off or relinquished a portion of his claim, the amount so allowed or relinquished; and
 > (i) a statement of the value of the subject-matter of the suit for the purposes of jurisdiction and of court-fees, so far as the case admits.
 
-> **Rule 2. In money suits.** — Where the plaintiff seeks the recovery of money, the plaint shall state the precise amount claimed…
+> **Rule 2. In money suits.** — Where the plaintiff seeks the recovery of money, the plaint [[!shall state]] the precise amount claimed…
 
-> **Rule 3. Where the subject-matter of the suit is immovable property.** — Where the subject-matter of the suit is immovable property, the plaint shall contain a description of the property sufficient to identify it, and, in case such property can be identified by boundaries or numbers in a record of settlement or survey, the plaint shall specify such boundaries or numbers.
+> **Rule 3. Where the subject-matter of the suit is immovable property.** — Where the subject-matter of the suit is immovable property, the plaint [[!shall contain a description]] of the property sufficient to identify it, and, in case such property can be identified by boundaries or numbers in a record of settlement or survey, the plaint [[!shall specify]] such boundaries or numbers.
 
-> **Rule 6. Grounds of exemption from limitation law.** — Where the suit is instituted after the expiration of the period prescribed by the law of limitation, the plaint shall show the ground upon which exemption from such law is claimed…
+> **Rule 6. Grounds of exemption from limitation law.** — Where the suit is instituted after the expiration of the period prescribed by the law of limitation, the plaint [[!shall show the ground]] upon which exemption from such law is claimed…
 
-> **Rule 7. Relief to be specifically stated.** — Every plaint shall state specifically the relief which the plaintiff claims either simply or in the alternative, and it shall not be necessary to ask for general or other relief which may always be given as the Court may think just to the same extent as if it had been asked for. And the same rule shall apply to any relief claimed by the defendant in his written statement.
+> **Rule 7. Relief to be specifically stated.** — Every plaint [[!shall state specifically the relief]] which the plaintiff claims either simply or in the alternative, and it [[?shall not be necessary]] to ask for general or other relief which may always be given as the Court may think just to the same extent as if it had been asked for. And the same rule shall apply to any relief claimed by the defendant in his written statement.
 
-> **Rule 11. Rejection of plaint.** — The plaint shall be rejected in the following cases: —
+> **Rule 11. Rejection of plaint.** — [[!The plaint shall be rejected]] in the following cases: —
 > **(a)** where it does not disclose a cause of action;
-> **(b)** where the relief claimed is undervalued, and the plaintiff, on being required by the Court to correct the valuation within a time to be fixed by the Court, fails to do so;
+> **(b)** where the relief claimed is undervalued, and the plaintiff, on being required by the Court to correct the valuation within a time to be fixed by the Court, **fails to do so**;
 > **(c)** where the relief claimed is properly valued, but the plaint is written upon paper insufficiently stamped, and the plaintiff, on being required by the Court to supply the requisite stamp-paper within a time to be fixed by the Court, fails to do so;
 > **(d)** where the suit appears from the statement in the plaint to be barred by any law;
 > **(e)** where it is not filed in duplicate;
 > **(f)** where the plaintiff fails to comply with the provisions of rule 9:
 >
-> *Provided that the time fixed by the Court for the correction of the valuation or supplying of the requisite stamp-paper shall not be extended unless the Court, for reasons to be recorded, is satisfied that the plaintiff was prevented by any cause of an exceptional nature…*
+> *Provided that the time fixed by the Court for the correction of the valuation or supplying of the requisite stamp-paper [[!shall not be extended]] unless the Court, for reasons to be recorded, is satisfied that the plaintiff was prevented by any cause of an exceptional nature…*
 
-> **Rule 12. Procedure on rejecting plaint.** — Where a plaint is rejected the Judge shall record an order to that effect with the reasons for such order.
+> **Rule 12. Procedure on rejecting plaint.** — Where a plaint is rejected the Judge [[!shall record an order]] to that effect with the reasons for such order.
 
-> **Rule 13. Where rejection of plaint does not preclude presentation of fresh plaint.** — The rejection of the plaint on any of the grounds hereinbefore mentioned shall not of its own force preclude the plaintiff from presenting a fresh plaint in respect of the same cause of action.
+> **Rule 13. Where rejection of plaint does not preclude presentation of fresh plaint.** — The rejection of the plaint on any of the grounds hereinbefore mentioned [[?shall not of its own force preclude]] the plaintiff from presenting a fresh plaint in respect of the same cause of action.
 
-> **Rule 14. Production of document on which plaintiff sues or relies.** — (1) Where a plaintiff sues upon a document or relies upon document in his possession or power in support of his claim, he shall enter such documents in a list, and shall produce it in Court when the plaint is presented… (3) A document which ought to be produced in Court by the plaintiff when the plaint is presented… shall not, without the leave of the Court, be received in evidence on his behalf at the hearing of the suit.
+> **Rule 14. Production of document on which plaintiff sues or relies.** — (1) Where a plaintiff sues upon a document or relies upon document in his possession or power in support of his claim, he [[!shall enter such documents in a list]], and [[!shall produce it]] in Court when the plaint is presented… (3) A document which ought to be produced in Court by the plaintiff when the plaint is presented… [[!shall not, without the leave of the Court, be received in evidence]] on his behalf at the hearing of the suit.
 
 **Statutory mechanics**
 
@@ -607,7 +647,68 @@ Never describe the amendment in prose. Annex a three-column schedule — **Parag
 Rejection under Rule 11 is decided on a demurrer — read the plaint, assume every word of it is true, ignore the defence entirely, and ask whether even then the suit must fail.
 :::
 
-### 2. Plain-English Conceptual Demystification
+::: proviso The proviso to Rule 11 — the two grounds that cannot kill a suit without warning
+> *"Provided that the time fixed by the Court for the correction of the valuation or supplying of the requisite stamp-paper [[!shall not be extended]] unless the Court, for reasons to be recorded, is satisfied that the plaintiff was prevented by any cause of an **exceptional nature**…"*
+
+The six grounds in Rule 11 are not six of a kind, and treating them as one list is how applications are wasted.
+
+**Clauses (a) and (d) are demurrers.** No cause of action; barred by any law. Both are decided on the plaint alone, both are absolute, and both dispose of the suit the moment the ground is found.
+
+**Clauses (b) and (c) are not.** Read them again and notice that neither states a defect at all. Clause (b) is not "where the relief is undervalued"; it is "where the relief claimed is undervalued, **and the plaintiff, on being required by the Court to correct the valuation within a time to be fixed by the Court, fails to do so**." Clause (c) is built identically for insufficient stamp.
+
+So the ground is not the deficiency. **The ground is the disobedience.** Two things must have happened before the clause is even available: the court must have required correction, and it must have fixed a time; and the plaintiff must then have failed. A rejection for undervaluation without a prior order fixing time is not a rejection under clause (b) at all, and is liable to be set aside on that ground alone.
+
+**What the proviso then adds is a lock on the other side.** Having fixed the time, the court may not extend it as a matter of routine: only for **reasons to be recorded**, and only where the plaintiff was prevented by a cause of an **exceptional nature**. That is a deliberately high standard — office delay, counsel's engagement and difficulty in arranging funds are not causes of an exceptional nature.
+
+**The practical consequence for both sides.** For the defendant: if you are taking a valuation or stamp point, ask for an order under clause (b) or (c) fixing time — that order is what creates the ground. For the plaintiff: the day such an order is made, comply within the time fixed. It is the one deadline in Order VII with no ordinary indulgence behind it.
+:::
+
+::: proviso Rule 14(3) — the document you did not file with the plaint
+> *"A document which ought to be produced in Court by the plaintiff when the plaint is presented… [[!shall not, without the leave of the Court, be received in evidence]] on his behalf at the hearing of the suit."*
+
+Rule 14(1) requires the plaintiff who sues upon a document, or relies on one in his possession or power, to **enter it in a list and produce it with the plaint**. Rule 14(3) supplies the sanction, and it is a strong one: the document is inadmissible.
+
+The sanction is softened by four words — "without the leave of the Court" — and in practice leave is regularly granted. But it must be **asked for**, and the application is a great deal harder at the stage of evidence than at the stage of filing.
+
+Three things follow that are worth building into practice.
+
+**The list is doing real work.** It is not a formality attached to the plaint; it is the trigger for admissibility. A document held back for tactical effect and produced during cross-examination is a document the other side will object to, and the objection has a rule behind it.
+
+**"In his possession or power" is wider than possession.** A document the plaintiff is entitled to call for — from his own bank, his own auditor, a company in which he is a director — is within his power. Not having collected it yet is not an answer.
+
+**And there is a mirror image in Order VI.** A defendant who is told "you had this document all along" in answer to his amendment application is being met with exactly this rule: if the plaintiff filed it with the plaint under Rule 14 and listed it, the defendant has had notice of it since institution, and his due-diligence narrative under the proviso to Order VI Rule 17 is in serious trouble.
+:::
+
+### How this actually runs
+
+<MicroTree
+  input="You want the plaint rejected under Order VII Rule 11"
+  :gates="[
+    { q: 'Is your objection one that can be decided by reading the plaint and the documents filed with it, and nothing else?', note: 'Saleem Bhai — the averments in the plaint alone are germane; the pleas in the written statement are wholly irrelevant, and the court need not wait for one to be filed.', no: 'Then it is a defence, not a demurrer. “He cannot prove it”, “the document is forged”, “the account was settled” — every one of these is tried, not demurred. Making the point at this hearing wastes the application and teaches the plaintiff what to expect.' },
+    { q: 'Taking every averment in the plaint as TRUE, does it still fail to disclose a complete cause of action, or does it disclose on its face a bar under some law?', note: 'R. 11(a) and R. 11(d). The subtraction test: remove a pleaded fact — if the plaintiff can still succeed, it was not part of the cause of action.', no: 'The plaint survives, however weak it looks. A plaint that pleads a loan, a date, a rate, a demand and a refusal discloses a cause of action even if every word of it is false.' },
+    { q: 'If the bar you rely on is limitation, res judicata or Order II Rule 2 — is it apparent WITHOUT any evidence and without any document that is not already on the record?', note: 'Popat and Kotecha — R. 11(d) does not permit the court to travel beyond the plaint, and a mixed question of fact and law must be tried as an issue.', no: 'Take it as a preliminary issue under Order XIV instead. An Order II Rule 2 bar in particular usually needs the earlier plaint produced, which normally puts it outside R. 11(d) altogether.' },
+    { q: 'Are you asking for the WHOLE plaint to be rejected — not part of it, and not merely as against one defendant?', note: 'Popat and Kotecha — Rule 11 does not contemplate partial rejection.', no: 'The application cannot be granted in that form. If the plaint discloses a cause of action against one defendant and nothing against the others, the remedy is an application to strike out parties under Order I Rule 10, or a preliminary issue — not rejection.' },
+    { q: 'If your ground is undervaluation or deficient stamp, has the Court already required correction and fixed a time, and has the plaintiff then failed?', note: 'RR. 11(b) and (c) — the ground is the disobedience, not the deficiency.', no: 'Ask for that order first. Rejection without a prior order fixing time is liable to be set aside on that ground alone, and you will have converted a good point into an appeal for the other side.' }
+  ]"
+  result="The plaint SHALL be rejected — the word is mandatory, and once the ground is found the court has no discretion. The Judge records an order with reasons under Rule 12."
+  caveat="Rule 13 — rejection does not of its own force bar a fresh plaint on the same cause of action. But limitation has been running throughout, and for most claims the fresh plaint is already out of time. That, not the rejection, is what actually ends the case."
+  resultKind="mandatory"
+/>
+
+<MicroTree
+  input="The plaint before you is defective — is this a rejection, a return, or an amendment?"
+  :gates="[
+    { q: 'Is the defect that this Court has no jurisdiction — pecuniary, territorial or subject-matter — over a suit that is otherwise perfectly good?', note: 'Order VII Rule 10 — the plaint is RETURNED to be presented to the proper court, and Rule 10A fixes the date of appearance there.', no: 'Then Rule 10 is not the route. Return is about the forum; rejection is about the suit.' },
+    { q: 'Is the defect an omission of DETAIL — an unpleaded date, an incomplete description of the property, a missing valuation statement — rather than the absence of a cause of action?', note: 'Rule 1 particulars are mandatory in form, but non-compliance is ordinarily curable.', no: 'If what is missing is the cause of action itself — R. 1(e) — you are in R. 11(a) territory and the plaint does not survive by amendment of detail.' },
+    { q: 'Is the suit prima facie out of time on the dates pleaded, with no ground of exemption stated?', note: 'Rule 6 — where a suit is instituted after the prescribed period, the plaint SHALL show the ground on which exemption is claimed. An unpleaded ground cannot be argued.', no: 'Then limitation is not available at the threshold, and any limitation defence must be pleaded and tried.' },
+    { q: 'Has the plaintiff filed the documents he sues upon, in a list, with the plaint?', note: 'Rule 14(1). Check the list against the plaint paragraph by paragraph.', no: 'Rule 14(3) — those documents are not receivable in evidence for him without leave. Note the omission now, in your written statement, so that the leave application when it comes is opposed from a pleaded position rather than from the floor.' }
+  ]"
+  result="Return under Rule 10 for want of jurisdiction; amendment under Order VI Rule 17 for curable defects of particulars; rejection under Rule 11 only where a listed ground is made out on the plaint itself."
+  caveat="A return under Rule 10 is appealable as an order under Order XLIII Rule 1(a); an order rejecting a plaint under Rule 11 is a DECREE by definition in section 2(2), and the remedy against it is a first appeal. Getting this distinction wrong costs the appeal."
+  resultKind="discretionary"
+/>
+
+### In plain English
 
 **Sub-module A — what a "cause of action" actually is.**
 
@@ -684,43 +785,168 @@ Relief must be stated **specifically**. Two practical corollaries:
 
 The trap is the proviso to **Section 34 of the Specific Relief Act, 1963**: a plaintiff entitled to consequential relief who omits to claim it cannot obtain a bare declaration. A suit for declaration of title, where the plaintiff is out of possession, must also claim possession.
 
-### 3. Courtroom & Practical Illustrations
+### Test your instinct
 
-**Illustration 1 — the limitation bar apparent on the face of the plaint.** P files a suit in 2025 for recovery of ₹18,00,000 due under an invoice. Paragraph 4 of the plaint states that the goods were delivered on 3 March 2019 and payment fell due on 2 April 2019. Paragraph 9 states the cause of action arose on 2 April 2019. There is no plea of acknowledgment and no plea under Order VII Rule 6.
+Five situations. Decide what you would argue and what you think the court will do, and only then open the ruling. The pattern in this block: the winning point is almost always in the plaintiff's own paragraphs.
 
-- **Sword (defendant):** Application under **R. 11(d)**. The suit is governed by Article 14 or 15 of the Limitation Act, 1963 (three years). The plaint's own dates show the suit is barred by more than three years. No ground of exemption is pleaded, as R. 6 requires. The bar appears from the statement in the plaint; no evidence is needed.
-- **Shield (plaintiff):** The only real answer is an acknowledgment in writing under **s. 18** or a part-payment under **s. 19** of the Limitation Act. But this must be *pleaded*, not argued — hence an immediate application under Order VI Rule 17 to amend the plaint to plead the acknowledgment letter of, say, 12 January 2021 and to annex it. Once pleaded, the bar no longer "appears from the statement in the plaint" and R. 11(d) fails.
+::::instinct The three paragraphs that decide the case
 
-::: warning The sequencing point
-Where a Rule 11 application and an amendment application are both pending, the court ordinarily decides the **amendment application first**, because Rule 11 operates on the plaint as it stands, and the plaint as it stands may be about to change. File the amendment the moment the Rule 11 application is served.
+Anita files a suit in 2025 to recover ₹18,00,000 due under an invoice. Paragraph 4 of the plaint states that the goods were delivered on 3 March 2019 and payment fell due on 2 April 2019. Paragraph 9 states that the cause of action arose on 2 April 2019. There is no plea of acknowledgment and nothing under Order VII Rule 6.
+
+Bharat has a further point: the goods were never delivered at all, and he has the transporter's records to prove it.
+
+**Which point does he take, and at what hearing?**
+
+:::ruling
+
+**He takes the limitation point, under Rule 11(d), and he takes it before filing a written statement. The delivery point he says nothing about at all.**
+
+**Why the good defence is the wrong argument here.** Non-delivery is a defence. It requires evidence — the transporter's records, a witness, cross-examination. Rule 11 assumes every averment in the plaint is **true**. Raising non-delivery at a Rule 11 hearing invites the answer that it is a triable issue, and it tells Anita exactly what she must prepare for.
+
+**Why the limitation point is complete on the paper.** Article 14 of the Limitation Act gives three years for the price of goods sold and delivered, running from the date of delivery — and Anita has pleaded both the delivery date and, in terms, the date the cause of action arose. The suit is out of time on her own case. Rule 6 required her to plead any ground of exemption **in the plaint**, and an unpleaded ground cannot be argued. Nothing outside the plaint is needed, so the bar "appears from the statement in the plaint" within the meaning of Rule 11(d).
+
+**And the timing.** *Saleem Bhai* — the power under Rule 11 may be exercised **at any stage**, including before the written statement is filed, and the trial court should not direct a written statement to be filed first. Bharat should apply immediately. Filing a written statement that pleads non-delivery would put his best material on the record for no benefit, since it will be disregarded on the Rule 11 application anyway.
+
+**Anita's only real answer is one she should have built into the plaint.** If there was an acknowledgment in writing under section 18, or a part payment under section 19, or fraud under section 17, it had to be **pleaded**, with particulars. Her fallback now is an application to amend under Order VI Rule 17 to plead the acknowledgment — which is a genuine possibility, since trial has not commenced, but it is a much weaker position than pleading it at the outset would have been.
+
+**And even if the plaint is rejected, note what Rule 13 does and does not give her.** It says rejection shall not "of its own force" preclude a fresh plaint on the same cause of action. But limitation has been running throughout. For a 2019 debt, the fresh plaint is dead on arrival. Rule 13 is a real saving in a suit rejected for a curable defect within time; it is cold comfort in a limitation case.
+
+::::
+
+::::instinct The declaration with nothing attached to it
+
+Anita was dispossessed from a shop in 2021. In 2023 she files a suit seeking **only** a declaration that she is the owner. She does not claim possession.
+
+Bharat applies under Rule 11(d), relying on the proviso to section 34 of the Specific Relief Act, 1963: where the plaintiff is able to seek further relief and omits to do so, the court "shall not make any such declaration".
+
+**Is this a Rule 11(d) point at all — and what should Anita do about it?**
+
+:::ruling
+
+**It is a proper Rule 11(d) point, because the bar is visible in Anita's own pleading — she has pleaded her dispossession.**
+
+That is the discipline the clause imposes. "Barred by any law" is wide, and the proviso to section 34 is a law that bars. But it only becomes a *Rule 11* point because the plaint itself pleads the fact that triggers it. Had the plaint been silent about possession, the bar would have required evidence about who was in possession, and it would have had to be tried.
+
+**Anita's answer is an amendment, not an argument.** Apply under Order VI Rule 17 to add a prayer for possession, and pay **ad valorem** court fee on the market value of the shop. Trial has not commenced; the amendment is necessary to determine the real controversy; and *Rajesh Kumar Aggarwal* forecloses any objection that the title case looks weak.
+
+**But check the limitation article before conceding anything, because the second-order risk is where the real money is.** If the possession claim is added in, say, 2026 and the dispossession was in 2021, a claim under **Article 65** — twelve years, running from when the defendant's possession became adverse — is comfortably alive. Under **Article 64**, which runs twelve years from dispossession in a possessory suit, the analysis differs. The article governs whether the amendment introduces a claim that is time-barred on the date of the application, which is the only objection to it that can succeed.
+
+**Bharat's better tactical course, if he suspects the amendment is coming.** Take the point, but ask for costs and for the fee to be paid before the amended plaint is taken on file. A Rule 11(d) application that merely provokes a curative amendment has improved his opponent's suit at his own expense — unless he extracts the court fee and the costs on the way.
+
+::::
+
+::::instinct "Illegally, arbitrarily and in bad faith"
+
+Anita's plaint against a bank reads, in its entirety on the merits: *"The Defendant has acted illegally, arbitrarily and in bad faith, and has caused the Plaintiff loss of ₹2 crore. The Plaintiff is entitled to damages."* There is no averment of any account, any contract, any duty, any specific act, or any date.
+
+Her counsel says the plaint is not required to set out the evidence, and that the details will be proved at trial.
+
+**He is quoting Order VI Rule 2 correctly. Why does the plaint still go?**
+
+:::ruling
+
+**Because what is missing is not evidence. It is the cause of action.**
+
+**Apply the completeness test.** Read the plaint alone, assume every word is true, and ask whether a decree could be passed. Assume the bank acted "illegally, arbitrarily and in bad faith" — a court still cannot pass a decree, because it does not know what the bank *did*, on what date, under what obligation, or how ₹2 crore was lost. There is no fact here that could be put to a witness.
+
+**Apply the subtraction test.** Remove any pleaded fact and see whether the claim still stands. There is nothing to remove. Epithets are not facts.
+
+*Church of Christ Charitable Trust* is the direct answer to counsel's submission: the plaint must disclose the **material facts** giving rise to the cause of action, and a bundle of facts which would not, if proved, entitle the plaintiff to relief does not suffice. And *T. Arivandandam* requires the court to read the plaint **meaningfully rather than formally** — a plaint does not survive because it has been arranged into numbered paragraphs.
+
+**Note carefully what is *not* the reason.** The plaint does not fail because the claim is implausible, or because the bank has a good defence, or because ₹2 crore looks exaggerated. Rule 11(a) does not weigh any of that. A plaint pleading a specific unauthorised debit of ₹2 crore from a specific account on a specific date discloses a cause of action even if the court thinks it will fail.
+
+**There is no answer on the pleading as it stands**, and Anita's counsel should stop defending it and move to amend — setting out the account, the mandate, the instruction, the date of the unauthorised debit, the demand and the loss. Order VI Rule 2 does not excuse him; it is the rule he has breached.
+
+::::
+
+::::instinct The court fee point that arrives too early
+
+In a suit for specific performance of an agreement to sell for ₹95,00,000, Anita values the suit at ₹95,00,000 and pays fee on that figure. Bharat contends the market value of the property is ₹4 crore and that fee is payable on market value. He applies under Rule 11(b) and (c) for rejection of the plaint.
+
+**Assume, for the sake of argument, that Bharat is right about the valuation. Does the plaint get rejected?**
+
+:::ruling
+
+**No — and it would not be rejected even if he were completely right, because he has skipped the step that creates the ground.**
+
+**Read clause (b) as a whole.** It is not "where the relief claimed is undervalued". It is "where the relief claimed is undervalued, **and the plaintiff, on being required by the Court to correct the valuation within a time to be fixed by the Court, fails to do so**." Clause (c) is built the same way for insufficient stamp.
+
+**So the operative default is the plaintiff's, not the pleader's.** The ground is the failure to comply with an order. Until the court has required correction and fixed a time, and Anita has then failed, there is nothing under clause (b) to grant. A rejection made without that anterior order is liable to be set aside on that ground alone — which means Bharat's premature application, if allowed, hands Anita an appeal.
+
+**And on the merits he is probably wrong anyway.** Under the Court Fees Act as applied in most States, fee in a suit for specific performance is payable on the **consideration stated in the agreement**, not on the market value of the property. Anita's answer should lead with the procedural point, because it wins regardless, and take the merits second.
+
+**What Bharat should have asked for.** Not rejection — an **order under clause (b)/(c) requiring correction within a fixed time**. That order is the thing of value. Once it exists, the proviso works in his favour too: the time fixed may not be extended except for reasons recorded and only where the plaintiff was prevented by a cause of an **exceptional nature**. Office delay, counsel's engagement and difficulty arranging funds are not causes of an exceptional nature.
+
+::::
+
+::::instinct The plaint that is good against one defendant and empty against three
+
+Anita sues four defendants: Bharat on a contract, and three others described as his guarantors. The plaint pleads a full cause of action against Bharat. Against the other three it pleads nothing at all beyond the word "guarantors" — no guarantee deed, no date, no terms, no invocation.
+
+The three apply under Rule 11(a) to reject the plaint as against them.
+
+**They are right that the plaint discloses no cause of action against them. Do they get their order?**
+
+:::ruling
+
+**No. They are right about the defect and wrong about the remedy — and the distinction is not a technicality, because the wrong application leaves them in the suit.**
+
+**Rule 11 operates on the plaint as a whole.** *Popat and Kotecha* holds that the rule does not contemplate rejection of a **portion** of the plaint, or rejection as against one of several defendants. The plaint is rejected entirely or not at all. Since it plainly discloses a cause of action against Bharat, it stands — and it stands against everybody named in it.
+
+**The remedy that fits the complaint is Order I Rule 10(2)** — an application to strike out parties improperly joined, on the ground that their presence is not necessary to enable the court effectually and completely to adjudicate upon the questions involved. That is an application about **parties**, which is what their objection actually is. The alternative is a preliminary issue under Order XIV Rule 2.
+
+**Anita's answer, and why they should expect it.** She will apply to amend and plead the guarantees properly — the deed, its date, its terms, the demand on the principal debtor and the invocation. Trial has not commenced. She will get the amendment. So the three guarantors' realistic objective is not to escape the suit but to force the case against them to be pleaded, and to obtain costs for having had to ask.
+
+**The general lesson about choosing the application.** Rule 11 rejects a **plaint**. Order VI Rule 16 strikes out **matter**. Order I Rule 10 strikes out **parties**. Order VII Rule 10 returns a plaint to the **right court**. Four different instruments, and the commonest interlocutory failure in this chapter is reaching for Rule 11 because it is the most familiar.
+
+::::
+
+### Practitioner HUD — operational realities
+
+#### The winning ratio
+
+If you take one sentence from this block into court, take this one.
+
+::: tip The proposition to plead
+**Saleem Bhai v. State of Maharashtra**, (2003) 1 SCC 557 — Supreme Court of India —
+
+For the purposes of Order VII Rule 11, **the averments in the plaint alone are germane; the pleas taken by the defendant in the written statement are wholly irrelevant.** The trial court is not to direct a written statement to be filed before deciding the application, and the power under Rule 11 may be exercised **at any stage of the suit** — including before the written statement is filed and before issues are framed.
+
+**This settles two arguments at once, and they are the two that are actually made.** The first is the plaintiff's: *"let him file his written statement and we will have issues framed."* The answer is that the written statement has nothing to do with it — the application is decided on one document, and it is the plaintiff's own. The second is the defendant's own worst instinct: to walk into the hearing with his defence. *"My learned friend says the goods were never delivered. That is his defence and he may prove it at the trial. It is not before this Court today, because on this application every averment in the plaint is assumed to be true."*
+
+**And it fixes the timing, which is where the practical advantage lies.** A defendant who has a Rule 11 point should take it **before** filing a written statement. Filing first puts his best material on the record — his documents, his version of events, the plea he intends to lead — for no benefit at all, since it will be disregarded on the application anyway. Read with *Popat and Kotecha* (no travelling beyond the plaint, no partial rejection) and *Dahiben* ("shall" makes rejection mandatory once a ground is made out), the shape of the block is: **one document, assumed true, argued early.**
 :::
 
-**Illustration 2 — the bare declaration.** P, who was dispossessed from a shop in 2021, files a suit in 2023 seeking only a declaration that he is the owner of the shop. He does not claim possession.
+#### Sword and shield
 
-- **Sword (defendant):** Application under **R. 11(d)** relying on the proviso to **s. 34 of the Specific Relief Act, 1963**. P is able to seek the further relief of possession and has omitted to do so; the court "shall not make any such declaration". The bar is apparent from the plaint, which itself pleads dispossession.
-- **Shield (plaintiff):** Amend to add a prayer for possession, and pay the ad valorem court fee on the market value. Note the second-order risk: if the amendment is allowed in 2026 and the dispossession was in 2021, the possession claim under Article 65 (twelve years) survives; but had the dispossession been under Article 64 (dispossession — twelve years from dispossession) the analysis changes. Check the article before conceding.
+| Situation | Filing / defending the plaint (sword) | Attacking the plaint (shield) |
+|---|---|---|
+| **Drafting the plaint at all** | Draft as though an opponent will read it aloud looking for the sentence that defeats it. R. 1(e) — plead the facts constituting the cause of action **and when it arose**. | Read the plaint once for the cause of action, once for the dates, once for what is *conspicuously absent*. The winning point is usually in the plaintiff's own paragraphs. |
+| **The claim may be out of time** | Plead the ground of exemption **in the plaint** under **R. 6** — acknowledgment under s. 18, part payment under s. 19, fraud under s. 17 — with particulars. An unpleaded ground cannot be argued. | If the pleaded dates show the bar and no exemption is pleaded, that is a complete **R. 11(d)** point on the paper. Take it before the written statement. |
+| **You have a good factual defence** | — | **Say nothing about it at the Rule 11 hearing.** "He cannot prove it", "the document is forged", "the account was settled" are all defences. Raising them invites the answer that they are triable issues, and tells the plaintiff exactly what to prepare for. |
+| **The plaint pleads epithets, not facts** | Amend under O. VI R. 17 and set out the contract, the duty, the act, the date and the loss. R. 2 is the rule you have breached, not the rule that saves you. | **R. 11(a)** with *Church of Christ Charitable Trust* and *T. Arivandandam* — the plaint must disclose **material facts**, and is read meaningfully, not formally. |
+| **Res judicata or O. II R. 2** | Point out that the earlier record must be produced, which takes the objection outside the plaint. | *Srihari Hanumandas Totala* — ordinarily a **preliminary issue under O. XIV R. 2**, not R. 11(d). Reserve R. 11(d) for the case where the whole foundation is on the plaint. |
+| **Undervaluation or deficient stamp** | Lead with the procedural answer: no anterior order fixing time, therefore no ground under clause (b)/(c). Take the merits second. | Do **not** apply for rejection. Apply for an **order under clause (b)/(c) requiring correction within a fixed time**. That order is what creates the ground. |
+| **Once such an order is made** | Comply within the time fixed. The proviso gives no ordinary indulgence. | If the plaintiff misses it, the extension standard is **"a cause of an exceptional nature", with reasons recorded** — office delay, counsel's engagement and difficulty arranging funds do not qualify. |
+| **The plaint is empty against some defendants only** | Apply to amend and plead the case against them properly. Trial has not commenced; you will get it. | *Popat and Kotecha* — **no partial rejection and no rejection as against one defendant**. Use **O. I R. 10(2)** to strike out parties, or a preliminary issue. Ask for costs. |
+| **Wrong court** | If the objection is only forum, ask for a **return under R. 10** rather than resisting — R. 10A fixes the date of appearance in the proper court. | Distinguish carefully: return under R. 10 is about the **forum**; rejection under R. 11 is about the **suit**. A return is an appealable order; a rejection is a **decree**. |
+| **Documents sued upon** | **R. 14(1)** — enter them in a list and produce them with the plaint. The list is the trigger for admissibility. | **R. 14(3)** — a document that ought to have been produced is not receivable in evidence without leave. Note the omission in your written statement so that the leave application is opposed from a pleaded position. |
+| **The plaint has been rejected** | **R. 13** — rejection does not *of its own force* bar a fresh plaint on the same cause of action. | But limitation has been running throughout. In a limitation case R. 13 is cold comfort; the fresh plaint is dead on arrival. |
+| **You have won a rejection order** | — | Remember what you have won: an order under R. 11 is a **decree** within s. 2(2). Expect a **first appeal**, not a revision. |
 
-**Illustration 3 — Rule 11(a) where the plaint pleads conclusions.** P's plaint against a bank reads: "The Defendant has acted illegally, arbitrarily and in bad faith, and has caused the Plaintiff loss of ₹2 crore. The Plaintiff is entitled to damages." There is no averment of any contract, any duty, any specific act, or any date.
+#### The limitation clock
 
-- **Sword (defendant):** Application under **R. 11(a)**. The plaint pleads conclusions of law and epithets, not material facts. Assuming every word true, no decree can follow, because the plaint does not identify what the defendant did, when, or under what obligation. It fails Order VI Rule 2 and therefore Order VII Rule 11(a).
-- **Shield (plaintiff):** There is no answer on the pleading as it stands. The plaintiff must apply to amend, setting out the account, the instructions, the date of the unauthorised debit, and the loss.
-
-**Illustration 4 — Rule 11 raised as a defence to injunction proceedings.** P sues for a permanent injunction restraining D from executing an award, and obtains an ex parte order under Order XXXIX Rules 1 and 2. D applies under R. 11(d), contending that s. 5 of the Arbitration and Conciliation Act, 1996 bars the civil court's intervention.
-
-- **Sword (defendant):** The bar is statutory and appears from the plaint, which itself pleads the existence of the arbitral award. R. 11(d) is squarely attracted, and its success produces a **decree**, extinguishing the injunction with it.
-- **Shield (plaintiff):** The plaintiff's answer must be that the suit is not one "in respect of matters governed by Part I" of the 1996 Act — for example, that he is a stranger to the arbitration agreement. If that is so, it must be visible on the face of the plaint.
-
-**Illustration 5 — undervaluation.** In a suit for specific performance of an agreement to sell for ₹95,00,000, P values the suit at ₹95,00,000 and pays fee accordingly. D contends the market value is ₹4 crore and that fee is payable on market value.
-
-- **Sword (defendant):** Application under **R. 11(b)/(c)**.
-- **Shield (plaintiff):** Two answers. First, on the merits — under the Court Fees Act as applied in most States, fee in a specific performance suit is payable on the **consideration stated in the agreement**, not on market value. Second, and decisively, on procedure: **rejection cannot follow immediately**. The court must first require correction within a fixed time. Even if D is right, P is entitled to an opportunity to pay the deficit, and the suit is rejected only if he then fails.
-
-**Illustration 6 — the partial rejection that cannot be granted.** P sues four defendants: D1 on a contract, and D2–D4 as guarantors. The plaint discloses a cause of action against D1 but pleads nothing whatever against D2–D4 beyond describing them as guarantors.
-
-- **Sword (defendants 2–4):** They apply under R. 11(a) to reject the plaint as against them.
-- **Shield (plaintiff):** The plaint cannot be rejected **in part**. Rule 11 operates on the plaint as a whole; if a cause of action is disclosed against D1, the plaint stands. The correct remedy for D2–D4 is not R. 11 but an application to be struck out as parties under **Order I Rule 10(2)**, or a preliminary issue under Order XIV Rule 2.
-
-### 4. Procedural Interlocking Matrix
+| Step | Source | Period | Runs from | Note |
+|---|---|---|---|---|
+| Pleading a ground of exemption from limitation | **O. VII R. 6** | Must appear **in the plaint** | — | "The plaint **shall** show the ground upon which exemption from such law is claimed." An unpleaded ground cannot be argued |
+| Price of goods sold and delivered | **Art. 14**, Limitation Act, 1963 | 3 years | Date of delivery | The commonest R. 11(d) case — the plaint pleads the delivery date itself |
+| Suit for possession on title | **Art. 65** | 12 years | When the defendant's possession becomes **adverse** | Relevant where a bare declaration is amended to add possession |
+| Possessory suit on dispossession | **Art. 64** | 12 years | Date of dispossession | Check which article governs before conceding that an added possession claim is safe |
+| Application under R. 11 | — | No period — **"at any stage"** | — | *Saleem Bhai*. Take it **before** the written statement, not after |
+| Correction of valuation / stamp under R. 11(b), (c) | **The proviso to R. 11** | The time **fixed by the court** | Date of that order | Not extendable except for **reasons recorded** and a cause of an **exceptional nature** |
+| Fresh plaint after rejection | **R. 13** read with the Limitation Act | The article governing the claim | Unaffected by the rejection | Rejection does not stop the clock, and it never restarted it |
+| First appeal against a rejection order | **s. 2(2)** read with **Art. 116/117**, Limitation Act | 90 days (High Court) / 30 days (subordinate court) | Date of the decree | A rejection is a decree — the wrong remedy loses the appeal |
+#### Interlocking matrix — what this connects to
 
 | Order VII provision | Interlocks with | What the connection does |
 |---|---|---|
@@ -754,7 +980,7 @@ Where a Rule 11 application and an amendment application are both pending, the c
 In a commercial dispute of a Specified Value, a plaint that does not contemplate urgent interim relief and is filed without exhausting pre-institution mediation under Section 12A of the Commercial Courts Act, 2015 is liable to be rejected. The urgency must be genuine and apparent from the pleading — an interim application filed only to bypass s. 12A invites the objection rather than answering it.
 :::
 
-### 5. Landmark & Modern Jurisprudence
+#### The authorities
 
 **T. Arivandandam v. T.V. Satyapal**, (1977) 4 SCC 467 — Supreme Court of India.
 
@@ -764,18 +990,6 @@ In a commercial dispute of a Specified Value, a plaint that does not contemplate
 
 ::: tip Practitioner Takeaway
 "The court is required to read the plaint meaningfully, and not merely to count whether the necessary words appear in it. Where clever drafting has created an illusion of a cause of action, the plaint must be rejected."
-:::
-
----
-
-**Saleem Bhai v. State of Maharashtra**, (2003) 1 SCC 557 — Supreme Court of India.
-
-*Facts:* The trial court directed the defendants to file a written statement before deciding a pending Order VII Rule 11 application.
-
-**Ratio decidendi:** For the purposes of Order VII Rule 11 the averments **in the plaint alone** are germane; the pleas taken by the defendant in the written statement are wholly irrelevant. The direction to file a written statement before deciding a Rule 11 application is not warranted, and the trial court may exercise the power under Rule 11 **at any stage of the suit**, including before the written statement is filed and before issues are framed.
-
-::: tip Practitioner Takeaway
-"A Rule 11 application is decided on the plaint alone and can be taken up at any stage of the suit; the defendant need not first file his written statement, and if he has filed one, it is to be disregarded."
 :::
 
 ---
@@ -842,7 +1056,7 @@ In a commercial dispute of a Specified Value, a plaint that does not contemplate
 Every citation, bench strength and current status above must be confirmed against the official report and a current citator before the judgment is placed before a court. Several of these authorities have been considered in subsequent decisions on the interaction between Rule 11 and specific statutory bars.
 :::
 
-### 6. The Advocate's Toolkit
+#### Strategy and drafting
 
 **The plaint-drafting checklist — the twelve things that get a plaint rejected or returned**
 
