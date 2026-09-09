@@ -35,10 +35,11 @@ Most CPC material either reproduces the bare Act or paraphrases it. This does ne
 | Appearance, *ex parte* decrees, examination of parties, s. 89 reference, discovery | Orders IX, X & XI |
 | Admissions & judgment on admissions, documents, settlement of issues, first hearing | Orders XII, XIII, XIV & XV |
 | Witnesses, adjournments, evidence on affidavit, affidavits, judgment & decree | Orders XVI–XX |
+| Execution of decrees — application & process, arrest, attachment & claims, sale, resistance to possession | Order XXI (all 106 rules) |
 | Temporary injunctions & disobedience | Order XXXIX |
 | Courtroom Drafting Toolkit | 10 annotated model drafts + filing checklists |
 
-**Next:** Order XXI in full, the commission and attachment Orders (XXVI, XXXVIII, XL), and the special-suit Orders.
+**Next:** the commission and attachment Orders (XXVI, XXXVIII, XL), and the special-suit Orders.
 
 ## Running it locally
 

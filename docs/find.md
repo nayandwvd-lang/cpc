@@ -108,6 +108,11 @@ Press <kbd>/</kbd> anywhere on the site to search the full text of every provisi
 | **XVIII** | Right to begin; **R. 4 evidence on affidavit**; R. 17 recall | [O. XVI–XX](/orders/order-16-to-20#order-xviii-—-hearing-of-the-suit-and-examination-of-witnesses) |
 | **XIX** | Affidavits — R. 3 knowledge versus belief | [O. XVI–XX](/orders/order-16-to-20#order-xix-—-affidavits) |
 | **XX** | Judgment and decree; **R. 6 contents**, R. 12 mesne profits, R. 18 partition | [O. XVI–XX](/orders/order-16-to-20#order-xx-—-judgment-and-decree) |
+| **XXI** | Execution — the application and process, RR. 1–25 | [O. XXI](/orders/order-21#rules-1-to-25-—-payment-the-execution-application-and-the-process) |
+| **XXI** | Stay of execution, modes of execution, **arrest and detention**, RR. 26–40 | [O. XXI](/orders/order-21#rules-26-to-40-—-stay-of-execution-the-modes-of-execution-and-arrest) |
+| **XXI** | **Attachment** and adjudication of claims — **R. 58**, RR. 41–63 | [O. XXI](/orders/order-21#rules-41-to-63-—-attachment-of-property-and-the-adjudication-of-claims) |
+| **XXI** | Sale — **R. 66 proclamation**, RR. 89–92 setting aside, RR. 64–96 | [O. XXI](/orders/order-21#rules-64-to-96-—-sale-the-proclamation-setting-aside-and-confirmation) |
+| **XXI** | **Resistance to possession — RR. 97–101, 106** | [O. XXI](/orders/order-21#rules-97-to-106-—-resistance-to-possession-the-self-contained-adjudicatory-code) |
 | **XXXIX** | Temporary injunctions RR. 1–2; **R. 2A disobedience** | [O. XXXIX](/orders/order-39#rules-1-and-2-—-the-grant-of-a-temporary-injunction) |
 | **XLI** | First appeal procedure — RR. 22, 23, 27, 31, 33 | [ss. 96–115](/sections/sec-96-to-115#sections-96-97-and-99-with-order-xli-—-the-first-appeal) |
 | **XLII** | Second appeal procedure | [ss. 96–115](/sections/sec-96-to-115#sections-100-100a-101-and-103-with-order-xlii-—-the-second-appeal) |
@@ -116,4 +121,4 @@ Press <kbd>/</kbd> anywhere on the site to search the full text of every provisi
 
 ## Not yet covered
 
-Order XXI in full, Orders XXVI, XXXVIII and XL, and the special-suit Orders (XXII, XXIII, XXXII, XXXIII, XXXIV, XXXVII). See the [roadmap](/roadmap).
+Orders XXVI, XXXVIII and XL, and the special-suit Orders (XXII, XXIII, XXXII, XXXIII, XXXIV, XXXVII). See the [roadmap](/roadmap).

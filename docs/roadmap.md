@@ -1,6 +1,13 @@
 # Roadmap
 
-The guide is built in batches. Each provision added must satisfy the full six-part schema before it is published to the sidebar — no stubs, no placeholders.
+The guide is built in batches. Each provision added must be complete before it is published to the sidebar — no stubs, no placeholders.
+
+Two presentation schemas are currently in the guide, and chapters are being migrated from the first to the second:
+
+- the original **six-part** schema — bare Act, plain English, illustrations, interlocking matrix, jurisprudence, advocate's toolkit; and
+- the **five-stage** schema, which opens with the human dispute before the section number, marks `shall` / `may` / provisos inline in the bare Act, adds a mechanical micro-tree and a scenario you answer before revealing the ruling, and closes with a practitioner HUD.
+
+Migrated so far: **Sections 9–14** and **Order XXXIX**. The rest follow.
 
 ## Published
 
@@ -13,6 +20,7 @@ The guide is built in batches. Each provision added must satisfy the full six-pa
 | Orders IX, X & XI — appearance, examination of parties, discovery | [`orders/order-9-to-11`](/orders/order-9-to-11) |
 | Orders XII, XIII, XIV & XV — admissions, documents, issues, first hearing | [`orders/order-12-to-15`](/orders/order-12-to-15) |
 | Orders XVI–XX — witnesses, adjournments, evidence, affidavits, judgment | [`orders/order-16-to-20`](/orders/order-16-to-20) |
+| Order XXI — execution of decrees, all 106 rules | [`orders/order-21`](/orders/order-21) |
 | Order XXXIX | [`orders/order-39`](/orders/order-39) |
 | Sections 144, 148A, 151 | [`sections/sec-144-148a-151`](/sections/sec-144-148a-151) |
 | Sections 36–74 — Execution | [`sections/sec-36-to-74`](/sections/sec-36-to-74) |
@@ -26,7 +34,6 @@ The guide is built in batches. Each provision added must satisfy the full six-pa
 
 **Part II — Execution (remainder)**
 - Sections 40–46: precepts, execution against legal representatives
-- Order XXI in full — the execution engine, all 106 rules
 
 **Parts VII & VIII — Appeals (remainder)**
 - Sections 109, 112 and Order XLV: appeals to the Supreme Court

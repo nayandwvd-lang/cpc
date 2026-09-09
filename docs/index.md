@@ -67,9 +67,10 @@ This is a study and practice aid. The CPC is amended by State legislatures and s
 - [Orders IX, X & XI](/orders/order-9-to-11) — Appearance and *ex parte* decrees, examination of parties, the section 89 reference, discovery and interrogatories
 - [Orders XII, XIII, XIV & XV](/orders/order-12-to-15) — Admissions and judgment on admissions, production and impounding of documents, settlement of issues, disposal at first hearing
 - [Orders XVI to XX](/orders/order-16-to-20) — Witnesses, adjournments, evidence on affidavit, affidavits generally, judgment and decree
+- [Order XXI](/orders/order-21) — Execution of decrees: the execution application, arrest and detention, attachment and claims, sale, and resistance to possession
 - [Order XXXIX](/orders/order-39) — Temporary injunctions, the three golden principles, Rule 2A disobedience
 
 **Toolkit**
 - [Model petitions and applications](/drafts/)
 
-Not yet covered: Order XXI in full, the commission and attachment Orders (XXVI, XXXVIII, XL), and the special-suit Orders. See the [roadmap](/roadmap).
+Not yet covered: the commission and attachment Orders (XXVI, XXXVIII, XL), and the special-suit Orders. See the [roadmap](/roadmap).
