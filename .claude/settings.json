@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "permissions": {
+    "allow": [
+      "Bash(./.tooling/node ./node_modules/vitepress/bin/vitepress.js build docs)",
+      "Bash(./.tooling/node ./node_modules/vitepress/bin/vitepress.js build docs *)",
+      "Bash(./.tooling/node ./node_modules/vitepress/bin/vitepress.js preview docs --port *)",
+      "Bash(./.tooling/node ./node_modules/vitepress/bin/vitepress.js dev docs --port *)",
+      "Bash(./.tooling/node ./node_modules/vitepress/bin/vitepress.js --version)",
+      "Bash(./.tooling/node --version)",
+      "Bash(pkill -f vitepress)",
+      "Bash(pkill -f \"vitepress.js dev docs\")",
+      "Bash(pkill -f \"vitepress.js preview\")",
+      "Bash(curl -s -o /dev/null -w * http://localhost:*)",
+      "mcp__Claude_in_Chrome__tabs_context_mcp",
+      "mcp__Claude_in_Chrome__get_page_text",
+      "mcp__Claude_in_Chrome__read_page",
+      "mcp__Claude_in_Chrome__find",
+      "mcp__Claude_in_Chrome__read_console_messages",
+      "mcp__Claude_in_Chrome__read_network_requests",
+      "mcp__ccd_session_mgmt__search_session_transcripts"
+    ]
+  }
+}
