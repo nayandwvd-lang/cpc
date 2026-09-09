@@ -30,52 +30,84 @@ Execution begins with an **application** under Rule 11, which must satisfy Artic
 
 ## Rules 1 to 25 — Payment, the execution application and the process
 
-### 1. Verbatim Bare Act Text & Statutory Mechanics — Rules 1 to 25
+### The dispute this solves
 
-> **Rule 1. Modes of paying money under decree.** — (1) All money payable under a decree shall be paid as follows, namely: —
+::: oneminute The decree Anita won, and the money she never saw
+Anita runs a stationery business in Pune. Six years ago she supplied ₹22,00,000 of goods to Bharat, who never paid. She sued. She won. The decree is in her hand, signed and sealed, and it says Bharat must pay her ₹22,00,000 with interest.
+
+Bharat has not paid a rupee.
+
+Here is the thing nobody tells you at law school. **Anita's decree does not, by itself, take a single rupee out of Bharat's pocket.** It is a judicial declaration that he owes her money. It is not a transfer of money. To convert the declaration into cash, Anita must start an entirely new proceeding — the execution proceeding — with its own application, its own notices, its own evidence, its own objections and its own appeals.
+
+**The problem in plain English:** winning is one lawsuit; collecting is another. And the second is usually longer, because by the time Anita starts it, Bharat has had six years' notice that he is going to lose, and has spent them arranging his affairs accordingly.
+
+The Supreme Court has said, more than once and with visible frustration, that the difficulties of a decree-holder begin when the decree is passed. Order XXI is 106 rules long because every one of them is a place where the difficulty is fought out.
+
+Rules 1 to 25 are the front door. They answer three questions: how may Bharat pay, so that the payment counts; how does Anita ask the court to make him pay; and what must the court do before it starts squeezing him.
+:::
+
+::: story Why the law makes payment so formal
+Rule 1 tells Bharat that money under a decree **shall** be paid in one of three specified ways. Rule 2 tells him that a payment which is not certified to the court simply does not exist, so far as the executing court is concerned. To a newcomer this looks like pointless bureaucracy. Bharat paid; why should the form matter?
+
+It matters because of what the alternative would look like.
+
+Imagine the rule were the ordinary one — that payment may be proved like any other fact. Every execution proceeding in India would then open with the judgment-debtor saying "I paid ₹15,00,000 in cash to the decree-holder at his shop in March; he gave no receipt." The decree-holder denies it. Now the executing court must record evidence, examine witnesses, assess credibility and decide a disputed question of fact — a full trial, inside what was supposed to be a mechanical enforcement process. And it must do so in every case, because the defence costs nothing to raise and is impossible to disprove.
+
+So the Code makes a hard trade. It says: pay through the court, or by money order, or by bank, or by some mode **evidenced in writing** — and if you do, your payment is unanswerable. If you do not, the court will not look at it at all. The rule is deliberately harsh at the edges because it is trying to keep the whole of execution out of the swamp of oral evidence about cash.
+
+Once you see that, the rest of Rules 1 to 25 falls into place. They are all doing the same job: forcing the parties to put their positions on the record, in writing, in a fixed form, **before** the machinery starts, so that the machinery does not have to stop and hold a trial every time it moves.
+
+That is also why the application under Rule 11(2) must contain ten specified particulars in tabular form, and why Rule 22 requires the court to give notice before it proceeds in the three cases where the person being squeezed may never have been heard. The formality is not decoration. It is what allows an enforcement process to be fast.
+:::
+
+### The Act, decompiled
+
+Twenty-five rules, doing four distinct jobs. Rules 1 and 2 govern **how money is paid** and when a payment counts. Rules 10 to 14 govern **the application** — who applies, to which court, in what form. Rule 17 governs **scrutiny** of that application. Rules 22 and 23 govern **notice** — the judgment-debtor's one guaranteed opportunity to be heard before execution issues.
+
+> **Rule 1. Modes of paying money under decree.** — (1) All money payable under a decree [[!shall]] be paid as follows, namely: —
 > (a) by deposit into the Court whose duty it is to execute the decree, or sent to that Court by postal money order or through a bank; or
 > (b) out of Court, to the decree-holder by postal money order or through a bank or by any other mode wherein payment is evidenced in writing; or
 > (c) otherwise, as the Court which made the decree directs.
 >
-> (2) Where any payment is made under clause (a) or clause (c) of sub-rule (1), the judgment-debtor shall give notice thereof to the decree-holder either through the Court or directly to him by registered post, acknowledgement due.
+> (2) Where any payment is made under clause (a) or clause (c) of sub-rule (1), the judgment-debtor [[!shall give notice]] thereof to the decree-holder either through the Court or directly to him by registered post, acknowledgement due.
 >
-> (3) Where money is paid by postal money order or through a bank under clause (a) or clause (b) of sub-rule (1), the money order or payment through bank, as the case may be, shall accurately state the following particulars, namely: — (a) the number of the original suit; (b) the names of the parties or where there are more than two plaintiffs or more than two defendants, as the case may be, the names of the first two plaintiffs and the first two defendants; (c) how the sum remitted is to be adjusted, that is to say, whether it is towards the principal, interest or costs; (d) the number of the execution case of the Court, where such case is pending; and (e) the name and address of the payer.
+> (3) Where money is paid by postal money order or through a bank under clause (a) or clause (b) of sub-rule (1), the money order or payment through bank, as the case may be, [[!shall accurately state]] the following particulars, namely: — (a) the number of the original suit; (b) the names of the parties or where there are more than two plaintiffs or more than two defendants, as the case may be, the names of the first two plaintiffs and the first two defendants; (c) how the sum remitted is to be adjusted, that is to say, whether it is towards the principal, interest or costs; (d) the number of the execution case of the Court, where such case is pending; and (e) the name and address of the payer.
 >
-> (4) On any amount paid under clause (a) or clause (c) of sub-rule (1), interest, if any, shall cease to run from the date of service of the notice referred to in sub-rule (2).
+> (4) On any amount paid under clause (a) or clause (c) of sub-rule (1), interest, if any, [[!shall cease to run]] from the date of service of the notice referred to in sub-rule (2).
 >
-> (5) On any amount paid under clause (b) of sub-rule (1), interest, if any, shall cease to run from the date of such payment:
+> (5) On any amount paid under clause (b) of sub-rule (1), interest, if any, [[!shall cease to run]] from the date of such payment:
 >
-> Provided that, where the decree-holder refuses to accept the postal money order or payment through a bank, interest shall cease to run from the date on which the money was tendered to him, or where he avoids acceptance of the postal money order or payment through bank, interest shall cease to run from the date on which the money would have been tendered to him in the ordinary course of business of the postal authorities or the bank, as the case may be.
+> **Provided that**, where the decree-holder refuses to accept the postal money order or payment through a bank, interest shall cease to run from the date on which the money was tendered to him, or where he avoids acceptance of the postal money order or payment through bank, interest shall cease to run from the date on which the money would have been tendered to him in the ordinary course of business of the postal authorities or the bank, as the case may be.
 
-> **Rule 2. Payment out of Court to decree-holder.** — (1) Where any money payable under a decree of any kind is paid out of Court, or a decree of any kind is otherwise adjusted in whole or in part to the satisfaction of the decree-holder, the decree-holder shall certify such payment or adjustment to the Court whose duty it is to execute the decree, and the Court shall record the same accordingly.
+> **Rule 2. Payment out of Court to decree-holder.** — (1) Where any money payable under a decree of any kind is paid out of Court, or a decree of any kind is otherwise adjusted in whole or in part to the satisfaction of the decree-holder, the decree-holder [[!shall certify]] such payment or adjustment to the Court whose duty it is to execute the decree, and the Court [[!shall record]] the same accordingly.
 >
-> (2) The judgment-debtor also may inform the Court of such payment or adjustment, and apply to the Court to issue a notice to the decree-holder to show cause, on a day to be fixed by the Court, why such payment or adjustment should not be recorded as certified; and if, after service of such notice, the decree-holder fails to show cause why the payment or adjustment should not be recorded as certified, the Court shall record the same accordingly.
+> (2) The judgment-debtor also [[?may inform]] the Court of such payment or adjustment, and apply to the Court to issue a notice to the decree-holder to show cause, on a day to be fixed by the Court, why such payment or adjustment should not be recorded as certified; and if, after service of such notice, the decree-holder fails to show cause why the payment or adjustment should not be recorded as certified, the Court [[!shall record]] the same accordingly.
 >
-> (2A) No payment or adjustment shall be recorded at the instance of the judgment-debtor unless — (a) the payment is made in the manner provided in Rule 1; or (b) the payment or adjustment is proved by documentary evidence; or (c) the payment or adjustment is admitted by, or on behalf of, the decree-holder in his reply to the notice given under sub-rule (2) of Rule 2, or before the Court.
+> (2A) **No** payment or adjustment [[!shall]] be recorded at the instance of the judgment-debtor **unless** — (a) the payment is made in the manner provided in Rule 1; or (b) the payment or adjustment is proved by documentary evidence; or (c) the payment or adjustment is admitted by, or on behalf of, the decree-holder in his reply to the notice given under sub-rule (2) of Rule 2, or before the Court.
 >
-> (3) A payment or adjustment, which has not been certified or recorded as aforesaid, shall not be recognised by any Court executing the decree.
+> (3) A payment or adjustment, which has not been certified or recorded as aforesaid, [[!shall not be recognised]] by any Court executing the decree.
 
-> **Rule 10. Application for execution.** — Where the holder of a decree desires to execute it, he shall apply to the Court which passed the decree or to the officer (if any) appointed in this behalf, or if the decree has been sent under the provisions hereinbefore contained to another Court then to such Court or to the proper officer thereof.
+> **Rule 10. Application for execution.** — Where the holder of a decree desires to execute it, he [[!shall apply]] to the Court which passed the decree or to the officer (if any) appointed in this behalf, or if the decree has been sent under the provisions hereinbefore contained to another Court then to such Court or to the proper officer thereof.
 
-> **Rule 11. Oral application.** — (1) Where a decree is for the payment of money the Court may, on the oral application of the decree-holder at the time of the passing of the decree, order immediate execution thereof by the arrest of the judgment-debtor, prior to the preparation of a warrant if he is within the precincts of the Court.
+> **Rule 11. Oral application.** — (1) Where a decree is for the payment of money the Court [[?may]], on the **oral** application of the decree-holder at the time of the passing of the decree, order immediate execution thereof by the arrest of the judgment-debtor, prior to the preparation of a warrant if he is within the precincts of the Court.
 >
-> (2) Save as otherwise provided by sub-rule (1), every application for the execution of a decree shall be in writing, signed and verified by the applicant or by some other person proved to the satisfaction of the Court to be acquainted with the facts of the case, and shall contain in a tabular form the following particulars, namely: — (a) the number of the suit; (b) the names of the parties; (c) the date of the decree; (d) whether any appeal has been preferred from the decree; (e) whether any, and (if any) what, payment or other adjustment of the matter in controversy has been made between the parties subsequently to the decree; (f) whether any, and (if any) what, previous applications have been made for the execution of the decree, the dates of such applications and their results; (g) the amount with interest (if any) due upon the decree, or other relief granted thereby, together with particulars of any cross-decree, whether passed before or after the date of the decree sought to be executed; (h) the amount of the costs (if any) awarded; (i) the name of the person against whom execution of the decree is sought; and (j) the mode in which the assistance of the Court is required, whether — (i) by the delivery of any property specifically decreed; (ii) by the attachment, or by the attachment and sale, or by the sale without attachment, of any property; (iii) by the arrest and detention in prison of any person; (iv) by the appointment of a receiver; (v) otherwise, as the nature of the relief granted may require.
+> (2) Save as otherwise provided by sub-rule (1), every application for the execution of a decree [[!shall be in writing, signed and verified]] by the applicant or by some other person proved to the satisfaction of the Court to be acquainted with the facts of the case, and [[!shall contain in a tabular form]] the following particulars, namely: — (a) the number of the suit; (b) the names of the parties; (c) the date of the decree; (d) whether any appeal has been preferred from the decree; (e) whether any, and (if any) what, payment or other adjustment of the matter in controversy has been made between the parties subsequently to the decree; (f) whether any, and (if any) what, previous applications have been made for the execution of the decree, the dates of such applications and their results; (g) the amount with interest (if any) due upon the decree, or other relief granted thereby, together with particulars of any cross-decree, whether passed before or after the date of the decree sought to be executed; (h) the amount of the costs (if any) awarded; (i) the name of the person against whom execution of the decree is sought; and (j) the mode in which the assistance of the Court is required, whether — (i) by the delivery of any property specifically decreed; (ii) by the attachment, or by the attachment and sale, or by the sale without attachment, of any property; (iii) by the arrest and detention in prison of any person; (iv) by the appointment of a receiver; (v) otherwise, as the nature of the relief granted may require.
 >
-> (3) The Court to which an application is made under sub-rule (2) may require the applicant to produce a certified copy of the decree.
+> (3) The Court to which an application is made under sub-rule (2) [[?may require]] the applicant to produce a certified copy of the decree.
 
-> **Rule 11A. Application for arrest to state grounds.** — Where an application is made for the arrest and detention in the civil prison of the judgment-debtor, it shall state, or be accompanied by an affidavit stating, the grounds on which arrest is applied for.
+> **Rule 11A. Application for arrest to state grounds.** — Where an application is made for the arrest and detention in the civil prison of the judgment-debtor, it [[!shall state, or be accompanied by an affidavit stating, the grounds]] on which arrest is applied for.
 
-> **Rule 17. Procedure on receiving application for execution of decree.** — (1) On receiving an application for the execution of a decree as provided by Rule 11, sub-rule (2), the Court shall ascertain whether such of the requirements of Rules 11 to 14 as may be applicable to the case have been complied with; and, if they have not been complied with, the Court may reject the application, or may allow the defect to be remedied then and there or within a time to be fixed by it.
+> **Rule 17. Procedure on receiving application for execution of decree.** — (1) On receiving an application for the execution of a decree as provided by Rule 11, sub-rule (2), the Court [[!shall ascertain]] whether such of the requirements of Rules 11 to 14 as may be applicable to the case have been complied with; and, if they have not been complied with, the Court [[?may reject]] the application, or [[?may allow]] the defect to be remedied then and there or within a time to be fixed by it.
 
-> **Rule 22. Notice to show cause against execution in certain cases.** — (1) Where an application for execution is made — (a) more than two years after the date of the decree, or (b) against the legal representative of a party to the decree or where an application is made for execution of a decree filed under the provisions of section 44A, or (c) against the assignee or receiver in insolvency, where the party to the decree has been adjudged to be an insolvent, the Court executing the decree shall issue a notice to the person against whom execution is applied for requiring him to show cause, on a date to be fixed, why the decree should not be executed against him:
+> **Rule 22. Notice to show cause against execution in certain cases.** — (1) Where an application for execution is made — (a) more than two years after the date of the decree, or (b) against the legal representative of a party to the decree or where an application is made for execution of a decree filed under the provisions of section 44A, or (c) against the assignee or receiver in insolvency, where the party to the decree has been adjudged to be an insolvent, the Court executing the decree [[!shall issue a notice]] to the person against whom execution is applied for requiring him to show cause, on a date to be fixed, why the decree should not be executed against him:
 >
-> Provided that no such notice shall be necessary in consequence of more than two years having elapsed between the date of the decree and the application for execution if the application is made within two years from the date of the last order against the party against whom execution is applied for, made on any previous application for execution, or in consequence of the application being made against the legal representative of a party to the decree, if upon a previous application for execution against the same person the Court has ordered execution to issue against him.
+> **Provided that** no such notice shall be necessary in consequence of more than two years having elapsed between the date of the decree and the application for execution if the application is made within two years from the date of the last order against the party against whom execution is applied for, made on any previous application for execution, or in consequence of the application being made against the legal representative of a party to the decree, if upon a previous application for execution against the same person the Court has ordered execution to issue against him.
 >
-> (2) Nothing in the foregoing sub-rule shall be deemed to preclude the Court from issuing any process in execution of a decree without issuing the notice thereby prescribed, if, for reasons to be recorded, it considers that the issue of such notice would cause unreasonable delay or would defeat the ends of justice.
+> (2) **Nothing** in the foregoing sub-rule shall be deemed to preclude the Court from issuing any process in execution of a decree **without** issuing the notice thereby prescribed, if, **for reasons to be recorded**, it considers that the issue of such notice would cause unreasonable delay or would defeat the ends of justice.
 
-> **Rule 23. Procedure after issue of notice.** — (1) Where the person to whom notice is issued under the last preceding rule does not appear or does not show cause to the satisfaction of the Court why the decree should not be executed, the Court shall order the decree to be executed.
+> **Rule 23. Procedure after issue of notice.** — (1) Where the person to whom notice is issued under the last preceding rule does not appear or does not show cause to the satisfaction of the Court why the decree should not be executed, the Court [[!shall order]] the decree to be executed.
 >
-> (2) Where such person offers any objection to the execution of the decree, the Court shall consider such objection and make such order as it thinks fit.
+> (2) Where such person offers any objection to the execution of the decree, the Court [[!shall consider]] such objection and make such order as it thinks fit.
 
 | Operative expression | Character | Consequence |
 |---|---|---|
@@ -90,21 +122,82 @@ Execution begins with an **application** under Rule 11, which must satisfy Artic
 | "the Court **may**, on the **oral** application … order immediate execution … by the arrest of the judgment-debtor" (R. 11(1)) | Exceptional, discretionary | The one oral execution application in the Code; available only for a money decree, only at the moment of passing, only if the judgment-debtor is within the precincts |
 | "every application … **shall be in writing, signed and verified** … and **shall contain in a tabular form**" (R. 11(2)) | **Mandatory form** | The ten particulars are not a formality: (e) requires disclosure of adjustments and (f) of previous applications, and a false statement there is fatal |
 | "it **shall state, or be accompanied by an affidavit stating, the grounds**" (R. 11A) | **Mandatory** | An arrest application without the grounds affidavit is liable to be dismissed *in limine* |
-| "the Court **shall ascertain** whether such of the requirements … have been complied with … **may reject** the application, or **may allow the defect to be remedied**" (R. 17(1)) | Duty to scrutinise, discretion as to consequence | Rejection under R. 17 is not on the merits and does not bar a fresh application within Article 136 |
+| "the Court **shall ascertain** whether such of the requirements … have been complied with … **may reject** the application, or **may allow** the defect to be remedied" (R. 17(1)) | Duty to scrutinise, discretion as to consequence | Rejection under R. 17 is not on the merits and does not bar a fresh application within Article 136 |
 | "the Court executing the decree **shall issue a notice** … requiring him to show cause" (R. 22(1)) | **Mandatory in the three defined cases** | More than two years; against a legal representative; against an assignee or receiver in insolvency. Execution without notice in these cases is a material irregularity |
 | "Provided that **no such notice shall be necessary** … if the application is made within two years from the date of the **last order**" (R. 22(1) proviso) | Exception | The two years run from the last order on a previous execution application, not from the decree |
 | "**Nothing** … shall … preclude the Court from issuing any process … **without** issuing the notice … if, **for reasons to be recorded**" (R. 22(2)) | Escape clause, conditioned | The court may dispense with notice, but only on recorded reasons of unreasonable delay or defeat of the ends of justice |
 | "the Court **shall order the decree to be executed**" (R. 23(1)) | Mandatory on failure to show cause | The show-cause stage is the judgment-debtor's opportunity, and it is generally his only one on the R. 22 grounds |
 
-::: warning An uncertified adjustment does not exist
-Rule 2(3) is one of the harshest provisions in the Code, and it catches judgment-debtors constantly. A judgment-debtor who settles with the decree-holder out of court, pays in cash, and takes a plain receipt has done nothing that the executing court may recognise. The bar operates whether or not the payment in fact happened. There are two escapes and both must be used promptly:
-1. Apply under **Rule 2(2)** for notice to the decree-holder to show cause why the adjustment should not be recorded as certified — but the application must satisfy **Rule 2(2A)**, so the payment must have been made through the court, by money order or bank, or otherwise evidenced **in writing**, or be admitted.
-2. Limitation for such an application is **Article 125 of the Limitation Act, 1963 — thirty days** from the date of the payment or adjustment. This is short and it is fatal.
+::: proviso Rule 2(2A) is a proviso in all but name — and it is the gate a judgment-debtor must pass
+Rule 2(1) imposes the duty to certify on the **decree-holder**. Rule 2(2) gives the judgment-debtor a route round a decree-holder who will not perform that duty. Sub-rule (2A) then puts a gate across that route, and the gate is worded as an exhaustive negative — "**no** payment or adjustment shall be recorded at the instance of the judgment-debtor **unless**".
 
-The practical rule for a judgment-debtor's advocate is therefore absolute: **never take a settlement of a decree out of court in cash**. Pay through the court under Rule 1(1)(a), or by money order or bank transfer under Rule 1(1)(b) with the Rule 1(3) particulars stated, and file the Rule 2(2) application within thirty days regardless.
+Three doors through it, and only three. The payment must be —
+
+**(a)** made **in the manner provided in Rule 1** — that is, through the court, or by postal money order, or through a bank, or by some other mode wherein payment is evidenced in writing; **or**
+**(b)** **proved by documentary evidence**; **or**
+**(c)** **admitted** by, or on behalf of, the decree-holder, either in his reply to the Rule 2(2) notice or before the court.
+
+Note what is not there. **Oral evidence is not a door.** A judgment-debtor who paid in cash before three witnesses and took no writing has no route at all — not because the court disbelieves him, but because the court is forbidden to embark on the enquiry.
+
+Note also that door (b) is wider than door (a), and it is the one that saves most people. Door (a) demands a particular *mode of payment*. Door (b) demands only *documentary proof* of a payment however made. A signed receipt identifying the decree, a WhatsApp acknowledgment, a ledger entry countersigned by the decree-holder, an email confirming settlement — each is capable of satisfying (b) even though the cash itself passed hand to hand.
+
+Which is why the practical instruction to a judgment-debtor is not "pay this way" but "**paper it, whatever way you pay**".
 :::
 
-### 2. Plain-English Conceptual Demystification — Rules 1 to 25
+::: proviso The proviso to Rule 22(1) — when the two-year notice is *not* needed
+Rule 22(1)(a) says notice is mandatory where the execution application comes more than two years after the decree. The proviso removes that requirement in two situations, and both are commonly misread.
+
+**First situation.** No notice is necessary on the ground of the two years having elapsed, **if the present application is made within two years from the date of the last order** against that party on any previous execution application.
+
+Read that carefully, because the measuring point moves. The trigger in sub-rule (1)(a) runs from **the date of the decree**. The exception in the proviso runs from **the date of the last order on a previous execution application**. So a decree of 2014, executed continuously with orders made in 2022, 2023 and 2024, generates no Rule 22 notice requirement on a fresh application in 2025 — the decree is eleven years old, but the last order is one year old.
+
+**Second situation.** No notice is necessary merely because the application is against a legal representative, **if upon a previous application against the same person the court has already ordered execution to issue against him.**
+
+The logic of both is identical, and it is worth stating because it tells you how to argue the point: **Rule 22 exists to ensure the person being proceeded against has been heard on whether execution should issue against him.** Where he has already been heard recently, the purpose is spent. Where he has not, no amount of procedural convenience substitutes.
+
+That is also the answer to the decree-holder who says "he knows all about it". Knowledge is not notice. The rule requires the court to issue a notice and to fix a date.
+:::
+
+::: danger Where execution applications actually go wrong at the threshold
+The commonest fatal defect is not a bad case. It is **Article 136**. Twelve years from the date the decree became enforceable, section 5 of the Limitation Act does not apply, there is no condonation, and the court is bound by section 3 to dismiss the application whether or not the point is taken.
+
+The second commonest is a **Rule 11(2) table filled in as "as per decree"**. Column (g) requires the amount with interest due upon the decree. A decree-holder who does not compute it caps his own recovery and invites an objection that the application is not maintainable.
+
+The third is proceeding **without the Rule 22 notice on a decree two years and one month old** — the exact case in which everybody forgets, and the exact ground on which the eventual sale is attacked under Rule 90.
+:::
+
+### How this actually runs
+
+Two separate questions, and they are asked by opposite sides. The decree-holder asks whether his application will be entertained and processed. The judgment-debtor asks whether the money he has already paid will be recognised.
+
+<MicroTree
+  input="You hold a decree that has not been satisfied, and you want the court to enforce it"
+  :gates="[
+    { q: 'Is the application within TWELVE YEARS of the date the decree became enforceable?', note: 'Article 136, Limitation Act, 1963. Not from the last application — from enforceability. Where there was an appeal, from the appellate decree; where the decree is conditional, from satisfaction of the condition; where payment is by instalments, from each default.', no: 'The application is barred and the court must dismiss it under section 3 of the Limitation Act whether or not the point is pleaded. Section 5 has NO application to Article 136 — there is no condonation and no discretion. A decree for perpetual injunction is the one significant exclusion from Article 136.' },
+    { q: 'Are you applying to the RIGHT COURT?', note: 'The court which passed the decree, or the court to which it has been transferred under sections 39 to 42. Section 39(4) is decisive: the court which passed the decree cannot execute against person or property outside its jurisdiction.', no: 'Apply under section 39 for transfer first, and obtain the Rule 6 certificate. An attachment ordered by a court without territorial competence is without jurisdiction and may be set aside at any time — it is not a curable irregularity.' },
+    { q: 'Is the application in WRITING, signed, verified, and does it contain all ten particulars of Rule 11(2) in tabular form?', note: 'The single oral exception is Rule 11(1) — a money decree, at the moment of passing, the debtor within the precincts, and only for arrest.', no: 'Rule 17 applies. The court “shall ascertain” compliance and then has a discretion: it MAY reject, or it MAY allow the defect to be remedied then and there or within a fixed time. Rejection under Rule 17 is not on the merits and does not bar a fresh application within Article 136 — but you have lost your place in the section 73 queue.' },
+    { q: 'Does this application fall within any of the three Rule 22 NOTICE cases?', note: 'More than two years after the decree; against a legal representative or a section 44A foreign decree; against an assignee or receiver in insolvency. Check the proviso before assuming it applies.', no: 'No notice is required and the court may proceed to issue process directly. It retains a discretion to issue notice anyway, and frequently will.' },
+    { q: 'If Rule 22 IS attracted — has notice actually been issued and served, or has the court dispensed with it FOR REASONS RECORDED under Rule 22(2)?', note: 'Dispensation requires a recorded opinion that notice would cause unreasonable delay or defeat the ends of justice. A bare order “issue process” is not dispensation.', no: 'Proceedings taken without notice are a material irregularity. Where they culminate in a sale of immovable property, this is a standard ground under Rule 90 — but the sale is voidable, not void, so the objector must also establish substantial injury.' }
+  ]"
+  result="the court SHALL order the decree to be executed (Rule 23(1)) where the judgment-debtor does not appear or shows no cause, and will then issue process in the mode you have elected under Rule 11(2)(j) — attachment, arrest, delivery of property, or receiver"
+  caveat="Note what this tree does NOT decide. Passing every gate gets your application processed; it does not get you paid. Whether the mode you elected will actually yield money is decided by Rules 26 to 96, and whether the property you attach is really the judgment-debtor’s is decided by Rule 58."
+  resultKind="mandatory"
+/>
+
+<MicroTree
+  input="You are the judgment-debtor. You have paid the decree-holder, or settled with him, out of court — and he is now executing for the full amount"
+  :gates="[
+    { q: 'Has the payment or adjustment been CERTIFIED to the executing court?', note: 'Rule 2(1) puts the duty to certify on the decree-holder, not on you. But the duty being his does not make the omission harmless to you.', no: 'Go to the next gate. If it HAS been certified, the executing court is bound by the record and can execute only for the balance — you need do nothing further.' },
+    { q: 'Can you bring the payment within one of the three doors in Rule 2(2A)?', note: 'Made in a Rule 1 mode (through court, money order, bank, or otherwise evidenced in writing); OR proved by documentary evidence; OR admitted by the decree-holder. Door (b) is the widest and saves most cases — a signed receipt identifying the decree will usually do.', no: 'You are out. Rule 2(3) is addressed to the COURT, not merely to the parties: an uncertified payment “shall not be recognised by any Court executing the decree”. The bar operates even where the payment plainly happened, because the object is to keep disputed questions of cash out of execution altogether. Oral evidence is not a door.' },
+    { q: 'Are you within THIRTY DAYS of the payment or adjustment?', note: 'Article 125, Limitation Act, 1963. This is short, and it is the provision that destroys more judgment-debtors than any other in Order XXI.', no: 'Apply under section 5 of the Limitation Act — which, unlike Article 136, IS available here — and support the delay with the decree-holder’s own breach of his Rule 2(1) duty. A party cannot found an advantage on his own default. This is an argument, not a right.' },
+    { q: 'Have you applied under Rule 2(2) for notice to the decree-holder to show cause?', note: 'The application is yours to make. The court will not record an adjustment on its own motion, however obvious the payment.', no: 'File it now. Nothing happens until you do, and every week of inaction strengthens the decree-holder’s answer that the payment was an afterthought.' }
+  ]"
+  result="the court may record the payment or adjustment as certified, and execution then proceeds — if at all — only for the balance"
+  caveat="The asymmetry here is deliberate and worth naming. The decree-holder has a duty to certify but suffers no automatic penalty for breaching it; the judgment-debtor has no duty but suffers total forfeiture. That is why the only safe advice to a judgment-debtor is procedural rather than substantive: never settle a decree in cash, pay in a mode that documents itself, and file the Rule 2(2) application within thirty days as a matter of routine — even where the decree-holder has promised to certify."
+  resultKind="discretionary"
+/>
+
+### In plain English
 
 **(a) Execution is a fresh proceeding, but it is not a fresh suit.** The execution application initiates a proceeding with its own number, its own record and its own appeals. But it is governed by section 47, which confines the enquiry to questions relating to the execution, discharge or satisfaction of the decree between the parties, and which — since the 1976 deletion of the separate suit — makes that enquiry exclusive. The executing court cannot go behind the decree. It cannot hold the decree wrong, or the trial defective, or the finding perverse. It can only hold the decree **a nullity** — which means passed by a court wholly without jurisdiction over the subject matter — and that is a narrow doorway.
 
@@ -122,142 +215,300 @@ The practical rule for a judgment-debtor's advocate is therefore absolute: **nev
 
 **(h) The oral application under Rule 11(1) is real, and it is used.** Where a money decree is passed and the judgment-debtor is standing in the courtroom, the decree-holder may apply orally, at once, for his arrest, before any warrant is drawn. It exists to prevent the debtor who has heard the decree pronounced from walking out and disappearing. It remains subject to section 51's proviso — the court must be satisfied of means and refusal — but the application itself needs no writing.
 
-### 3. Courtroom & Practical Illustrations — Rules 1 to 25
+### Test your instinct
 
-::: tip Illustration 1 — The cash settlement that the court will not see
-A money decree for ₹22,00,000 is passed. The judgment-debtor negotiates directly with the decree-holder, pays ₹15,00,000 in cash against a handwritten receipt, and both agree the decree stands satisfied. Eleven months later the decree-holder files execution for the full ₹22,00,000 plus interest.
+Five situations. In each, read the facts, decide what you would argue and what you think the court will do, and only then open the ruling. The pattern to watch for is that in four of the five, the case turns on a date or a document rather than on the merits of the payment.
 
-**Sword (Decree-holder):** The position is uncomfortable but technically strong. Rule 2(3) provides that an uncertified payment shall not be recognised by any court executing the decree, and the judgment-debtor's application to record it is out of time under Article 125, which allows **thirty days**. Resist the recording of the adjustment on both grounds. *Note for the honest practitioner: advancing this argument where the payment plainly happened is a course a court will dislike intensely, and section 35A compensatory costs and a Rule 2 enquiry into the decree-holder's own conduct are both live.*
+::::instinct The cash settlement the court will not look at
 
-**Shield (Judgment-debtor):** Move at once under Rule 2(2) and meet Rule 2(2A) head-on: the handwritten receipt is **documentary evidence** of the payment, which satisfies clause (b), so the bar on recording at the judgment-debtor's instance does not apply. On limitation, argue that Article 125's thirty days runs from the payment but that the adjustment is a continuing one, and in the alternative rely on the decree-holder's own statutory duty under Rule 2(1) to certify — a duty he breached, and a party cannot take advantage of his own default to defeat a payment he received. Simultaneously object under section 47 that execution for the full sum is an abuse. The outcome will turn on the receipt: if it is signed and identifies the decree, the judgment-debtor is safe; if it is a bare chit, he is not.
+Anita holds a money decree against Bharat for ₹22,00,000. Eight months ago Bharat went to her shop, paid her ₹15,00,000 in cash, and took a handwritten receipt on a sheet of her letterhead reading: *"Received Rs. 15,00,000/- from Bharat towards full and final settlement of the decree in Suit No. 214 of 2019. — Anita."* She signed it. Nothing was certified to the court.
+
+Anita has now filed execution for the entire ₹22,00,000 with interest, and her Rule 11(2) table states at column (e) that no payment or adjustment has been made.
+
+**Bharat has the receipt in his pocket. Is he safe? And what is the single greatest danger to his position — the receipt, the cash, or the calendar?**
+
+:::ruling
+
+**The calendar. By a distance.**
+
+Take the two easy points first.
+
+The **cash** does not defeat him. Rule 2(2A) door (a) requires payment in a Rule 1 mode; cash in a shop is not one. But door (b) is independent and disjunctive — "the payment or adjustment is **proved by documentary evidence**". Bharat is not required to have paid in a particular way; he is required to be able to prove it in writing. He can.
+
+The **receipt** is, in fact, unusually good. It is signed by the decree-holder, it names a figure, and — decisively — it **identifies the decree by suit number**. Most receipts in this situation are bare chits reading "received Rs. 15,00,000", which prove a payment of money but not a payment *towards this decree*, and that gap is where judgment-debtors are lost. Bharat's document closes it.
+
+Now the danger. **Article 125 of the Limitation Act allows thirty days** from the date of the payment or adjustment for the application to record it. Bharat has let eight months pass. He is roughly seven months out of time, and until he applies, Rule 2(3) means the executing court is positively **forbidden** to recognise the payment — a bar addressed to the court itself, so it operates whether or not Anita raises it, and whether or not she admits receiving the money.
+
+What saves him, if anything, is that **section 5 of the Limitation Act does apply to an Article 125 application** — unlike Article 136, where it does not. So the route is: apply under Rule 2(2) immediately, with a section 5 application, and ground the delay in Anita's **own breach of her Rule 2(1) duty to certify**. That duty was hers, not his; she received the money and did not perform it; and a party cannot found an advantage upon her own default. Add that her Rule 11(2)(e) verification — that no payment has been made — is on the face of the record a false statement in a verified application, which puts her conduct, and not merely his delay, before the court.
+
+That is a strong application. But note precisely what has happened: Bharat did everything right on the day of payment and is now fighting for his life on a discretionary indulgence, because he did not file a one-page application within a month. **The receipt was necessary and it was not sufficient.**
+
 :::
 
-::: tip Illustration 2 — Execution against a legal representative without notice
-A decree for ₹9,00,000 is passed against a sole defendant, who dies four years later. The decree-holder files execution against the deceased's son, describing him as legal representative, and obtains attachment and sale of a house without any notice being issued.
+::::
 
-**Sword (Decree-holder):** The application is competent — section 50 permits execution against the legal representative — but it falls squarely within Rule 22(1)(b), and notice was mandatory. The only defence is Rule 22(2): that the court dispensed with notice for recorded reasons. Check the order sheet; if reasons were recorded, the proceedings survive.
+::::instinct The house sold without a word to the son
 
-**Shield (Legal representative):** Two independent objections, and both should be taken together. First, under Rule 22(1)(b) read with Rule 90, the absence of notice is a material irregularity in publishing and conducting the sale, and where substantial injury results the sale must be set aside — and here the injury is total, since the LR was never heard at all. Second, and more fundamentally, section 50(2) confines the LR's liability to **the property of the deceased which has come to his hands and has not been duly disposed of**. If the house devolved on the son by survivorship or under a will and was not the deceased's estate at all, or if the estate was exhausted, the decree cannot touch it, and this is a section 47 question the executing court must decide. Ask for an enquiry into what estate came to his hands.
+A decree for ₹9,00,000 was passed against Chetan in 2018. Chetan died in 2022. In 2024 the decree-holder filed execution describing Chetan's son Deepak as legal representative, obtained attachment of a house, and had it sold. No notice was ever issued to Deepak; the order sheet records only "EA registered; issue process."
+
+Deepak learns of all this when the auction-purchaser arrives at the door.
+
+**Deepak has two distinct objections available, and they are of different orders of strength. What are they, and which is the one to lead with?**
+
+:::ruling
+
+**Objection one — no Rule 22 notice.** The application was made against the legal representative of a party to the decree, which is Rule 22(1)(b), and it was also made more than two years after the decree, which is Rule 22(1)(a). Notice was mandatory on two independent grounds. The proviso does not rescue the decree-holder: there was no previous execution application and therefore no "last order", and no previous order for execution against Deepak. Nor was there dispensation under Rule 22(2), because that requires the court to record reasons that notice would cause unreasonable delay or defeat the ends of justice, and "issue process" records nothing.
+
+This objection is strong, and it carries into Rule 90 — the absence of notice is a material irregularity in publishing and conducting the sale. But it has a limit that must be understood: on *Shyam Singh*, a sale held after a defect in notice is **voidable, not void**. Deepak must also establish **substantial injury**. Here that is easy — he was never heard at all, and the house went for whatever it went for — but it is an additional thing he must plead and prove, and Article 127 gives him **sixty days** from the sale to move under Rule 90.
+
+**Objection two — section 50(2).** This is the stronger objection, and it is the one to lead with.
+
+Section 50 permits execution against a legal representative, but sub-section (2) confines his liability to **the property of the deceased which has come to his hands and has not been duly disposed of**. It is not a personal liability. So the questions are: was this house Chetan's estate at all, and did it come to Deepak's hands as such?
+
+If the house devolved on Deepak by survivorship in a coparcenary, or under a will, or was already his, or if the estate that reached him was exhausted by prior debts, then **the decree could never have touched it**, notice or no notice. And this is a section 47 question, which the executing court is bound to determine and which cannot be relegated to a separate suit — *Ghanshyam Das*.
+
+Why lead with the second? Because the first objection, if it succeeds, gets Deepak a fresh execution proceeding conducted properly — the decree-holder simply starts again, correctly, and sells the same house. The second, if it succeeds, ends the matter as against this property permanently. **Take the objection that disposes of the asset, not the one that disposes of the procedure.** Take both, in that order, and ask expressly for an enquiry into what estate came to his hands.
+
 :::
 
-::: tip Illustration 3 — Cross-decrees, and the decree-holder who executes both ways
-A and B litigate two suits arising out of the same failed joint venture. In Suit 1, A obtains a money decree against B for ₹40,00,000. In Suit 2, B obtains a money decree against A for ₹31,00,000. A files execution for the full ₹40,00,000 and attaches B's factory.
+::::
 
-**Sword (B, resisting):** Invoke Rule 18. Where there are cross-decrees between the same parties in the same character for the payment of two sums of money, execution may be taken out only for the **balance** — here ₹9,00,000 — and satisfaction of B's decree to that extent must be entered on both. Attachment of a factory to realise ₹40,00,000 when only ₹9,00,000 is due is disproportionate and the attachment must be reduced accordingly. Note the conditions carefully: Rule 18 applies where the decrees are between the **same parties** in the **same character**; it does not apply where one decree is against a party personally and the other in a representative capacity.
+::::instinct The two decrees and the attached factory
 
-**Sword (A, resisting the resistance):** Rule 18 by its terms applies to cross-decrees in the **same suit** or in separate suits between the same parties; check whether B's decree is under appeal and unstayed, and whether the two decrees are for equal degrees of enforceability. If B's decree is subject to a pending appeal, argue that set-off under Rule 18 should not be worked until the cross-decree is final — though the safer course, and the one most courts adopt, is to permit execution for the balance and to secure the difference.
+Anita and Bharat fell out over a joint venture and litigated twice. In Suit 1, Anita obtained a money decree against Bharat for ₹40,00,000. In Suit 2, in the same court, Bharat obtained a money decree against Anita for ₹31,00,000. Both decrees are final.
+
+Anita has filed execution for the full ₹40,00,000 and attached Bharat's factory.
+
+**Bharat says the attachment is excessive. What is the provision, and what are the two conditions on which Anita will try to escape it?**
+
+:::ruling
+
+The provision is **Rule 18** — cross-decrees. Where there are cross-decrees between the same parties for the payment of two sums of money, execution may be taken out only for the **balance**. Here that is ₹9,00,000. Satisfaction of Bharat's decree must be entered in full, satisfaction of Anita's to the extent of ₹31,00,000, and Anita executes for the difference only. An attachment of a factory to realise ₹40,00,000 when ₹9,00,000 is due is disproportionate and must be reduced accordingly — and note that section 60 and the general principle against excessive attachment reinforce this independently of Rule 18.
+
+Anita's two escape routes, both of which turn on the words of the rule rather than on fairness:
+
+**First — "the same parties".** Rule 18 requires the decrees to be between the same parties **in the same character**. If Anita's decree is against Bharat personally and Bharat's decree is in his capacity as karta of a joint family, or as a partner suing on behalf of a firm, the parties are not the same in the same character and the rule does not apply. This is the argument that succeeds most often, and it is the first thing to check on the cause titles.
+
+**Second — enforceability.** If Bharat's decree is under appeal and the appellate court has stayed it, or if it is not yet enforceable, Anita will argue that set-off should not be worked until the cross-decree is at the same stage of finality as hers. The safer course, which most courts adopt, is to permit execution for the balance and to secure the difference, rather than to permit full execution and leave Bharat to his own separate proceeding.
+
+The wider lesson for the decree-holder's side is worth stating plainly. Rule 11(2)(g) requires the application to state "particulars of **any cross-decree**, whether passed before or after the date of the decree sought to be executed". Anita's application, executing for ₹40,00,000 without disclosing Suit 2, is not merely aggressive — it is defective in a particular the rule expressly demands.
+
 :::
 
-### 4. Procedural Interlocking Matrix — Rules 1 to 25
+::::
+
+::::instinct The deposit that kept earning interest
+
+Bharat, against whom a decree for ₹12,00,000 carrying interest at 9% has been passed, wants the interest to stop. On 3 March he deposits the whole ₹12,00,000 into the executing court under Rule 1(1)(a). He tells nobody. Anita discovers the deposit on 20 September when she inspects the file, and withdraws it.
+
+Anita claims interest up to 20 September. Bharat says interest stopped on 3 March.
+
+**Who is right, and what would have changed the answer?**
+
+:::ruling
+
+**Anita is closer to right than Bharat, and the reason is a sub-rule most people skip.**
+
+Rule 1(4) is precise: on an amount paid under clause (a) or clause (c), interest "shall cease to run **from the date of service of the notice referred to in sub-rule (2)**". Not from the date of deposit. Sub-rule (2) obliges the judgment-debtor who pays into court to give notice of the payment to the decree-holder, either through the court or directly by registered post, acknowledgement due.
+
+Bharat gave no notice. So on the plain words, interest ran on, and it ran on for the six months during which ₹12,00,000 of his money sat sterile in the court's account earning him nothing while costing him 9%. It is difficult to construct a worse outcome from a payment made in full and on the correct statutory mode.
+
+Note the deliberate asymmetry with clause (b). Where payment is made **out of court direct to the decree-holder** by money order or bank, Rule 1(5) stops interest **from the date of such payment** — no notice requirement, because the decree-holder necessarily knows. The notice condition attaches only where the money goes into court, precisely because a deposit is invisible to the decree-holder until somebody tells him.
+
+What would have changed the answer: a single letter by registered post AD on 3 March, and interest stops on the date of its service. Rule 1(3) also matters here — the deposit should have stated the suit number, the parties, **how the sum is to be adjusted as between principal, interest and costs**, the execution case number and the payer's name. A deposit that does not say how it is to be appropriated invites the decree-holder to appropriate it first towards interest and costs, leaving principal outstanding and still running.
+
+There is one argument left to Bharat, and it is worth making even though it is uphill: that Anita had **actual knowledge** from a date earlier than 20 September, or that the deposit was made in her presence in court. Actual knowledge is not service, and the rule says service — but courts have been reluctant to award interest for a period during which the decree-holder knew the money was lying there for the taking, and the equity of that is obvious.
+
+:::
+
+::::
+
+::::instinct The decree that was eleven years and eleven months old
+
+Anita obtained a money decree on 12 August 2013. Bharat appealed. The first appeal was dismissed on 4 May 2016. Anita filed execution applications in 2017 and in 2021; the 2021 application was dismissed for default in 2022 after she failed to deposit process fee.
+
+It is now July 2025. Anita wants to file again.
+
+**Bharat's counsel says the decree is dead. Anita's counsel says the twelve years run afresh from the 2022 order. Both are wrong. Why?**
+
+:::ruling
+
+**Bharat is wrong on the starting point. Anita is wrong on the law.**
+
+Take Anita's error first, because it is the more dangerous belief. Article 136 gives twelve years from the date the decree **became enforceable**, and *Bhawarlal Bhandari* holds that this period is **not extended by the making of intervening execution applications**. A fresh application filed after twelve years is barred however many applications preceded it. There is no renewal, no fresh start from the last order, and — because section 5 of the Limitation Act does not apply to Article 136 — no condonation of even a single day. Anita's belief that the 2022 dismissal restarted the clock is the single most common misconception in execution practice, and it is fatal.
+
+(Note the trap: the **Rule 22 proviso** does measure two years from "the date of the last order" on a previous application. That is a rule about *notice*, not about *limitation*. Practitioners import the measuring point from one to the other and lose decrees doing it.)
+
+Now Bharat's error. He is counting from 12 August 2013 and arriving at August 2025 — hence "eleven years and eleven months, and nearly dead". But where the decree has been the subject of an appeal, the decree that is enforceable is **the appellate decree**, and time under Article 136 runs from the date it became enforceable — 4 May 2016. Anita therefore has until May 2028. She is not in her twelfth year at all; she is in her tenth.
+
+Two practical consequences follow.
+
+**For Anita:** compute the enforceability date and **state the computation in the application itself**, identifying the appellate decree and its date. Do not leave the court to work it out from the annexures, and do not let the original decree's date sit unexplained at column (c) of the Rule 11(2) table where it invites the very objection Bharat is about to take.
+
+**For Bharat:** the limitation point is worth taking anyway, because the court is bound by section 3 of the Limitation Act to apply Article 136 of its own motion whether or not it is pleaded — so it costs nothing to raise, and if the appellate decree turns out to have been a dismissal for default rather than a decree on the merits, the starting point may revert to 2013 after all.
+
+:::
+
+::::
+
+### Practitioner HUD — operational realities
+
+#### The winning ratio
+
+If you take one sentence from this part of the chapter into court, take this one.
+
+::: tip The proposition to plead
+**Rahul S. Shah v. Jinendra Kumar Gandhi**, (2021) 6 SCC 418 — 3-Judge Bench —
+
+"The executing court must dispose of an execution proceeding within **six months** from the date of filing, extendable only by a written order recording reasons."
+
+The direction is one of a set the Court made binding on all trial courts, and it is the most useful sentence in modern execution practice because it converts the decree-holder's ordinary complaint — delay — into a breach of a mandate.
+
+Use it in the first paragraph, not the last: *"In* Rahul S. Shah *this Hon'ble Court directed that every execution proceeding be concluded within six months of institution, extendable only by a written and reasoned order; the present execution has been pending for [•] months without any such order, and the objection under reply is precisely the species of belated obstruction those directions were framed to prevent."*
+
+For the objector's side, the answer is that the directions regulate the court's dispatch and do not curtail a statutory right of objection — but you must have a genuine objection to say it about.
+:::
+
+#### Sword and shield
+
+| Situation | As decree-holder (sword) | As judgment-debtor (shield) |
+|---|---|---|
+| **Payment made out of court** | R. 2(3) — an uncertified payment "shall not be recognised". *Merla Ramanna*: the bar binds the court, not merely the parties. Add Art. 125's thirty days. *But advancing this where the payment plainly happened invites s. 35A costs and a Rule 2 enquiry into your own conduct.* | R. 2(2A) door **(b)** — documentary evidence, which is wider than door (a) and does not care how the cash moved. Then s. 5 for the delay, grounded on the decree-holder's own breach of his R. 2(1) duty. |
+| **Decree more than two years old** | Check the R. 22(1) proviso first: if there is an order on a previous EA within two years, no notice is needed and you may proceed at once. | If there is no such order, insist on notice. Proceeding without it is a material irregularity and feeds R. 90 if a sale follows. |
+| **Execution against a legal representative** | s. 50 permits it; plead the genealogy and identify the estate expressly, or you will lose a year to an issue on the extent of the estate. | **s. 50(2)** — liability is confined to the deceased's property that came to his hands and was not duly disposed of. This is a s. 47 question and it disposes of the asset, not merely the procedure. Lead with it. |
+| **Cross-decrees between the parties** | R. 11(2)(g) obliges you to disclose "any cross-decree". Disclose it and execute for the balance; concealing it makes your verified application defective on its face. | **R. 18** — execution only for the balance. Check the cause titles: the rule requires the same parties **in the same character**, and that is where it usually fails. |
+| **Money deposited into court** | Interest runs until the R. 1(2) notice is **served**. A silent deposit does not stop the clock. | Serve notice by registered post AD the same day, and state the R. 1(3) particulars — especially **how the sum is to be adjusted** as between principal, interest and costs. |
+| **Application after long delay** | Compute the date the decree became enforceable — the **appellate** decree where there was an appeal — and state the computation in the application. | Take Art. 136 whether or not you think it is good: s. 3 obliges the court to apply it of its own motion, so it costs nothing. |
+| **Arrest sought** | R. 11A — the application **shall** state the grounds, or be accompanied by an affidavit stating them. Without it the application goes *in limine*. | Demand the s. 51 proviso finding: means since the decree, **and** refusal or neglect. Without a R. 41 record the decree-holder usually cannot make it out. |
+| **Wrong court** | Identify where the assets are **before** filing. s. 39(4): the court that passed the decree cannot execute outside its jurisdiction. | An attachment by a court without territorial competence is without jurisdiction and may be attacked at any time — it is not curable. |
+
+#### The limitation clock
+
+| Step | Article | Period | Runs from | Condonation |
+|---|---|---|---|---|
+| Application for execution | **Art. 136** | **12 years** | Date the decree became **enforceable** — the appellate decree where there was an appeal; the date of default where payment is by instalments | **None.** s. 5 does **not** apply |
+| Application by the judgment-debtor to record a payment or adjustment | **Art. 125** | **30 days** | Date of the payment or adjustment | s. 5 **is** available |
+| Application to set aside a sale (RR. 89, 90, 91) | **Art. 127** | **60 days** | Date of the sale | s. 5 available |
+| Objection under s. 47 generally | **Art. 137** | 3 years | When the right to apply accrues | s. 5 available |
+| Appeal from an order that is a decree under s. 47 | Art. 116 / 117 | **90 days** to a High Court; **30 days** to any other court | Date of the order | s. 5 available |
+
+::: warning Before you file — the three date computations
+1. **Enforceability, not the decree.** Where an appeal was filed, Article 136 runs from the appellate decree. Where the decree is conditional, from satisfaction of the condition. Where it directs payment by instalments, from each default separately — so an instalment decree generates a rolling series of twelve-year periods, and the earliest ones expire while the later ones are still alive.
+2. **Twelve years does not renew.** Intervening applications preserve nothing. A proceeding validly started may continue past twelve years; a fresh application filed after them cannot.
+3. **Do not confuse the R. 22 proviso with Article 136.** The proviso measures two years from the last order on a previous execution application — that is a rule about *notice*. Article 136 measures twelve years from enforceability — that is a rule about *life*. They have different starting points and different subjects.
+:::
+
+#### Interlocking matrix — what this connects to
 
 | Trigger | Provision | Interlocking Order/Rule | Limitation / fee | Application to file |
 |---|---|---|---|---|
-| Decree passed; you want it enforced | s. 38 — executed by the court which passed it or to which it is sent | O. XXI R. 10, R. 11(2) | **Article 136 — twelve years** from when the decree becomes enforceable | Execution application (EA / EP) in Form 6 of Appendix E |
-| Decree is a decree for payment by instalments | s. 38 with O. XXI R. 11(2)(g) | Article 136 runs from **default in each instalment** where the decree so provides | Twelve years from each default | EA reciting the defaulted instalments only |
-| Judgment-debtor has paid out of court | O. XXI R. 2(1) and (2) | R. 2(2A) — payment through bank/written evidence | **Article 125 — thirty days** to apply for certification | Application by the judgment-debtor to record adjustment |
-| Decree-holder refuses to certify | O. XXI R. 2(2) | R. 2(3) bar — uncertified payment "shall not be recognised" | Thirty days, Article 125 | Application under R. 2(2); s. 5 Limitation Act available |
-| You want to execute without filing a written application | O. XXI R. 11(1) | Confined to attachment of movables in the debtor's possession at the court's own premises | — | Oral application at the moment the decree is passed |
-| Application is defective — no signature, no verification, no particulars | O. XXI R. 17 | R. 17(1) allows amendment; R. 17(2) — if not amended, the application "shall be rejected" | Rejection does not bar a fresh application within Art. 136 | Amendment application; the date of the original application is preserved under R. 17(4) |
-| Decree passed more than **two years** before this application | O. XXI R. 22(1)(a) | Notice to show cause is **mandatory**; R. 23(2) — ex parte order after notice | — | Court issues R. 22 notice suo motu; do not proceed without it |
-| Execution sought against a **legal representative** | O. XXI R. 22(1)(b) with **s. 50** | s. 50(2) — LR liable only to the extent of property received; O. XXII R. 4 for substitution at the decree stage | — | Application to bring LRs on record, with a genealogy and an s. 50(2) statement |
-| Execution sought against the **surety** | O. XXI R. 22(1)(b) with **s. 145** | Surety's liability enforced "as if he were a party" | — | Same EA; separate notice to the surety |
-| Two years have **not** elapsed and there is no LR/surety/assignee | R. 22 not attracted | Court may still issue notice in its discretion | — | Proceed; but insist on R. 22 notice if any of the triggers exists |
-| R. 22 notice was not served and property was sold | Sale is voidable, not void | O. XXI R. 90 — material irregularity in publishing or conducting the sale; s. 47 | **Article 127 — sixty days** from the sale to apply under RR. 89/90 | Application under R. 90 with proof of substantial injury |
-| The decree needs to be executed in another district or State | **ss. 39 to 42** with O. XXI RR. 5–9 | s. 39(4) — the court which passed the decree **cannot** execute against property outside its jurisdiction; R. 6 certificate of non-satisfaction | — | Application under s. 39 for transfer, then a fresh EA in the transferee court |
-| Decree-holder and judgment-debtor hold cross-decrees in **separate suits** | O. XXI R. 18 | Set-off is worked only if both are for money and both are between the same parties in the same capacity | — | Application to record satisfaction pro tanto; execution for the balance |
-| Cross-claims in the **same suit** | O. XXI R. 19 | Execution issues only for the balance; satisfaction entered for the smaller | — | Nothing separate — the decree itself must so record |
-| Two or more decree-holders on one decree | O. XXI R. 15 | One may apply for the whole; the court must enter satisfaction for all | — | EA reciting the interests of the non-applying decree-holders |
-| Any objection to execution, discharge or satisfaction | **s. 47** | Determined by the executing court; no separate suit lies; appealable as a decree after 1976 only if it falls within s. 2(2) | Article 137 residuary — **three years** for the objection application | Objection petition under s. 47 read with s. 151 |
-| Attachment before sale, of assets held by the court | **s. 73** | Rateable distribution among decree-holders who applied before receipt of assets | Application must precede receipt of the assets | Application under s. 73 |
+| Decree passed; you want it enforced | s. 38 — executed by the court which passed it or to which it is sent | O. XXI R. 10, R. 11(2) | **Art. 136 — twelve years** from enforceability | Execution application (EA / EP) in Form 6 of Appendix E |
+| Decree for payment by instalments | s. 38 with O. XXI R. 11(2)(g) | Art. 136 runs from **default in each instalment** | Twelve years from each default | EA reciting the defaulted instalments only |
+| Judgment-debtor has paid out of court | O. XXI R. 2(1) and (2) | R. 2(2A) — Rule 1 mode, or documentary, or admitted | **Art. 125 — thirty days** | Application by the judgment-debtor to record the adjustment |
+| Decree-holder refuses to certify | O. XXI R. 2(2) | R. 2(3) bar — uncertified payment "shall not be recognised" | Thirty days, Art. 125; s. 5 available | Application under R. 2(2) with a s. 5 application |
+| Money deposited into court | O. XXI R. 1(1)(a), (2), (3) | R. 1(4) — interest ceases on **service of notice** | — | Notice by registered post AD, filed the same day |
+| Execution without a written application | O. XXI R. 11(1) | Money decree only; at the moment of passing; debtor within the precincts; for arrest | — | Oral application, made then and there |
+| Application defective in form or particulars | O. XXI R. 17 | Court **shall ascertain**; then **may** reject or **may** allow amendment | Rejection does not bar a fresh application within Art. 136 | Amendment application |
+| Decree passed more than **two years** before this application | O. XXI R. 22(1)(a) | Notice mandatory unless the proviso applies; R. 23 on the return | — | Court issues R. 22 notice; do not proceed without it |
+| Execution against a **legal representative** | O. XXI R. 22(1)(b) with **s. 50** | s. 50(2) — liability limited to the estate received; O. XXII R. 4 at the decree stage | — | Application to bring LRs on record, with genealogy and an s. 50(2) statement |
+| Execution against a **surety** | O. XXI R. 22(1)(b) with **s. 145** | Surety's liability enforced "as if he were a party" | — | Same EA; separate notice to the surety |
+| Foreign decree of a reciprocating territory | O. XXI R. 22(1)(b) with **s. 44A** | Certified copy plus the s. 44A(2) certificate of non-satisfaction | Art. 136 | EA in the District Court, with s. 13 objections open to the debtor |
+| R. 22 notice not served and property sold | Sale is **voidable**, not void | O. XXI R. 90 — material irregularity; s. 47 | **Art. 127 — sixty days** from the sale | R. 90 application pleading **substantial injury** |
+| Assets are in another district or State | **ss. 39 to 42** with O. XXI RR. 5–9 | s. 39(4) — the court which passed the decree **cannot** execute outside its jurisdiction; R. 6 certificate | — | s. 39 transfer application, then a fresh EA in the transferee court |
+| Cross-decrees in **separate suits** | O. XXI R. 18 | Same parties in the **same character**; both for money | — | Application to record satisfaction pro tanto; execution for the balance |
+| Cross-claims in the **same suit** | O. XXI R. 19 | Execution issues only for the balance | — | The decree itself must so record |
+| Two or more decree-holders on one decree | O. XXI R. 15 | One may apply for the whole; satisfaction entered for all | — | EA reciting the interests of the non-applying decree-holders |
+| Any objection to execution, discharge or satisfaction | **s. 47** | Determined by the executing court; **no separate suit lies** | Art. 137 — three years | Objection petition under s. 47 |
+| Assets are in court and several decree-holders want them | **s. 73** | Rateable distribution among those who applied **before** the assets were received | Application must precede receipt | Application under s. 73 |
 
 ::: info Court fee and stamp — what the execution application actually costs
-An execution application is **not** valued as a plaint. Under the Court Fees Act, 1870 (and the corresponding State schedules), an application for execution bears a **fixed fee** under Schedule II, not an ad valorem fee on the decretal amount — the ad valorem fee was already paid on the plaint. Three cost items nevertheless recur and are routinely under-provided for:
+An execution application is **not** valued as a plaint. Under the Court Fees Act, 1870 and the corresponding State schedules, an application for execution bears a **fixed fee** under Schedule II, not an ad valorem fee on the decretal amount — the ad valorem fee was paid on the plaint. Three cost items nevertheless recur and are routinely under-provided for:
 
 1. **Process fee and batta** for the R. 22 notice, the warrant of attachment, the proclamation and the bailiff's establishment — payable in advance, and the single most common reason an EA is dismissed for non-prosecution.
 2. **Publication costs** for the proclamation under R. 67 — newspaper publication, where the court directs it, is charged to the decree-holder and is recoverable from the sale proceeds under s. 35 read with R. 74.
 3. **The sale certificate under R. 94** attracts stamp duty as a **conveyance** under Article 18 of Schedule I to the Indian Stamp Act, 1899, on the market value or the sale price, whichever is higher under the State's valuation rules. The auction-purchaser pays this, not the decree-holder — but a purchaser who is not told of it at the proclamation stage will treat it as a concealed defect and may seek to resile.
 
-Note also that all costs of execution are recoverable under **section 35** and form part of the decretal claim; they must be quantified in column 7 of the R. 11(2) table, or they are lost.
+All costs of execution are recoverable under **section 35** and form part of the decretal claim; they must be quantified in column (g) of the R. 11(2) table, or they are lost.
 :::
 
-### 5. Landmark & Modern Jurisprudence — Rules 1 to 25
+#### The authorities
 
 **Ghanshyam Das v. Anant Kumar Sinha, (1991) 4 SCC 379** — 2-Judge Bench.
-*Facts:* A dispute over whether a person claiming title could be relegated to a separate suit or was bound to work out his remedy within the execution proceeding.
+*Facts:* Whether a person claiming title could be relegated to a separate suit or was bound to work out his remedy within the execution proceeding.
 
-**Ratio decidendi:** The Code contains "elaborate and exhaustive provisions" for dealing with all questions relating to execution, and where a remedy is provided within the executing court's jurisdiction, a party is not to be driven to a separate suit. The executing court's jurisdiction under section 47 and under the Order XXI machinery is a **substitute for**, not a supplement to, a suit.
+**Ratio decidendi:** The Code contains "elaborate and exhaustive provisions" for dealing with all questions relating to execution, and where a remedy is provided within the executing court's jurisdiction, a party is not to be driven to a separate suit. The executing court's jurisdiction under section 47 and the Order XXI machinery is a **substitute for**, not a supplement to, a suit.
 
-::: tip Practitioner Takeaway
-"The Code, by section 47 read with Order XXI, provides a complete and exhaustive machinery for the determination of all questions arising between the parties to the suit and relating to the execution, discharge or satisfaction of the decree, and this Hon'ble Court is therefore bound to determine the present objection rather than relegate the objector to a separate suit."
+::: tip Practitioner takeaway
+"The Code, by section 47 read with Order XXI, provides a complete and exhaustive machinery for the determination of all questions arising between the parties and relating to the execution, discharge or satisfaction of the decree, and this Hon'ble Court is therefore bound to determine the present objection rather than relegate the objector to a separate suit."
 :::
 
 **Rahul S. Shah v. Jinendra Kumar Gandhi, (2021) 6 SCC 418** — 3-Judge Bench.
 *Facts:* Execution of a decree for specific performance obstructed for years by successive applications and third-party claims; the Court took up the systemic problem of execution delay.
 
-**Ratio decidendi:** The Court laid down mandatory directions binding on all trial courts: (i) in a suit for immovable property, the court must at the threshold require the plaintiff to disclose all encumbrances and third-party interests and may add such parties; (ii) the executing court must dispose of an execution proceeding **within six months** from the date of filing, extendable only by a written reasoned order; (iii) the executing court must not entertain a claim that could have been raised at the trial; and (iv) where an obstruction is found to be frivolous, costs must follow.
+**Ratio decidendi:** The Court laid down directions binding on all trial courts: (i) in a suit for immovable property the court must at the threshold require the plaintiff to disclose all encumbrances and third-party interests and may add such parties; (ii) the executing court must dispose of an execution proceeding **within six months** of filing, extendable only by a written reasoned order; (iii) the executing court must not entertain a claim that could have been raised at the trial; and (iv) where an obstruction is found frivolous, costs must follow.
 
-::: tip Practitioner Takeaway
-"In *Rahul S. Shah*, this Hon'ble Court directed that every execution proceeding be concluded within six months of institution, extendable only by a written and reasoned order recording the extraordinary circumstances; the present execution has now been pending for [•] months without any such order, and the objection under reply is precisely the species of belated and frivolous obstruction which those directions were framed to prevent."
+::: tip Practitioner takeaway
+"In *Rahul S. Shah*, this Hon'ble Court directed that every execution proceeding be concluded within six months of institution, extendable only by a written and reasoned order recording the extraordinary circumstances; the present execution has been pending for [•] months without any such order, and the objection under reply is precisely the species of belated and frivolous obstruction which those directions were framed to prevent."
 :::
 
 **Bhawarlal Bhandari v. Universal Heavy Mechanical Lifting Enterprises, (1999) 1 SCC 558** — 2-Judge Bench.
-*Facts:* A decree-holder sought to execute after the twelve-year period, relying on intervening applications and part-satisfaction.
+*Facts:* A decree-holder sought to execute after twelve years, relying on intervening applications and part-satisfaction.
 
-**Ratio decidendi:** Article 136 prescribes an outer limit of twelve years from the date the decree becomes enforceable, and that period is **not** extended by the making of intervening execution applications. The bar is absolute in the sense that section 5 of the Limitation Act does not apply to an execution application, and after twelve years the decree becomes a mere piece of paper — though a decree for perpetual injunction is expressly excluded from Article 136 and is enforceable at any time.
+**Ratio decidendi:** Article 136 prescribes an outer limit of twelve years from the date the decree became enforceable, and that period is **not** extended by intervening execution applications. Section 5 of the Limitation Act does not apply, and after twelve years the decree becomes a mere piece of paper — though a decree for perpetual injunction is expressly excluded from Article 136.
 
-::: tip Practitioner Takeaway
-"Article 136 of the Limitation Act, 1963 prescribes a period of twelve years from the date on which the decree became enforceable, section 5 of that Act has no application to an application for execution, and the present application, having been filed on [date], is barred; the decree-holder's reliance on the earlier execution applications of [dates] is misconceived, since intervening applications do not enlarge the Article 136 period."
+::: tip Practitioner takeaway
+"Article 136 prescribes twelve years from the date on which the decree became enforceable, section 5 of the Limitation Act has no application to an application for execution, and the present application, filed on [date], is barred; the decree-holder's reliance on the earlier applications of [dates] is misconceived, since intervening applications do not enlarge the Article 136 period."
 :::
 
 **Merla Ramanna v. Nallaparaju, AIR 1956 SC 87** — 3-Judge Bench.
 *Facts:* A payment made out of court and never certified was set up as a defence to execution.
 
-**Ratio decidendi:** The prohibition in Rule 2(3) is addressed to the **court**, not merely to the parties: an uncertified payment or adjustment shall not be recognised by any court executing the decree. The bar operates even where the payment is admitted or proved, because the object of the rule is to prevent the executing court from being converted into a forum for trying disputed questions of payment outside the record.
+**Ratio decidendi:** The prohibition in Rule 2(3) is addressed to the **court**, not merely to the parties: an uncertified payment or adjustment shall not be recognised by any court executing the decree. The bar operates even where the payment is admitted or proved, because the object is to prevent the executing court from becoming a forum for trying disputed questions of payment outside the record.
 
-::: tip Practitioner Takeaway
-"The payment now set up was never certified under Order XXI Rule 2, and the thirty-day period under Article 125 of the Limitation Act expired on [date]; by the express terms of Rule 2(3) this Hon'ble Court is prohibited from recognising it, and the objection must be rejected without any enquiry into whether the payment was in fact made."
+::: tip Practitioner takeaway
+"The payment now set up was never certified under Order XXI Rule 2, and the thirty-day period under Article 125 expired on [date]; by the express terms of Rule 2(3) this Hon'ble Court is prohibited from recognising it, and the objection must be rejected without any enquiry into whether the payment was in fact made."
 :::
 
 **Shyam Singh v. Collector, District Hamirpur, 1993 Supp (1) SCC 693** — 2-Judge Bench.
 *Facts:* Whether notice under Rule 22 could be dispensed with where the decree was more than two years old.
 
-**Ratio decidendi:** Notice under Rule 22 in the cases enumerated in sub-rule (1) is mandatory in the sense that an order for execution made without it is liable to be set aside; but the proviso to sub-rule (2) preserves the court's power to issue process without notice for reasons to be recorded where the object of execution would be defeated by delay, and a sale held after a defect in notice is voidable and not void — the objector must establish prejudice.
+**Ratio decidendi:** Notice under Rule 22 in the enumerated cases is mandatory in the sense that an order for execution made without it is liable to be set aside; but sub-rule (2) preserves the power to issue process without notice for reasons recorded, and a sale held after a defect in notice is **voidable and not void** — the objector must establish prejudice.
 
-::: tip Practitioner Takeaway
-"The decree sought to be executed was passed on [date], more than two years before the present application, and no notice under Order XXI Rule 22 was ever issued, much less served; the order for execution dated [•] and all proceedings consequent upon it are therefore liable to be set aside, and the substantial injury caused to the judgment-debtor is that [specify]."
+::: tip Practitioner takeaway
+"The decree was passed on [date], more than two years before the present application, and no notice under Order XXI Rule 22 was issued, much less served; the order for execution and all proceedings consequent upon it are liable to be set aside, and the substantial injury caused to the judgment-debtor is that [specify]."
 :::
 
 **Deep Chand v. Mohan Lal, (2000) 6 SCC 259** — 2-Judge Bench.
 *Facts:* Whether the executing court could go behind the decree on the ground that it was a nullity.
 
-**Ratio decidendi:** An executing court cannot go behind the decree, and must take it as it stands — with the single, narrow exception that a decree passed by a court **wholly without jurisdiction over the subject matter** is a nullity, and its invalidity may be set up at any stage, including in execution, and even in collateral proceedings.
+**Ratio decidendi:** An executing court cannot go behind the decree and must take it as it stands — with the single narrow exception that a decree passed by a court **wholly without jurisdiction over the subject matter** is a nullity, whose invalidity may be set up at any stage, including in execution and in collateral proceedings.
 
-::: tip Practitioner Takeaway
+::: tip Practitioner takeaway
 "It is settled that an executing court cannot go behind the decree; the sole exception is a decree which is a nullity for want of inherent jurisdiction over the subject matter, and the objection now raised does not allege want of subject-matter jurisdiction but merely an error in the appreciation of evidence — a ground available only in appeal and expressly foreclosed in execution."
 :::
 
 ::: info Verify before citing
-Check the current reported text and the subsequent history of each of these authorities before you cite them. *Rahul S. Shah* has generated a body of High Court practice directions implementing its six-month timeline; the applicable directions in your High Court will be more specific than the Supreme Court's general mandate, and the local Civil Rules of Practice will prescribe the form of the execution application in your State. Article 136's application to decrees for perpetual injunction, and to decrees which are conditional or contingent, continues to be litigated.
+Check the current reported text and the subsequent history of each authority before you cite it. *Rahul S. Shah* has generated a body of High Court practice directions implementing its six-month timeline; the directions in your High Court will be more specific than the Supreme Court's general mandate, and the local Civil Rules of Practice prescribe the form of the execution application in your State. Article 136's application to decrees for perpetual injunction, and to conditional or contingent decrees, continues to be litigated.
 :::
 
-### 6. The Advocate's Toolkit — Rules 1 to 25
+#### Strategy and drafting
 
 ::: danger Five failures that kill an execution application at the threshold
-1. **Filing after twelve years and hoping nobody notices.** Article 136 is a limitation the court is bound to apply of its own motion under section 3 of the Limitation Act, whether or not it is pleaded. There is no condonation. Before you draft, compute the date the decree became enforceable — which, where an appeal was filed, is the date of the appellate decree, and where the decree is conditional, the date the condition was satisfied — and state that computation in the application itself.
-2. **Leaving column 7 of the Rule 11(2) table blank or approximate.** The application must state "the amount with interest, if any, due upon the decree, or other relief granted thereby, together with particulars of any cross-decree". A round figure without a computation invites an objection that the application is not maintainable, and worse, caps your recovery at the figure stated. Annex a computation sheet showing principal, contractual or decretal interest with the rate and the period, costs as taxed, and prior realisations credited.
-3. **Ignoring Rule 22 because the decree "is only two years and a month old".** If the decree is more than two years old on the date of the application, or if you are proceeding against a legal representative, a surety or an assignee, notice is mandatory. The one-month excess is exactly the case in which the point is missed, and it is the point on which the sale is later set aside.
-4. **Executing against a legal representative without pleading section 50(2).** An LR is liable only to the extent of the property of the deceased which has come to his hands and has not been duly disposed of. An application which prays for execution against the LR personally, or which omits to identify the estate, will be met with an objection that must be tried, and the court will frame an issue on the extent of the estate — adding a year to the proceeding.
-5. **Applying to the wrong court.** Section 39(4), inserted in 1976, removes the power of the court which passed the decree to execute against property outside its territorial jurisdiction. An application in the wrong court is not merely irregular; the resulting attachment is without jurisdiction and is liable to be set aside at any time.
+1. **Filing after twelve years and hoping nobody notices.** Article 136 is a limitation the court must apply of its own motion under section 3, whether or not it is pleaded. There is no condonation. Before you draft, compute the date the decree became enforceable — the appellate decree where there was an appeal, the date the condition was satisfied where the decree is conditional — and **state that computation in the application itself**.
+2. **Leaving column (g) of the Rule 11(2) table blank or approximate.** The application must state the amount with interest due upon the decree, together with particulars of any cross-decree. A round figure without a computation invites an objection that the application is not maintainable and, worse, caps your recovery at the figure stated. Annex a computation sheet: principal, interest with rate and period, taxed costs, and prior realisations credited.
+3. **Ignoring Rule 22 because the decree "is only two years and a month old".** If the decree is more than two years old on the date of the application, or you are proceeding against a legal representative, a surety or an assignee, notice is mandatory unless the proviso applies. The one-month excess is exactly the case in which the point is missed, and exactly the point on which the sale is later set aside.
+4. **Executing against a legal representative without pleading section 50(2).** An LR is liable only to the extent of the deceased's property that came to his hands and was not duly disposed of. An application praying for execution against the LR personally, or omitting to identify the estate, will be met with an objection that must be tried, and the court will frame an issue on the extent of the estate — adding a year.
+5. **Applying to the wrong court.** Section 39(4) removes the power of the court which passed the decree to execute against property outside its territorial jurisdiction. An application in the wrong court is not merely irregular; the resulting attachment is without jurisdiction and may be set aside at any time.
 :::
 
 ::: warning Strategic timing — when to file, and in what order
-**File the execution application immediately on the decree becoming enforceable, not when you are ready to enforce.** Filing does not commit you to any particular mode; it stops nothing running (Article 136 runs from enforceability, not from the last application), but it puts the judgment-debtor on notice under Rule 22, it triggers the *Rahul S. Shah* six-month clock, and — critically — it establishes your position in the queue for rateable distribution under section 73, which is determined by who had applied before the assets were received by the court.
+**File the execution application immediately on the decree becoming enforceable, not when you are ready to enforce.** Filing does not commit you to any particular mode. It stops nothing running — Article 136 runs from enforceability, not from the last application — but it puts the judgment-debtor on notice under Rule 22, it starts the *Rahul S. Shah* six-month clock, and, critically, it establishes your position in the queue for rateable distribution under **section 73**, which is determined by who had applied **before** the assets were received by the court.
 
-**Attach first, then choose the mode.** The examination of the judgment-debtor as to his property under Rule 41 is available on a bare application and costs nothing. Run it before you elect between arrest and attachment, because the answer determines whether an arrest application under Rule 37 is even arguable — the section 51 proviso requires you to satisfy the court that the debtor **has or has had since the decree the means to pay and has refused or neglected to pay**, and that finding is impossible to make out without a Rule 41 record.
+**Examine before you elect.** The examination of the judgment-debtor as to his property under Rule 41 is available on a bare application and costs nothing. Run it before choosing between arrest and attachment, because the answer determines whether an arrest application under Rule 37 is even arguable — the section 51 proviso requires the court to be satisfied that the debtor **has or has had since the decree the means to pay and has refused or neglected to pay**, and that finding is close to impossible without a Rule 41 record.
 
-**Where the debtor is likely to alienate, seek attachment before the notice.** The proviso to Rule 22(2) permits the court to issue process without notice for reasons recorded, where the object of granting execution would be defeated by delay. Plead the specific facts — a pending agreement to sell, a recent mutation, an encumbrance created after the decree — and ask expressly for an order under the proviso. Do not merely assert apprehension.
+**Where the debtor is likely to alienate, ask for process before notice.** Rule 22(2) permits the court to issue process without notice for reasons recorded, where notice would cause unreasonable delay or defeat the ends of justice. Plead the specific facts — a pending agreement to sell, a recent mutation, an encumbrance created after the decree — and ask **expressly** for an order under sub-rule (2). Do not merely assert apprehension, and do not leave the court to record the reasons unprompted; draft them.
 
-**Certify every payment you receive, within thirty days.** The certification rule cuts both ways. A decree-holder who receives part payment out of court and does not certify it is exposed to a Rule 2(2) application, an enquiry, and a costs order; and where he later executes for the gross figure, he risks a finding of a false claim. Certify by a joint memo the day the money is received.
+**Certify every payment you receive, within thirty days.** The certification rule cuts both ways. A decree-holder who receives part payment out of court and does not certify it is exposed to a Rule 2(2) application, an enquiry and a costs order; and if he then executes for the gross figure, his own verified Rule 11(2)(e) statement becomes evidence of a false claim. Certify by a joint memo on the day the money is received.
 :::
 
 **Model prayer — execution application under Order XXI Rule 11**
@@ -280,66 +531,104 @@ Check the current reported text and the subsequent history of each of these auth
 
 > It is therefore most respectfully prayed that this Hon'ble Court may be pleased to:
 >
-> **(a)** record and certify the payment of ₹[•] made by the applicant/judgment-debtor to the respondent/decree-holder on [date] by [mode — RTGS/NEFT reference number, or cheque number and bank], in full/partial satisfaction of the decree dated [date] in [suit number];
+> **(a)** record and certify the payment of ₹[•] made by the applicant/judgment-debtor to the respondent/decree-holder on [date] by [mode — RTGS/NEFT reference number, or cheque number and bank, or cash against the receipt at Annexure A], in full/partial satisfaction of the decree dated [date] in [suit number];
 >
 > **(b)** declare the said decree to be satisfied to the extent of ₹[•] and direct the execution to proceed, if at all, only for the balance of ₹[•];
 >
-> **(c)** condone the delay of [•] days in making this application, the cause therefor being [•]; and
+> **(c)** condone the delay of [•] days in making this application under section 5 of the Limitation Act, 1963, the cause therefor being the respondent's own failure to discharge the duty cast upon him by Order XXI Rule 2(1); and
 >
 > **(d)** pass such further or other order as may be just.
 
 | # | Checklist before you file the execution application | Provision |
 |---|---|---|
 | 1 | Certified copy of the decree, and of the appellate decree if any, annexed | O. XXI R. 11(3) |
-| 2 | Date on which the decree became enforceable computed and stated; Article 136 satisfied on the face of the application | Art. 136, Limitation Act |
-| 3 | All ten particulars of Rule 11(2)(a)–(j) filled in tabular form — none left as "as per decree" | O. XXI R. 11(2) |
-| 4 | Amount claimed broken into principal, interest (rate and period), taxed costs, and credits for realisations | O. XXI R. 11(2)(g) |
-| 5 | Mode of execution specified — attachment, arrest, delivery, or in the alternative | O. XXI R. 11(2)(j) |
-| 6 | Schedule of properties with survey/khasra numbers, boundaries, and the debtor's share and interest | O. XXI R. 13 |
-| 7 | Where the debtor has died — LRs impleaded, genealogy annexed, s. 50(2) limitation pleaded | s. 50, O. XXII R. 4 |
-| 8 | Where a surety is proceeded against — s. 145 invoked and the surety separately noticed | s. 145 |
-| 9 | Application signed and verified; if unverified, amend before the court rejects it | O. XXI R. 17(1)–(2) |
-| 10 | Process fee and batta deposited on the day of filing, with the receipt annexed | Civil Rules of Practice |
-| 11 | If the property lies outside the jurisdiction — s. 39 transfer application filed first | ss. 39, 39(4) |
-| 12 | Prayer for a Rule 41 order for an affidavit of assets included as a matter of course | O. XXI R. 41, *Rahul S. Shah* |
+| 2 | Date on which the decree became **enforceable** computed and stated on the face of the application | Art. 136, Limitation Act |
+| 3 | All ten particulars of R. 11(2)(a)–(j) filled in tabular form — none left as "as per decree" | O. XXI R. 11(2) |
+| 4 | Amount broken into principal, interest (rate and period), taxed costs, and credits for realisations | O. XXI R. 11(2)(g) |
+| 5 | Any **cross-decree** disclosed, whether passed before or after the decree in suit | O. XXI R. 11(2)(g), R. 18 |
+| 6 | Any payment or adjustment disclosed at column (e) — do not verify a nil where a part payment was received | O. XXI R. 11(2)(e) |
+| 7 | All previous execution applications, with dates and results, disclosed at column (f) | O. XXI R. 11(2)(f) |
+| 8 | Mode of execution specified — attachment, arrest, delivery, receiver, or in the alternative | O. XXI R. 11(2)(j) |
+| 9 | Schedule of properties with survey/khasra numbers, boundaries, and the debtor's share and interest | O. XXI R. 13 |
+| 10 | Where arrest is sought — grounds stated, or an affidavit of grounds annexed | O. XXI R. 11A |
+| 11 | Where the debtor has died — LRs impleaded, genealogy annexed, s. 50(2) limitation pleaded | s. 50, O. XXII R. 4 |
+| 12 | Where a surety is proceeded against — s. 145 invoked and the surety separately noticed | s. 145 |
+| 13 | Application signed and verified; if unverified, amend before the court acts under R. 17 | O. XXI R. 17(1) |
+| 14 | Process fee and batta deposited on the day of filing, with the receipt annexed | Civil Rules of Practice |
+| 15 | If the property lies outside the jurisdiction — s. 39 transfer application filed first | ss. 39, 39(4) |
+| 16 | Prayer for a R. 41 order for an affidavit of assets included as a matter of course | O. XXI R. 41, *Rahul S. Shah* |
 
 ## Rules 26 to 40 — Stay of execution, the modes of execution, and arrest
 
-### 1. Verbatim Bare Act Text & Statutory Mechanics — Rules 26 to 40
+### The dispute this solves
 
-> **Rule 26. When Court may stay execution.** — (1) The Court to which a decree has been sent for execution shall, upon sufficient cause being shown, stay the execution of such decree for a reasonable time, to enable the judgment-debtor to apply to the Court by which the decree was passed, or to any Court having appellate jurisdiction in respect of the decree or the execution thereof, for an order to stay execution, or for any other order relating to the decree or execution which might have been made by such Court of first instance or appellate Court if execution had been issued thereby, or if application for execution had been made thereto.
->
-> (2) Where the property or person of the judgment-debtor has been seized under an execution, the Court which issued the execution may order the restitution of such property or the discharge of such person pending the result of the application.
->
-> (3) Before making an order to stay execution, or for the restitution of property or the discharge of the judgment-debtor, the Court shall require such security from, or impose such conditions upon, the judgment-debtor as it thinks fit.
+::: oneminute Anita has won. Now what does she actually do to Bharat?
+Anita has her decree, she has filed her execution application, and the court has given Bharat notice. Bharat has ignored it.
 
-> **Rule 27. Liability of judgment-debtor discharged.** — No order of restitution or discharge under rule 26 shall prevent the property or person of a judgment-debtor from being retaken in execution of the decree sent for execution.
+So now a practical question arises that the Code has to answer with some precision: **what exactly may the court do to him?**
 
-> **Rule 28. Order of Court which passed decree or of appellate Court to be binding upon Court applied to.** — Any order of the Court by which the decree was passed, or of such Court of appeal as aforesaid, in relation to the execution of such decree, shall be binding upon the Court to which the decree was sent for execution.
+The menu is shorter than people expect, and it has only four real items. The court may take **his property** — attach it and sell it. It may take **the thing itself**, if the decree was for a particular thing rather than for money. It may take **him** — arrest him and put him in civil prison. Or it may put Anita **into possession** of land, physically, breaking the lock if necessary.
 
-> **Rule 29. Stay of execution pending suit between decree-holder and judgment-debtor.** — Where a suit is pending in any Court against the holder of a decree of such Court or of a decree which is being executed by such Court, on the part of the person against whom the decree was passed, the Court may, on such terms as to security or otherwise, as it thinks fit, stay execution of the decree until the pending suit has been decided.
->
-> *Provided that if the decree is one for payment of money, the Court shall, if it grants stay without requiring security, record its reasons for so doing.*
+Rules 26 to 40 set out that menu and attach conditions to each item. They also deal with the mirror question — when execution must **pause**, because Bharat has gone to a higher court, or has a live claim of his own against Anita.
 
-> **Rule 30. Decree for payment of money.** — Every decree for the payment of money, including a decree for the payment of money as the alternative to some other relief, may be executed by the detention in the civil prison of the judgment-debtor, or by the attachment and sale of his property, or by both.
+**The one idea to carry through this block:** the four modes are not a sequence and there is no rule of election. Anita may pursue arrest and attachment together. But the conditions attached to *arrest* are so much heavier than the conditions attached to *attachment* that in practice the sequence is imposed by the evidence rather than by the law.
+:::
 
-> **Rule 31. Decree for specific movable property.** — (1) Where the decree is for any specific movable, or for any share in a specific movable, it may be executed by the seizure, if practicable, of the movable or share, and by the delivery thereof to the party to whom it has been adjudged, or to such person as he may appoint to receive delivery on his behalf, or by the detention in the civil prison of the judgment-debtor, or by the attachment of his property, or by both.
->
-> (2) Where any attachment under sub-rule (1) has remained in force for **three months**, if the judgment-debtor has not obeyed the decree and the decree-holder has applied to have the attached property sold, such property may be sold, and out of the proceeds the Court may award to the decree-holder, in cases where any amount has been fixed by the decree to be paid as an alternative to delivery of movable property, such amount, and, in other cases, such compensation as it thinks fit, and shall pay the balance (if any) to the judgment-debtor on his application.
->
-> (3) Where the judgment-debtor has obeyed the decree and paid all costs of executing the same which he is bound to pay, or where, at the end of **six months** from the date of the attachment, no application to have the property sold has been made, or if made has been refused, the attachment shall cease.
+::: story Why you cannot go to prison for being poor
+The most striking thing in this block is a proviso that is not in Order XXI at all. It sits in **section 51**, and it is what stands between a civil debtor and a prison cell.
 
-> **Rule 32. Decree for specific performance for restitution of conjugal rights, or for an injunction.** — (1) Where the party against whom a decree for the specific performance of a contract, or for restitution of conjugal rights, or for an injunction, has been passed, has had an opportunity of obeying the decree and has wilfully failed to obey it, the decree may be enforced **in the case of a decree for restitution of conjugal rights by the attachment of his property or, in the case of a decree for the specific performance of a contract or for an injunction, by his detention in the civil prison, or by the attachment of his property, or by both.**
->
-> (2) Where the party against whom a decree for specific performance or for an injunction has been passed is a corporation, the decree may be enforced by the attachment of the property of the corporation or, with the leave of the Court, by the detention in the civil prison of the directors or other principal officers thereof, or by both attachment and detention.
->
-> (3) Where any attachment under sub-rule (1) or sub-rule (2) has remained in force for **six months**, if the judgment-debtor has not obeyed the decree and the decree-holder has applied to have the attached property sold, such property may be sold; and out of the proceeds the Court may award to the decree-holder such compensation as it thinks fit, and shall pay the balance (if any) to the judgment-debtor on his application.
->
-> (4) Where the judgment-debtor has obeyed the decree and paid all costs of executing the same which he is bound to pay, or where, at the end of six months from the date of the attachment, no application to have the property sold has been made, or if made has been refused, the attachment shall cease.
->
-> (5) Where a decree for the specific performance of a contract or for an injunction has not been obeyed, the Court may, in lieu of or in addition to all or any of the processes aforesaid, direct that the act required to be done may be done so far as practicable by the decree-holder or some other person appointed by the Court, at the cost of the judgment-debtor, and upon the act being done the expenses incurred may be ascertained in such manner as the Court may direct and may be recovered as if they were included in the decree.
+Start with the raw position. Section 51(c) permits execution "by arrest and detention in prison". Rule 30 says a money decree may be executed by detention, or by attachment and sale, "or by both". Read those alone and you would conclude that Bharat, who owes ₹22,00,000 and has not paid, may be jailed.
 
-> **Rule 33. Discretion of Court in executing decrees for restitution of conjugal rights.** — (1) Notwithstanding anything in rule 32, the Court, either at the time of passing a decree for restitution of conjugal rights or at any time afterwards, may order that the decree shall be executed in the manner provided in this rule.
+He may not — and the reason is worth understanding rather than memorising, because it governs how every arrest application in India must be drafted.
+
+Imprisonment for debt was abolished in England in stages during the nineteenth century for a simple reason: it does not work. A man in prison earns nothing, so he becomes less able to pay, not more. Its only real function is **coercive** — it is a way of squeezing a debtor who *can* pay but *will not*. Against a debtor who genuinely cannot pay, it is pure punishment for misfortune.
+
+So the Code draws that exact line. The proviso to section 51 says detention shall not be ordered unless the court, **for reasons recorded in writing**, is satisfied that the debtor has or has had since the decree **the means to pay** and has **refused or neglected** to pay — or has dishonestly dealt with his property to defeat the decree, or was bound in a fiduciary capacity.
+
+In *Jolly George Verghese*, the Supreme Court went further and constitutionalised the line, reading Article 11 of the International Covenant on Civil and Political Rights — "no one shall be imprisoned merely on the ground of inability to fulfil a contractual obligation" — into Article 21.
+
+Everything else in the arrest rules follows from that one idea. **Rule 37** requires a show-cause notice rather than a warrant, because you cannot find refusal without hearing the man. **Rule 40** requires an actual inquiry with evidence, because refusal is a fact to be proved. **Rule 39** requires the decree-holder to fund the debtor's subsistence, because the State is not going to starve him on Anita's behalf. **Section 58** caps the detention at three months and provides that release does not discharge the debt, because the object was pressure, not punishment.
+
+Read the rules that way and they stop being a list. They are four successive filters on a single question: *is this man refusing, or is he simply broke?*
+:::
+
+### The Act, decompiled
+
+Fifteen rules, doing three separate jobs. Rules 26 to 29 govern **stay** — when execution pauses. Rules 30 to 36 set out the **modes**, matched to the species of decree. Rules 37 to 40, read with the proviso to section 51, govern **arrest**, and they are the most heavily conditioned provisions in the Order.
+
+> **Rule 26. When Court may stay execution.** — (1) The Court to which a decree has been sent for execution [[!shall]], upon sufficient cause being shown, stay the execution of such decree for a reasonable time, to enable the judgment-debtor to apply to the Court by which the decree was passed, or to any Court having appellate jurisdiction in respect of the decree or the execution thereof, for an order to stay execution, or for any other order relating to the decree or execution which might have been made by such Court of first instance or appellate Court if execution had been issued thereby, or if application for execution had been made thereto.
+>
+> (2) Where the property or person of the judgment-debtor has been seized under an execution, the Court which issued the execution [[?may order]] the restitution of such property or the discharge of such person pending the result of the application.
+>
+> (3) Before making an order to stay execution, or for the restitution of property or the discharge of the judgment-debtor, the Court [[!shall require]] such security from, or impose such conditions upon, the judgment-debtor as it thinks fit.
+
+> **Rule 27. Liability of judgment-debtor discharged.** — **No** order of restitution or discharge under rule 26 [[!shall prevent]] the property or person of a judgment-debtor from being retaken in execution of the decree sent for execution.
+
+> **Rule 28. Order of Court which passed decree or of appellate Court to be binding upon Court applied to.** — Any order of the Court by which the decree was passed, or of such Court of appeal as aforesaid, in relation to the execution of such decree, [[!shall be binding]] upon the Court to which the decree was sent for execution.
+
+> **Rule 29. Stay of execution pending suit between decree-holder and judgment-debtor.** — Where a suit is pending in any Court against the holder of a decree of such Court or of a decree which is being executed by such Court, on the part of the person against whom the decree was passed, the Court [[?may]], on such terms as to security or otherwise, as it thinks fit, stay execution of the decree until the pending suit has been decided.
+>
+> **Provided that** if the decree is one for payment of money, the Court [[!shall]], if it grants stay without requiring security, **record its reasons** for so doing.
+
+> **Rule 30. Decree for payment of money.** — Every decree for the payment of money, including a decree for the payment of money as the alternative to some other relief, [[?may be executed]] by the detention in the civil prison of the judgment-debtor, or by the attachment and sale of his property, or by both.
+
+> **Rule 31. Decree for specific movable property.** — (1) Where the decree is for any specific movable, or for any share in a specific movable, it [[?may be executed]] by the **seizure, if practicable**, of the movable or share, and by the delivery thereof to the party to whom it has been adjudged, or to such person as he may appoint to receive delivery on his behalf, or by the detention in the civil prison of the judgment-debtor, or by the attachment of his property, or by both.
+>
+> (2) Where any attachment under sub-rule (1) has remained in force for **three months**, if the judgment-debtor has not obeyed the decree and the decree-holder has applied to have the attached property sold, such property [[?may be sold]], and out of the proceeds the Court may award to the decree-holder, in cases where any amount has been fixed by the decree to be paid as an alternative to delivery of movable property, such amount, and, in other cases, such compensation as it thinks fit, and shall pay the balance (if any) to the judgment-debtor on his application.
+>
+> (3) Where the judgment-debtor has obeyed the decree and paid all costs of executing the same which he is bound to pay, or where, at the end of **six months** from the date of the attachment, no application to have the property sold has been made, or if made has been refused, the attachment [[!shall cease]].
+
+> **Rule 32. Decree for specific performance for restitution of conjugal rights, or for an injunction.** — (1) Where the party against whom a decree for the specific performance of a contract, or for restitution of conjugal rights, or for an injunction, has been passed, has had an opportunity of obeying the decree and has wilfully failed to obey it, the decree [[?may be enforced]] **in the case of a decree for restitution of conjugal rights by the attachment of his property or, in the case of a decree for the specific performance of a contract or for an injunction, by his detention in the civil prison, or by the attachment of his property, or by both.**
+>
+> (2) Where the party against whom a decree for specific performance or for an injunction has been passed is a corporation, the decree [[?may be enforced]] by the attachment of the property of the corporation or, with the leave of the Court, by the detention in the civil prison of the directors or other principal officers thereof, or by both attachment and detention.
+>
+> (3) Where any attachment under sub-rule (1) or sub-rule (2) has remained in force for **six months**, if the judgment-debtor has not obeyed the decree and the decree-holder has applied to have the attached property sold, such property [[?may be sold]]; and out of the proceeds the Court may award to the decree-holder such compensation as it thinks fit, and shall pay the balance (if any) to the judgment-debtor on his application.
+>
+> (4) Where the judgment-debtor has obeyed the decree and paid all costs of executing the same which he is bound to pay, or where, at the end of six months from the date of the attachment, no application to have the property sold has been made, or if made has been refused, the attachment [[!shall cease]].
+>
+> (5) Where a decree for the specific performance of a contract or for an injunction has not been obeyed, the Court [[?may]], in lieu of or in addition to all or any of the processes aforesaid, direct that the act required to be done may be done so far as practicable by the decree-holder or some other person appointed by the Court, at the cost of the judgment-debtor, and upon the act being done the expenses incurred may be ascertained in such manner as the Court may direct and may be recovered as if they were included in the decree.
+
+> **Rule 33. Discretion of Court in executing decrees for restitution of conjugal rights.** — (1) Notwithstanding anything in rule 32, the Court, either at the time of passing a decree for restitution of conjugal rights or at any time afterwards, [[?may order]] that the decree shall be executed in the manner provided in this rule.
 >
 > (2) Where the decree-holder is the husband, and the decree for restitution of conjugal rights is not obeyed, the Court may order that the decree shall be executed by the payment of such periodical sums as it thinks just… [and] may make a further order for the attachment of any property belonging to the judgment-debtor…
 
@@ -347,37 +636,37 @@ Check the current reported text and the subsequent history of each of these auth
 >
 > (2) The Court shall thereupon cause the draft to be served on the judgment-debtor together with a notice requiring his objections (if any) to be made within such time as the Court fixes in this behalf. …
 >
-> (5) Where the judgment-debtor neglects or refuses to execute the document, the decree-holder may prepare a document… and the Court may cause it to be executed **by a person nominated by the Court in this behalf**, and such execution shall have the same effect as the execution of the document by the judgment-debtor.
+> (5) Where the judgment-debtor neglects or refuses to execute the document, the decree-holder may prepare a document… and the Court [[?may cause]] it to be executed **by a person nominated by the Court in this behalf**, and such execution shall have the same effect as the execution of the document by the judgment-debtor.
 
-> **Rule 35. Decree for immovable property.** — (1) Where a decree is for the delivery of any immovable property, possession thereof shall be delivered to the party to whom it has been adjudged, or to such person as he may appoint to receive delivery on his behalf, and, if necessary, by removing any person bound by the decree who refuses to vacate the property.
+> **Rule 35. Decree for immovable property.** — (1) Where a decree is for the delivery of any immovable property, possession thereof [[!shall be delivered]] to the party to whom it has been adjudged, or to such person as he may appoint to receive delivery on his behalf, and, if necessary, by removing any person bound by the decree who refuses to vacate the property.
 >
-> (2) Where a decree is for the joint possession of immovable property, such possession shall be delivered by affixing a copy of the warrant in some conspicuous place on the property and proclaiming by beat of drum, or other customary mode, at some convenient place, the substance of the decree.
+> (2) Where a decree is for the joint possession of immovable property, such possession [[!shall be delivered]] by affixing a copy of the warrant in some conspicuous place on the property and proclaiming by beat of drum, or other customary mode, at some convenient place, the substance of the decree.
 >
-> (3) Where possession of any building or enclosure is to be delivered and the person in possession, being bound by the decree, does not afford free access, the Court, through its officers, may, after giving reasonable warning and facility to any woman not appearing in public according to the customs of the country to withdraw, remove or open any lock or bolt or break open any door or do any other act necessary for putting the decree-holder in possession.
+> (3) Where possession of any building or enclosure is to be delivered and the person in possession, being bound by the decree, does not afford free access, the Court, through its officers, [[?may]], after giving reasonable warning and facility to any woman not appearing in public according to the customs of the country to withdraw, remove or open any lock or bolt or break open any door or do any other act necessary for putting the decree-holder in possession.
 
-> **Rule 36. Decree for delivery of immovable property when in occupancy of tenant.** — Where a decree is for the delivery of any immovable property in the occupancy of a tenant or other person entitled to occupy the same and not bound by the decree to relinquish such occupancy, the Court shall order delivery to be made by affixing a copy of the warrant in some conspicuous place on the property, and proclaiming to the occupant by beat of drum or other customary mode, at some convenient place, the substance of the decree in regard to the property.
+> **Rule 36. Decree for delivery of immovable property when in occupancy of tenant.** — Where a decree is for the delivery of any immovable property in the occupancy of a tenant or other person entitled to occupy the same and not bound by the decree to relinquish such occupancy, the Court [[!shall order]] delivery to be made by affixing a copy of the warrant in some conspicuous place on the property, and proclaiming to the occupant by beat of drum or other customary mode, at some convenient place, the substance of the decree in regard to the property.
 
-> **Rule 37. Discretionary power to permit judgment-debtor to show cause against detention in prison.** — (1) Notwithstanding anything in these rules, where an application is for the execution of a decree for the payment of money by the arrest and detention in the civil prison of a judgment-debtor who is liable to be arrested in pursuance of the application, the Court **shall, instead of issuing a warrant for his arrest, issue a notice** calling upon him to appear before the Court on a day to be specified in the notice and show cause why he should not be committed to the civil prison:
+> **Rule 37. Discretionary power to permit judgment-debtor to show cause against detention in prison.** — (1) Notwithstanding anything in these rules, where an application is for the execution of a decree for the payment of money by the arrest and detention in the civil prison of a judgment-debtor who is liable to be arrested in pursuance of the application, the Court [[!shall]], instead of issuing a warrant for his arrest, [[!issue a notice]] calling upon him to appear before the Court on a day to be specified in the notice and show cause why he should not be committed to the civil prison:
 >
-> *Provided that such notice shall not be necessary if the Court is satisfied, by affidavit, or otherwise, that, with the object or effect of delaying the execution of the decree, the judgment-debtor is likely to abscond or leave the local limits of the jurisdiction of the Court.*
+> **Provided that** such notice [[!shall not be necessary]] if the Court is satisfied, by affidavit, or otherwise, that, with the object or effect of delaying the execution of the decree, the judgment-debtor is likely to abscond or leave the local limits of the jurisdiction of the Court.
 >
-> (2) Where appearance is not made in obedience to the notice, the Court shall, if the decree-holder so requires, issue a warrant for the arrest of the judgment-debtor.
+> (2) Where appearance is not made in obedience to the notice, the Court [[!shall]], if the decree-holder so requires, issue a warrant for the arrest of the judgment-debtor.
 
-> **Rule 38. Warrant for arrest to direct judgment-debtor to be brought up.** — Every warrant for the arrest of a judgment-debtor shall direct the officer entrusted with its execution to bring him before the Court with all convenient speed, unless the amount which he has been ordered to pay, together with the interest thereon and the costs (if any) to which he is liable, be sooner paid.
+> **Rule 38. Warrant for arrest to direct judgment-debtor to be brought up.** — Every warrant for the arrest of a judgment-debtor [[!shall direct]] the officer entrusted with its execution to bring him before the Court with all convenient speed, unless the amount which he has been ordered to pay, together with the interest thereon and the costs (if any) to which he is liable, be sooner paid.
 
-> **Rule 39. Subsistence allowance.** — (1) No judgment-debtor shall be arrested in execution of a decree unless and until the decree-holder pays into Court such sum as the Judge thinks sufficient for the subsistence of the judgment-debtor from the time of his arrest until he can be brought before the Court. …
+> **Rule 39. Subsistence allowance.** — (1) **No** judgment-debtor [[!shall be arrested]] in execution of a decree **unless and until** the decree-holder pays into Court such sum as the Judge thinks sufficient for the subsistence of the judgment-debtor from the time of his arrest until he can be brought before the Court. …
 >
-> (4) Sums disbursed by the decree-holder for the subsistence of the judgment-debtor in the civil prison shall be deemed to be costs in the suit: **Provided that the judgment-debtor shall not be detained in the civil prison or arrested on account of any sum so disbursed.**
+> (4) Sums disbursed by the decree-holder for the subsistence of the judgment-debtor in the civil prison shall be deemed to be costs in the suit: **Provided that** the judgment-debtor [[!shall not be detained]] in the civil prison or arrested on account of any sum so disbursed.
 
-> **Rule 40. Proceedings on appearance of judgment-debtor in obedience to notice or after arrest.** — (1) When a judgment-debtor appears before the Court in obedience to a notice issued under rule 37, or is brought before the Court after being arrested in execution of a decree for the payment of money, **the Court shall proceed to hear the decree-holder and take all such evidence as may be produced by him in support of his application for execution, and shall then give the judgment-debtor an opportunity of showing cause why he should not be committed to the civil prison.**
+> **Rule 40. Proceedings on appearance of judgment-debtor in obedience to notice or after arrest.** — (1) When a judgment-debtor appears before the Court in obedience to a notice issued under rule 37, or is brought before the Court after being arrested in execution of a decree for the payment of money, [[!the Court shall proceed to hear]] **the decree-holder and take all such evidence as may be produced by him in support of his application for execution, and shall then give the judgment-debtor an opportunity of showing cause why he should not be committed to the civil prison.**
 >
-> (2) Pending the conclusion of the inquiry under sub-rule (1), the Court may, in its discretion, order the judgment-debtor to be detained in the custody of an officer of the Court or release him on his furnishing security to the satisfaction of the Court for his appearance when required.
+> (2) Pending the conclusion of the inquiry under sub-rule (1), the Court [[?may]], in its discretion, order the judgment-debtor to be detained in the custody of an officer of the Court or release him on his furnishing security to the satisfaction of the Court for his appearance when required.
 >
-> (3) Upon the conclusion of the inquiry under sub-rule (1) the Court may, subject to the provisions of section 51 and to the other provisions of this Code, make an order for the detention of the judgment-debtor in the civil prison and shall in that event cause him to be arrested if he is not already under arrest: …
+> (3) Upon the conclusion of the inquiry under sub-rule (1) the Court [[?may]], subject to the provisions of section 51 and to the other provisions of this Code, make an order for the detention of the judgment-debtor in the civil prison and shall in that event cause him to be arrested if he is not already under arrest: …
 >
-> (4) Where the Court does not make an order of detention under sub-rule (3), it shall disallow the application and, if the judgment-debtor is under arrest, direct his release.
+> (4) Where the Court does not make an order of detention under sub-rule (3), it [[!shall disallow]] the application and, if the judgment-debtor is under arrest, direct his release.
 
-> **Section 51, proviso.** — *Provided that, notwithstanding anything in clause (c), where the decree is for the payment of money, execution by detention in prison shall not be ordered unless, after giving the judgment-debtor an opportunity of showing cause why he should not be committed to prison, the Court, for reasons recorded in writing, is satisfied —*
+> **Section 51, proviso.** — *Provided that, notwithstanding anything in clause (c), where the decree is for the payment of money, execution by detention in prison [[!shall not be ordered]] **unless**, after giving the judgment-debtor an opportunity of showing cause why he should not be committed to prison, the Court, for reasons recorded in writing, is satisfied —*
 > *(a) that the judgment-debtor, with the object or effect of obstructing or delaying the execution of the decree, — (i) is likely to abscond or leave the local limits of the jurisdiction of the Court, or (ii) has, after the institution of the suit in which the decree was passed, dishonestly transferred, concealed, or removed any part of his property, or committed any other act of bad faith in relation to his property, or*
 > *(b) that the judgment-debtor has, or has had since the date of the decree, the means to pay the amount of the decree or some substantial part thereof and refuses or neglects or has refused or neglected to pay the same, or*
 > *(c) that the decree is for a sum for which the judgment-debtor was bound in a fiduciary capacity to account.*
@@ -413,7 +702,65 @@ This is not a matter of judicial sympathy. In *Jolly George Verghese v. Bank of 
 The practical consequence: an arrest application is an evidentiary proceeding under Rule 40, not a formality. Build it on a Rule 41 examination, bank statements, mutation records and an admission — or it will fail, and you will have lost six months.
 :::
 
-### 2. Plain-English Conceptual Demystification — Rules 26 to 40
+::: proviso The proviso to Rule 37(1) — the one door to a warrant without a notice
+Rule 37(1) is emphatic and it is drafted to override: "**Notwithstanding anything in these rules**", where arrest is applied for, the court **shall**, *instead of* issuing a warrant, issue a notice to show cause. The default is a notice. The warrant is the exception.
+
+The proviso is the only exception, and it is narrow in three separate ways.
+
+**(1) It is confined to one mischief.** Notice is unnecessary only where the court is satisfied that the judgment-debtor **is likely to abscond or leave the local limits of the jurisdiction**. Not that he is likely to dissipate assets; not that he is evasive; not that he has been rude to the bailiff. Abscondence or departure, and nothing else.
+
+**(2) It requires a purposive element.** The abscondence must be "**with the object or effect of delaying the execution of the decree**". A debtor who is leaving the jurisdiction because his employer has transferred him to Nagpur is not within the proviso, whatever the effect on the decree-holder's convenience.
+
+**(3) It requires material.** The court must be "**satisfied, by affidavit, or otherwise**". In practice this means an affidavit with facts — a surrendered tenancy, a booked flight, a closed bank account, children withdrawn from school, a property sold — and not a paragraph asserting apprehension.
+
+The reason for the narrowness is structural. Skipping the notice does not merely accelerate the process; it removes the debtor's opportunity to be heard *before* he is taken into custody, and the whole architecture of section 51 depends on the court hearing him on means. So the proviso lets you arrest first — but the **Rule 40 inquiry still has to happen** afterwards, and the section 51 finding still has to be made. The proviso buys custody, not detention.
+:::
+
+::: proviso The proviso to Rule 29 — reasons as the price of a free stay
+Rule 29 lets a court stay execution where the judgment-debtor has a suit pending against the decree-holder in the same court. It is a sensible provision that was, for decades, systematically abused: a debtor faced with a money decree would file a large cross-suit for damages, obtain an unconditional stay, and paralyse the decree for as long as the cross-suit took.
+
+The 1999/2002 amendments answered that with a proviso which does not remove the power but prices it. Where the decree is **for payment of money**, and the court grants stay **without requiring security**, it **shall record its reasons** for doing so.
+
+Read the structure. Security is now the assumed condition; a stay without it is the departure; and a departure must be justified on the record. That has two practical consequences which are worth stating separately because they point in opposite directions.
+
+**For the judgment-debtor:** do not simply ask for a stay. Either offer security in the application itself, or supply the court with the reasons it is now obliged to record — because a stay order that recites no reasons is vulnerable on that ground alone, independent of its merits, and you will lose it on revision.
+
+**For the decree-holder:** where a Rule 29 stay has been granted on a money decree with neither security nor recorded reasons, you have an objection that does not require you to argue about the cross-suit at all.
+:::
+
+### How this actually runs
+
+Two trees. The first is the arrest question, which is the most heavily gated decision in the whole Order. The second is the possession question, where a single fact — whether the occupant is bound by the decree — decides whether the decree-holder gets the property or a drum-beat.
+
+<MicroTree
+  input="Your money decree is unsatisfied and you want the judgment-debtor arrested and detained in civil prison"
+  :gates="[
+    { q: 'Is the judgment-debtor a person who may lawfully be arrested at all?', note: 'Section 56 is an ABSOLUTE bar on the arrest of a woman in execution of a money decree. Sections 135 and 135A exempt judicial officers, legislators while the House is sitting, and certain others. Check also for an IBC moratorium under section 14 or section 96, which bars execution entirely.', no: 'Stop. This is jurisdictional, not discretionary, and no conduct of the debtor cures it. Proceed against property instead.' },
+    { q: 'Does the decretal sum exceed the section 58 floor?', note: 'No arrest lies at all for a decree not exceeding ₹2,000. Detention is capped at six weeks where the sum exceeds ₹2,000 but not ₹5,000, and at three months where it exceeds ₹5,000.', no: 'Arrest is unavailable. Note also section 58(2): detention never discharges the debt, so arrest is a pressure tactic and not a substitute for realisation.' },
+    { q: 'Have you deposited SUBSISTENCE ALLOWANCE at the notified State scale?', note: 'Rule 39: “No judgment-debtor shall be arrested … unless and until the decree-holder pays into Court” a sufficient sum. Compute it for the whole period of detention you seek, not for a single day.', no: 'The arrest is vitiated. This is a condition precedent, not a formality, and it is the commonest reason a warrant is executed and the debtor released the same week.' },
+    { q: 'Has a Rule 37 SHOW-CAUSE NOTICE been issued — or have you brought yourself within its proviso?', note: 'The default is a notice, not a warrant. The proviso requires satisfaction, on affidavit, that the debtor is likely to abscond or leave the jurisdiction WITH THE OBJECT OR EFFECT of delaying execution.', no: 'Arrest without notice, and without the proviso invoked on affidavit and recorded, is illegal. And note: even where the proviso is properly invoked, it buys custody only — the inquiry below still has to happen.' },
+    { q: 'Has the court held the Rule 40 INQUIRY — heard the decree-holder, taken his evidence, and given the debtor an opportunity to show cause?', note: 'Rule 40(1) is mandatory. Detention ordered on submissions alone, without evidence on means, is a nullity.', no: 'Ask for the inquiry and be ready to run it: witnesses, bank records summoned under Order XVI Rule 6, mutation entries, and the Rule 41 affidavit of assets. This is a trial in miniature and it is won on documents.' },
+    { q: 'Can the court record, IN WRITING, satisfaction on one of the three limbs of the section 51 proviso?', note: 'Limb (a): abscondence, or dishonest transfer or concealment of property after the institution of the suit. Limb (b): MEANS since the decree AND refusal or neglect to pay. Limb (c): a sum for which the debtor was bound in a fiduciary capacity to account.', no: 'The application fails. Jolly George Verghese: inability to pay is not a ground. Non-payment alone proves nothing — the decree-holder must prove means PLUS refusal, and the burden is his throughout.' }
+  ]"
+  result="the court may order detention in civil prison for the period fixed by section 58 — three months where the decree exceeds ₹5,000, six weeks where it exceeds ₹2,000"
+  caveat="Note which limb you are on, because they are not equally hard. Limb (b) requires proof of PRESENT or post-decretal means, which a careful debtor can make very difficult. Limb (a)(ii) requires only a dishonest transfer or concealment AFTER the institution of the suit — and it does not require present means at all. Where assets have been moved to a spouse or a brother since the plaint was filed, plead (a)(ii) first and (b) in the alternative, not the other way round."
+  resultKind="discretionary"
+/>
+
+<MicroTree
+  input="You hold a decree for possession of immovable property and the bailiff has gone to deliver it"
+  :gates="[
+    { q: 'Is anybody in occupation other than the judgment-debtor and his household?', note: 'Ask this BEFORE the warrant issues, not at the door. The answer determines everything that follows and it is cheap to establish in advance.', no: 'Rule 35(1) applies. Possession is delivered by putting you in and, if necessary, removing any person bound by the decree who refuses to vacate.' },
+    { q: 'Is that occupant BOUND BY THE DECREE?', note: 'Bound = a party, a privy, a member of the household, an employee, or a transferee pendente lite caught by section 52 of the Transfer of Property Act. A tenancy created AFTER the institution of the suit is caught by lis pendens and its holder is bound.', no: 'Rule 36 applies and this is the fork in the road. Delivery becomes SYMBOLIC — a copy of the warrant is affixed on the property and the substance of the decree is proclaimed by beat of drum. The occupant stays exactly where he is.' },
+    { q: 'Is access being refused — a locked door, a bolted enclosure?', note: 'Rule 35(3). The court through its officers may remove or open any lock or bolt or break open any door.', no: 'You are in. Take delivery and have the bailiff’s report recorded.' },
+    { q: 'Has reasonable WARNING been given, and facility afforded to any woman not appearing in public to withdraw?', note: 'Both are express statutory conditions on the use of force, and both should appear in the bailiff’s report.', no: 'The forcible entry is open to challenge. Have the warrant re-issued with the conditions recited, and take the delivery again properly rather than defending an irregular one.' }
+  ]"
+  result="actual, physical possession is delivered to you, breaking open the premises if necessary, and the bailiff files a report of delivery"
+  caveat="The gate that matters is the second one, and symbolic delivery under Rule 36 is not a consolation prize — it is a dead end that looks like a result. It gives you nothing on the ground. If you take it, your execution is not over: you must file under Rule 97 alleging that the occupant’s possession is not on his own independent right, and Article 129 allows you THIRTY DAYS to complain of resistance or obstruction. That thirty-day period is the single most missed limitation in the whole of Order XXI."
+  resultKind="mandatory"
+/>
+
+### In plain English
 
 **(a) Stay is a jurisdictional relay, not a power.** Rules 26 to 28 answer a narrow question: what does the *transferee* court do when the judgment-debtor says "I am going to the decreeing court, or to the appellate court, for a stay"? The answer is that the transferee court must pause — Rule 26(1) uses "shall" — but only for a *reasonable time*, and only to enable that approach. It has no power to stay the decree on the merits, because the merits belong to the decreeing court and the appeal belongs to the appellate court. Rule 28 completes the circuit: whatever those courts say binds the transferee court. Rule 27 supplies the anti-abuse rule: property released or a debtor discharged under Rule 26(2) can be retaken, so the temporary release confers no immunity.
 
@@ -437,35 +784,214 @@ The practical consequence: an arrest application is an evidentiary proceeding un
 
 **(k) The maximum period of detention is fixed by section 58, and detention does not discharge the debt.** Under section 58, detention is for a maximum of **three months** where the decree is for more than five thousand rupees, and **six weeks** where it is above two thousand but not exceeding five thousand; no arrest at all lies for a decree not exceeding two thousand rupees. Section 58(2) provides that the release of the debtor does not discharge him from the debt — the property route remains open. And under section 55(3) and (4), a debtor who applies to be declared insolvent and complies with the conditions may be released.
 
-### 3. Courtroom & Practical Illustrations — Rules 26 to 40
+### Test your instinct
 
-::: tip Illustration 1 — the mandatory injunction nobody can enforce
-**Facts.** A obtains a decree directing B to demolish an unauthorised construction encroaching eighteen inches onto A's plot and to restore the boundary wall. B does nothing for two years. A files an execution application under Rule 32 seeking B's detention.
+Five situations. Decide what you would argue and what you think the court will do, and only then open the ruling. Watch for the pattern: in this block the decree-holder usually loses on something he could have fixed at the drafting stage.
 
-**Sword — A's case.** Plead the twin conditions with precision, not conclusions. On *opportunity*: the decree gave B three months to comply; the appeal was dismissed on [date]; no stay ever operated; B has therefore had eleven months of unimpeded opportunity. On *wilfulness*: annex the demand notice, B's reply asserting that "the construction is within my own boundary" (which is the very question concluded by the decree), and photographs dated after the decree showing the encroachment intact and freshly plastered — improvement after the decree is the best evidence of contumacy there is.
+::::instinct The wall he was ordered to pull down
 
-Then — and this is the step most decree-holders omit — pray **in the alternative under Rule 32(5)** that the demolition be carried out through a court commissioner at B's cost, with the expenses ascertained and recovered as if included in the decree. Attach a quotation. This gives the court a way to enforce the decree without sending anyone to prison, which is the outcome most judges will prefer, and it makes your application harder to refuse.
+Anita obtained a decree directing Bharat to demolish an unauthorised construction encroaching eighteen inches onto her plot, and to restore the boundary wall. The decree gave him three months. His appeal was dismissed fourteen months ago. No stay ever operated. The wall is still standing, and photographs taken last month show it freshly plastered.
 
-**Shield — B's case.** Attack wilfulness, not the decree. Plead that the decree is ambiguous as to the datum line from which the eighteen inches is measured; that B applied under section 152 for clarification on [date] and that application is pending; that a demolition would endanger the common wall, as certified by a structural engineer whose report is annexed; and that B has tendered the market value of the strip in a section 151 application, which the decree-holder has refused. None of this is a defence to the decree — but Rule 32 does not enforce decrees, it punishes contumacy, and a debtor who is visibly trying to comply is not contumacious.
+Anita has applied under Rule 32 for Bharat's detention in civil prison.
+
+**Her evidence of non-compliance is unanswerable. Why is that not enough — and what one paragraph, if she adds it, will make her application very hard to refuse?**
+
+:::ruling
+
+**Because Rule 32 does not enforce decrees. It punishes contumacy.**
+
+Sub-rule (1) imposes **twin conditions**, and both are findings of fact the court must make before any coercive process issues: the party must have "had an **opportunity of obeying** the decree" **and** have "**wilfully failed** to obey it". Wilfulness is not presumed from non-compliance, and this is where most Rule 32 applications die — the applicant proves the first condition, assumes the second follows, and stops.
+
+Anita's material is actually good on both, but she has to say so separately. On opportunity: three months given, appeal dismissed fourteen months ago, no stay at any time. On wilfulness: the fresh plaster. **Improvement of the offending structure after the decree is about the best evidence of contumacy there is** — it is not neglect, it is investment. Draft them as two numbered paragraphs under their own headings, with the documents under each.
+
+Now the paragraph that changes the outcome. **Rule 32(5)** — the most valuable and least used provision in the Order — allows the court, "in lieu of or in addition to" the coercive processes, to direct that the act required by the decree be done **by the decree-holder or a person appointed by the court, at the cost of the judgment-debtor**, with the expenses ascertained and recovered *as if they were included in the decree*.
+
+Ask for it in the alternative, with a costed quotation annexed and a prayer for a commissioner.
+
+Why this matters so much: it gives the judge a way to enforce the decree **without sending anyone to prison**, which is the outcome most judges will take if it is offered. An application that asks only for detention forces a binary the court would rather avoid, and the usual result is an adjournment. An application that offers substituted performance converts an intractable enforcement problem — how do you make a man demolish his own wall? — into a money recovery, which the court already knows how to do.
+
+Bharat's answer, incidentally, is to attack wilfulness and nothing else: that the decree is ambiguous as to the datum line, that a section 152 application for clarification is pending, that demolition would endanger the common wall on a structural engineer's certificate. None of that is a defence to the decree. But a debtor who is visibly trying to comply is not contumacious, and Rule 32 asks about contumacy.
+
 :::
 
-::: tip Illustration 2 — arrest sought against a businessman who says he is ruined
-**Facts.** A holds a money decree for ₹42 lakh against B, a former exporter. B's factory has been sold in a bank auction. A applies for B's arrest, pleading that B lives in a large house, drives a new car, and educates two children in an international school.
+::::
 
-**Sword — A's case.** Do not lead with lifestyle; lead with a **Rule 41 examination**. Apply first for an order that B file an affidavit of assets and submit to examination on oath — this costs nothing and produces admissions. Then build the section 51 proviso case on limb (a)(ii) as well as limb (b): show that after the institution of the suit, B transferred the house to his wife by a gift deed dated [•] for no consideration, and settled the car in his brother's name — dishonest transfer with the effect of obstructing execution. On limb (b), show school fee receipts of ₹6 lakh a year paid after the decree from an account in B's operational control: that is proof of present means and of an election to pay others rather than the decree.
+::::instinct The exporter who says he is ruined
 
-**Shield — B's case.** Meet the proviso head on, because the burden is on the decree-holder. File a full and candid affidavit of assets — concealment is fatal, disclosure is a defence. Show that the gift deed predates the suit, or was in discharge of an antecedent obligation; that the school fees are paid by B's father, with the father's bank statements; that B's present income is ₹35,000 a month as a salaried employee, with Form 16. Then invoke *Jolly George Verghese*: mere inability to pay is not a ground for detention, and the court must record a positive finding of means **and** refusal. Finally, offer a scheme — instalments under section 60 read with Order XXI Rule 11(2)(g), secured by a charge on a disclosed asset. Courts do not imprison debtors who come with a payment proposal.
+Anita holds a money decree for ₹42,00,000 against Bharat, a former exporter whose factory has been sold in a bank auction. She applies for his arrest, pleading that he lives in a large house, drives a new car, and educates two children at an international school.
+
+**Bharat's counsel says the whole application is misconceived under *Jolly George Verghese*. On what Anita has pleaded, he is right. What should she have pleaded instead — and which limb of the section 51 proviso is she making unnecessarily hard for herself?**
+
+:::ruling
+
+**She has pleaded lifestyle, which proves display, not means — and she has walked into the hardest limb of the proviso when an easier one was available.**
+
+Take the doctrinal point first. Under *Jolly George Verghese*, mere non-payment is not a ground for detention; the court must record, on evidence, that the debtor **has or has had since the decree the means to pay and has refused or neglected to pay**. The burden is on the decree-holder throughout. A house he lives in may be his wife's; a car he drives may be his brother's; school fees may be paid by his father. Anita has pleaded three facts every one of which is consistent with having no means at all.
+
+**What she should have done first, and it costs nothing:** apply under **Rule 41** for an order that Bharat file an affidavit of assets and submit to examination on oath. An arrest application is an evidentiary proceeding under Rule 40, and you cannot run it without a record. Every concealed asset that surfaces on cross-examination is a brick in the section 51 wall, and a false affidavit is separately punishable — which is worth reciting in the notice.
+
+**Now the limb.** Anita is arguing limb **(b)** — present or post-decretal means plus refusal. That is the limb a careful debtor can make very difficult, because he need only show that what he had is gone.
+
+But look at the facts again. If Bharat transferred the house to his wife by a gift deed **after the institution of the suit** for no consideration, and settled the car in his brother's name, then limb **(a)(ii)** is available: that the judgment-debtor, with the object or effect of obstructing or delaying execution, "has, after the institution of the suit, **dishonestly transferred, concealed, or removed** any part of his property, or committed any other act of bad faith in relation to his property".
+
+Limb (a)(ii) **does not require present means at all.** It asks what he did with what he had, not what he has. Where assets have moved to a spouse or a sibling since the plaint was filed, plead (a)(ii) first and (b) in the alternative — never the other way round.
+
+And the school fees are not useless; they are simply on the wrong limb as pleaded. Six lakh a year paid *after the decree* from an account in Bharat's operational control is evidence of present means **and** of an election to pay others in preference to the decree. That is limb (b) properly made out — but it needs the bank statement, not the school's reputation.
+
+**Bharat's best answer** is candour, which is counter-intuitive but correct: a full affidavit of assets destroys limb (a)(ii), forces the enquiry onto limb (b) where Anita's burden is heaviest, and positions him to offer instalments secured on a disclosed asset. Courts do not imprison debtors who come with a payment proposal.
+
 :::
 
-::: tip Illustration 3 — possession decreed, but a tenant is in occupation
-**Facts.** A obtains a decree for possession against B in respect of a shop. When the bailiff arrives, C is in occupation, producing a rent receipt from B dated three years before the suit.
+::::
 
-**Sword — A's case.** Determine first whether C is bound by the decree. If C's tenancy was created *after* the institution of the suit, he is a transferee *pendente lite* under section 52 of the Transfer of Property Act, bound by the decree, and Rule 35 applies — he is removed. If C's tenancy predates the suit and B did not disclose it, C is prima facie "a person entitled to occupy and not bound by the decree", and delivery under Rule 36 will be symbolic only. In that case do not fight the bailiff; take symbolic delivery, and then file an application under **Rule 97**, alleging that C's possession is not independent but derivative from and collusive with B, and asking the executing court to determine the question under Rule 101 — whose determination will be a decree under Rule 103.
+::::instinct The shop with somebody else's tenant in it
 
-**Shield — C's case.** Resist under Rule 97 by pleading an independent right: a registered lease, rent receipts predating the suit, electricity and trade-licence records in C's name, and the fact that A knew of C's occupation and deliberately did not implead him. Take the point that A's failure to implead a person in known possession is fatal to actual delivery, and that the executing court cannot in execution create a title in A against a person who was never a party — the question of C's tenancy must be tried, and Rule 101 requires the executing court to try it, not to brush it aside.
+Anita obtained a decree for possession of a shop against Bharat. When the bailiff arrives to deliver possession, Chetan is in occupation, producing a rent receipt from Bharat dated three years before the suit was filed.
+
+**What will the bailiff do, and what should Anita do the same afternoon? There is a deadline running that most decree-holders miss entirely.**
+
+:::ruling
+
+**The bailiff will beat a drum, and Anita will get nothing.**
+
+The fork is Rule 35 against Rule 36, and it turns on one question: **is the occupant bound by the decree?**
+
+If Chetan's tenancy had been created *after* the institution of the suit, he would be a transferee *pendente lite* under **section 52 of the Transfer of Property Act**, bound by the decree, and Rule 35(1) would apply — he would be removed, and the bailiff could break the lock under Rule 35(3). But his receipt predates the suit. He is prima facie "a tenant or other person entitled to occupy the same and **not bound by the decree**", and Rule 36 therefore applies.
+
+Rule 36 delivery is **symbolic**. A copy of the warrant is affixed on the property; the substance of the decree is proclaimed by beat of drum or other customary mode. Chetan stays exactly where he is.
+
+This is not a defect in the decree. It reflects a first principle: **a decree binds parties and privies, not the world.** Anita sued Bharat and obtained a decree against Bharat. She cannot obtain, in execution, a title against a man who was never before the court.
+
+So what does she do?
+
+**Do not fight the bailiff.** Take the symbolic delivery — it is worth having, because it fixes the date and the fact of resistance on the record. Then file an application under **Rule 97** the same week, alleging that Chetan's possession is not independent but derivative from and collusive with Bharat, and asking the executing court to determine the question under Rule 101. That determination will have the force of a decree under Rule 103 and is appealable as such.
+
+**And here is the deadline.** **Article 129 of the Limitation Act gives thirty days** to complain of resistance or obstruction. Thirty days, from the obstruction. A decree-holder who takes symbolic delivery, files it away as a partial success, and comes back in three months to "sort out the tenant" has lost the remedy — and this is the single most missed limitation in the whole of Order XXI, because symbolic delivery *feels* like a result.
+
+**Chetan's side**, for completeness: plead an independent right and put it on paper — a registered lease, rent receipts predating the suit, electricity and trade-licence records in his own name — and take the point that Anita knew of his occupation and deliberately did not implead him. Rule 101 obliges the executing court to **try** the question, not to brush it aside, so his answer is a pleading and not merely an objection.
+
 :::
 
-### 4. Procedural Interlocking Matrix — Rules 26 to 40
+::::
+
+::::instinct The counter-suit filed on the eve of attachment
+
+Anita's money decree against Bharat is being executed and her attachment application is listed for orders. Two days before the date, Bharat files a suit against Anita in the same court claiming ₹60,00,000 in damages for defective goods, and applies under Rule 29 for a stay of execution until that suit is decided. He offers no security.
+
+**Rule 29 is a real provision and Bharat has read it correctly. What are the three conditions Anita should check first, and what should she say about the absence of security?**
+
+:::ruling
+
+**Check the conditions, because they are strict and they are cumulative — and then take the security point, which does not require her to argue about the goods at all.**
+
+Rule 29 permits a stay where a suit is pending **against the holder of a decree** by **the person against whom the decree was passed**, in **the same court** which passed or is executing the decree. The rationale is set-off in embryo: if Bharat's claim succeeds it may wipe out or reduce the decree, and executing meanwhile may be irreversible.
+
+The three conditions Anita checks, in order:
+
+**(1) Is the suit actually pending?** Filed is not always pending. If it has not been numbered, or has been returned for defects, or is awaiting court-fee, there is nothing to found a stay on.
+
+**(2) Are the parties right?** The suit must be **by the judgment-debtor against the decree-holder**. A suit by Bharat's firm, or his son, or a company he controls, does not satisfy the rule — and this is the point that most often defeats a Rule 29 application, because the cross-suit is frequently filed by whichever entity has the better-looking claim rather than by the judgment-debtor himself.
+
+**(3) Is it the same court?** Rule 29 speaks of a suit pending "in any Court against the holder of a decree **of such Court** or of a decree which is being executed by such Court". A cross-suit in a different court will not do.
+
+Now the security point, and it is the strongest thing Anita has because it is independent of the merits.
+
+The decree here is **for payment of money**. The proviso to Rule 29 — inserted precisely to stop this manoeuvre — provides that where the court grants stay **without requiring security**, it **shall record its reasons** for doing so. Security is the assumed condition; a free stay is the departure; and the departure must be justified on the record.
+
+So Anita's submission is short: *if* the court is minded to stay, it must either require security for the decretal sum, or record its reasons for not doing so — and Bharat's application, which neither offers security nor supplies any reason why he should be excused from it, gives the court no material on which to record anything.
+
+**The timing point is worth naming too.** A Rule 29 stay sought two days before an attachment order, on a claim that arose from goods supplied before the decree, invites the obvious question: why was this suit not filed as a counter-claim under Order VIII Rule 6A in the original proceeding? It is not an answer to the rule, but it is the frame in which the court will read the application.
+
+**Bharat's better course** was to file the suit early and move under Rule 29 **before** the attachment was applied for, and to address the proviso head-on by giving the court the reasons it is obliged to record. A genuine cross-claim, moved early and candidly, is a strong Rule 29 case. The same claim moved on the eve of attachment reads as obstruction.
+
+:::
+
+::::
+
+::::instinct The attachment that quietly expired
+
+Anita obtained a decree for specific performance against Bharat, who ignored it. She applied under Rule 32, and the court attached his commercial premises to coerce compliance. That was seven months ago. Bharat has still not executed the sale deed, and Anita now applies to have the attached premises sold.
+
+**Anita believes she is in a strong position — she has an attachment and a defaulting debtor. She is wrong, and the reason is a date. What has happened?**
+
+:::ruling
+
+**The attachment ceased by operation of law on the 181st day, and nothing can revive it.**
+
+Rule 32(3) permits the sale of property attached under the rule where the attachment has remained in force for **six months**, the debtor has not obeyed the decree, and the decree-holder **has applied to have the attached property sold**. Rule 32(4) then provides the sanction for delay: where the debtor obeys, or where "at the end of six months from the date of the attachment, **no application to have the property sold has been made**, or if made has been refused, **the attachment shall cease**".
+
+Anita applied in month seven. She is one month late, and the words are automatic — "shall cease". No order is required to end it, none can be made to extend it, and there is no provision for revival. She must attach again from the beginning, which means a fresh application, fresh process fee, and — critically — a fresh date for the purposes of any competing attachment or intervening alienation.
+
+The point to internalise is **why** these clocks exist, because it recurs in Rule 31 with different numbers.
+
+Attachment under Rules 31 and 32 is a **coercive** attachment, not a realising one. Its purpose is pressure on a defaulting party, not the conversion of an asset into money. The Code is therefore unwilling to let it sit indefinitely over a man's property while the decree-holder does nothing — an indefinite coercive attachment is a private sanction with no supervision. So the Code puts a fuse on it.
+
+Under **Rule 31** (specific movables) the fuse has two ends: the property **cannot be sold before three months**, and the attachment **ceases at six months** if no sale application has been made. Under **Rule 32** the sale window opens at six months and the attachment dies at six months — which means, read carefully, that the application to sell must be made *at* the six-month mark, and the decree-holder who waits for the window to open has already lost it if he waits a day too long.
+
+**The practical instruction is a diary entry.** The moment an attachment issues under Rule 31 or Rule 32, calendar the sale application. A decree-holder who obtains a coercive attachment and lets the file sleep will find on the 181st day that he has nothing at all — no attachment, no leverage, and a judgment-debtor who has learned that the sanction is empty.
+
+**And for this decree in particular:** Anita has been enforcing a specific performance decree by the wrong route for seven months. **Rule 34** would have got her the conveyance without Bharat's cooperation at all — she prepares a draft, delivers it to the court, the court serves it on Bharat for objections, and on his refusal the court has the document executed **by a person nominated by the court**, which has "the same effect as the execution of the document by the judgment-debtor". Coercion was never necessary. The court could simply have signed for him.
+
+:::
+
+::::
+
+### Practitioner HUD — operational realities
+
+#### The winning ratio
+
+If you take one sentence from this block into court, take this one.
+
+::: tip The proposition to plead
+**Jolly George Verghese v. Bank of Cochin**, (1980) 2 SCC 360 — 2-Judge Bench, Krishna Iyer J. —
+
+"The simple default to discharge is not enough. There must be some element of bad faith beyond mere indifference to pay."
+
+The Court read Article 11 of the International Covenant on Civil and Political Rights — no imprisonment merely for inability to fulfil a contractual obligation — into Article 21, and held that the proviso to section 51 permits detention only on a finding, **recorded in writing on evidence**, of means and deliberate refusal.
+
+For the judgment-debtor this is the whole defence in one line, and it should be the first paragraph of the reply, not the last: *"the decree-holder has led no evidence whatever on means, and the application must be dismissed at the threshold."*
+
+For the decree-holder it is a drafting instruction. It tells you that non-payment proves nothing, that the burden is yours and stays yours, and that you need a **record** — which means Rule 41 before Rule 37, always.
+:::
+
+#### Sword and shield
+
+| Situation | As decree-holder (sword) | As judgment-debtor (shield) |
+|---|---|---|
+| **Arrest sought on a money decree** | Sequence it: R. 41 examination → affidavit of assets → attachment → arrest on the record produced. Plead the s. 51 limb by name. | Check s. 56 first — an **absolute** bar where the debtor is a woman. Then s. 58 floor, then an IBC moratorium. These are jurisdictional and end the matter. |
+| **Debtor has moved assets since the plaint** | Limb **(a)(ii)** — dishonest transfer or concealment after institution of the suit. It does **not** require present means, which makes it far easier than limb (b). | Show the transfer predates the suit, or was for consideration, or discharged an antecedent obligation. Documents, not assertions. |
+| **Debtor genuinely broke** | Limb (b) needs means **plus** refusal. Payments to others after the decree — school fees, EMIs — are evidence of both, but you need the bank statement. | File a full and candid affidavit of assets. Candour destroys (a)(ii) and forces the fight onto (b), where the burden is heaviest. Then offer instalments secured on a disclosed asset. |
+| **Mandatory injunction / demolition decree** | Plead **opportunity** and **wilfulness** in two separate headed paragraphs. Then pray **R. 32(5)** substituted performance in the alternative, with a costed quotation. | Attack wilfulness only, never the decree. A pending s. 152 clarification application, a structural engineer's certificate, a tender of value — a debtor visibly trying to comply is not contumacious. |
+| **Specific performance decree** | Do not coerce. **R. 34** — file a draft conveyance; on refusal the court has it executed by its own nominee, with the same effect as execution by the debtor. | The remedy for the decree-holder's default in depositing the price is **s. 28, Specific Relief Act**, before the **court that passed the decree** — not an objection in execution (*Babu Lal*). |
+| **Possession decreed, third party in occupation** | Establish before the warrant issues whether the occupant is bound. A tenancy created **after** the suit is caught by s. 52 TPA and he is bound — R. 35 applies and the lock may be broken. | If the occupancy predates the suit and he was not impleaded, R. 36 gives symbolic delivery only. Put the independent right on paper: registered lease, receipts, utility and licence records. |
+| **Symbolic delivery taken** | It is not a result. File under **R. 97** within **thirty days** (Art. 129), alleging derivative and collusive possession, for determination under R. 101. | The R. 101 determination is a trial, not a summary brush-off, and under R. 103 it has the force of a decree — so plead it as a pleading. |
+| **Cross-suit filed against you** | Test R. 29 on its three conditions: suit actually **pending**; **by the judgment-debtor against the decree-holder**; in the **same court**. Then take the proviso — money decree, no security, no recorded reasons. | Move under R. 29 **early**, before attachment, not on its eve. Offer security, or supply the reasons the court is obliged to record. |
+| **Appeal filed** | An appeal is **not** a stay — s. 96 with O. XLI R. 5(1). Keep executing. | You must obtain an order. O. XLI R. 5(3): substantial loss, no unreasonable delay, and security. Plead all three or the application fails on its face. |
+| **Coercive attachment under R. 31 / R. 32** | Diarise the sale application the day the attachment issues. | Do nothing and wait. If no sale application is made within six months the attachment **ceases automatically** and cannot be revived. |
+
+#### The limitation clock
+
+| Step | Source | Period | Runs from | Note |
+|---|---|---|---|---|
+| Complaint of **resistance or obstruction** to possession | **Art. 129**, Limitation Act | **30 days** | The obstruction | The most missed period in Order XXI. Symbolic delivery feels like success and the clock runs anyway |
+| Appeal from an appealable order in execution | Art. 116 / 117 | **90 days** to a High Court; **30 days** to any other court | Date of the order | s. 5 available |
+| Sale of property attached under **R. 31** (specific movable) | O. XXI R. 31(2) | Not before **3 months** | Date of attachment | A sale ordered earlier is without jurisdiction |
+| Cesser of attachment under **RR. 31 and 32** | O. XXI RR. 31(3), 32(4) | **6 months** | Date of attachment | "Shall cease" — automatic, no revival, no extension |
+| Maximum detention in civil prison | **s. 58(1)** | **3 months** if the decree exceeds ₹5,000; **6 weeks** if above ₹2,000 and not exceeding ₹5,000 | Date of detention | No arrest at all if the decree does not exceed ₹2,000 |
+| Effect of release | s. 58(2) | — | — | Release does **not** discharge the debt; the property route stays open |
+| Divorce on non-resumption after an RCR decree | Hindu Marriage Act **s. 13(1A)(ii)** | **1 year** | Date of the decree | The real remedy where R. 32/33 enforcement is going nowhere |
+
+::: warning Before you file — the three deposits that stall an arrest
+An application for arrest fails far more often for want of money than for want of merit. Three deposits are required and none is refundable in practice:
+
+1. **Subsistence allowance under Rule 39**, at the scale notified by the State Government for the class to which the judgment-debtor belongs, deposited **before** the warrant issues. Compute it for the full period of detention you seek, not for a day — courts increasingly insist on the whole period up front, and a warrant issued on a one-day deposit gets executed and the debtor released the same week.
+2. **Bailiff's batta and escort charges** under the Civil Rules of Practice, and, where the debtor is outside the court's jurisdiction, the cost of transmitting the warrant under Rule 24.
+3. **Costs of the Rule 40 inquiry** — witness summonses, production of bank records under Order XVI Rule 6, and where you seek a forensic examination of accounts, the commissioner's fee under Order XXVI Rule 11.
+
+Set against this: everything spent is recoverable under **section 35** as costs of execution and forms part of the decretal claim — **provided you plead it and get it taxed**. An execution file that ends without a costs order has silently written off the entire enforcement expenditure.
+:::
+
+#### Interlocking matrix — what this connects to
 
 | Trigger | Provision | Interlocking Order/Rule | Limitation / fee | Application to file |
 |---|---|---|---|---|
@@ -487,17 +1013,8 @@ Then — and this is the step most decree-holders omit — pray **in the alterna
 | Corporate judgment-debtor | O. XXI R. 32(2) — detention of directors with leave | Companies Act, 2013; **IBC s. 14 moratorium** on admission of a CIRP | — | Check for a pending CIRP before filing — an admitted petition freezes execution |
 | Debtor's property has been dissipated after the decree | s. 51 proviso (a)(ii) | O. XXXVIII R. 5 (before judgment); R. 41 examination | — | R. 41 application for an affidavit of assets, then arrest on limb (a)(ii) |
 
-::: info Fee and practice note — the three deposits that stall an arrest
-An application for arrest fails far more often for want of money than for want of merit. Three deposits are required and none of them is refundable in practice:
 
-1. **Subsistence allowance under Rule 39**, at the scale notified by the State Government for the class to which the judgment-debtor belongs, deposited **before** the warrant issues. Compute it for the full period of detention you seek, not for a day — courts increasingly insist on the whole period up front, and a warrant issued on a one-day deposit is executed and then the debtor is released.
-2. **Bailiff's batta and escort charges** under the Civil Rules of Practice, and, where the debtor is outside the court's jurisdiction, the cost of transmission of the warrant under Rule 24.
-3. **Costs of the Rule 40 inquiry** — witness summons, production of bank records under Order XVI Rule 6, and where you seek a forensic examination of accounts, the commissioner's fee under Order XXVI Rule 11.
-
-Set against this: everything you spend is recoverable under section 35 as costs of execution and forms part of the decretal claim — **provided you plead it and get it taxed**. An execution file that ends without a costs order has silently written off the entire enforcement expenditure.
-:::
-
-### 5. Landmark & Modern Jurisprudence — Rules 26 to 40
+#### The authorities
 
 **Jolly George Verghese v. Bank of Cochin, (1980) 2 SCC 360** — 2-Judge Bench (Krishna Iyer J.).
 *Facts:* A judgment-debtor was ordered to be detained in civil prison in execution of a money decree without any finding that he had the means to pay and had refused.
@@ -548,7 +1065,7 @@ Set against this: everything you spend is recoverable under section 35 as costs 
 *Jolly George Verghese* remains the governing authority on section 51, but its application has been refined in the context of decrees under the Negotiable Instruments Act and of arbitral awards executed as decrees. Section 28 of the Specific Relief Act was materially affected by the Specific Relief (Amendment) Act, 2018, which made specific performance the rule rather than the exception and inserted sections 14A and 20A for infrastructure contracts — check the amended text before relying on *Babu Lal*'s framework. For corporate judgment-debtors, always check whether a moratorium under section 14 or section 96 of the Insolvency and Bankruptcy Code, 2016 is operating; it bars execution absolutely, and an attachment made during a moratorium is void.
 :::
 
-### 6. The Advocate's Toolkit — Rules 26 to 40
+#### Strategy and drafting
 
 ::: danger Six failures in the modes and arrest block
 1. **Praying for arrest as an opening move.** An application for arrest that pleads only the decretal amount and the debtor's non-payment discloses no cause under the section 51 proviso and will be dismissed, usually with an observation that the decree-holder is using process as pressure. Always sequence it: Rule 41 examination → affidavit of assets → attachment → arrest on the record so produced.
