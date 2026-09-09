@@ -40,30 +40,72 @@ Order VI is the grammar; Order VII is the plaintiff's sentence; Order VIII is th
 
 ## Order VI — Pleadings Generally, and Amendment
 
-### 1. Verbatim Bare Act Text & Statutory Mechanics
+### The dispute this solves
+
+::: oneminute Everything you are allowed to say was decided on the day you filed.
+Anita lends Bharat ₹15 lakh in 2021. He does not repay. In 2023 she sues him for the money.
+
+Three years later, halfway through the case, her advocate sees the stronger point. The real grievance was never the loan at all — it was a supply contract of 2020 that Bharat broke, and the ₹15 lakh was the loss it caused her. Same money, better case.
+
+She cannot make it.
+
+Not because it is untrue, and not because the court disbelieves her. Because **a judgment cannot travel beyond the pleadings.** Evidence led on a case that was never pleaded is, in law, no evidence at all. The boundary of what Anita may prove was fixed by the paragraphs she filed on day one, and the only door back through that boundary is **Order VI Rule 17** — amendment.
+
+Order VI is therefore not a chapter about drafting etiquette. It is the chapter that decides **what case you are permitted to have.** Three rules do almost all of the work:
+
+**Rule 2** says a pleading shall contain, "and contain only", the **material facts** — not the evidence. **Rule 4** says that fraud, misrepresentation, breach of trust, wilful default and undue influence must be pleaded with **particulars**, with dates and items. And **Rule 17** governs the door: before trial commences it is generously open, and the court *shall* allow what is necessary to determine the real controversy; after trial commences a proviso inserted in 2002 bolts it, unless the party proves that **in spite of due diligence** he could not have raised the matter earlier.
+
+**The one idea to carry through this block:** the pleading is not a summary of your case — it *is* your case. Everything that follows, from the issues to the evidence to the decree, is cut to its shape.
+:::
+
+::: story The paragraph that says everything and pleads nothing
+Read this sentence, which appears in some form in a very large number of plaints:
+
+> *"The Defendants, in collusion with one another and by playing a fraud upon the Plaintiff, got the sale deed executed and thereby cheated the Plaintiff."*
+
+It feels like a strong allegation. It is, in law, close to worthless — and understanding exactly why explains the whole of Rules 2, 4 and 16.
+
+**Ask what the defendant is supposed to do with it.** He is required to file a written statement dealing specifically with each allegation, and failing to deal with one is a deemed admission. So what must he admit or deny here? He does not know what representation is said to have been made. He does not know who is said to have made it, or to whom, or when, or in what words. He does not know what about it was false, or how the plaintiff was induced to act on it. He cannot deny particulars that do not exist. He cannot prepare a defence to a case that has not been stated.
+
+**Now ask what the judge is supposed to do with it.** Issues are framed on the pleadings. From this paragraph the only issue that can be framed is "whether the sale deed was obtained by fraud" — which is not an issue, it is the case. It tells nobody what has to be proved.
+
+So **Rule 4** does not require particulars as a matter of good manners. It requires them because an allegation of fraud without particulars is **not a pleading of fraud at all**; there is nothing in it capable of being tried. And because such allegations are easy to make and damaging to make, **Rule 16** gives the answer: the court may at any stage strike out matter that is unnecessary, scandalous, frivolous or vexatious, or that will prejudice, embarrass or delay a fair trial.
+
+Here is what the same allegation looks like when it is actually pleaded:
+
+> *"On 12 April 2022 at about 11 a.m., at the office of the Sub-Registrar, [place], Defendant No. 1 represented to the Plaintiff that the document being presented for registration was an agreement of leave and licence for eleven months. The said representation was false to the knowledge of Defendant No. 1, in that the document was in fact a deed of sale. The Plaintiff, who is illiterate in English and relied upon the said representation, affixed his thumb impression thereto. The particulars of fraud are set out in Schedule C hereto."*
+
+Every element is now a fact the defendant can admit or deny and the court can frame an issue on: the date, the place, the maker, the representee, the words, the falsity, the knowledge, the inducement.
+
+**The lesson generalises well beyond fraud.** A pleading earns its place by being *triable*. If a paragraph cannot be converted into an issue, and an opponent cannot meaningfully deny it, it is doing no work — and under Rule 16 it may be doing harm.
+:::
+
+### The Act, decompiled
+
+Order VI is the grammar of every pleading in the Code. **Rules 1 to 6** state what a pleading must contain — material facts, concisely, with particulars where the allegation is a serious one. **Rules 14 to 15A** govern signature, verification and the supporting affidavit. **Rule 16** is the power to strike out. And **Rules 17 and 18** govern amendment: the main limb, which is deliberately generous, and the proviso of 2002, which is not.
 
 > **Rule 1. Pleading.** — "Pleading" shall mean plaint or written statement.
 
-> **Rule 2. Pleading to state material facts and not evidence.** — **(1)** Every pleading shall contain, and contain only, a statement in a concise form of the material facts on which the party pleading relies for his claim or defence, as the case may be, but not the evidence by which they are to be proved.
-> **(2)** Every pleading shall, when necessary, be divided into paragraphs, numbered consecutively, each allegation being, so far as is convenient, contained in a separate paragraph.
-> **(3)** Dates, sums and numbers shall be expressed in a pleading in figures as well as in words.
+> **Rule 2. Pleading to state material facts and not evidence.** — **(1)** Every pleading [[!shall contain, and contain only]], a statement in a concise form of the [[=material facts]] on which the party pleading relies for his claim or defence, as the case may be, **but not the evidence** by which they are to be proved.
+> **(2)** Every pleading [[!shall]], when necessary, be divided into paragraphs, numbered consecutively, each allegation being, so far as is convenient, contained in a separate paragraph.
+> **(3)** Dates, sums and numbers [[!shall be expressed]] in a pleading in figures as well as in words.
 
-> **Rule 4. Particulars to be given where necessary.** — In all cases in which the party pleading relies on any misrepresentation, fraud, breach of trust, wilful default, or undue influence, and in all other cases in which particulars may be necessary beyond such as are exemplified in the forms aforesaid, particulars (with dates and items if necessary) shall be stated in the pleading.
+> **Rule 4. Particulars to be given where necessary.** — In all cases in which the party pleading relies on any misrepresentation, fraud, breach of trust, wilful default, or undue influence, and in all other cases in which particulars may be necessary beyond such as are exemplified in the forms aforesaid, particulars (with dates and items if necessary) [[!shall be stated]] in the pleading.
 
-> **Rule 6. Condition precedent.** — Any condition precedent, the performance or occurrence of which is intended to be contested, shall be distinctly specified in his pleading by the plaintiff or defendant, as the case may be; and, subject thereto, an averment of the performance or occurrence of all conditions precedent necessary for the case of the plaintiff or defendant shall be implied in his pleading.
+> **Rule 6. Condition precedent.** — Any condition precedent, the performance or occurrence of which is intended to be contested, [[!shall be distinctly specified]] in his pleading by the plaintiff or defendant, as the case may be; and, subject thereto, an averment of the performance or occurrence of all conditions precedent necessary for the case of the plaintiff or defendant [[!shall be implied]] in his pleading.
 
-> **Rule 15. Verification of pleadings.** — **(1)** Save as otherwise provided by any law for the time being in force, every pleading shall be verified at the foot by the party or by one of the parties pleading or by some other person proved to the satisfaction of the Court to be acquainted with the facts of the case.
-> **(2)** The person verifying shall specify, by reference to the numbered paragraphs of the pleading, what he verifies of his own knowledge and what he verifies upon information received and believed to be true.
+> **Rule 15. Verification of pleadings.** — **(1)** Save as otherwise provided by any law for the time being in force, every pleading [[!shall be verified]] at the foot by the party or by one of the parties pleading or by some other person proved to the satisfaction of the Court to be acquainted with the facts of the case.
+> **(2)** The person verifying [[!shall specify]], by reference to the numbered paragraphs of the pleading, what he verifies of his own knowledge and what he verifies upon information received and believed to be true.
 > **(3)** The verification shall be signed by the person making it and shall state the date on and the place at which it was signed.
-> **(4)** The person verifying the pleading shall also furnish an affidavit in support of his pleadings.
+> **(4)** The person verifying the pleading [[!shall also furnish an affidavit]] in support of his pleadings.
 
-> **Rule 16. Striking out pleadings.** — The Court may at any stage of the proceedings order to be struck out or amended any matter in any pleading —
+> **Rule 16. Striking out pleadings.** — The Court [[?may]] at any stage of the proceedings order to be struck out or amended any matter in any pleading —
 > **(a)** which may be unnecessary, scandalous, frivolous or vexatious, or
 > **(b)** which may tend to prejudice, embarrass or delay the fair trial of the suit, or
 > **(c)** which is otherwise an abuse of the process of the Court.
 
-> **Rule 17. Amendment of pleadings.** — The Court may at any stage of the proceedings allow either party to alter or amend his pleadings in such manner and on such terms as may be just, and all such amendments shall be made as may be necessary for the purpose of determining the real questions in controversy between the parties:
-> **Provided that** no application for amendment shall be allowed after the trial has commenced, unless the Court comes to the conclusion that in spite of due diligence, the party could not have raised the matter before the commencement of trial.
+> **Rule 17. Amendment of pleadings.** — The Court [[?may at any stage]] of the proceedings allow either party to alter or amend his pleadings in such manner and on such terms as may be just, and [[!all such amendments shall be made as may be necessary]] for the purpose of determining the [[=real questions in controversy]] between the parties:
+> **Provided that** [[!no application for amendment shall be allowed after the trial has commenced]], unless the Court comes to the conclusion that [[=in spite of due diligence]], the party **could not** have raised the matter before the commencement of trial.
 
 **Statutory mechanics.**
 
@@ -81,7 +123,82 @@ Order VI is the grammar; Order VII is the plaintiff's sentence; Order VIII is th
 
 **The structure of Rule 17 in one line.** Before trial commences: liberal, and the court *shall* allow what is necessary. After trial commences: prohibited, unless due diligence is affirmatively established. **The whole of amendment practice turns on when "trial commences".**
 
-### 2. Plain-English Conceptual Demystification
+::: proviso Rule 2(1) — "and contain only"
+> *"Every pleading [[!shall contain, and contain only]], a statement in a **concise form** of the **material facts** on which the party pleading relies for his claim or defence, as the case may be, **but not the evidence** by which they are to be proved."*
+
+Three commands are packed into one sentence, and the middle one is the one nobody obeys.
+
+**"Shall contain"** — the material facts must be there. Omit one and the pleading is defective; no amount of evidence at trial will cure it, because a judgment cannot travel beyond the pleadings.
+
+**"And contain only"** — everything else must *not* be there. This is a prohibition, not advice. It is the textual basis for a Rule 16 application to strike out.
+
+**"But not the evidence"** — the means of proof belong in the witness statement and the list of documents, not in the plaint.
+
+The three tiers are constantly confused, so it is worth fixing them with an example. In a suit on a loan:
+
+| Tier | In this case | Must it be pleaded? |
+|---|---|---|
+| **Material facts** | That Bharat borrowed ₹15 lakh from Anita on 3 March 2021, agreed to repay with interest at 12% by 3 March 2022, and has not repaid | **Always.** These are the facts which, if not proved, mean the claim fails |
+| **Material particulars** | That the sum was disbursed by RTGS from account X to account Y on that date | **Yes**, wherever Rule 4 applies or fairness requires the opponent to know the case he must meet |
+| **Evidence** | That the bank manager will depose to the transfer and produce the statement of account | **No** — expressly excluded |
+
+*Udhav Singh v. Madhav Rao Scindia* draws the line that matters: **omission of a material fact renders the pleading defective; omission of particulars is curable** — by amendment, or by an order for further and better particulars. So the first question on any defective pleading is which of the two you are looking at, because it decides whether you attack it or merely ask for it to be filled in.
+
+**Rule 2(3) deserves a line of its own.** Dates, sums and numbers must be expressed "in figures as well as in words". It is ignored in most drafting offices, and occasionally it matters — where a figure is ambiguous, altered, or transposed, the words in the pleading are what the court reads.
+:::
+
+::: proviso The proviso to Rule 17 — the door that closed in 2002
+> *"**Provided that** [[!no application for amendment shall be allowed after the trial has commenced]], unless the Court comes to the conclusion that [[=in spite of due diligence]], the party **could not** have raised the matter before the commencement of trial."*
+
+Rule 17 has two halves that point in opposite directions, and reading only one of them is how practitioners get amendment wrong.
+
+**The main limb is generous, and it is stronger than "may".** The court "may at any stage" allow amendment — but the sentence then turns: "**and all such amendments shall be made as may be necessary** for the purpose of determining the real questions in controversy." The verb shifts from *may* to *shall*. Once the court concludes that the amendment is necessary to determine the real controversy, allowing it is not a matter of indulgence. That is the sentence to read out when an amendment is opposed on the ground that the applicant was careless.
+
+**The proviso reverses the default.** After trial has commenced the answer is no, and the applicant must earn a different one.
+
+Read the exception precisely, because every word of it is a burden. Not "did not raise" — "**could not** have raised". Not "was unaware" — "**in spite of due diligence**". *Salem Advocate Bar Association (II)* holds that due diligence is a **condition precedent** to the exercise of the discretion, not one factor to be weighed among others; and *Chander Kanta Bansal* defines it as the reasonable persistence a person of ordinary prudence would show, requiring the applicant to set out **what steps he actually took** and why the material could not have been obtained earlier. A bare assertion that the facts "came to knowledge subsequently" discharges nothing.
+
+**And when does "trial commence"?** The question is contested and you should not build a strategy on the answer.
+
+| View | Trial commences at | Effect |
+|---|---|---|
+| **Narrow** | The recording of evidence — examination-in-chief of the first witness | Amendment stays available through the framing of issues and beyond |
+| **Wide** | The framing of issues | The window closes much earlier |
+| **What most courts actually do** | Treat the recording of evidence as the line, but weigh delay more heavily the closer the case gets to it | A sliding scale rather than a cliff edge |
+
+Argue the narrow view when you need to be in time. Behave as though the wide view is right. **The practical rule is simply: amend early**, and if the written statement discloses a case you must meet, amend before issues are framed rather than after.
+:::
+
+### How this actually runs
+
+<MicroTree
+  input="You want to amend a plaint or a written statement"
+  :gates="[
+    { q: 'Is the amendment necessary to determine the real question in controversy between the parties?', note: 'Rule 17, main limb. If it is, the rule says such amendments “shall be made” — necessity converts the discretion into an obligation.', no: 'The application will be refused, and rightly. An amendment that adds nothing the court must decide in order to do justice between these parties is a delay device, and Revajeetu Builders lists bona fides among the relevant factors.' },
+    { q: 'Has the trial not yet commenced?', note: 'The 2002 proviso. Argue the narrow view — that trial commences with the recording of evidence — but do not rely on it.', no: 'You must now affirmatively prove that in spite of DUE DILIGENCE you could not have raised the matter earlier. Plead what you did, when, and why it failed: the date the document first came into your hands, the inspection application you filed, the reply you received. Salem Advocate (II) makes this a condition precedent, not a factor.' },
+    { q: 'Does the amendment leave the opposite party’s accrued rights intact — in particular, is it free of a new cause of action that was already time-barred when the application was filed?', note: 'An amendment that merely elaborates or clarifies what was pleaded relates back to the plaint; one that introduces a new and distinct cause of action does not.', no: 'This is the defendant’s strongest answer and it is usually fatal. Allowing the amendment would take away a defence of limitation that had already vested, and that is prejudice which no order as to costs can repair.' },
+    { q: 'Does it stop short of withdrawing a clear admission, and short of changing the fundamental character of the suit?', note: 'Converting an injunction suit into a title suit, or a contract claim into a claim in tort, is a different suit — not an amended one.', no: 'Expect refusal on this ground alone. A party may plead alternatives, but he must plead them from the beginning: “the Defendant denies execution; without prejudice and in the alternative, if execution be proved, the same was obtained by coercion in the following circumstances…”' },
+    { q: 'Can any prejudice to the other side be compensated in costs, and have you offered costs in the application itself?', note: 'Revajeetu Builders — curable prejudice is not real prejudice. Offering costs before they are demanded is worth more than resisting them.', no: 'Prejudice that costs cannot cure is the real test of an amendment. If you cannot answer this, reconsider whether what you actually need is a fresh suit.' }
+  ]"
+  result="The amendment is allowed, usually on terms as to costs; the amended pleading is carried out within the time fixed, or within fourteen days under Rule 18 if none is fixed."
+  caveat="Rajesh Kumar Aggarwal — the court does NOT decide at this stage whether the amended plea will succeed. If the opposition is “the plea has no merit”, that is an argument for the trial, not for the amendment application."
+  resultKind="discretionary"
+/>
+
+<MicroTree
+  input="The pleading filed against you is defective, vague or scandalous — what do you file?"
+  :gates="[
+    { q: 'Is the defect the omission of a MATERIAL FACT, without which the claim or defence cannot succeed?', note: 'Udhav Singh — material facts are the primary facts which must be proved to establish the cause of action.', no: 'If what is missing is only PARTICULARS — dates, items, names, amounts — the defect is curable. Apply for further and better particulars rather than for rejection; asking for a plaint to be rejected for want of detail invites the answer that the remedy was an amendment.' },
+    { q: 'Is the allegation one of fraud, misrepresentation, breach of trust, wilful default or undue influence, pleaded without particulars?', note: 'Rule 4 — particulars “with dates and items if necessary” are mandatory for exactly these five.', no: 'Then Rule 4 does not assist you, and a general allegation, however unattractive, may still be a good pleading if it states a material fact.' },
+    { q: 'Does the offending matter also fall within Rule 16 — unnecessary, scandalous, frivolous or vexatious; or tending to prejudice, embarrass or delay a fair trial; or an abuse of process?', note: 'Rule 16 is the underused weapon: it reaches matter that is not defective enough for rejection but is designed to prejudice.', no: 'Deal with it by specific denial in your written statement and by cross-examination. Not every irrelevant paragraph is worth an interlocutory application.' },
+    { q: 'Is the defect confined to particular paragraphs rather than going to the root of the plaint as a whole?', note: 'Rule 16 strikes out MATTER; Order VII Rule 11 rejects the PLAINT. Choosing the wrong one wastes the application.', no: 'If the plaint discloses no cause of action at all, is undervalued, is insufficiently stamped, or is barred by any law on its own averments, the application is under ORDER VII RULE 11 — and it is decided on the plaint alone, without reference to the written statement.' }
+  ]"
+  result="An application under Rule 16 to strike out the offending paragraphs, or under Rule 4 for particulars — made at the earliest stage, and before you file a written statement that engages with the material you say should not be there."
+  caveat="Timing is everything here. A party who files a full written statement answering the scandalous paragraphs, and applies to strike them out a year later, will be asked why he answered them."
+  resultKind="discretionary"
+/>
+
+### In plain English
 
 **Sub-module A — Material facts versus material particulars versus evidence.** Three tiers, constantly confused:
 
@@ -123,43 +240,171 @@ The safer working assumption for the practitioner is the **narrow** view for the
 
 **Sub-module H — Rule 16, striking out.** A separate and underused weapon. Where a pleading contains matter that is scandalous (imputations of criminality or immorality irrelevant to the issues), or that will embarrass the trial (prolix, irrelevant, argumentative material), or that is an abuse of process, the court may strike it out **at any stage**. It is the answer to the pleading that is not defective enough for Rule 11 rejection but is designed to prejudice.
 
-### 3. Courtroom & Practical Illustrations
+### Test your instinct
 
-**Illustration 1 — the amendment that adds a time-barred cause of action.** P sues D in 2023 for recovery of ₹15 lakh advanced as a loan in 2021. In 2026, after issues are framed but before evidence, P applies to amend the plaint to add, in the alternative, a claim for the same sum as damages for breach of a distinct supply contract of 2020.
+Five situations. Decide what you would argue and what you think the court will do, and only then open the ruling. The pattern in this block: the answer is almost never about the merit of the new plea.
 
-- **Sword (plaintiff):** P argues that the amendment merely puts an alternative legal characterisation on the same money, that no new facts are introduced, and that the object of Rule 17 is to determine the real controversy.
-- **Shield (defendant):** D answers that the supply contract of 2020 is a wholly distinct transaction requiring proof of different material facts — the contract, its terms, the breach and the loss — and is therefore a **new cause of action**. Under Article 55 of the Limitation Act it became time-barred in 2023. Allowing the amendment would deprive D of an accrued defence of limitation, which is prejudice that costs cannot compensate.
+::::instinct The better case, three years late
 
-::: tip Practitioner Takeaway
-"The amendment sought introduces a new and distinct cause of action which was barred by limitation on the date of the application; to allow it would be to take away from my client a defence that had already accrued, and that is prejudice which no order as to costs can repair."
+Anita sued Bharat in 2023 to recover ₹15 lakh advanced as a loan in 2021. Issues have been framed; evidence has not begun. In 2026 she applies to amend the plaint to add, in the alternative, a claim for the same ₹15 lakh as damages for breach of a supply contract of 2020.
+
+She argues that the amendment introduces no new facts and no new money — it merely puts an alternative legal characterisation on the same sum — and that the object of Rule 17 is to determine the real controversy.
+
+**Trial has not commenced, so the proviso does not bite. Does she get her amendment?**
+
+:::ruling
+
+**No — and the reason has nothing to do with the proviso, which is why she has framed her argument on the wrong question.**
+
+**The supply contract is a new cause of action.** Test it by asking what she would have to prove. For the loan: the advance, the promise to repay, the date, the default. For the supply contract: the contract, its terms, the breach, and the loss flowing from it. Different material facts, different documents, different witnesses. The sameness of the *amount* is a coincidence of arithmetic, not an identity of cause.
+
+**And a new cause of action does not relate back.** An amendment that elaborates or clarifies what was already pleaded takes the date of the plaint; an amendment that introduces a new and distinct cause of action takes the date of the **application**. On that date — 2026 — a claim on a 2020 contract is barred under Article 55 of the Limitation Act, which gives three years from the breach.
+
+**So allowing it would take away an accrued defence**, and that is the one head of prejudice costs cannot repair. Bharat's answer is a single sentence: *"The amendment sought introduces a new and distinct cause of action which was barred by limitation on the date of the application; to allow it would be to take away from my client a defence that had already accrued, and that is prejudice which no order as to costs can repair."*
+
+**What Anita should have done, and what she can still do.** She should have pleaded both characterisations in the alternative in 2023, when both were within time — alternative and even inconsistent pleas are permissible if pleaded from the outset. Now, her realistic course is to run the loan case as pleaded, and to consider whether the supply contract material is admissible as evidence of the *circumstances* in which the money passed, which is a different thing from suing on it.
+
+**The trap in her own argument.** "No new facts are introduced" is a claim she cannot sustain, because the amendment application itself will have to plead the contract, its terms and its breach. If those facts were genuinely already in the plaint, she does not need the amendment.
+
+::::
+
+::::instinct The forgery plea, mid-cross-examination
+
+A suit for specific performance. PW-1 has been examined-in-chief and cross-examination is part-heard. Bharat applies to amend his written statement to plead that the agreement is a forgery, relying on a handwriting expert's opinion obtained the previous week.
+
+He says the original agreement was produced by Anita only at the stage of evidence; that he had never had access to it before; that he applied for inspection immediately upon its production, obtained the expert opinion within weeks, and moved at once.
+
+**Trial has plainly commenced. Can he get through the proviso — and is the diligence story his real problem?**
+
+:::ruling
+
+**The diligence story is not his real problem. The admission is.**
+
+**Start with the proviso, because he has at least constructed the right kind of case.** *Chander Kanta Bansal* requires him to show **what steps he actually took** — not that the fact came to his knowledge late, but that reasonable persistence would not have produced it earlier. A narrative with dates (production, inspection application, expert instruction, opinion, application) is exactly the shape of a good due-diligence plea, and it is far better than the usual bare assertion.
+
+**But Anita will dismantle it with the record.** Was the agreement filed with the plaint under **Order VII Rule 14** and listed in the list of documents? If it was, Bharat has had notice of it since institution. Did he ever seek inspection under Order XI? If not, "I had no access" becomes "I never asked", and the diligence case collapses at the first question.
+
+**And then the real objection.** If his written statement said *"the agreement was signed but under coercion"*, he has **admitted execution**. An application four years later to plead forgery is an application to withdraw an admission — and it will be resisted on that footing quite independently of the proviso, together with the submission that it alters the fundamental character of the defence from avoidance to denial.
+
+**Which is why the case is decided at the written-statement stage, not here.** The defence had to be chosen before the written statement was filed, and alternatives pleaded expressly and consistently: *"the Defendant denies execution of the said agreement; without prejudice and in the alternative, if execution be proved, the Defendant says the same was obtained by coercion in the circumstances set out in paragraph 9 hereof."* Two sentences at the outset would have preserved everything he is now trying to recover.
+
+**One point in his favour, worth taking.** Courts are more liberal with amendments to a **written statement** than to a plaint — *Bishwanath Prasad Singh* — because adding a defence takes away no accrued right of the plaintiff. That principle does not survive an admission, but it is the frame in which the application should be argued.
+
+::::
+
+::::instinct "The details will come out in evidence"
+
+Anita's plaint contains this paragraph and nothing more on the subject: *"The Defendants, in collusion with one another and by playing a fraud upon the Plaintiff, got the sale deed executed and thereby cheated the Plaintiff."*
+
+Bharat applies under Order VI Rule 16 to strike it out, and under Rule 4 for particulars. Anita resists, saying the details will emerge in evidence and that a plaint is not required to anticipate the whole of the proof.
+
+**She is right that a plaint must not contain evidence. Why does she still lose?**
+
+:::ruling
+
+**Because she has confused *evidence* with *particulars*, and Rule 4 requires the second precisely so that the first can be confined to the witness box.**
+
+**Rule 2(1) keeps evidence out. Rule 4 requires particulars in.** They are not in tension; they operate on different tiers. *Who* made the false representation, *to whom*, *when*, *in what terms*, *what was false about it*, *whether the maker knew it was false*, and *how the plaintiff was induced* — these are particulars of a material fact, and Rule 4 makes them mandatory "with dates and items if necessary" for exactly five allegations: misrepresentation, fraud, breach of trust, wilful default and undue influence. *That the Sub-Registrar's clerk will depose to what he saw* is evidence, and that stays out.
+
+**The functional test settles it.** Bharat must file a written statement dealing specifically with each allegation, and non-denial is a deemed admission. He cannot deny particulars that do not exist. The court must frame issues on the pleadings, and from this paragraph the only issue available is "whether the sale deed was obtained by fraud", which restates the case instead of defining what has to be proved.
+
+**So Rule 16 is available, and on more than one ground.** The paragraph is *unnecessary* in its present form, and it tends to *prejudice and embarrass* a fair trial: it makes a serious imputation while giving the defendant nothing to answer.
+
+**Anita's best course is not to resist but to move first.** Apply to amend under Rule 17 and supply the particulars — trial has not commenced, the amendment is plainly necessary to determine the real controversy, and *Rajesh Kumar Aggarwal* forecloses the objection that the fraud case is weak, because merits are not examined at the amendment stage. Resisting Rule 16 and losing leaves her with a struck-out paragraph and a much harder application afterwards.
+
+::::
+
+::::instinct Eleven paragraphs about the plaintiff's private life
+
+In a suit for partnership accounts, Bharat's written statement devotes eleven paragraphs to Anita's personal life, a criminal complaint she once filed, and her alleged tax evasion. None of it bears on the accounts. Bharat says the material goes to Anita's credibility and to her conduct, which is relevant because the reliefs she seeks are discretionary.
+
+**Is "it goes to credibility" an answer to a Rule 16 application?**
+
+:::ruling
+
+**No. Credibility is a matter for cross-examination, not for pleading — and the distinction is not a technicality.**
+
+**Rule 2(1) says a pleading shall contain "and contain only" material facts.** A fact does not become material because it might damage a witness. Material facts are those which, if not proved, mean the claim or defence fails. Anita's tax affairs will not decide the partnership accounts whichever way they go.
+
+**Rule 16 supplies three independent gateways and this material engages at least two.** Clause (a) — unnecessary, scandalous. Clause (b) — tending to prejudice, embarrass or delay a fair trial: eleven paragraphs of extraneous allegation generate issues, discovery, documents and cross-examination on matters that cannot affect the result.
+
+**On the conduct point, Bharat is not wrong in principle but he is wrong in this pleading.** Where a discretionary relief is claimed, conduct *relevant to that relief* may be pleaded. The test is connection: conduct in the partnership, in the keeping of accounts, in the drawings — yes. A criminal complaint against a third party in 2015 — no. If he has genuine conduct material, he should plead that and abandon the rest, which is also the tactically stronger position: eleven paragraphs of irrelevance devalue the one paragraph that matters.
+
+**Anita should apply early.** Rule 16 permits striking out "at any stage", but a party who files a full replication engaging with the scandalous material and applies to strike it out a year later will be asked why she answered it.
+
+::::
+
+::::instinct The injunction suit that turned into a title suit
+
+Anita sues for a permanent injunction restraining Bharat from interfering with her possession of a plot. In his written statement Bharat asserts title in himself and denies that Anita was ever in possession. Before issues are framed, Anita applies to amend to add a prayer for declaration of title and, in the alternative, for possession.
+
+Bharat opposes: this converts a simple injunction suit into a title suit, changing its very nature.
+
+**He is describing the amendment accurately. Does that make it impermissible?**
+
+:::ruling
+
+**No. This is the paradigm case for allowing an amendment, and Bharat's own written statement is the reason.**
+
+**"Changes the nature of the suit" is a real objection, but it does not mean what he is using it to mean.** It bars a party from substituting a different dispute for the one he brought. It does not bar him from bringing the pleadings into line with the controversy **the other side has raised**. Here it is Bharat who has put title in issue. The real question in controversy is now title, and Rule 17 says that amendments necessary to determine the real questions in controversy **shall be made**.
+
+**There is also a substantive trap the amendment cures.** The proviso to section 34 of the Specific Relief Act, 1963 bars a declaration where the plaintiff, being able to seek further relief, omits to do so. A plaintiff whose possession is denied and whose title is challenged, suing only for an injunction, risks a decree that settles nothing — or a dismissal. The amendment is not opportunism; it is the only way the suit can decide the dispute.
+
+**And trial has not commenced, so the proviso is not in play at all.** No accrued right of Bharat is disturbed by adding a declaration, and *Rajesh Kumar Aggarwal* disposes of any argument that Anita's title claim looks weak: the court does not decide the merits of a proposed amendment.
+
+**Bharat's realistic objections are the unglamorous ones, and they are worth taking.**
+
+*Court fee.* The amended plaint must bear **ad valorem** fee on the declaration and possession reliefs. Insist that the amendment be allowed only on payment, and that the amended plaint not be taken on file until the deficit is made good.
+
+*Limitation on the possession claim.* If Anita's dispossession was more than twelve years ago, a possession claim added now is barred under Article 65, and to that extent — and only that extent — the accrued-right objection is a good one. The declaration may be allowed and the possession prayer refused.
+
+::::
+
+### Practitioner HUD — operational realities
+
+#### The winning ratio
+
+If you take one sentence from this block into court, take this one.
+
+::: tip The proposition to plead
+**Rajesh Kumar Aggarwal v. K.K. Modi**, (2006) 4 SCC 385 — Supreme Court of India —
+
+At the stage of considering an amendment the court is **not** to go into the merits of the proposed amendment, or to decide whether the amended plea will succeed. The merits are irrelevant. The only questions are whether the amendment is necessary to determine the real controversy and whether it prejudices an accrued right; the court must not pre-judge the very plea sought to be introduced.
+
+**This is the answer to the objection that is made in almost every amendment matter** — that the new plea is false, or hopeless, or contradicted by the documents. It is an argument for the trial, and making it at the amendment stage invites the court into an error: *"My learned friend's submission is that the proposed plea will fail. That may be so, and he will be free to establish it at the trial. It is not a ground on which this application can be refused, because this Court is not to try the amendment."*
+
+**And it cuts the other way just as hard.** Because merits are excluded, the opposition that *works* is the one that never touches them: **limitation**. An amendment introducing a new and distinct cause of action does not relate back; if that cause of action was barred on the date of the application, allowing it destroys a vested defence, and that is prejudice costs cannot repair. Read with *Salem Advocate (II)* on due diligence and *Revajeetu Builders* on the discretionary factors, the shape of the block is: **argue accrued rights and timing, never the merits.**
 :::
 
-**Illustration 2 — the post-trial amendment and due diligence.** A specific performance suit. Evidence of PW-1 has been recorded and cross-examination is part-heard. D applies to amend the written statement to plead that the agreement was a forgery, relying on a handwriting expert's opinion obtained the previous week.
+#### Sword and shield
 
-- **Sword (defendant):** D must clear the proviso. He pleads that the original agreement was produced by P only at the stage of evidence, that D had never had access to it before, that he applied for inspection under Order XI immediately upon its production, obtained the expert opinion within weeks, and moved at once. On those facts he can say that **in spite of due diligence** he could not have raised the matter before trial commenced.
-- **Shield (plaintiff):** P attacks the diligence narrative: the agreement was filed with the plaint under Order VII Rule 14 and listed in the list of documents; D never sought inspection under Order XI Rule 15; D's own written statement admitted execution while disputing consideration; and D is now seeking to withdraw an admission. P also submits that allowing a forgery plea at this stage would alter the fundamental character of the defence.
+| Situation | Seeking the amendment / defending the pleading (sword) | Opposing it / attacking the pleading (shield) |
+|---|---|---|
+| **You realise the pleading is wrong** | Amend **before issues are framed**. Every week of delay is a fact the other side will plead against you. | Delay alone rarely defeats an amendment before trial — do not lead with it. |
+| **Framing the application** | Plead necessity in terms of Rule 17: the amendment is necessary to determine the real question in controversy. Offer costs before they are demanded. | Ask what the amendment *adds to what the court must decide*. If nothing, *Revajeetu Builders* puts bona fides in issue. |
+| **The new plea looks weak** | *Rajesh Kumar Aggarwal* — merits are not examined at this stage. | **Do not take the point.** It is the commonest wasted objection in amendment practice. |
+| **The amendment adds a fresh claim** | Show it elaborates or clarifies what was already pleaded, so that it **relates back** to the plaint. | Test it by the material facts that would have to be proved. Different facts, different documents, different witnesses — a **new cause of action**, taking the date of the application. |
+| **Limitation** | Anticipate it. If the new claim is arguably time-barred, plead the relation-back case in the application itself. | The winning objection: barred on the date of the application, so allowing it takes away an **accrued defence**, which costs cannot repair. |
+| **Trial has commenced** | Build the diligence narrative with dates: when the document reached you, what you applied for, when, and what came back. | *Chander Kanta Bansal* — "came to knowledge subsequently", without an account of the steps taken, discharges nothing. Then check the record: was the document filed with the plaint under O. VII R. 14, and was inspection ever sought? |
+| **The amendment resiles from an admission** | Plead the admission was made on a mistaken understanding, and give the particulars of the mistake. | Point to the paragraph. This objection survives independently of the proviso, and it is usually stronger. |
+| **Amending a written statement** | *Bishwanath Prasad Singh* — greater latitude, because adding a defence takes away no accrued right of the plaintiff. Inconsistent and alternative defences are permissible. | The latitude ends where the pleas are mutually destructive, or where the amendment withdraws an admission. |
+| **Fraud pleaded generally** | Do not resist a Rule 4 application — move first, under Rule 17, and supply the particulars. | **R. 4** for particulars, with **R. 16** in the alternative to strike out. Frame it around what you are supposed to admit or deny. |
+| **Scandalous or irrelevant matter** | Confine conduct allegations to conduct connected with the relief claimed. Irrelevance devalues the relevant. | **R. 16(a) and (b)**, and apply **early** — a party who answers the material and objects a year later will be asked why he answered it. |
+| **What is missing is only detail** | Supply it by amendment rather than argue about it. | Ask for **further and better particulars**, not rejection. *Udhav Singh* — omission of a material fact is fatal; omission of particulars is curable. |
+| **Verification and the affidavit** | R. 15(2) — specify by paragraph number what is verified on knowledge and what on information. R. 15(4) — file the supporting affidavit. | A defective verification is usually curable, but an affidavit that verifies on knowledge what the deponent cannot know is cross-examination material for the whole trial. |
 
-::: warning Drafting Trap — the admission you cannot take back
-A written statement that says "the agreement was signed but under coercion" has **admitted execution**. An application four years later to plead forgery is an application to withdraw an admission, and it will be resisted on that footing quite apart from the Rule 17 proviso. Decide the defence before the written statement is filed, and plead alternatives expressly and consistently: *"the Defendant denies execution; without prejudice and in the alternative, if execution be proved, the same was obtained by coercion in the following circumstances…"*
-:::
+#### The limitation clock
 
-**Illustration 3 — fraud pleaded without particulars.** P's plaint alleges: "The Defendants, in collusion with one another and by playing a fraud upon the Plaintiff, got the sale deed executed and thereby cheated the Plaintiff."
+| Step | Source | Period | Runs from | Note |
+|---|---|---|---|---|
+| Amendment of a pleading | **O. VI R. 17**, main limb | No period — "at **any stage** of the proceedings" | — | But necessity, not lateness, is the test; and the court *shall* allow what is necessary |
+| The bar on amendment | **Proviso to R. 17** (inserted 2002) | Applies once **trial has commenced** | Commencement of trial — narrowly, the recording of evidence | The exception requires proof that **in spite of due diligence** the matter **could not** have been raised earlier |
+| Limitation on a **new cause of action** added by amendment | Limitation Act, the article governing that claim | As for the claim itself | The **date of the amendment application**, not the date of the plaint | An amendment that merely elaborates relates back; one that introduces a new cause of action does not |
+| Carrying out an amendment once allowed | **O. VI R. 18** | The time fixed by the court, or **14 days** from the order if none is fixed | Date of the order | Failure disentitles the party to amend after expiry, except by leave |
+| Striking out a pleading | **O. VI R. 16** | No period — "at any stage" | — | But apply before you plead to the matter you say should be struck out |
+| Affidavit in support of a pleading | **O. VI R. 15(4)** | With the pleading | — | Read with s. 26(2) CPC and O. VII R. 1 — the affidavit is now part of the filing, not an optional extra |
 
-- **Sword (plaintiff):** P will resist, saying the details will emerge in evidence.
-- **Shield (defendant):** D applies under **Order VI Rule 16** to strike out the paragraph as scandalous and embarrassing, and under **Order VI Rule 4** on the ground that particulars of fraud have not been given with dates and items. The pleading tells D nothing about what representation was made, by whom, when, or how P was induced. D is entitled to know the case he must meet.
-- **The correct pleading:** *"On 12 April 2022 at about 11 a.m., at the office of the Sub-Registrar, [place], Defendant No. 1 represented to the Plaintiff that the document being presented for registration was an agreement of leave and licence for eleven months. The said representation was false to the knowledge of Defendant No. 1, in that the document was in fact a deed of sale. The Plaintiff, who is illiterate in English and relied upon the said representation, affixed his thumb impression thereto. The particulars of fraud are set out in Schedule C hereto."*
-
-**Illustration 4 — striking out under Rule 16.** D's written statement in a partnership accounts suit devotes eleven paragraphs to allegations about P's personal life, his prior criminal complaint, and his alleged tax evasion, none of which bears on the accounts.
-
-- **Sword (defendant):** Claims the material goes to P's credibility and to the conduct relevant to discretionary relief.
-- **Shield (plaintiff):** P applies under **Rule 16(a) and (b)** to strike out the paragraphs as scandalous and as tending to prejudice and embarrass the fair trial of the suit. Credibility is a matter for cross-examination, not for pleading; and matters extraneous to the issues have no place in a pleading which must contain "only" material facts.
-
-**Illustration 5 — the amendment that saves the suit.** P files a suit for a permanent injunction restraining D from interfering with P's possession. In the written statement D asserts title and denies P's possession. Before issues are framed, P applies to amend to add a prayer for declaration of title and, in the alternative, possession.
-
-- **Sword (plaintiff):** This is the paradigm case for allowing amendment. The real controversy, as disclosed by the written statement itself, is title; without the amendment the suit would be liable to fail for want of the declaratory relief (the proviso to Section 34 of the Specific Relief Act, 1963, bars a declaration without consequential relief where the plaintiff is able to seek it). The amendment is necessary to determine the real question in controversy, trial has not commenced, and no accrued right of D is disturbed.
-- **Shield (defendant):** D's realistic objections are (i) court fee — the amended plaint must bear ad valorem fee on the declaration and possession claims; and (ii) limitation, if the amendment introduces a possession claim already barred under Article 65.
-
-### 4. Procedural Interlocking Matrix
+#### Interlocking matrix — what this connects to
 
 | Order VI provision | Interlocks with | What the connection does |
 |---|---|---|
@@ -193,7 +438,7 @@ A written statement that says "the agreement was signed but under coercion" has 
 An order granting or refusing amendment is **not** in the list of appealable orders under Order XLIII Rule 1. The only route is a revision under **Section 115** (where the State amendment permits it) or a petition under **Article 227** of the Constitution. Draft the amendment application on the footing that you will not get a second look at it.
 :::
 
-### 5. Landmark & Modern Jurisprudence
+#### The authorities
 
 **Udhav Singh v. Madhav Rao Scindia**, (1977) 1 SCC 511 — Supreme Court of India, three-Judge Bench.
 
@@ -243,18 +488,6 @@ An order granting or refusing amendment is **not** in the list of appealable ord
 
 ---
 
-**Rajesh Kumar Aggarwal v. K.K. Modi**, (2006) 4 SCC 385 — Supreme Court of India.
-
-*Facts:* An amendment to the plaint was refused on the ground that it would alter the character of the suit.
-
-**Ratio decidendi:** At the stage of considering an amendment the court is **not** to go into the merits of the proposed amendment or to decide whether the amended plea will succeed. The merits of the amendment are irrelevant; the only questions are whether the amendment is necessary to determine the real controversy and whether it prejudices an accrued right. The court must not, at that stage, pre-judge the very plea sought to be introduced.
-
-::: tip Practitioner Takeaway
-"An amendment cannot be refused on the ground that the plea sought to be introduced is weak. The strength of the plea is a matter for trial, not for the amendment application."
-:::
-
----
-
 **Bishwanath Prasad Singh v. Rajendra Prasad**, (2006) 4 SCC 432 — Supreme Court of India.
 
 *Facts:* Concerned the treatment of an inconsistent plea introduced by amendment of a written statement.
@@ -269,7 +502,7 @@ An order granting or refusing amendment is **not** in the list of appealable ord
 Citations, bench strength and the current status of each of these authorities must be checked against the official SCC/SCR report and a current citator before the judgment is relied upon in court. Bench strength in particular should be confirmed from the reported judgment itself.
 :::
 
-### 6. The Advocate's Toolkit
+#### Strategy and drafting
 
 **Drafting traps in the pleading itself**
 
