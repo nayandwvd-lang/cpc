@@ -1656,76 +1656,112 @@ The interaction between section 64 and the Benami Transactions (Prohibition) Ame
 
 ## Rules 64 to 96 — Sale, the proclamation, setting aside and confirmation
 
-### 1. Verbatim Bare Act Text & Statutory Mechanics — Rules 64 to 96
+### The dispute this solves
 
-> **Rule 64. Power to order property attached to be sold and proceeds to be paid to person entitled.** — Any Court executing a decree may order that any property attached by it and liable to sale, **or such portion thereof as may seem necessary to satisfy the decree**, shall be sold, and that the proceeds of such sale, or a sufficient portion thereof, shall be paid to the party entitled under the decree to receive the same.
+::: oneminute The hammer falls, and nobody owns anything yet.
+Bharat's godown is put up for auction. A stranger, Chetan, is the highest bidder at ₹41 lakh and the hammer falls.
 
-> **Rule 66. Proclamation of sale by public auction.** — (1) Where any property is ordered to be sold by public auction in execution of a decree, the Court shall cause a proclamation of the intended sale to be made in the language of such Court.
+Ask the obvious question — **whose godown is it now?** — and the answer for the next sixty days is: still Bharat's.
+
+A court sale is not a transaction. It is a **process with a closing date**, and between the fall of the hammer and the vesting of an indefeasible title lie three statutory windows through which the sale can still be undone. Under **Rule 89**, anybody with an interest in the property — not just Bharat — may buy the sale off by depositing five per cent for Chetan plus the decretal amount. Under **Rule 90**, the sale can be attacked for irregularity or fraud in publishing or conducting it. Under **Rule 91**, Chetan himself can escape if Bharat turned out to have no saleable interest at all.
+
+Only when those windows close, or the applications made in them fail, does **Rule 92** oblige the court to confirm — and only then does the sale become absolute.
+
+And then the Code does something counter-intuitive that decides most of the litigation that follows. **Section 65** provides that the property is deemed to have vested in Chetan **from the date of the sale**, not from the date of confirmation. His title relates back across the whole sixty-day gap.
+
+**The one idea to carry through this block:** everything that matters in a court sale is decided by two documents and one date — the **proclamation**, which produces the price; the **sale certificate**, which records the title; and the **date of the sale**, from which every relevant clock runs and to which the purchaser's title relates back.
+:::
+
+::: story Why you cannot complain later about a price you could have influenced earlier
+The most common grievance in execution is also the one courts are least willing to hear: *the property was worth three crore and it went for forty-one lakh.*
+
+To see why that grievance so rarely succeeds, look at what the Code is actually trying to do.
+
+An auction produces a price. The price depends almost entirely on **what bidders were told**. Nobody bids seriously on a plot described in one line as "agricultural land, survey no. 114" when it is in fact a converted commercial site with highway frontage. So the Code builds an information-producing machine, and the proclamation under **Rule 66** is that machine: it must state, "as fairly and accurately as possible," the property, the revenue assessed, **any encumbrance**, the amount for which the sale is ordered, and everything else material for a purchaser to judge the nature and value of the property.
+
+Now notice who is invited to help build it. Under **Rule 54(1A)**, the attachment order itself requires the judgment-debtor to attend court on a fixed date to take notice of the date for settling the terms of the proclamation. Under the second proviso to Rule 66(2), the court does **not** enter its own estimate of value — but the proclamation "shall include the estimate, if any, given by either or both of the parties."
+
+So Bharat is given a seat at the table at which the price is effectively determined. He may file his own valuation. He may insist that the conversion order be recited, that the frontage be described, that the encumbrance column be completed.
+
+And the consequence of not taking that seat is **Rule 90(3)**: no application to set aside a sale shall be entertained upon any ground which the applicant **could have taken on or before the date on which the proclamation was drawn up**.
+
+That is the whole architecture. The law gives you a chance to shape the information, and in exchange it refuses to hear you afterwards about anything you could have raised then. Add the two further locks — **Rule 90(2)**, which requires **substantial injury** and a causal link between the irregularity and the loss, and *Kayjay Industries*, which holds that a court sale is a forced sale and inadequacy of price alone is no ground — and the shape of the block becomes clear.
+
+**The lesson is about where the work happens.** The case is won or lost at the Rule 66 hearing, months before the auction. By the time the hammer falls, most of the arguments have already expired.
+:::
+
+### The Act, decompiled
+
+Thirty-three rules and one section, doing four jobs in sequence. **Rules 64 to 68** govern the **proclamation and the timing** — what is sold, how it is described, and how long the market gets. **Rules 72, 72A and 73** police **who may buy**. **Rules 84 to 86** impose the purchaser's two unforgiving **deposit obligations**. And **Rules 89 to 95**, with **section 65**, govern the three windows, the confirmation, the certificate and delivery.
+
+> **Rule 64. Power to order property attached to be sold and proceeds to be paid to person entitled.** — Any Court executing a decree [[?may order]] that any property attached by it and liable to sale, **or such portion thereof as may seem necessary to satisfy the decree**, [[!shall be sold]], and that the proceeds of such sale, or a sufficient portion thereof, [[!shall be paid]] to the party entitled under the decree to receive the same.
+
+> **Rule 66. Proclamation of sale by public auction.** — (1) Where any property is ordered to be sold by public auction in execution of a decree, the Court [[!shall cause a proclamation]] of the intended sale to be made in the language of such Court.
 >
-> (2) Such proclamation shall be drawn up after notice to the decree-holder and the judgment-debtor and shall state the time and place of sale, and specify as fairly and accurately as possible —
+> (2) Such proclamation [[!shall be drawn up after notice]] to the decree-holder and the judgment-debtor and [[!shall state]] the time and place of sale, and specify **as fairly and accurately as possible** —
 > (a) the property to be sold, or, where a part of the property would be sufficient to satisfy the decree, such part;
 > (b) the revenue, if any, assessed upon the property or any part thereof;
 > (c) any encumbrance to which the property is liable;
 > (d) the amount for the recovery of which the sale is ordered; and
 > (e) every other thing which the Court considers material for a purchaser to know in order to judge of the nature and value of the property:
 >
-> *Provided that where notice of the date for settling the terms of the proclamation has been given to the judgment-debtor by means of an order under rule 54, it shall not be necessary to give notice under this rule to the judgment-debtor unless the Court otherwise directs:*
+> **Provided that** where notice of the date for settling the terms of the proclamation has been given to the judgment-debtor by means of an order under rule 54, it **shall not be necessary** to give notice under this rule to the judgment-debtor unless the Court otherwise directs:
 >
-> *Provided further that nothing in this rule shall be construed as requiring the Court to enter in the proclamation of sale its own estimate of the value of the property, but the proclamation shall include the estimate, if any, given, by either or both of the parties.*
+> **Provided further that** nothing in this rule shall be construed as requiring the Court to enter in the proclamation of sale **its own estimate** of the value of the property, but the proclamation [[!shall include the estimate]], if any, given by either or both of the parties.
 >
-> (3) Every application for an order for sale under this rule shall be accompanied by a statement signed and verified in the manner hereinbefore prescribed as to the matters mentioned in clauses (a), (b), (c) and (d) of sub-rule (2)…
+> (3) Every application for an order for sale under this rule [[!shall be accompanied by a statement]] signed and verified in the manner hereinbefore prescribed as to the matters mentioned in clauses (a), (b), (c) and (d) of sub-rule (2)…
 
-> **Rule 67. Mode of making proclamation.** — (1) Every proclamation shall be made and published, as nearly as may be, in the manner prescribed by rule 54, sub-rule (2).
+> **Rule 67. Mode of making proclamation.** — (1) Every proclamation [[!shall be made and published]], as nearly as may be, in the manner prescribed by rule 54, sub-rule (2).
 >
-> (2) Where the Court so directs, such proclamation shall also be published in the Official Gazette or in a local newspaper, or in both, and the costs of such publication shall be deemed to be costs of the sale.
+> (2) Where the Court so directs, such proclamation [[?may also be directed to be published]] in the Official Gazette or in a local newspaper, or in both, and the costs of such publication shall be deemed to be costs of the sale.
 
-> **Rule 68. Time of sale.** — Save in the case of property of the kind described in the proviso to rule 43, no sale hereunder shall, **without the consent in writing of the judgment-debtor, take place until after the expiration of at least fifteen days in the case of immovable property, and of at least seven days in the case of movable property**, calculated from the date on which the copy of the proclamation has been affixed on the court-house of the Judge ordering the sale.
+> **Rule 68. Time of sale.** — Save in the case of property of the kind described in the proviso to rule 43, no sale hereunder [[!shall not take place]] — without the **consent in writing** of the judgment-debtor — until after the expiration of **at least fifteen days** in the case of immovable property, and of **at least seven days** in the case of movable property, calculated from the date on which the copy of the proclamation has been affixed on the court-house of the Judge ordering the sale.
 
-> **Rule 72. Decree-holder not to bid for or buy property without permission.** — (1) No holder of a decree in execution of which property is sold shall, without the express permission of the Court, bid for or purchase the property.
+> **Rule 72. Decree-holder not to bid for or buy property without permission.** — (1) [[!No holder of a decree]] in execution of which property is sold shall, without the **express permission** of the Court, bid for or purchase the property.
 >
-> (2) Where a decree-holder purchases with such permission, the purchase-money and the amount due on the decree may, subject to the provisions of section 73, be set off against one another…
+> (2) Where a decree-holder purchases with such permission, the purchase-money and the amount due on the decree [[?may]], subject to the provisions of section 73, **be set off** against one another…
 >
-> (3) Where a decree-holder purchases, by himself or through another person, without such permission, the Court may, if application is made by the judgment-debtor or any other person whose interests are affected by the sale, by order **set aside the sale**; and the costs of such application and order, and any deficiency of price which may happen on the re-sale and all expenses attending it, shall be paid by the decree-holder.
+> (3) Where a decree-holder purchases, by himself or through another person, without such permission, the Court [[?may]], if application is made by the judgment-debtor or any other person whose interests are affected by the sale, by order **set aside the sale**; and the costs of such application and order, and any deficiency of price which may happen on the re-sale and all expenses attending it, shall be paid by the decree-holder.
 
-> **Rule 72A. Mortgagee not to bid at sale without leave of Court.** — (1) Notwithstanding anything contained in rule 72, a mortgagee of immovable property shall not bid for or purchase property sold in execution of a decree on the mortgage unless the Court grants him leave to bid for or purchase the property.
+> **Rule 72A. Mortgagee not to bid at sale without leave of Court.** — (1) Notwithstanding anything contained in rule 72, a mortgagee of immovable property [[!shall not bid for or purchase]] property sold in execution of a decree on the mortgage **unless the Court grants him leave** to bid for or purchase the property.
 
-> **Rule 73. Restriction on bidding or purchase by officers.** — No officer or other person having any duty to perform in connection with any sale shall, either directly or indirectly, bid for, acquire or attempt to acquire any interest in the property sold.
+> **Rule 73. Restriction on bidding or purchase by officers.** — [[!No officer]] or other person having any duty to perform in connection with any sale **shall, either directly or indirectly, bid for, acquire or attempt to acquire** any interest in the property sold.
 
-> **Rule 84. Deposit by purchaser and re-sale on default.** — (1) On every sale of immovable property the person declared to be the purchaser shall pay immediately after such declaration a **deposit of twenty-five per cent on the amount of his purchase-money** to the officer or other person conducting the sale, and, in default of such deposit, **the property shall forthwith be re-sold**.
+> **Rule 84. Deposit by purchaser and re-sale on default.** — (1) On every sale of immovable property the person declared to be the purchaser [[!shall pay immediately]] after such declaration a **deposit of twenty-five per cent** on the amount of his purchase-money to the officer or other person conducting the sale, and, in default of such deposit, [[!the property shall forthwith be re-sold]].
 
-> **Rule 85. Time for payment in full of purchase-money.** — The full amount of purchase-money payable shall be paid by the purchaser into Court **before the Court closes on the fifteenth day from the sale of the property**: *Provided that, in calculating the amount to be so paid into Court, the purchaser shall have the advantage of any set-off to which he may be entitled under rule 72.*
+> **Rule 85. Time for payment in full of purchase-money.** — The full amount of purchase-money payable [[!shall be paid]] by the purchaser into Court **before the Court closes on the fifteenth day from the sale of the property**: **Provided that**, in calculating the amount to be so paid into Court, the purchaser [[!shall have the advantage of any set-off]] to which he may be entitled under rule 72.
 
-> **Rule 86. Procedure in default of payment.** — In default of payment within the period mentioned in rule 85, the deposit may, if the Court thinks fit, after defraying the expenses of the sale, be **forfeited** to the Government, and the property shall be re-sold, and the defaulting purchaser shall forfeit all claim to the property or to any part of the sum for which it may subsequently be sold.
+> **Rule 86. Procedure in default of payment.** — In default of payment within the period mentioned in rule 85, the deposit [[?may, if the Court thinks fit]], after defraying the expenses of the sale, be **forfeited** to the Government, and the property [[!shall be re-sold]], and the defaulting purchaser [[!shall forfeit all claim]] to the property or to any part of the sum for which it may subsequently be sold.
 
-> **Rule 89. Application to set aside sale on deposit.** — (1) Where immovable property has been sold in execution of a decree, **any person claiming an interest in the property sold at the time of the sale or at the time of making the application, or acting for or in the interest of such person**, may apply to have the sale set aside on his depositing in Court, —
+> **Rule 89. Application to set aside sale on deposit.** — (1) Where immovable property has been sold in execution of a decree, **any person claiming an interest in the property sold at the time of the sale or at the time of making the application, or acting for or in the interest of such person**, [[?may apply]] to have the sale set aside **on his depositing in Court**, —
 > (a) for payment to the purchaser, a sum equal to **five per cent of the purchase-money**, and
 > (b) for payment to the decree-holder, the amount specified in the proclamation of sale as that for the recovery of which the sale was ordered, less any amount which may, since the date of such proclamation of sale, have been received by the decree-holder.
 >
-> (2) Where a person applies under rule 90 to set aside the sale of his immovable property, he shall not, unless he withdraws his application, be entitled to make or prosecute an application under this rule.
+> (2) Where a person applies under rule 90 to set aside the sale of his immovable property, he [[!shall not]], unless he withdraws his application, be entitled to make or prosecute an application under this rule.
 >
 > (3) Nothing in this rule shall relieve the judgment-debtor from any liability he may be under in respect of costs and interest not covered by the proclamation of sale.
 
-> **Rule 90. Application to set aside sale on ground of irregularity or fraud.** — (1) Where any immovable property has been sold in execution of a decree, the decree-holder, or the purchaser, or any other person entitled to share in a rateable distribution of assets, or whose interests are affected by the sale, may apply to the Court to set aside the sale on the ground of a **material irregularity or fraud in publishing or conducting it**.
+> **Rule 90. Application to set aside sale on ground of irregularity or fraud.** — (1) Where any immovable property has been sold in execution of a decree, the decree-holder, or the purchaser, or any other person entitled to share in a rateable distribution of assets, or whose interests are affected by the sale, [[?may apply]] to the Court to set aside the sale on the ground of a **material irregularity or fraud in publishing or conducting it**.
 >
-> (2) **No sale shall be set aside on the ground of irregularity or fraud in publishing or conducting it unless, upon the facts proved, the Court is satisfied that the applicant has sustained substantial injury by reason of such irregularity or fraud.**
+> (2) [[!No sale shall be set aside]] on the ground of irregularity or fraud in publishing or conducting it **unless, upon the facts proved, the Court is satisfied that the applicant has sustained substantial injury by reason of such irregularity or fraud**.
 >
-> (3) No application to set aside a sale under this rule shall be entertained upon any ground which the applicant could have taken on or before the date on which the proclamation of sale was drawn up.
+> (3) [[!No application]] to set aside a sale under this rule **shall be entertained** upon any ground **which the applicant could have taken on or before the date on which the proclamation of sale was drawn up**.
 >
-> *Explanation. — The mere absence of, or defect in, attachment of the property sold shall not, by itself, be a ground for setting aside a sale under this rule.*
+> *Explanation.* — The mere absence of, or defect in, **attachment** of the property sold [[!shall not, by itself, be a ground]] for setting aside a sale under this rule.
 
-> **Rule 91. Application by purchaser to set aside sale on ground of judgment-debtor having no saleable interest.** — The purchaser at any such sale in execution of a decree may apply to the Court to set aside the sale on the ground that the judgment-debtor had no saleable interest in the property sold.
+> **Rule 91. Application by purchaser to set aside sale on ground of judgment-debtor having no saleable interest.** — The purchaser at any such sale in execution of a decree [[?may apply]] to the Court to set aside the sale on the ground that the judgment-debtor had no saleable interest in the property sold.
 
-> **Rule 92. Sale when to become absolute or be set aside.** — (1) Where no application is made under rule 89, rule 90 or rule 91, or where such application is made and disallowed, the Court shall make an order **confirming the sale, and thereupon the sale shall become absolute**.
+> **Rule 92. Sale when to become absolute or be set aside.** — (1) Where no application is made under rule 89, rule 90 or rule 91, or where such application is made and disallowed, the Court [[!shall make an order confirming the sale]], and thereupon **the sale shall become absolute**.
 >
-> (2) Where such application is made and allowed, and where, in the case of an application under rule 89, the deposit required by that rule is made within thirty days from the date of sale, or in cases where the amount deposited under rule 89 is found to be deficient owing to any clerical or arithmetical mistake… within such time as may be fixed by the Court, the Court shall make an order setting aside the sale…
+> (2) Where such application is made and allowed, and where, in the case of an application under rule 89, the deposit required by that rule is made within thirty days from the date of sale, or in cases where the amount deposited under rule 89 is found to be deficient owing to any clerical or arithmetical mistake… within such time as may be fixed by the Court, the Court [[!shall make an order setting aside the sale]]…
 >
-> (3) **No suit to set aside an order made under this rule shall be brought by any person against whom such order is made.**
+> (3) [[!No suit]] to set aside an order made under this rule **shall be brought by any person against whom such order is made**.
 
-> **Rule 94. Certificate to purchaser.** — Where a sale of immovable property has become absolute, the Court shall grant a certificate specifying the property sold and the name of the person who at the time of sale is declared to be the purchaser. Such certificate shall bear date the day on which the sale became absolute.
+> **Rule 94. Certificate to purchaser.** — Where a sale of immovable property has become absolute, the Court [[!shall grant a certificate]] specifying the property sold and the name of the person who at the time of sale is declared to be the purchaser. Such certificate [[!shall bear date]] the day on which **the sale became absolute**.
 
-> **Rule 95. Delivery of property in occupancy of judgment-debtor.** — Where the immovable property sold is in the occupancy of the judgment-debtor or of some person on his behalf or of some person claiming under a title created by the judgment-debtor subsequently to the attachment of such property and a certificate in respect thereof has been granted under rule 94, the Court shall, on the application of the purchaser, order delivery to be made by putting such purchaser or any person whom he may appoint to receive delivery on his behalf in possession of the property, and, if need be, by removing any person who refuses to vacate the same.
+> **Rule 95. Delivery of property in occupancy of judgment-debtor.** — Where the immovable property sold is in the occupancy of the judgment-debtor or of some person on his behalf or of some person claiming under a title created by the judgment-debtor subsequently to the attachment of such property and a certificate in respect thereof has been granted under rule 94, the Court [[!shall]], on the application of the purchaser, **order delivery to be made** by putting such purchaser or any person whom he may appoint to receive delivery on his behalf in possession of the property, and, if need be, by removing any person who refuses to vacate the same.
 
-> **Section 65. Purchaser's title.** — Where immovable property is sold in execution of a decree and such sale has become absolute, the property shall be deemed to have vested in the purchaser **from the time when the property is sold**, and not from the time when the sale becomes absolute.
+> **Section 65. Purchaser's title.** — Where immovable property is sold in execution of a decree and such sale has become absolute, the property [[!shall be deemed to have vested]] in the purchaser **from the time when the property is sold**, and not from the time when the sale becomes absolute.
 
 | Operative expression | Character | Consequence |
 |---|---|---|
@@ -1763,7 +1799,66 @@ The limitation for all three is **Article 127 of the Limitation Act — sixty da
 Then **section 65** performs the trick that decides most subsequent litigation: on confirmation, the property is deemed to have vested in the purchaser **from the date of the sale**, not from the date of confirmation. So the purchaser's title relates back over the whole intervening period; a transfer made by the judgment-debtor between auction and confirmation is worthless; and the purchaser's claim to mesne profits runs from the auction date.
 :::
 
-### 2. Plain-English Conceptual Demystification — Rules 64 to 96
+::: proviso The second proviso to Rule 66(2) — the court will not value your property for you
+It is worth pausing on this proviso, because practitioners consistently misread it as a limitation on the court when it is in fact an allocation of work to the parties.
+
+Nothing in Rule 66 "shall be construed as requiring the Court to enter in the proclamation of sale **its own estimate** of the value of the property" — but the proclamation "**shall include the estimate, if any, given by either or both of the parties**."
+
+Read the two halves together and the design appears. The court is not an appraiser and will not adjudicate market value at the proclamation stage; if it did, every sale would be preceded by a valuation trial. What it will do is **carry into the proclamation whatever estimates the parties file** — including two conflicting ones — and let the market read them.
+
+**So the valuation is a filing, not a finding.** If Bharat files nothing, the proclamation carries nothing, and the property goes to auction described only by its bare particulars.
+
+And then Rule 90(3) closes behind him. Undervaluation is, in almost every case, a ground the applicant "could have taken on or before the date on which the proclamation of sale was drawn up" — so having declined the invitation to state a value, he cannot complain sixty days later that the price was too low.
+
+**The practical instruction is one line: file a registered valuer's report at the settling of terms, whatever else you do.** It costs a few thousand rupees, it goes into the proclamation, it raises the price, and it is the only thing that keeps a Rule 90 valuation ground alive.
+:::
+
+::: proviso The first proviso to Rule 66(2) — and the notice you have already been given
+The first proviso says that where notice of the date for settling the terms of the proclamation has already been given to the judgment-debtor **by means of an order under Rule 54**, it shall not be necessary to give notice under Rule 66 as well, unless the court otherwise directs.
+
+This is a small provision with a large consequence, and it catches judgment-debtors who are waiting for a second summons that will never arrive.
+
+Recall **Rule 54(1A)**: the attachment order itself "shall also require the judgment-debtor to attend Court on a specified date to take notice of the date to be fixed for settling the terms of the proclamation of sale." That requirement is built into the attachment. So the notice has already been served, months earlier, inside a document the debtor read as being about attachment.
+
+**For the decree-holder** this is the answer to a Rule 90 application founded on want of notice: produce the Rule 54(1A) order and the service endorsement, and the first proviso does the rest — after which Rule 90(3) forecloses every ground the debtor could have raised at the settling of terms.
+
+**For the judgment-debtor** it is a warning to read the attachment order to the end. The date on which the fate of the property is really decided is buried in sub-rule (1A) of the rule that attached it.
+:::
+
+### How this actually runs
+
+Two trees. The first belongs to the decree-holder taking a property to sale — a sequence in which every step is a potential ground of challenge later. The second is the sixty-day window after the hammer falls, where the question is not *whether* you have a remedy but *which* remedy is yours.
+
+<MicroTree
+  input="You hold a valid attachment and you want the property brought to sale and the proceeds paid over"
+  :gates="[
+    { q: 'Is a SALE OF THE WHOLE actually necessary?', note: 'Rule 64 empowers a sale of the attached property “or such portion thereof as may seem necessary to satisfy the decree.” Where the decree is ₹4 lakh and the holding is twenty acres, the court is obliged to consider whether a part will do.', no: 'Identify and proclaim a divisible portion. Selling the whole to realise a fraction is an excess of the power conferred, and it grounds an objection under Rule 90 and under section 47 — the one Rule 90 ground that does not depend on proving a depressed price.' },
+    { q: 'Has the proclamation been settled AFTER NOTICE, with the five Rule 66(2) particulars stated fairly and accurately?', note: 'Property; revenue assessed; ANY ENCUMBRANCE; the amount for which the sale is ordered; and everything else material for a purchaser to judge nature and value. Your application must be accompanied by the Rule 66(3) verified statement.', no: 'Fix it now. A silent encumbrance column and a description that does not match the ground are the classic “material irregularity in publishing,” and they are also the purchaser’s route to escaping the sale under Rule 91 later.' },
+    { q: 'Has the proclamation been published under Rule 67 — and have the parties’ VALUATIONS been carried into it?', note: 'Publication is “as nearly as may be” in the Rule 54(2) manner: beat of drum, affixture on the property and on the court-house. The court does not supply its own estimate; it carries the parties’ estimates.', no: 'File your own valuation and press for a newspaper or gazette publication under Rule 67(2) where the value is substantial. The costs are costs of the sale and come off the top of the proceeds under Rule 74.' },
+    { q: 'Has the Rule 68 INTERVAL run — fifteen days for immovable property, seven for movable — computed from AFFIXTURE ON THE COURT-HOUSE?', note: 'It may be shortened only by the judgment-debtor’s consent IN WRITING. The date of affixture is a fact to be proved from the record, so the endorsement matters.', no: 'Do not let the sale go ahead. A sale on the fourteenth day is a material irregularity that is trivially easy for the debtor to prove and impossible for you to explain.' },
+    { q: 'Is everyone who intends to bid PERMITTED to bid?', note: 'Rule 72 — the decree-holder needs the EXPRESS PERMISSION of the court, obtained before the sale. Rule 72A — a mortgagee needs leave even at his own mortgage sale. Rule 73 — an ABSOLUTE bar on any officer connected with the sale.', no: 'A decree-holder who buys without permission faces a sale set aside under Rule 72(3), plus the deficiency on re-sale and all the expenses of it. A purchase in breach of Rule 73 is void, and no permission can cure it, because the vice is the conflict itself.' },
+    { q: 'Has the purchaser paid TWENTY-FIVE PER CENT immediately, and the balance before the court closes on the FIFTEENTH DAY?', note: 'Rules 84 and 85. “Immediately” means at the fall of the hammer. Neither period is extendable: Manilal Mohanlal Shah holds that section 148, which enlarges a period fixed BY THE COURT, has no application to a period fixed BY THE RULE.', no: 'There is no sale at all in the eye of law. Rule 86 permits forfeiture of the deposit to the Government after defraying the expenses of the sale, the property must be re-sold, and the defaulting purchaser forfeits all claim to it and to any part of the price it later fetches.' }
+  ]"
+  result="a sale that will be confirmed under Rule 92 once the three windows close, a certificate under Rule 94 dated the day the sale became absolute, and delivery under Rule 95 against the judgment-debtor and anyone claiming under him since the attachment"
+  caveat="Then apply section 65 and notice what you have actually achieved. On confirmation the property is deemed to have vested in the purchaser FROM THE DATE OF THE SALE, not from confirmation. The title relates back across the whole intervening period — so a transfer by the judgment-debtor between auction and confirmation is worthless, and the purchaser’s claim to mesne profits runs from the auction date, not from the certificate."
+  resultKind="mandatory"
+/>
+
+<MicroTree
+  input="The property has been sold at auction and you want the sale undone"
+  :gates="[
+    { q: 'WHO are you, and what exactly is your complaint?', note: 'The three remedies are not alternatives you choose between on tactics — each has its own owner and its own ground. This is the gate that decides the case.', no: 'If you are the auction-purchaser and the judgment-debtor turned out to have NO SALEABLE INTEREST, your remedy is RULE 91 and it is yours alone; the decree-holder and the judgment-debtor cannot invoke it.' },
+    { q: 'Do you simply want to PAY and keep the property, without alleging any fault in the sale?', note: 'Rule 89 is a redemption right and requires no irregularity at all. Standing is wide: “any person claiming an interest in the property sold at the time of the sale OR AT THE TIME OF MAKING THE APPLICATION” — a co-sharer, a mortgagee, a legal representative, even a person who bought from the judgment-debtor after the sale.', no: 'Then you are alleging fault, and you are on Rule 90 — which is a far harder road. Note Rule 89(2): you cannot prosecute both. A Rule 90 application must be WITHDRAWN before a Rule 89 application can proceed.' },
+    { q: 'For Rule 89 — is the deposit COMPLETE on both limbs, and made within sixty days?', note: 'Cumulative: five per cent of the PURCHASE-MONEY for the purchaser, PLUS the sum specified in the proclamation as that for which the sale was ordered, less anything the decree-holder has received since the proclamation. Article 127 gives sixty days from the sale.', no: 'A deposit short on either limb, however marginally, defeats the application. The court may permit correction under Rule 92(2) only where the deficiency is CLERICAL OR ARITHMETICAL — not where you computed five per cent on the reserve instead of on the purchase-money.' },
+    { q: 'For Rule 90 — is your ground one you could NOT have taken at the settling of the proclamation?', note: 'Rule 90(3) precludes any ground available on or before the date the proclamation was drawn up. And the Explanation forecloses the old favourite: mere absence of, or defect in, the ATTACHMENT is not by itself a ground.', no: 'The application is barred at the threshold and the merits are never reached. Undervaluation, extent, description and undisclosed encumbrances are all grounds available at the Rule 66 stage — which is why the Rule 54(1A) service endorsement is the first document the other side will produce.' },
+    { q: 'For Rule 90 — can you prove SUBSTANTIAL INJURY, and a CAUSAL LINK between the irregularity and that injury?', note: 'Rule 90(2) and Dhirendra Nath Gorai. Two distinct things: quantified loss, and a nexus. The usual proof is a registered valuer’s report plus comparable sale instances, PLUS evidence that bidders stayed away BECAUSE of the defect complained of.', no: 'The application fails. Kayjay Industries: a court sale is a forced sale and the price will realistically be below the open-market figure; mere inadequacy of price is not, without more, a ground under Rule 90.' }
+  ]"
+  result="the court sets aside the sale under Rule 92(2) — on a Rule 89 deposit made within thirty days of the sale, or on a Rule 90 or Rule 91 application allowed"
+  caveat="Two things to fix in your diary before anything else. FIRST, the limitation for all three remedies is ARTICLE 127 — SIXTY DAYS FROM THE DATE OF THE SALE, not from the date you discovered the problem; an auction-purchaser who finds a tenant in occupation on the seventieth day has no Rule 91 remedy left. SECOND, once the court confirms under Rule 92, Rule 92(3) bars any SUIT to set aside the confirmation — the only remedy is an appeal under Order XLIII Rule 1(j), and it is a first appeal on a decree-scale valuation."
+  resultKind="discretionary"
+/>
+
+### In plain English
 
 **(a) Rule 64 contains a limitation that is routinely ignored.** The court may sell the attached property "**or such portion thereof as may seem necessary to satisfy the decree**". Where a decree is for ₹4 lakh and the attached property is a twenty-acre holding, the executing court is obliged to consider whether a portion will do. A sale of the whole in such a case is not merely harsh; it is an excess of the power conferred, and it grounds an objection under Rule 90 and under section 47.
 
@@ -1789,33 +1884,184 @@ Then **section 65** performs the trick that decides most subsequent litigation: 
 
 **(l) Rule 95 delivery and Rule 97 obstruction are the seam between this block and the next.** Rule 95 works where the occupant is the judgment-debtor or someone claiming under him post-attachment. If the occupant is anyone else — a prior tenant, an independent claimant — Rule 95 does not reach him, delivery is resisted, and the purchaser's remedy shifts to Rule 97, with its own thirty-day limitation under Article 129.
 
-### 3. Courtroom & Practical Illustrations — Rules 64 to 96
+### Test your instinct
 
-::: tip Illustration 1 — a ₹3.2 crore property sold for ₹41 lakh
-**Facts.** A money decree for ₹38 lakh. The judgment-debtor's commercial plot is proclaimed and sold for ₹41 lakh. The debtor applies under Rule 90, alleging that the proclamation described the plot as "agricultural land" though it was converted to commercial use in 2016, omitted the frontage on the highway, and did not disclose the pending compensation award, and that the sale was held on the eleventh day after affixture.
+Five situations. Decide what you would argue and what you think the court will do, and only then open the ruling. The pattern in this block: the decisive document was filed, or not filed, months before the auction.
 
-**Sword — the judgment-debtor's case.** Build both stages. On **irregularity**: produce the conversion order, the master-plan extract and the proclamation side by side; produce the court-house affixture endorsement showing the eleven-day interval against Rule 68's fifteen; and show that the encumbrance column was left blank though a bank's charge was registered. On **substantial injury**: a registered valuer's report at ₹3.2 crore, three comparable sale deeds in the same survey number within the preceding year, and an affidavit from two intending bidders that they did not participate because the proclamation described the land as agricultural. Then meet Rule 90(3) head-on: state on affidavit that no notice of the date for settling the terms of the proclamation was served, so these were not grounds the debtor "could have taken" earlier — because if he was noticed and stayed away, the application dies on sub-rule (3).
+::::instinct A ₹3.2 crore plot sold for ₹41 lakh
 
-**Shield — the auction-purchaser's case.** Attack the causal link, which is the weak joint in almost every Rule 90 application. Prove that the debtor was served with the Rule 54(1A) notice to attend for settling the terms, and that his advocate appeared — which brings sub-rule (3) into play and forecloses every valuation and description ground. Point to the *Explanation* to neutralise any attachment defect. On injury, show that the auction was attended by seven bidders, that the price rose through eleven bids from the reserve, and that a court sale is inherently a distress sale — an inadequate price, standing alone, is not "substantial injury by reason of" an irregularity. On the Rule 68 point, ask the court to note that the fifteen-day period runs from affixture on the **court-house**, and produce the endorsement.
+Anita's money decree is for ₹38 lakh. Bharat's commercial plot is proclaimed and sold for ₹41 lakh. Bharat applies under Rule 90. He alleges that the proclamation described the plot as "agricultural land" though it was converted to commercial use in 2016, omitted the highway frontage, left the encumbrance column blank though a bank's charge was registered, and that the sale was held on the eleventh day after affixture.
+
+**His irregularities look overwhelming. What single fact will decide whether he wins or loses — and it is not any of them?**
+
+:::ruling
+
+**Whether he was served with the Rule 54(1A) notice and stayed away.**
+
+**Rule 90(3) is the whole case.** No application to set aside a sale shall be entertained "upon any ground which the applicant **could have taken on or before the date on which the proclamation of sale was drawn up**." Every one of Bharat's description and valuation grounds — the conversion, the frontage, the encumbrance, the value — was available to him at the settling of terms. If he was noticed and did not appear, the application is barred at the threshold and the court never reaches the irregularities at all.
+
+And the notice was probably given long before, inside the attachment order. **Rule 54(1A)** requires the attachment order itself to direct the judgment-debtor to attend on a specified date to take notice of the date for settling the terms of the proclamation; and by the **first proviso to Rule 66(2)**, that notice dispenses with a fresh Rule 66 notice. So the first document the purchaser will produce is the Rule 54(1A) service endorsement, and it is very often fatal.
+
+**If Bharat can show he was not served, he then has to build both stages of Rule 90 and most applicants build only the first.**
+
+*On irregularity:* the conversion order and the master-plan extract against the proclamation, side by side; the court-house affixture endorsement showing eleven days against the fifteen required by Rule 68; the registered charge against the blank encumbrance column.
+
+*On substantial injury:* a registered valuer's report at ₹3.2 crore; three comparable sale deeds in the same survey number within the preceding year; and — the part that is nearly always missing — **affidavits from intending bidders that they did not participate because the proclamation described the land as agricultural.** That is the causal nexus *Dhirendra Nath Gorai* requires, and without it the price evidence proves nothing.
+
+**The purchaser's defence, conversely, is not to defend the proclamation.** It is to attack the joint. Produce the Rule 54(1A) service. Point to the *Explanation* to neutralise any attachment defect. On injury, show that seven bidders attended and the price rose through eleven bids from the reserve — and take *Kayjay Industries*: a court sale is a forced sale, the price will be below the open market figure, and inadequacy alone is not "substantial injury **by reason of**" an irregularity. On Rule 68, produce the endorsement and remind the court that the fifteen days run from affixture **on the court-house**, not from the order.
+
+::::
+
+::::instinct The fifteenth day falls on a Sunday
+
+Chetan is declared the purchaser of a house at ₹90 lakh and deposits ₹22.5 lakh at the fall of the hammer. The fifteenth day is a Sunday; he deposits the balance on Monday. On the 58th day, Bharat's son Deepak files a Rule 89 application, depositing five per cent plus the proclaimed decretal amount.
+
+**Deepak has two grounds available. Which is the one to lead with, and why?**
+
+:::ruling
+
+**Lead with the Rule 89 deposit, not with the Rule 85 default. The deposit ground wins on its own terms; the default ground is a fight.**
+
+**Take the weaker ground first, so you know why to demote it.** *Manilal Mohanlal Shah* holds that Rules 84, 85 and 86 are mandatory, that a purchaser who misses the fifteenth day leaves "no sale at all in the eye of law," and that **section 148 has no application** because it enlarges a period fixed *by the court*, not one fixed *by the rule*. That is powerful. But where the fifteenth day is a **holiday**, section 4 of the Limitation Act saves an act to be done in court on the day it reopens, the High Courts are not uniform on whether it applies to Rule 85, and Rule 86 in any event makes forfeiture discretionary — "**may**, if the Court thinks fit." So the ground is real, and it should be pleaded, but it will be argued.
+
+**Rule 89 does not require Chetan to have done anything wrong.** It is a **redemption right**. Deposit and the sale goes. So establish the three things it actually needs:
+
+*Standing.* "Any person claiming an interest in the property sold **at the time of the sale or at the time of making the application**." A coparcener or a legal representative qualifies comfortably. But note the trap for Deepak: **if the house stood in Bharat's sole name, being his son gives him no interest in the property sold at all.** Relationship is not interest. He must show a coparcenary interest, a registered transfer, or a mortgage — and if he cannot, the application fails on standing and the arithmetic never matters.
+
+*Time.* Article 127 — sixty days from the sale. The 58th day is within it.
+
+*The arithmetic, which is where most Rule 89 applications actually die.* The deposit is cumulative and exact: **five per cent of the purchase-money** — five per cent of ₹90 lakh, not five per cent of the reserve — **plus** the sum specified in the proclamation as that for which the sale was ordered, **less** anything the decree-holder has received since the proclamation. Annex the computation as a schedule to the application and invite the court to check it. A shortfall on either limb is fatal, and Rule 92(2) permits correction only of a **clerical or arithmetical** deficiency — not of a deficiency caused by computing the wrong base.
+
+**So the order of the application is: standing, deposit, time — and then, in a final paragraph, the Rule 85 default in the alternative.**
+
+::::
+
+::::instinct The purchaser who bought a lawsuit
+
+Chetan buys a shop at a court auction. After confirmation and the issue of a sale certificate, he finds a tenant in occupation under a **registered lease of 2011** — five years before the suit — which the proclamation never disclosed. Worse, Bharat's interest turns out to have been an undivided one-fourth share, not the whole.
+
+**Chetan wants his money back. What is his remedy, and what is the objection that will probably defeat him?**
+
+:::ruling
+
+**His remedy is Rule 91 with Rule 90 in the alternative. The objection that defeats him is the date.**
+
+**The date, first, because it is usually the end of the matter.** **Article 127 gives sixty days from the date of the sale** — not from confirmation, and not from discovery. Chetan found the tenant *after* confirmation, which means the sixty days have almost certainly run. And once Rule 92 confirmation has issued, **Rule 92(3) bars any suit** to set aside that order; his only route is an appeal under Order XLIII Rule 1(j), on a decree-scale valuation. An auction-purchaser who inspects after he takes the certificate has generally lost both remedies before he starts.
+
+**If he is within time, he has two distinct grounds and should plead both.**
+
+*Rule 91* — the judgment-debtor had **no saleable interest**. Chetan's case is that what was sold and what was described are not the same thing: the proclamation offered the shop, Bharat owned an undivided one-fourth.
+
+*Rule 90* — Chetan is "a person whose interests are affected by the sale," so the rule is open to him. The non-disclosure of a **registered** lease in the encumbrance column is a material irregularity in publishing, and here the substantial injury is unusually easy: he paid vacant-possession value for a tenanted one-fourth share, and the difference is arithmetic rather than opinion. Note that Rule 90(3) does **not** bite against him — these were not grounds *he* could have taken at the settling of the proclamation, to which he was not a party.
+
+**The decree-holder's answer on merits is narrower than it looks, and it is worth knowing precisely.** Rule 91 is available only where the debtor had **no** saleable interest at all. A **partial or encumbered** interest is not the same thing: Bharat *did* have a saleable interest, namely his undivided one-fourth, and what Chetan bought at a court auction was the judgment-debtor's right, title and interest **such as it was**, on the principle of *caveat emptor* which governs execution sales. On the tenancy, point to the general recital that the property is sold subject to encumbrances, and to Chetan's failure to inspect.
+
+**Which leaves Chetan with the remedies he did not want:** proceedings against the tenant under Rules 97 to 106, or a suit for partition of the one-fourth share he actually bought.
+
+::::
+
+::::instinct The decree-holder who bid without asking
+
+At the auction of Bharat's godown the only serious bidder is Anita herself, the decree-holder, bidding through her brother-in-law. The property is knocked down to him for ₹19 lakh against a decree of ₹22 lakh. No permission to bid was ever sought.
+
+**Bharat applies to set the sale aside. What is his rule, what must he prove — and what does Anita stand to lose beyond the property?**
+
+:::ruling
+
+**Rule 72(3), and he has to prove almost nothing.**
+
+**Rule 72(1) is a prohibition, not a formality.** "No holder of a decree in execution of which property is sold shall, **without the express permission of the Court**, bid for or purchase the property." The reason is structural rather than moral: the decree-holder settles the proclamation, controls the information about the property, knows the reserve, and can **set off his decree against the price** under Rule 72(2) — so he can buy without producing cash while every genuine bidder must find it. He is not a participant in the market; he is a participant with the referee's whistle.
+
+**Sub-rule (3) makes the consequence direct and it is deliberately unpleasant for Anita.** Where a decree-holder purchases, "**by himself or through another person**," without permission, the court may on the application of the judgment-debtor or anyone whose interests are affected **set aside the sale** — and "the costs of such application and order, and **any deficiency of price which may happen on the re-sale and all expenses attending it**, shall be paid by the decree-holder."
+
+So Bharat need not prove substantial injury, need not prove a defective proclamation, and need not bring himself past Rule 90(3). He proves two facts: that Anita is the decree-holder, and that the purchase was hers. The words "through another person" are there precisely to catch the brother-in-law, and the proof is the usual proof — the source of the deposit, the relationship, and who instructed the bid.
+
+**And Anita's exposure runs past losing the godown.** If the re-sale fetches ₹16 lakh, she pays the ₹3 lakh deficiency and the whole cost of the re-sale, including a fresh proclamation and publication — after which she is back where she began, three lakh worse off, with the decree still unsatisfied.
+
+**The correct course was cheap and available.** Apply under Rule 72(1) for **express permission to bid before the sale**, stating the intended maximum — and, as the fee note below explains, state it **inclusive of stamp duty**, because the Rule 72(2) set-off operates on the purchase-money only and the duty on the sale certificate must be found in cash.
+
+**Two adjacent traps, for completeness.** A **mortgagee** needs leave under **Rule 72A** even at the sale in execution of his own mortgage decree — otherwise he buys in the equity of redemption cheaply at a sale he controls. And **Rule 73** bars any officer connected with the sale **absolutely**: there is no permission that can be granted, because the vice is the conflict itself, and a purchase in breach is void rather than voidable.
+
+::::
+
+::::instinct The decree that was set aside after the auction
+
+Bharat's flat is sold at auction to Chetan, a stranger who bid in good faith. The sale is confirmed and the certificate issues. Fourteen months later, Bharat's first appeal succeeds and the money decree against him is set aside in its entirety.
+
+**Bharat wants his flat back. Does he get it?**
+
+:::ruling
+
+**No — he gets money, and from the wrong-feeling person.**
+
+**The rights of a bona fide auction-purchaser who is a stranger to the decree are protected.** That is *Ashwin S. Mehta v. Custodian*. The sale in Chetan's favour is not disturbed merely because the decree was afterwards set aside. Bharat's remedy is **restitution under section 144** — against **Anita, the decree-holder**, for the sale proceeds with interest, and not against Chetan for the flat.
+
+**The reason is worth holding onto, because it explains a whole family of outcomes.** A court auction only works if bidders can rely on it. If every purchaser had to satisfy himself that the decree would survive every appeal for the next several years, nobody would bid, or bids would collapse to a fraction of value — and the person that hurts most is the judgment-debtor, whose property is being sold. The protection of the stranger-purchaser is therefore not a windfall to him; it is what makes the auction produce a price at all.
+
+**Two qualifications, and both matter in practice.**
+
+*First, it does not extend to the decree-holder who is himself the purchaser.* Where Anita bought the flat — with permission under Rule 72 or without it — she is not a stranger to the decree, her title falls with the decree, and restitution under section 144 operates against the property itself. The distinction between a stranger-purchaser and a decree-holder-purchaser is doing a great deal of work in this area.
+
+*Second, note how section 65 compounds the effect.* The property is deemed to have vested in Chetan **from the date of the sale**. So his title does not merely survive the reversal; it is treated as having existed throughout the intervening fourteen months, which disposes of any claim by Bharat to mesne profits or rents for that period.
+
+**The practical instruction for a judgment-debtor is therefore about sequence, not merit.** If you intend to challenge the decree, you must stop the sale **before it happens** — a stay under Order XLI Rule 5, pleading all three of its conditions, or a deposit under Rule 89 within the sixty days. Winning the appeal afterwards gets you a money claim against a decree-holder who may by then have nothing.
+
+::::
+
+### Practitioner HUD — operational realities
+
+#### The winning ratio
+
+If you take one sentence from this block into court, take this one.
+
+::: tip The proposition to plead
+**Dhirendra Nath Gorai v. Sudhir Chandra Ghosh**, AIR 1964 SC 1300 — 3-Judge Bench —
+
+Rule 90 requires the applicant to establish not merely a material irregularity or fraud in publishing or conducting the sale, but that he has thereby sustained **substantial injury** — and there must be a **causal connection** between the irregularity and the injury. An irregularity that caused no prejudice does not vitiate the sale; injury unconnected to the irregularity is irrelevant.
+
+For the auction-purchaser this is the defence, and it is a defence you take by attacking the joint rather than the parts: *"the application pleads the irregularity and pleads the price, but pleads nothing whatever to connect them."*
+
+For the judgment-debtor it is a drafting instruction, and a demanding one. It is not enough to prove that the proclamation was wrong and that the price was low. You must prove that the price was low **because** the proclamation was wrong — which in practice means affidavits from intending bidders explaining why they did not bid, filed alongside the valuer's report. Read with *Kayjay Industries* — a court sale is a forced sale and inadequacy of price alone is no ground — and with the preclusion in Rule 90(3), this is why most Rule 90 applications fail.
 :::
 
-::: tip Illustration 2 — the fifteenth-day default
-**Facts.** P is declared the purchaser of a house at ₹90 lakh and deposits ₹22.5 lakh at the fall of the hammer. The fifteenth day falls on a Sunday; P deposits the balance on Monday. The judgment-debtor's son, meanwhile, files a Rule 89 application on the 58th day depositing five per cent plus the proclaimed decretal amount.
+#### Sword and shield
 
-**Sword — the applicant's case under Rule 89.** Two independent grounds, and both should be taken. **First**, the Rule 85 deposit was not made "before the Court closes on the fifteenth day". Where the fifteenth day is a holiday, section 4 of the Limitation Act saves an act to be done in court on the reopening day — but Rule 85 prescribes a period fixed by the rule, and the better view in several High Courts is that the sale stands vitiated, with Rule 86 forfeiture following; take the point, but do not rest on it. **Second, and decisively**, prove standing under Rule 89: as a coparcener/legal representative, the applicant is "a person claiming an interest in the property sold", the deposit is within sixty days under Article 127, and the deposit covers both limbs — annex a computation showing five per cent of ₹90 lakh, plus the exact figure recited in the proclamation, less the ₹2 lakh the decree-holder received after the proclamation.
+| Situation | As decree-holder / purchaser (sword) | As judgment-debtor / objector (shield) |
+|---|---|---|
+| **Settling the terms of the proclamation** | Serve the **R. 54(1A)** notice and keep the endorsement. It is the document that later forecloses every valuation ground under R. 90(3). | **Attend, and file a registered valuer's report.** This is where the case is won. A ground not taken here is lost forever, and the court will not supply its own estimate. |
+| **Extent of the sale** | Proclaim only so much as is necessary. | **R. 64** — a sale of the whole to realise a fraction is an excess of the power, and it is the one R. 90 ground that does not depend on proving a depressed price. |
+| **Description and encumbrances** | Complete the encumbrance column. A blank one is the purchaser's route out under R. 91 and the debtor's under R. 90. | A registered lease or charge omitted from the proclamation is a material irregularity in **publishing** — the strongest R. 90 ground there is. |
+| **Timing of the sale** | Compute the R. 68 interval from **affixture on the court-house** and keep the endorsement. | Fifteen days for immovables, seven for movables. It may be shortened **only by consent in writing**, and a sale on the fourteenth day is trivially easy to prove. |
+| **Who may bid** | Apply for **express permission under R. 72(1) before the sale**, stating the intended maximum inclusive of stamp duty. | R. 72(3) — a purchase by the decree-holder "by himself **or through another person**" without permission is set aside, and he pays the deficiency on re-sale and all its expenses. |
+| **Mortgagee bidding at his own sale** | Apply for leave under **R. 72A** — it is required even in execution of the mortgage decree. | Without leave, the sale is liable to be set aside; the mischief is buying in the equity of redemption at a sale you control. |
+| **Officer connected with the sale** | Keep them out. | **R. 73** is absolute — no permission is possible and a purchase in breach is **void**, not voidable. |
+| **Purchaser's deposits** | 25 % at the fall of the hammer; balance before the court closes on the **15th day**. Diarise it the same afternoon. | *Manilal Mohanlal Shah* — the periods are mandatory, **s. 148 does not enlarge a period fixed by the rule**, and on default there is no sale at all. |
+| **You want to keep the property** | Resist on the arithmetic, then on standing. | **R. 89** — a redemption right needing no fault. Deposit 5 % of the **purchase-money** plus the proclaimed decretal sum, less post-proclamation receipts, within **60 days**. Annex the computation. |
+| **Running R. 89 and R. 90 together** | Take the R. 89(2) point — they cannot be prosecuted together. | Elect. The R. 90 application must be **withdrawn** before the R. 89 application can proceed. |
+| **You bought a defective title** | *Caveat emptor* governs court sales; a **partial or encumbered** interest is not "no saleable interest". | **R. 91**, and it belongs to the purchaser alone. But the clock runs from the **sale**, not from discovery. |
+| **Decree reversed after the sale** | *Ashwin S. Mehta* — a bona fide stranger-purchaser's title survives the reversal. | Restitution under **s. 144** against the decree-holder for the proceeds. It is otherwise where the **decree-holder himself** bought. |
+| **Confirmation has issued** | R. 92(3) bars any **suit**; resist one as not maintainable. | The remedy is an appeal under **O. XLIII R. 1(j)** — a miscellaneous first appeal, valued on the subject matter. |
+| **Delivery after the certificate** | **R. 95** reaches the debtor, anyone on his behalf, and anyone claiming under a title created by him **after the attachment**. | If the occupant is none of those — a prior tenant, an independent claimant — R. 95 does not reach him, and the purchaser must go to **R. 97** within **thirty days**. |
+| **Appropriating what is realised** | Costs of the sale come off the top under R. 74 — but only if quantified and claimed. | *Gurpreet Singh* — deposits are appropriated **costs, then interest, then principal**, and interest ceases to run on so much of the principal as stands deposited. |
 
-**Shield — the purchaser's case.** Meet the deposit arithmetic first, because a shortfall is fatal and is the commonest reason Rule 89 applications fail: check whether the applicant credited post-proclamation receipts he should not have, or computed five per cent on the reserve instead of on the purchase-money. Then dispute standing — a son of a judgment-debtor who owns the property in his sole name has no "interest in the property sold" merely by relationship. On the Rule 85 point, invoke section 4 of the Limitation Act and the practice of the court, and note that Rule 86 makes forfeiture discretionary ("**may**, if the Court thinks fit") even on a genuine default.
-:::
+#### The limitation clock
 
-::: tip Illustration 3 — the purchaser who bought a lawsuit
-**Facts.** X buys a shop at a court auction. After confirmation and the issue of a sale certificate, X finds a tenant, T, in occupation under a registered lease of 2011 — five years before the suit — which the proclamation never disclosed. The judgment-debtor's interest turns out to be a one-fourth undivided share, not the whole.
+| Step | Source | Period | Runs from | Note |
+|---|---|---|---|---|
+| Interval before the sale may be held | **O. XXI R. 68** | **15 days** immovable / **7 days** movable | **Affixture on the court-house** | Shortened only by the judgment-debtor's consent **in writing** |
+| Purchaser's first deposit — 25 per cent | **O. XXI R. 84(1)** | **Immediately** on being declared purchaser | The fall of the hammer | Not extendable; in default the property is "forthwith re-sold" |
+| Purchaser's balance | **O. XXI R. 85** | **Before the court closes on the 15th day** | Date of the sale | *Manilal Mohanlal Shah* — mandatory; **s. 148 does not apply** to a period fixed by the rule |
+| Application under **R. 89** (deposit and redeem) | Art. 127, Limitation Act | **60 days** | Date of the sale | The deposit must be **made**, not merely offered |
+| Deposit to be made where a R. 89 application is allowed | **R. 92(2)** | **30 days** | Date of the sale | Only a **clerical or arithmetical** deficiency may be corrected later |
+| Application under **R. 90** (irregularity or fraud) | Art. 127 | **60 days** | Date of the sale | Plus the R. 90(3) preclusion, which has no clock — it simply kills the ground |
+| Application under **R. 91** (no saleable interest) | Art. 127 | **60 days** | Date of the sale | **Not** from discovery. The commonest way an auction-purchaser loses his remedy |
+| Appeal from an order under **R. 92** | O. XLIII R. 1(j); Art. 116 / 117 | **90 days** to a High Court; **30 days** to any other court | Date of the order | R. 92(3) bars a suit outright |
+| Purchaser's application for **delivery of possession** | **Art. 134** | **1 year** | When the sale becomes **absolute** | Distinct from Art. 127 — and from Art. 129 below |
+| Complaint of resistance to that delivery | **Art. 129** | **30 days** | The resistance | R. 95 fails against a stranger; the remedy is R. 97 |
+| Application for **rateable distribution** | **s. 73** | Before **receipt of the assets** by the court | — | Costs of the sale come off the top under R. 74 |
+| Vesting of title in the purchaser | **s. 65** | — | **The date of the sale**, not of confirmation | Relation back — decisive for mesne profits and for intervening transfers |
 
-**Sword — X's case.** Move fast, because **Article 127 gives sixty days from the sale**, not from discovery. File under **Rule 91**: the judgment-debtor had no saleable interest in the whole, having only an undivided one-fourth share, and what was sold and what was described are not the same thing. In the same application, or in the alternative, invoke **Rule 90** as "a person whose interests are affected by the sale" — the non-disclosure of the registered lease in the encumbrance column of the proclamation is a material irregularity in publishing, and the substantial injury is precise and quantifiable: X paid vacant-possession value for a tenanted one-fourth share. Ask for a refund of the entire purchase-money with interest, which the court has power to direct on setting aside a sale.
-
-**Shield — the decree-holder's case.** If the sixty days have run, take the limitation point first — it is complete and Rule 92 confirmation will already have issued. If X is within time, meet Rule 91 on its own terms: the judgment-debtor **did** have a saleable interest, namely his undivided one-fourth share, and Rule 91 is available only where he had **no** saleable interest at all — a partial or encumbered interest is not the same thing, and the purchaser at a court auction buys the debtor's right, title and interest such as it is, on the principle of *caveat emptor* which governs execution sales. As to the tenancy, point to the proclamation's general recital that the property is sold subject to encumbrances, and to X's failure to inspect, and note that X may still work out his remedy against T under Rules 97 to 106 or in a suit for partition of the one-fourth share.
-:::
-
-### 4. Procedural Interlocking Matrix — Rules 64 to 96
+#### Interlocking matrix — what this connects to
 
 | Trigger | Provision | Interlocking Order/Rule | Limitation / fee | Application to file |
 |---|---|---|---|---|
@@ -1847,7 +2093,7 @@ Three financial consequences follow a court sale, and the auction-purchaser who 
 The practical drafting point: when applying for permission to bid under Rule 72, state the intended maximum **inclusive** of stamp duty, because the set-off under Rule 72(2) operates only on the purchase-money and not on the duty, which must be found in cash.
 :::
 
-### 5. Landmark & Modern Jurisprudence — Rules 64 to 96
+#### The authorities
 
 **Manilal Mohanlal Shah v. Sardar Sayed Ahmed Sayed Mahamad, AIR 1954 SC 349** — 3-Judge Bench.
 *Facts:* An auction-purchaser failed to deposit the balance purchase-money within the period prescribed, and the court nevertheless proceeded to confirm the sale.
@@ -1856,15 +2102,6 @@ The practical drafting point: when applying for permission to bid under Rule 72,
 
 ::: tip Practitioner Takeaway
 "The requirement of Order XXI Rule 85 that the balance purchase-money be deposited before the court closes on the fifteenth day from the sale is mandatory, and on default there is in law no sale at all; this Hon'ble Court has no jurisdiction to extend the period, section 148 having no application to a period prescribed by the rule itself, and the confirmation dated [•] is accordingly without jurisdiction."
-:::
-
-**Dhirendra Nath Gorai v. Sudhir Chandra Ghosh, AIR 1964 SC 1300** — 3-Judge Bench.
-*Facts:* A sale was attacked on the ground of an irregularity in the publication of the proclamation, without proof of any resulting loss.
-
-**Ratio decidendi:** Rule 90 requires the applicant to establish not merely a material irregularity or fraud in publishing or conducting the sale, but also that he has thereby sustained **substantial injury** — and there must be a **causal connection** between the irregularity and the injury. An irregularity which caused no prejudice does not vitiate the sale; conversely, injury unconnected to the irregularity is irrelevant. The Court also drew the distinction between a nullity, which cannot be waived, and an irregularity, which can.
-
-::: tip Practitioner Takeaway
-"It is settled since *Dhirendra Nath Gorai* that a sale is not set aside under Order XXI Rule 90 upon proof of irregularity alone; the applicant must establish substantial injury and must further establish a causal nexus between the irregularity complained of and that injury, and the application in hand pleads neither the quantum of injury nor any nexus."
 :::
 
 **Kayjay Industries (P) Ltd. v. Asnew Drums (P) Ltd., (1974) 2 SCC 213** — 3-Judge Bench (Krishna Iyer J.).
@@ -1898,7 +2135,7 @@ The practical drafting point: when applying for permission to bid under Rule 72,
 The strictness of *Manilal Mohanlal Shah* on Rule 85 has been the subject of later qualification where the delay is attributable to the court's own act or to a holiday, and the High Courts are not uniform; check the position in your jurisdiction and consider section 4 of the Limitation Act. The interaction of Rules 89 to 92 with sales conducted under the SARFAESI Act, 2002, the Recovery of Debts and Bankruptcy Act, 1993 and the liquidation provisions of the Insolvency and Bankruptcy Code, 2016 is governed by those statutes and their own rules, not by Order XXI, though courts draw on Order XXI by analogy. Stamp duty rates and valuation methodology for sale certificates are entirely State-specific.
 :::
 
-### 6. The Advocate's Toolkit — Rules 64 to 96
+#### Strategy and drafting
 
 ::: danger Eight failures in the sale block
 1. **Not attending the settling of the terms of the proclamation.** Rule 90(3) forecloses every ground that could have been taken at that stage — description, extent, valuation, encumbrances. A judgment-debtor who ignores the Rule 54(1A) notice has, in a single act of inattention, surrendered the whole of his Rule 90 case.
