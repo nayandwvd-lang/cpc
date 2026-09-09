@@ -1122,54 +1122,96 @@ Rejection is a **decree** under Section 2(2). That is why it is the most valuabl
 
 ## Order VIII — Written Statement, Set-off and Counter-claim
 
-### 1. Verbatim Bare Act Text & Statutory Mechanics
+### The dispute this solves
 
-> **Rule 1. Written statement.** — The defendant shall, within thirty days from the date of service of summons on him, present a written statement of his defence:
+::: oneminute Bharat has a complete defence, every document to prove it, and no way to put it before the court.
+Anita sues Bharat in a commercial court for ₹40,00,000. The summons is served on 1 March. Bharat's defence is a good one — the contract was varied in writing, and he has the email chain that proves it.
+
+His counsel files the written statement on the 128th day.
+
+It is not taken on record. Not because it is late in a way that costs can cure, but because the proviso to **Order VIII Rule 1** says that on the expiry of one hundred and twenty days the defendant "**shall forfeit the right** to file the written statement and the Court **shall not allow**" it to be taken on record. There is no application that fixes this. The email chain is never read by anybody.
+
+**The whole of Order VIII is about the cost of silence**, and it charges that cost in three separate ways.
+
+**First, silence in time.** Thirty days to file, extendable for recorded reasons and on costs, but — in a **commercial suit** — never beyond 120 days. That outer limit is a hard bar. In an **ordinary civil suit** the same words have been read as directory, and the court retains a residual power. Knowing which regime you are in is the single most valuable thing on this page.
+
+**Second, silence on the page.** Rule 5(1): every allegation of fact in the plaint not denied **specifically**, or by necessary implication, or stated to be not admitted, "**shall be taken to be admitted**". A written statement that does not deal with paragraph 7 has admitted paragraph 7. So has one that denies it "generally" (R. 3), and so has one that denies it evasively (R. 4).
+
+**Third, silence about your own case.** Rule 2: the defendant **must** raise by his pleading all matters showing the suit not to be maintainable — "fraud, limitation, release, payment, performance, or facts showing illegality". An affirmative defence not pleaded cannot be argued, cannot be put in cross-examination, and cannot be found by the court.
+
+**The one idea to carry through this block:** a written statement is not a narrative of your side of the story. It is a **paragraph-by-paragraph answer to somebody else's document**, filed inside a window that may not reopen. Everything you do not answer, you have conceded.
+:::
+
+::: story The denial that admitted the debt
+Anita's plaint pleads: *"On 12 June 2022 the Defendant received ₹25,00,000 from the Plaintiff by RTGS from Account No. 5567 to Account No. 8891 as a loan repayable on demand, at 12% per annum."*
+
+Bharat's written statement answers: *"It is denied that the Defendant received ₹25,00,000 from the Plaintiff on 12 June 2022 as alleged."*
+
+That sentence loses the case, and it is the commonest sentence in Indian written statements.
+
+**Read Rule 4.** "Where a defendant denies an allegation of fact in the plaint, he **must not do so evasively, but answer the point of substance**." And the rule gives this exact example: if it is alleged that he received a certain sum, "it shall not be sufficient to deny that he received that particular amount, but he must **deny that he received that sum or any part thereof, or else set out how much he received**."
+
+Bharat's denial is of a **composite proposition** — the amount, the date, and the character of the payment. It leaves every one of the following open: that he received money; that he received it on some other date; that he received a smaller sum; that he received ₹25,00,000 but not as a loan. Read against Rule 4 it is an evasive denial, and an evasive denial is treated as **no denial at all** — which takes it into Rule 5(1) and makes the receipt a deemed admission.
+
+**What the rule actually required.** A denial that receipt of that sum **or any part of it** ever occurred; or, if money was received, a statement of how much, when, and on what account. If Bharat's real case is that he received ₹25,00,000 as the price of goods and not as a loan, then he must **admit** the receipt and **deny** the character — and plead the sale, the invoice and the delivery as the positive case under Rule 2.
+
+That written statement is shorter, and it is harder to attack, because it fights on the ground the defendant has chosen rather than on ground he has left open by accident.
+
+**Then there is Rule 3A**, which puts this on a statutory footing in commercial suits. The defendant must state which allegations he **denies**, which he is **unable to admit or deny but requires the plaintiff to prove**, and which he **admits** — a three-way sorting exercise, paragraph by paragraph. It is worth doing in every suit, whether or not the rule applies, because it makes evasion structurally impossible.
+
+**And the drafting discipline that follows from all of it.** Take the plaint, number a column against every paragraph, and put one of three words against each: *admitted*, *denied*, *not admitted*. Then write the positive case separately under Rule 2. A written statement drafted in that order cannot contain an evasive denial, because there is nowhere for one to hide.
+:::
+
+### The Act, decompiled
+
+Order VIII does three jobs. **Rules 1 to 5** govern the **answer** — when it must be filed, what must be denied and how, and what happens to what is not denied. **Rules 6 to 6G** govern the defendant's own **claims** — set-off, which is narrow and defensive, and counter-claim, which is wide and is treated as a plaint in its own right. **Rules 9 and 10** govern what comes **after** — subsequent pleadings by leave, and judgment on default. The centre of gravity is Rule 5(1), the deeming provision that turns every unanswered paragraph into an admission.
+
+> **Rule 1. Written statement.** — The defendant [[!shall, within thirty days]] from the date of service of summons on him, present a written statement of his defence:
 >
-> *Provided that where the defendant fails to file the written statement within the said period of thirty days, he shall be allowed to file the same on such other day, as may be specified by the Court, for reasons to be recorded in writing and on payment of such costs as the Court deems fit, but which shall not be later than one hundred twenty days from the date of service of summons and on expiry of one hundred twenty days from the date of service of summons, the defendant shall forfeit the right to file the written statement and the Court shall not allow the written statement to be taken on record.*
+> *Provided that where the defendant fails to file the written statement within the said period of thirty days, he [[?shall be allowed]] to file the same on such other day, [[?as may be specified by the Court]], for reasons to be recorded in writing and on payment of such costs as the Court deems fit, but which [[!shall not be later than one hundred twenty days]] from the date of service of summons and on expiry of one hundred twenty days from the date of service of summons, the defendant [[!shall forfeit the right]] to file the written statement and the Court [[!shall not allow]] the written statement to be taken on record.*
 
-> **Rule 1A. Duty of defendant to produce documents upon which relief is claimed or relied upon by him.** — (1) Where the defendant bases his defence upon a document or relies upon any document in his possession or power, in support of his defence or claim for set-off or counter-claim, he shall enter such document in a list, and shall produce it in Court when the written statement is presented…
+> **Rule 1A. Duty of defendant to produce documents upon which relief is claimed or relied upon by him.** — (1) Where the defendant bases his defence upon a document or relies upon any document in his possession or power, in support of his defence or claim for set-off or counter-claim, he [[!shall enter such document in a list]], and [[!shall produce it]] in Court when the written statement is presented…
 
-> **Rule 2. New facts must be specially pleaded.** — The defendant must raise by his pleading all matters which show the suit not to be maintainable, or that the transaction is either void or voidable in point of law, and all such grounds of defence as, if not raised, would be likely to take the opposite party by surprise, or would raise issues of fact not arising out of the plaint, as, for instance, fraud, limitation, release, payment, performance, or facts showing illegality.
+> **Rule 2. New facts must be specially pleaded.** — The defendant [[!must raise by his pleading all matters]] which show the suit not to be maintainable, or that the transaction is either void or voidable in point of law, and all such grounds of defence as, if not raised, would be likely to take the opposite party by surprise, or would raise issues of fact not arising out of the plaint, as, for instance, [[=fraud, limitation, release, payment, performance, or facts showing illegality]].
 
-> **Rule 3. Denial to be specific.** — It shall not be sufficient for a defendant in his written statement to deny generally the grounds alleged by the plaintiff, but the defendant must deal specifically with each allegation of fact of which he does not admit the truth, except damages.
+> **Rule 3. Denial to be specific.** — It shall not be sufficient for a defendant in his written statement to deny generally the grounds alleged by the plaintiff, but the defendant [[!must deal specifically]] with each allegation of fact of which he does not admit the truth, except damages.
 
 > **Rule 3A. Denial by the defendant in suits before the Commercial Division of High Court or Commercial Court.** — (1) Denial shall be in the manner provided in sub-rules (2), (3), (4) and (5) of this Rule. (2) The defendant in his written statement shall state which of the allegations in the particulars of plaint he denies, which allegations he is unable to admit or deny, but which he requires the plaintiff to prove, and which allegations he admits…
 
-> **Rule 4. Evasive denial.** — Where a defendant denies an allegation of fact in the plaint, he must not do so evasively, but answer the point of substance. Thus, if it is alleged that he received a certain sum of money, it shall not be sufficient to deny that he received that particular amount, but he must deny that he received that sum or any part thereof, or else set out how much he received. And if an allegation is made with diverse circumstances, it shall not be sufficient to deny it along with those circumstances.
+> **Rule 4. Evasive denial.** — Where a defendant denies an allegation of fact in the plaint, he [[!must not do so evasively]], but [[!answer the point of substance]]. Thus, if it is alleged that he received a certain sum of money, it shall not be sufficient to deny that he received that particular amount, but he must deny that he received that sum or any part thereof, or else set out how much he received. And if an allegation is made with diverse circumstances, it shall not be sufficient to deny it along with those circumstances.
 
-> **Rule 5. Specific denial.** — (1) Every allegation of fact in the plaint, if not denied specifically or by necessary implication, or stated to be not admitted in the pleading of the defendant, shall be taken to be admitted except as against a person under disability:
+> **Rule 5. Specific denial.** — (1) Every allegation of fact in the plaint, if not denied specifically or by necessary implication, or stated to be not admitted in the pleading of the defendant, [[!shall be taken to be admitted]] except as against a person under disability:
 >
-> *Provided that the Court may in its discretion require any fact so admitted to be proved otherwise than by such admission.*
+> *Provided that the Court [[?may in its discretion require]] any fact so admitted to be proved otherwise than by such admission.*
 >
-> (2) Where the defendant has not filed a pleading, it shall be lawful for the Court to pronounce judgment on the basis of the facts contained in the plaint, except as against a person under a disability, but the Court may, in its discretion, require any such fact to be proved…
+> (2) Where the defendant has not filed a pleading, it [[?shall be lawful for the Court]] to pronounce judgment on the basis of the facts contained in the plaint, except as against a person under a disability, but the Court may, in its discretion, require any such fact to be proved…
 
-> **Rule 6. Particulars of set-off to be given in written statement.** — (1) Where in a suit for the recovery of money the defendant claims to set-off against the plaintiff's demand any ascertained sum of money legally recoverable by him from the plaintiff, not exceeding the pecuniary limits of the jurisdiction of the Court, and both parties fill the same character as they fill in the plaintiff's suit, the defendant may, at the first hearing of the suit, but not afterwards unless permitted by the Court, present a written statement containing the particulars of the debt sought to be set-off.
+> **Rule 6. Particulars of set-off to be given in written statement.** — (1) Where in a suit for the recovery of money the defendant claims to set-off against the plaintiff's demand any [[=ascertained sum of money legally recoverable]] by him from the plaintiff, not exceeding the pecuniary limits of the jurisdiction of the Court, and both parties fill the [[=same character]] as they fill in the plaintiff's suit, the defendant [[?may, at the first hearing of the suit]], but [[!not afterwards unless permitted by the Court]], present a written statement containing the particulars of the debt sought to be set-off.
 > (2) **Effect of set-off.** — The written statement shall have the same effect as a plaint in a cross-suit so as to enable the Court to pronounce a final judgment in respect both of the original claim and of the set-off…
 
-> **Rule 6A. Counter-claim by defendant.** — (1) A defendant in a suit may, in addition to his right of pleading a set-off under rule 6, set up, by way of counter-claim against the claim of the plaintiff, any right or claim in respect of a cause of action accruing to the defendant against the plaintiff either before or after the filing of the suit but before the defendant has delivered his defence or before the time limited for delivering his defence has expired, whether such counter-claim is in the nature of a claim for damages or not:
+> **Rule 6A. Counter-claim by defendant.** — (1) A defendant in a suit [[?may]], in addition to his right of pleading a set-off under rule 6, set up, by way of counter-claim against the claim of the plaintiff, any right or claim in respect of a cause of action accruing to the defendant against the plaintiff either before or after the filing of the suit but before the defendant has delivered his defence or before the time limited for delivering his defence has expired, whether such counter-claim is in the nature of a claim for damages or not:
 >
-> *Provided that such counter-claim shall not exceed the pecuniary limits of the jurisdiction of the Court.*
+> *Provided that such counter-claim [[!shall not exceed the pecuniary limits]] of the jurisdiction of the Court.*
 >
 > (2) Such counter-claim shall have the effect of a cross-suit so as to enable the Court to pronounce a final judgment in the same suit, both on the original claim and on the counter-claim.
 > (3) The plaintiff shall be at liberty to file a written statement in answer to the counter-claim of the defendant within such period as may be fixed by the Court.
-> (4) The counter-claim shall be treated as a plaint and governed by the rules applicable to plaints.
+> (4) The counter-claim [[!shall be treated as a plaint]] and governed by the rules applicable to plaints.
 
-> **Rule 6B.** — Where any defendant seeks to rely upon any ground as supporting a right of counter-claim, he shall, in his written statement, state specifically that he does so by way of counter-claim.
+> **Rule 6B.** — Where any defendant seeks to rely upon any ground as supporting a right of counter-claim, he [[!shall, in his written statement, state specifically]] that he does so by way of counter-claim.
 >
 > **Rule 6C. Exclusion of counter-claim.** — Where a defendant sets up a counter-claim and the plaintiff contends that the claim thereby raised ought not to be disposed of by way of counter-claim but in an independent suit, the plaintiff may, at any time before issues are settled in relation to the counter-claim, apply to the Court for an order that such counter-claim may be excluded…
 >
-> **Rule 6D.** — If in any case in which the defendant sets up a counter-claim, the suit of the plaintiff is stayed, discontinued or dismissed, the counter-claim may nevertheless be proceeded with.
+> **Rule 6D.** — If in any case in which the defendant sets up a counter-claim, the suit of the plaintiff is stayed, discontinued or dismissed, the counter-claim [[?may nevertheless be proceeded with]].
 >
-> **Rule 6E.** — If the plaintiff makes default in putting in a reply to the counter-claim, the Court may pronounce judgment against the plaintiff in relation to the counter-claim or make such order in relation to the counter-claim as it thinks fit.
+> **Rule 6E.** — If the plaintiff makes default in putting in a reply to the counter-claim, the Court [[?may pronounce judgment]] against the plaintiff in relation to the counter-claim or make such order in relation to the counter-claim as it thinks fit.
 >
-> **Rule 6F. Relief to defendant where counter-claim succeeds.** — Where in any suit a set-off or counter-claim is established as a defence against the plaintiff's claim, and any balance is found due to the plaintiff or the defendant, as the case may be, the Court may give judgment to the party entitled to such balance.
+> **Rule 6F. Relief to defendant where counter-claim succeeds.** — Where in any suit a set-off or counter-claim is established as a defence against the plaintiff's claim, and any balance is found due to the plaintiff or the defendant, as the case may be, the Court [[?may give judgment]] to the party entitled to such balance.
 >
 > **Rule 6G.** — The rules relating to a written statement by a defendant shall apply to a written statement filed in answer to a counter-claim.
 
-> **Rule 9. Subsequent pleadings.** — No pleading subsequent to the written statement of a defendant other than by way of defence to set-off or counter-claim shall be presented except by the leave of the Court and upon such terms as the Court thinks fit; but the Court may at any time require a written statement or additional written statement from any of the parties and fix a time of not more than thirty days for presenting the same.
+> **Rule 9. Subsequent pleadings.** — [[!No pleading subsequent]] to the written statement of a defendant other than by way of defence to set-off or counter-claim [[!shall be presented except by the leave of the Court]] and upon such terms as the Court thinks fit; but the Court may at any time require a written statement or additional written statement from any of the parties and fix a time of not more than thirty days for presenting the same.
 
-> **Rule 10. Procedure when party fails to present written statement called for by Court.** — Where any party from whom a written statement is required under rule 1 or rule 9 fails to present the same within the time permitted or fixed by the Court, as the case may be, the Court shall pronounce judgment against him, or make such order in relation to the suit as it thinks fit and on the pronouncement of such judgment a decree shall be drawn up.
+> **Rule 10. Procedure when party fails to present written statement called for by Court.** — Where any party from whom a written statement is required under rule 1 or rule 9 fails to present the same within the time permitted or fixed by the Court, as the case may be, the Court [[!shall pronounce judgment against him]], or make such order in relation to the suit as it thinks fit and on the pronouncement of such judgment a decree shall be drawn up.
 
 **Statutory mechanics**
 
@@ -1190,7 +1232,71 @@ Rejection is a **decree** under Section 2(2). That is why it is the most valuabl
 | R. 9: "**No** pleading subsequent… except by the leave of the Court" | Prohibitory | A replication or rejoinder requires leave. A reply to a counter-claim does not. |
 | R. 10: "the Court **shall** pronounce judgment against him" | Mandatory in form; read with discretion | Read with R. 5(2), the court retains the power to require proof; but a defendant who does not file a written statement after being required to do so risks a decree. |
 
-### 2. Plain-English Conceptual Demystification
+::: proviso The proviso to Rule 1 — the deadline that means two different things in two different courts
+> *"Provided that where the defendant fails to file the written statement within the said period of thirty days, he [[?shall be allowed]] to file the same on such other day, as may be specified by the Court, for reasons to be recorded in writing and on payment of such costs as the Court deems fit, but which [[!shall not be later than one hundred twenty days]] from the date of service of summons and on expiry of one hundred twenty days from the date of service of summons, the defendant [[!shall forfeit the right]] to file the written statement and the Court [[!shall not allow]] the written statement to be taken on record."*
+
+Read the proviso as three stages, because it is drafted as three.
+
+**Stage one — thirty days.** The main limb. It is expressed with "shall", but in ordinary suits it has long been treated as directory, because the consequence of breach is dealt with by the proviso itself rather than by forfeiture.
+
+**Stage two — the extension.** The court may specify another day, but only **for reasons recorded in writing** and **on payment of costs**. Both are conditions, and an extension granted without either is vulnerable. This is not an adjournment; it is a judicial order that must contain reasons.
+
+**Stage three — the cliff at 120 days.** Two mandatory expressions, and they are directed at two different people. The defendant "**shall forfeit the right**" — his right disappears. And the court "**shall not allow**" it on record — the court's power disappears. The second is what makes this different from an ordinary limitation bar: there is no discretion left to exercise, so there is nothing to apply for.
+
+**And now the distinction that decides your case.** For suits of a **Specified Value** governed by the **Commercial Courts Act, 2015**, the 120-day outer limit is a **hard bar** — the forfeiture is real and the court cannot take the pleading on record however good the explanation. For **ordinary civil suits**, the same words have been read as **directory**, the court retaining a residual power to permit filing in an exceptional case, on costs.
+
+**So the first question in any written-statement default is not "what is my explanation".** It is: *is this a commercial suit?* If it is, the explanation is irrelevant and the only remaining fight is over the date of **service**, because that is what starts the clock — and an irregular or disputed service is sometimes the whole answer.
+
+**One consequence for the plaintiff.** If you are acting for a plaintiff in a commercial suit, effect service cleanly and prove it cleanly, because the 120-day bar is only as strong as the service date it runs from.
+:::
+
+::: proviso Rule 5(1) — the deemed admission, and the escape the court keeps
+> *"Every allegation of fact in the plaint, if not denied specifically or by necessary implication, or stated to be not admitted in the pleading of the defendant, [[!shall be taken to be admitted]] except as against a person under disability: Provided that the Court [[?may in its discretion require]] any fact so admitted to be proved otherwise than by such admission."*
+
+The main limb is a **deeming provision**, and it is the most powerful sentence in the Order. It converts an omission into evidence. There are only three ways to avoid it, and the rule names all three:
+
+**(i) deny it specifically** — paragraph by paragraph, dealing with the point of substance;
+**(ii) deny it by necessary implication** — where the positive case pleaded elsewhere is inconsistent with the allegation, so that the denial is unavoidable as a matter of logic. This works, but it is a bad thing to rely on, because it invites an argument about how necessary the implication really is; or
+**(iii) state that it is not admitted** — the honest answer where the fact is outside the defendant's knowledge, and the answer that Rule 3A makes explicit in commercial suits.
+
+**What the deeming provision does to the trial.** A deemed admission is not a weak point in the plaintiff's case that can be repaired in cross-examination — it removes the fact from the arena altogether. It cannot be the subject of an issue, no evidence needs to be led on it, and the defendant cannot put a contrary case to the plaintiff's witness.
+
+**Then the proviso, which cuts the other way.** Even where a fact is deemed admitted, the court "**may in its discretion require any fact so admitted to be proved otherwise than by such admission**." This is discretionary and it is not a right — but it is the only door left, and it is the door to knock on where the admitted fact is one the court should not act on without proof: title to immovable property, status, the execution of a will, an allegation of fraud, a claim against a person who was unrepresented.
+
+**And note the exception written into the main limb.** The deeming does not operate "**as against a person under disability**". A minor or a person of unsound mind does not admit by silence, and the same policy runs through Rule 5(2) — even on total default, judgment on the plaint is not available against a person under a disability.
+
+**The drafting rule that follows.** Against every paragraph of the plaint, one of three words, and never a blank. *Admitted. Denied. Not admitted.* A blank is an admission.
+:::
+
+### How this actually runs
+
+<MicroTree
+  input="You act for the defendant and the time for the written statement has run out"
+  :gates="[
+    { q: 'Is this a suit of a Specified Value governed by the Commercial Courts Act, 2015?', note: 'This is the first question, not the last. The same words in the proviso to Rule 1 operate differently in the two regimes.', no: 'Then the 120-day outer limit has been read as directory in ordinary suits and the court retains a residual power. Apply at once, with reasons and an offer of costs — but do not treat the indulgence as available for the asking.' },
+    { q: 'Have 120 days expired from the date of SERVICE of summons on this defendant?', note: 'The clock runs from service, not from institution, not from knowledge, and not from the first appearance.', no: 'You are still inside the window. File immediately, with an application for extension setting out reasons in writing and offering costs — both are conditions of the extension, not courtesies.' },
+    { q: 'Is the date of service itself sound — served on the right person, at the right address, in a manner the Code permits, and provable?', note: 'In a commercial suit this is usually the only remaining battleground, because the bar is absolute once service is established.', no: 'Then attack the service. If service was irregular, the 120 days never began, and that is a complete answer where no other answer exists.' },
+    { q: 'Given that the written statement cannot be taken on record, is there any part of your case that survives independently?', note: 'Forfeiting the right to file a defence is not the same as forfeiting every remedy.', no: 'Then the realistic objectives are narrow: participate in the trial to the extent permitted, cross-examine the plaintiff’s witnesses on the plaintiff’s own case, and hold the plaintiff to strict proof — because Rule 5(2) leaves the court a discretion to require proof rather than decree on the plaint.' }
+  ]"
+  result="In a commercial suit, the right is FORFEITED and the Court SHALL NOT allow the written statement on record. In an ordinary suit the court retains a residual discretion, exercisable on recorded reasons and costs."
+  caveat="A defendant without a written statement is not necessarily without a defence to the DEGREE of the claim. He cannot plead an affirmative case under Rule 2, but the plaintiff must still prove what the court, in its discretion under the proviso to Rule 5(1) and under Rule 5(2), requires to be proved."
+  resultKind="mandatory"
+/>
+
+<MicroTree
+  input="Your client has a money claim of his own against the plaintiff"
+  :gates="[
+    { q: 'Is the plaintiff’s suit a suit for the RECOVERY OF MONEY, is your claim an ASCERTAINED sum, is it legally recoverable and within the court’s pecuniary limits, and do both parties fill the same character?', note: 'Rule 6 — four cumulative conditions for legal set-off. Fail any one and legal set-off is unavailable.', no: 'Legal set-off is out. Consider equitable set-off, which is not in the Code at all: it requires that the cross-demand arise out of the SAME transaction, and it may be for an unascertained sum. Or go to counter-claim, which is wider than both.' },
+    { q: 'Would you rather have a claim that SURVIVES the plaintiff withdrawing or losing his suit?', note: 'Rule 6D — where the suit is stayed, discontinued or dismissed, the counter-claim may nevertheless be proceeded with. A set-off is only a defence and dies with the suit.', no: 'Then set-off is adequate, and it is cheaper. Give the particulars of the debt in the written statement itself, at the first hearing — “but not afterwards unless permitted by the Court”.' },
+    { q: 'Did the cause of action for your claim accrue BEFORE you delivered your defence, or before the time for delivering it expired?', note: 'Rule 6A(1) — this is the temporal boundary of a counter-claim, and it is the point most often missed.', no: 'A cause of action accruing after that point cannot be brought in by counter-claim in this suit. It is a separate suit.' },
+    { q: 'Are you ready to treat the counter-claim as a PLAINT — ad valorem court fee, limitation tested at the date of filing, particulars, verification and exposure to Order VII Rule 11?', note: 'Rule 6A(4) — the counter-claim shall be treated as a plaint and is governed by the rules applicable to plaints.', no: 'Then do not file it as a counter-claim. An under-stamped or time-barred counter-claim is attacked exactly as a plaint is attacked, and losing it costs the fee as well as the claim.' },
+    { q: 'Have you stated SPECIFICALLY in the written statement that you set the claim up by way of counter-claim?', note: 'Rule 6B. The label is not a formality — it tells the plaintiff what he must answer and starts the machinery in RR. 6C to 6G.', no: 'Say so expressly, in terms, and in a separately headed part of the written statement. A claim buried in the defence paragraphs will be read as a defence.' }
+  ]"
+  result="A properly pleaded counter-claim has the effect of a CROSS-SUIT: the court pronounces a final judgment on the claim and the counter-claim in the same proceeding, and gives judgment for whichever party the balance is due to under Rule 6F."
+  caveat="The plaintiff’s answer is Rule 6C — before issues are settled on the counter-claim he may apply to have it excluded and relegated to an independent suit. Expect that application where the counter-claim is unconnected with the plaint and would enlarge the trial."
+  resultKind="discretionary"
+/>
+### In plain English
 
 **Sub-module A — the time limit, and the two regimes.**
 
@@ -1278,48 +1384,173 @@ There is no right of reply to a written statement. A replication or rejoinder re
 - The court may **of its own motion** require an additional written statement from any party, fixing a period not exceeding thirty days.
 - A replication cannot be used to introduce a new cause of action or to alter the plaint. That requires an amendment under Order VI Rule 17.
 
-### 3. Courtroom & Practical Illustrations
+### Test your instinct
 
-**Illustration 1 — the 121st day in a commercial suit.** P, a supplier, files a commercial suit for ₹3.4 crore. Summons is served on D on 1 February. D's counsel seeks and obtains two extensions, and tenders the written statement on 5 June — 124 days after service.
+Five situations. Decide what you would advise before you open the ruling. The pattern in this block: the answer usually turns on what the pleading failed to say, not on what it said.
 
-- **Sword (plaintiff):** Object at the threshold. Under the proviso to Order VIII Rule 1 as it applies to commercial suits, D has **forfeited** the right to file, and the court "shall not allow the written statement to be taken on record". This is not a matter of discretion or of costs; there is no power to condone. P should press for the suit to proceed under Order VIII Rule 10, and for judgment on the plaint's averments.
-- **Shield (defendant):** The only genuine arguments are (i) that service was not effective on 1 February — attack the date of service itself, since the 120 days runs from **service**, not from filing or from the summons; or (ii) that the suit is not in fact a commercial dispute of a Specified Value, so the ordinary regime and its residual discretion apply. Both are factual and must be raised immediately.
+::::instinct The 124th day
 
-::: danger Diarise the date of service
-In a commercial suit, calculate the 120-day date on the day service is effected and put it in the file. Everything else in Order VIII is recoverable; this is not.
+Anita, a supplier, files a commercial suit for ₹3.4 crore. Summons is served on Bharat on 1 February. His counsel obtains two extensions and tenders the written statement on 5 June — 124 days after service. The defence is genuine and fully documented.
+
+**What is Bharat's application, and what is Anita's answer?**
+
+:::ruling
+
+**There is no application. That is the point of the proviso, and it is why this is the one deadline in the Code worth putting in a diary on the day of service.**
+
+**Anita's position is not an argument, it is the text.** For a commercial suit, on the expiry of 120 days from service the defendant "**shall forfeit the right**" to file and the court "**shall not allow**" the written statement to be taken on record. Both limbs are mandatory and the second removes the court's power. So there is nothing to condone, no costs that cure it, and no discretion to appeal to. Anita should press for the suit to proceed and for the court to act under **Rule 10**.
+
+**Bharat has exactly two arguments, and both are factual.** *First*, that service was not effective on 1 February — because the 120 days runs from **service**, not from institution, not from the summons, and not from the first appearance. If service was irregular, the clock never started. *Second*, that the suit is not in truth a commercial dispute of a Specified Value, which puts it into the ordinary regime where the outer limit has been read as **directory** and the court retains a residual power.
+
+**Note what he must not do: explain.** In a commercial suit the quality of the explanation is legally irrelevant, and an application built on the illness of a clerk and the volume of documents concedes the two points that might have worked.
+
+**What survives even so.** Forfeiting the right to file a defence is not forfeiting every remedy. Bharat cannot plead an affirmative case under Rule 2 — no limitation, no release, no payment, no variation of contract — but the court retains a discretion under **Rule 5(2)** and the proviso to **Rule 5(1)** to require facts to be proved rather than decree on the plaint, and he may cross-examine on the plaintiff's own case. That is a much worse position than a written statement. It is not nothing.
+
+::::
+
+::::instinct The two paragraphs nobody answered
+
+Anita's plaint pleads at paragraph 7 that Bharat executed a promissory note dated 4 May 2022 for ₹22,00,000, and at paragraph 8 that he received the sum **in cash**. Bharat's written statement traverses paragraphs 1 to 6 and 9 to 15. It says nothing about paragraphs 7 and 8.
+
+**Anita applies under Order XII Rule 6 for judgment on admissions. What does Bharat do?**
+
+:::ruling
+
+**Two things, in this order — and the second is the one people forget.**
+
+**First, apply at once under Order VI Rule 17 to amend the written statement** and introduce a specific denial. Amendments to a *written statement* are treated more liberally than amendments to a plaint, because adding a defence takes away no accrued right of the plaintiff, and inconsistent or alternative defences are permissible. Trial has not commenced. Do this before the Order XII Rule 6 application is heard, not after.
+
+**Second, invoke the proviso to Rule 5(1) in the alternative.** Even where a fact stands deemed admitted, the court "**may in its discretion require any fact so admitted to be proved otherwise than by such admission**". This is exactly the case for it: the allegation is of a **large cash payment**, and a court is generally reluctant to decree ₹22,00,000 on the strength of a drafting omission where the plaintiff can prove the payment if it happened.
+
+**Why the order matters.** The amendment application is the primary remedy and it asks for something the defendant is largely entitled to. The proviso is discretionary and asks for an indulgence. Leading with the indulgence signals that you accept the admission.
+
+**And what Anita should do about it.** Do not simply wait. **Press the Order XII Rule 6 application to a hearing before the amendment is allowed**, and oppose the amendment by pointing to what changed between the filing and the application — if nothing changed except that the omission was noticed, say so, and ask for costs. Anita will usually lose the amendment; she should not lose it for free.
+
+::::
+
+::::instinct "It is denied that ₹10,00,000 was received on 3 March"
+
+Anita pleads that Bharat received ₹10,00,000 on 3 March. His written statement says, in terms: *"It is denied that the Defendant received a sum of ₹10,00,000 on 3 March as alleged."*
+
+Bharat's actual case is that he received ₹2,50,000, and that it was the price of goods, not a loan.
+
+**Is that a denial?**
+
+:::ruling
+
+**No. It is an evasive denial under Rule 4, and an evasive denial is treated as no denial — which delivers the receipt to Rule 5(1) as a deemed admission.**
+
+**Rule 4 names this exact mischief.** "If it is alleged that he received a certain sum of money, it shall not be sufficient to deny that he received that particular amount, but he must **deny that he received that sum or any part thereof, or else set out how much he received**." Bharat has denied a composite proposition — figure plus date plus character — and left open that he received money, on that date or another, in some other amount, on some other account.
+
+**And notice the damage runs the wrong way for him.** His real case (₹2,50,000 for goods) is not merely unpleaded; the pleading he has filed is *inconsistent* with pleading it later, because he has denied receiving the sum "as alleged" rather than admitting receipt and disputing the character.
+
+**What the rule required.** Either: *"It is denied that the Defendant received ₹10,00,000, or any part thereof, on 3 March or at all"* — if that is true. Or, since it is not: *"The Defendant received ₹2,50,000 on 3 March and no more. It is denied that the said sum was received as a loan; it was received as the price of goods supplied under Invoice No. 118 dated 27 February, particulars whereof are set out in paragraph 14 below."*
+
+**That second version is the better pleading in every way.** It complies with Rules 3 and 4, it raises the positive case under **Rule 2** as it must be raised, and it moves the fight from "did money pass" — which Bharat will lose — to "on what account did it pass", which is the only issue he can win. A defendant who denies everything is fighting on the plaintiff's ground.
+
+::::
+
+::::instinct Two cross-claims, and which instrument fits
+
+**(a)** Anita sues Bharat, her tenant, for arrears of rent of ₹6,00,000. Bharat holds a decree against Anita for ₹4,20,000 from an earlier suit between the same parties in the same capacities.
+
+**(b)** Anita, a contractor, sues Bharat for ₹80,00,000 as the unpaid balance under a works contract. Bharat says the work was defective and that he has spent about ₹35,00,000 rectifying it.
+
+**Set-off, equitable set-off, or counter-claim — and how does Anita attack each?**
+
+:::ruling
+
+**(a) is a textbook legal set-off under Rule 6. (b) cannot be, and is either an equitable set-off or — better — a counter-claim.**
+
+**Why (a) works.** All four cumulative conditions are satisfied: a suit for the recovery of money; an **ascertained** sum (a decretal amount); legally recoverable and within the court's pecuniary limits; and both parties filling the **same character**. Bharat pleads the particulars of the debt in the written statement itself, **at the first hearing**, "but not afterwards unless permitted by the Court", and pays court fee as on a plaint.
+
+**Anita attacks (a) through the conditions, one at a time.** Is the sum genuinely ascertained? Is the decree still executable, or is execution time-barred under **Article 136**? And the one that most often succeeds: do the parties fill the same character — is the decree in Bharat's individual name while the tenancy is held by a firm or an HUF?
+
+**Why (b) fails Rule 6.** ₹35,00,000 "spent rectifying" is an unascertained damages claim. Legal set-off is unavailable. But the cross-demand arises out of **the very same contract**, and it would be inequitable to compel Bharat to pay in full and sue separately — the paradigm case for **equitable set-off**, which is not in the Code at all and is a creature of equity.
+
+**Anita's answer to (b) is that equity is discretionary.** The rectification cost is a disputed damages claim needing its own evidence; allowing it converts a straightforward money suit into a construction trial; and the proper vehicle is a **counter-claim under Rule 6A**, on which court fee is paid and issues are framed.
+
+**And Bharat should take that point rather than resist it.** A counter-claim is the stronger instrument for him: it is not confined to ascertained sums, it may exceed the plaintiff's claim, and under **Rule 6D** it survives if Anita withdraws or her suit is dismissed. A set-off is only a defence. It dies with the suit it defends.
+
+::::
+
+::::instinct The counter-claim that arrives after the evidence
+
+In a suit filed in 2021, issues were framed in 2023 and Anita's evidence concluded in 2025. Bharat now applies to file a counter-claim for damages. He says frankly that an independent suit would now be time-barred.
+
+Separately, in a simple injunction suit, Bharat has set up a counter-claim for a declaration of title, possession and mesne profits.
+
+**Take each in turn.**
+
+:::ruling
+
+**The 2025 counter-claim fails. The title counter-claim in the injunction suit is perfectly proper — and it is a significantly better instrument than Bharat's opponent may realise.**
+
+**On the late counter-claim.** Rule 6A(1) fixes the temporal limit by reference to when the **cause of action accrued** — before the defence was delivered, or before the time for delivering it expired. But the settled practice is that a counter-claim will not be entertained after issues have been framed, and certainly not after the plaintiff's evidence is closed. Bharat has a complete alternative remedy in an independent suit, and allowing this would derail a trial that is nearly over.
+
+**And note how his best fact defeats him.** The candid admission that an independent suit is time-barred is not mitigation — it establishes that the purpose of the application is to revive a claim the Limitation Act has extinguished, which is the strongest reason to refuse it.
+
+**On the title counter-claim.** Rule 6A permits exactly this. A counter-claim **need not be for money**, need not arise from the same transaction, and may exceed the plaintiff's claim in value. Its real advantage is **Rule 6D**: if Anita, sensing that the title issue is going against her, withdraws the suit or lets it be dismissed for default, the counter-claim **nevertheless proceeds** to judgment. Bharat obtains an adjudication of title without filing a separate suit — and without the risk that his opponent can end the proceedings by abandoning them.
+
+**Anita's three lines of attack, in order of practical value.** *First*, **Rule 6C** — before issues are settled on the counter-claim, apply to exclude it and relegate it to an independent suit, on the ground that a title suit ought not to be tried inside an injunction suit. *Second*, **Rule 6A(4)** — it is treated as a plaint, so check the **ad valorem court fee** on the declaration and possession, and check limitation **as at the date of filing**; a counter-claim is attacked under Order VII Rule 11 exactly as a plaint is. *Third*, check the accrual date against Rule 6A(1).
+
+**The general lesson.** Set-off is a shield, counter-claim is a sword, and equitable set-off is a discretionary favour. Choose by asking one question: *do I want this claim to survive if the plaintiff walks away?*
+
+::::
+
+### Practitioner HUD — operational realities
+
+#### The winning ratio
+
+If you take one sentence from this block into court, take this one.
+
+::: tip The proposition to plead
+**SCG Contracts (India) (P) Ltd. v. K.S. Chamankar Infrastructure (P) Ltd.**, (2019) 12 SCC 210 — Supreme Court of India —
+
+The proviso to Order VIII Rule 1 as amended by the Commercial Courts Act, 2015 is **mandatory and absolute** in its application to commercial suits. The words "**shall forfeit the right** to file the written statement" and "the Court **shall not allow** the written statement to be taken on record" leave no room for discretion. The line of authority treating the period as directory has no application to commercial suits.
+
+**Read it alongside its opposite number and the block falls into shape.** *Kailash v. Nanhku*, (2005) 4 SCC 480 — a three-Judge Bench — holds that in an **ordinary civil suit** the outer limit is **procedural and directory**: "shall" is not decisive, procedure is the handmaid of justice, and the court retains a power to extend in an exceptional case, for reasons recorded and ordinarily on costs. Two cases, the same words, opposite results, and the variable is the **kind of suit**.
+
+**So the sentence to have ready depends on which side of the line you are on.** For the plaintiff in a commercial suit: *"The defendant has forfeited the right, and this Court has no power to take the pleading on record. There is nothing before the Court to condone."* For the defendant in an ordinary suit: *"The period has been held directory; this Court retains the power to extend for reasons recorded and on costs, and I ask for it on terms."*
+
+**And the practical direction that follows from both.** The 120-day date is calculated from **service**, and it is the one date in a civil file that cannot be recovered. Compute it on the day service is effected and write it on the front of the brief. Everything else in Order VIII can be repaired by amendment; this cannot.
 :::
 
-**Illustration 2 — the deemed admission.** P's plaint pleads in paragraph 7 that D executed a promissory note dated 4 May 2022 for ₹22,00,000, and in paragraph 8 that D received the sum in cash. D's written statement traverses paragraphs 1 to 6 and 9 to 15, but is silent on paragraphs 7 and 8.
+#### Sword and shield
 
-- **Sword (plaintiff):** Apply under **Order XII Rule 6** for judgment on admissions. Paragraphs 7 and 8 stand admitted under Order VIII Rule 5(1). Execution and receipt being admitted, the plaintiff's case is complete on the pleadings.
-- **Shield (defendant):** Two responses, in this order. First, apply immediately under **Order VI Rule 17** to amend the written statement to introduce a specific denial — amendments to a written statement are treated liberally, and adding a defence deprives the plaintiff of no accrued right. Second, invoke the **proviso to Rule 5(1)**, which permits the court in its discretion to require a fact so admitted to be proved otherwise than by the admission — particularly apt where the transaction alleged is a large cash payment.
+| Situation | Filing / defending the written statement (sword) | Attacking it (shield) |
+|---|---|---|
+| **Time to file** | Diarise 30 days and 120 days from **service** on the day service is effected. Seek any extension **inside** the window, with reasons in writing and an offer of costs — both are conditions of the order. | In a commercial suit, object at the threshold and press for the suit to proceed under **R. 10**. Do not argue about the merits of the delay; there is nothing to condone. |
+| **The 120 days have expired** | Attack the **date of service**, or contend the suit is not a commercial dispute of a Specified Value. Do not lead with an explanation; in a commercial suit it is legally irrelevant. | Prove service cleanly. The bar is only as strong as the service date it runs from. |
+| **Answering the plaint** | One of three words against every paragraph — *admitted*, *denied*, *not admitted* — and never a blank. **R. 3A** makes this express in commercial suits; do it in every suit. | Read the written statement **against the plaint paragraph by paragraph**. Every paragraph not dealt with is a **R. 5(1)** deemed admission and the foundation of an **O. XII R. 6** application. |
+| **Denying receipt of money** | **R. 4** — deny the sum "**or any part thereof**", or state how much was received. Never deny a composite of figure, date and character. | An evasive denial is treated as **no denial**. Take the point in terms of R. 4's own example; the rule contains the illustration. |
+| **Your positive case** | **R. 2** — plead fraud, limitation, release, payment, performance, illegality and every ground that would take the other side by surprise. What is not pleaded cannot be argued or put in cross-examination. | If an affirmative defence appears for the first time in evidence or argument, object under R. 2 at once and on the record. |
+| **A paragraph was missed** | Apply under **O. VI R. 17** *before* the O. XII R. 6 application is heard — amendments to a written statement are treated liberally, and adding a defence takes away no accrued right. Invoke the **proviso to R. 5(1)** in the alternative, not first. | Press the O. XII R. 6 application to a hearing. Oppose the amendment by asking what changed since filing, and ask for costs. You will usually lose it; do not lose it for free. |
+| **Total default** | **R. 5(2)** — the court "may" pronounce judgment on the plaint; it is not bound to. Ask it to require proof, especially of title, status, execution or fraud. | Apply under **R. 10**. But expect the court to require proof where the claim is serious or the defendant unrepresented. |
+| **A cross-claim for an ascertained sum** | **R. 6** legal set-off — plead the particulars in the written statement **at the first hearing**, "but not afterwards unless permitted", and pay court fee as on a plaint. | Attack the four cumulative conditions one at a time. The one that most often succeeds is **same character** — a decree in an individual name against a tenancy held by a firm or an HUF. |
+| **A cross-claim for an unascertained sum** | Equitable set-off — same transaction, or so connected that it would be inequitable to drive the defendant to a separate suit. *Badat and Co.* | Equitable set-off is **discretionary, not a right**. Argue that it converts a money suit into a trial of a different dispute, and that R. 6A is the proper vehicle. |
+| **Choosing set-off or counter-claim** | Ask one question: *do I want this claim to survive if the plaintiff walks away?* If yes, **counter-claim** — **R. 6D** keeps it alive when the suit is stayed, discontinued or dismissed. | A set-off is only a defence and dies with the suit. Where the defendant has pleaded a set-off he should have pleaded as a counter-claim, withdrawal may be the plaintiff's best move. |
+| **Filing a counter-claim** | **R. 6B** — say **specifically** that you set it up by way of counter-claim, under a separate heading. *Ramesh Chand Ardawatiya* — it cannot be inferred from a denial or from stray averments. | **R. 6A(4)** — it is treated as a **plaint**. Test the **ad valorem fee**, limitation **at the date of filing**, particulars, verification, and **O. VII R. 11**. |
+| **A late counter-claim** | The only argument is late accrual with an account of the diligence. Saying the independent suit is now time-barred defeats the application rather than assisting it. | *Ramesh Chand Ardawatiya* — not available after issues are framed and the trial has begun; relegate the defendant to an independent suit. |
+| **An unconnected counter-claim** | Show a real overlap of issues and evidence with the suit, or expect to be sent away. | **R. 6C** — apply **before issues are settled** on the counter-claim for an order excluding it. The window closes at settlement of issues. |
+| **Replication or rejoinder** | **R. 9** — no pleading after the written statement, except in answer to a set-off or counter-claim, without **leave**. A reply to a counter-claim needs no leave. | An unauthorised replication is liable to be taken off the file. Object rather than answer it. |
+| **Documents** | **R. 1A** — enter every document relied on in a list and produce it with the written statement. | The mirror of O. VII R. 14(3): a document that should have been produced is not receivable without leave. Note the omission in your reply. |
 
-**Illustration 3 — the evasive denial.** P pleads that D received ₹10,00,000 on 3 March. D's written statement says: "It is denied that the Defendant received a sum of ₹10,00,000 on 3 March as alleged."
+#### The limitation clock
 
-- **Sword (plaintiff):** This is precisely the mischief Rule 4 addresses. D has denied the exact figure and the exact date, and said nothing about receiving any sum at all. Under Rule 4 the denial is evasive and D must be treated as not having denied receipt; the substance of the allegation — that money passed — stands admitted.
-- **Shield (defendant):** The written statement must be redrafted to say: "It is denied that the Defendant received a sum of ₹10,00,000, or any part thereof, on 3 March or at all," or, if a lesser sum was received, "The Defendant received ₹2,50,000 on 3 March, and no more."
-
-**Illustration 4 — legal set-off in a rent suit.** P sues D, his tenant, for arrears of rent of ₹6,00,000. D claims that P owes him ₹4,20,000 under a decree obtained in an earlier suit between the same parties in the same capacities.
-
-- **Sword (defendant):** A textbook **legal set-off** under Rule 6. The suit is for recovery of money; the sum is ascertained (a decretal amount); it is legally recoverable and within the court's pecuniary limits; and both parties fill the same character. D must plead the particulars of the debt in the written statement, at the first hearing, and pay court fee as on a plaint.
-- **Shield (plaintiff):** Attack the conditions. Is the sum genuinely ascertained? Is the decree still executable, or has it become time-barred under Article 136 of the Limitation Act? Do the parties fill the same character — is the decree in D's individual capacity while the tenancy is held by a firm?
-
-**Illustration 5 — equitable set-off.** P, a contractor, sues D for ₹80,00,000 as the unpaid balance under a works contract. D says the work was defective and that he has spent ₹35,00,000 rectifying it, and claims to set this off.
-
-- **Sword (defendant):** The sum is unascertained, so legal set-off under Rule 6 is unavailable. But the claim arises out of the very same contract, and it would be inequitable to compel D to pay in full and sue separately. This is the paradigm **equitable set-off**.
-- **Shield (plaintiff):** Equitable set-off is discretionary, not a right. P argues that the rectification cost is a disputed damages claim requiring its own evidence, that allowing it will convert a straightforward money suit into a construction trial, and that the proper course is a counter-claim under Rule 6A on which court fee is paid and issues are framed.
-
-**Illustration 6 — counter-claim in a suit for injunction.** P sues for a permanent injunction restraining D from entering a plot. D, in his written statement, sets up a counter-claim for a declaration of title and for possession, and for mesne profits.
-
-- **Sword (defendant):** Rule 6A permits exactly this. The counter-claim need not be for money, need not arise from the same transaction, and may exceed the plaintiff's claim in value. Its great advantage is **Rule 6D**: if P, sensing defeat, withdraws the suit or allows it to be dismissed for default, the counter-claim survives and proceeds to judgment. D obtains an adjudication of title without filing a separate suit.
-- **Shield (plaintiff):** Apply under **Rule 6C**, before issues are settled on the counter-claim, for an order excluding it, on the ground that a title suit ought not to be tried within an injunction suit. Also examine (i) whether court fee has been paid on the counter-claim as on a plaint — it must be, under Rule 6A(4); (ii) whether the counter-claim's cause of action accrued before the defence was delivered; and (iii) whether it is within limitation as on the date of filing.
-
-**Illustration 7 — the counter-claim filed too late.** In a suit filed in 2021, issues were framed in 2023 and P's evidence concluded in 2025. D then applies to file a counter-claim for damages.
-
-- **Sword (plaintiff):** Resist. Although Rule 6A fixes the temporal limit by reference to the accrual of the cause of action, the settled practice is that a counter-claim will not be entertained after issues have been framed, and certainly not after the plaintiff's evidence is closed. D has a complete alternative remedy by way of an independent suit; permitting the counter-claim now would derail a trial that is nearly over.
-- **Shield (defendant):** The only realistic answer is that the cause of action accrued and was discovered late, and that limitation on an independent suit has expired — but that second point, being the reason the application is being made, tends to defeat rather than assist it.
-
-### 4. Procedural Interlocking Matrix
+| Step | Source | Period | Runs from | Note |
+|---|---|---|---|---|
+| Written statement — normal period | **O. VIII R. 1**, main limb | **30 days** | Date of **service** of summons | Directory in ordinary suits; the norm everywhere |
+| Extension of that period | **Proviso to R. 1** | Such other day as the court specifies | The court's order | Only **for reasons recorded in writing** and **on payment of costs** — both are conditions |
+| Outer limit — **commercial** suit | **Proviso to R. 1** read with the Commercial Courts Act, 2015 | **120 days**, absolute | Date of service | *SCG Contracts* — the right is **forfeited** and the court **shall not** take it on record. No condonation |
+| Outer limit — **ordinary** suit | Same words | **120 days**, read as directory | Date of service | *Kailash v. Nanhku* — residual power in an exceptional case, on recorded reasons and costs |
+| Legal set-off | **O. VIII R. 6** | At the **first hearing** of the suit, "but not afterwards unless permitted by the Court" | — | Limitation on the cross-debt is tested as at the **date of the suit**, not the date of the written statement |
+| Counter-claim — accrual limit | **R. 6A(1)** | Cause of action must accrue **before** the defence is delivered, or before the time for it expires | — | The temporal boundary most often missed |
+| Counter-claim — limitation on the claim | **R. 6A(4)** with the Limitation Act | The article governing that claim | Tested at the **date of filing the counter-claim** | It is a plaint; it is tested as a plaint |
+| Counter-claim — practical outer limit | *Ramesh Chand Ardawatiya* | Not after **issues are framed** and trial has begun | — | Independent of R. 6A(1), and it bites earlier |
+| Exclusion of a counter-claim | **R. 6C** | **Before issues are settled** on the counter-claim | — | A closing window; apply early or lose the objection |
+| Additional written statement called for by the court | **R. 9** | Not more than **30 days** as fixed by the court | The court's order | Default attracts **R. 10** |
+#### Interlocking matrix — what this connects to
 
 | Order VIII provision | Interlocks with | What the connection does |
 |---|---|---|
@@ -1360,7 +1591,7 @@ In a commercial suit, calculate the 120-day date on the day service is effected 
 | Application to amend the written statement | O. VI R. 17 | The standard cure for a deemed admission or an unpleaded defence. Treated liberally. |
 | Application under O. VII R. 11 against a counter-claim | O. VII R. 11 read with O. VIII R. 6A(4) | The plaintiff's answer to a counter-claim that discloses no cause of action or is time-barred on its face. |
 
-### 5. Landmark & Modern Jurisprudence
+#### The authorities
 
 **Kailash v. Nanhku**, (2005) 4 SCC 480 — Supreme Court of India, three-Judge Bench.
 
@@ -1370,18 +1601,6 @@ In a commercial suit, calculate the 120-day date on the day service is effected 
 
 ::: tip Practitioner Takeaway
 "In an ordinary civil suit the outer limit under Order VIII Rule 1 is directory; the court retains a residual discretion to extend time in an exceptional case, for reasons recorded and on costs. That discretion is the exception, not the rule."
-:::
-
----
-
-**SCG Contracts (India) (P) Ltd. v. K.S. Chamankar Infrastructure (P) Ltd.**, (2019) 12 SCC 210 — Supreme Court of India.
-
-*Facts:* A written statement in a commercial suit was tendered beyond 120 days from service of summons; the defendant relied on the earlier line of authority treating the period as directory.
-
-**Ratio decidendi:** The proviso to Order VIII Rule 1 as amended by the Commercial Courts Act, 2015 is **mandatory and absolute** in its application to commercial suits. The words "shall forfeit the right to file the written statement" and "the Court shall not allow the written statement to be taken on record" leave no room for discretion. The line of cases treating the period as directory has no application to commercial suits.
-
-::: tip Practitioner Takeaway
-"In a commercial suit, on the expiry of 120 days from the date of service of summons the defendant forfeits the right to file a written statement and the court has no power to take it on record. There is no discretion to condone."
 :::
 
 ---
@@ -1448,7 +1667,7 @@ In a commercial suit, calculate the 120-day date on the day service is effected 
 Citations, bench strength and current status must be confirmed against the official report and a current citator. The interaction between *Kailash* and *SCG Contracts* — directory in ordinary suits, mandatory in commercial suits — has been the subject of continuing consideration, and the position under any applicable State amendment or High Court Original Side Rules must be checked separately.
 :::
 
-### 6. The Advocate's Toolkit
+#### Strategy and drafting
 
 **The written statement drafting protocol**
 
