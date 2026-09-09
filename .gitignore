@@ -6,3 +6,7 @@ node_modules/
 .DS_Store
 .claude/*
 !.claude/settings.json
+
+# productivity workspace artifacts (not part of the guide)
+dashboard.html
+TASKS.md
