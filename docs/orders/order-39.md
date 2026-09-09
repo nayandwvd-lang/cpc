@@ -24,22 +24,57 @@ Rule 1 protects **property**; Rule 2 restrains **conduct**. Rule 3 is the price 
 
 ## Rules 1 and 2 — the grant of a temporary injunction
 
-### 1. Verbatim Bare Act Text & Statutory Mechanics
+### The dispute this solves
+
+::: oneminute The wall that will be finished by Friday
+Anita owns a plot in Pune. Her neighbour Bharat has started building, and Anita says his wall is coming two feet over onto her land. She is right, as it happens — but proving it will take a survey, a trial, and several years.
+
+Here is her actual problem. Bharat's masons are working now. By the time Anita's suit is decided, the wall will be finished, plastered, painted, and holding up a first floor. A judgment in 2032 saying "two feet of that building is on Anita's land" will be worth very little. Somebody will have to demolish part of an occupied house, and courts are understandably slow to order that.
+
+**The problem in plain English:** a civil suit is slow, and the world is not. Between the day you file and the day you win, the thing you are fighting over can be sold, built on, cut down, published, spent or destroyed. Win the case, lose the thing.
+
+Order XXXIX is the answer. It lets a court, within days of the suit being filed and long before it knows who is right, order somebody to **stop** — stop building, stop selling, stop publishing, stop evicting — so that there is still something left to give the winner.
+
+Two consequences follow, and they explain why this Order matters more than almost anything else in the Code.
+
+**First, this is where most litigation is actually decided.** A possession suit may take eleven years. The injunction application is heard in the first fortnight, and the order made on it usually decides who holds the property for the whole of that time. For most litigants that *is* the case. The trial is an epilogue.
+
+**Second, the test the judge applies is not in the Order.** Read Rules 1 and 2 and you will not find the words "prima facie case", "balance of convenience" or "irreparable injury". Those three tests are entirely judge-made, and they are what actually decides your application. The text tells you when the court *may* act; the case law tells you when it *will*.
+:::
+
+::: story Why the court is being asked to guess
+Notice what is strange about this stage. The judge hearing Anita's application on day four has seen no witness, tested no document, and heard no cross-examination. He does not know whether the wall encroaches. He cannot know.
+
+So he is not asked to decide who is right. He is asked a different and more modest question: **given that I do not know who is right, what order will do the least damage if I turn out to be wrong?**
+
+That reframing explains almost every rule in this area:
+
+- It explains why "prima facie case" means *a serious question to be tried*, not *a case that will succeed*. The judge is not permitted to decide the suit early.
+- It explains why "balance of convenience" exists at all — it is a comparison of the mischief of each possible error.
+- It explains why "irreparable injury" is the pivot. If Anita can be fully compensated in money should she win later, there is no reason to take the risk of stopping Bharat now.
+- And it explains why the applicant's **conduct** matters so much. A judge acting on incomplete information is relying on the parties to tell him the truth. Suppress something material and you have poisoned the only source of information he has.
+:::
+
+### The Act, decompiled
+
+Five rules, and they do five different jobs. Rules 1 and 2 say **when** an injunction may be granted; Rule 3 says **who must be heard first**; Rule 3A puts a clock on ex parte orders; Rule 4 says how an order is undone; Rule 5 says who an order binds.
+
+Read the badges as you go: [[?may]] means the court has a choice, [[!shall]] means it does not, and [[=terms of art]] are words that do not mean what they appear to mean.
 
 > **Rule 1. Cases in which temporary injunction may be granted.** — Where in any suit it is proved by affidavit or otherwise —
 > **(a)** that any property in dispute in a suit is in danger of being wasted, damaged or alienated by any party to the suit, or wrongfully sold in execution of a decree, or
 > **(b)** that the defendant threatens, or intends, to remove or dispose of his property with a view to defrauding his creditors,
 > **(c)** that the defendant threatens to dispossess the plaintiff or otherwise cause injury to the plaintiff in relation to any property in dispute in the suit,
 >
-> the Court may by order grant a temporary injunction to restrain such act, or make such other order for the purpose of staying and preventing the wasting, damaging, alienation, sale, removal or disposition of the property or dispossession of the plaintiff, or otherwise causing injury to the plaintiff in relation to any property in dispute in the suit as the Court thinks fit, until the disposal of the suit or until further orders.
+> the Court [[?may]] by order grant a temporary injunction to restrain such act, or make such other order for the purpose of staying and preventing the wasting, damaging, alienation, sale, removal or disposition of the property or dispossession of the plaintiff, or otherwise causing injury to the plaintiff in relation to any property in dispute in the suit as the Court thinks fit, until the disposal of the suit or until further orders.
 
 > **Rule 2. Injunction to restrain repetition or continuance of breach.** — (1) In any suit for restraining the defendant from committing a breach of contract or other injury of any kind, whether compensation is claimed in the suit or not, the plaintiff may, at any time after the commencement of the suit, and either before or after judgment, apply to the Court for a temporary injunction to restrain the defendant from committing the breach of contract or injury complained of, or any breach of contract or injury of a like kind arising out of the same contract or relating to the same property or right.
 >
 > (2) The Court may by order grant such injunction, on such terms as to the duration of the injunction, keeping an account, giving security, or otherwise, as the Court thinks fit.
 
-> **Rule 3. Before granting injunction, Court to direct notice to opposite party.** — The Court shall in all cases, except where it appears that the object of granting the injunction would be defeated by the delay, before granting an injunction, direct notice of the application for the same to be given to the opposite party:
+> **Rule 3. Before granting injunction, Court to direct notice to opposite party.** — The Court [[!shall]] in all cases, except where it appears that the object of granting the injunction would be defeated by the delay, before granting an injunction, direct notice of the application for the same to be given to the opposite party:
 >
-> *Provided that, where it is proposed to grant an injunction without giving notice of the application to the opposite party, the Court shall record the reasons for its opinion that the object of granting the injunction would be defeated by delay, and require the applicant —*
+> *Provided that, where it is proposed to grant an injunction without giving notice of the application to the opposite party, the Court [[!shall record the reasons]] for its opinion that the object of granting the injunction would be defeated by delay, and require the applicant —*
 > *(a) to deliver to the opposite party, or to send to him by registered post, immediately after the order granting the injunction has been made, a copy of the application for injunction together with — (i) a copy of the affidavit filed in support of the application; (ii) a copy of the plaint; and (iii) copies of documents on which the applicant relies, and*
 > *(b) to file, on the day on which such injunction is granted or on the day immediately following that day, an affidavit stating that the copies aforesaid have been so delivered or sent.*
 
@@ -47,7 +82,7 @@ Rule 1 protects **property**; Rule 2 restrains **conduct**. Rule 3 is the price 
 
 > **Rule 4. Order for injunction may be discharged, varied or set aside.** — Any order for an injunction may be discharged, or varied, or set aside by the Court, on application made thereto by any party dissatisfied with such order:
 >
-> *Provided that if in an application for temporary injunction or in any affidavit supporting such application a party has knowingly made a false or misleading statement in relation to a material particular and the injunction was granted without giving notice to the opposite party, the Court shall vacate the injunction unless, for reasons to be recorded, it considers that it is not necessary so to do in the interests of justice:*
+> *Provided that if in an application for temporary injunction or in any affidavit supporting such application a party has knowingly made a false or misleading statement in relation to a material particular and the injunction was granted without giving notice to the opposite party, the Court [[!shall vacate]] the injunction unless, for reasons to be recorded, it considers that it is not necessary so to do in the interests of justice:*
 >
 > *Provided further that where an order for injunction has been passed after giving to a party an opportunity of being heard, the order shall not be discharged, varied or set aside on the application of that party except where such discharge, variation or setting aside has been necessitated by a change in the circumstances, or unless the Court is satisfied that the order has caused undue hardship to that party.*
 
@@ -70,11 +105,73 @@ Rule 1 protects **property**; Rule 2 restrains **conduct**. Rule 3 is the price 
 | R. 4 second proviso | Restrictive | A party who has been heard cannot re-agitate; he must show a **change in circumstances** or **undue hardship**. This forecloses serial applications. |
 | R. 5 | Extension of the binding effect | An injunction against a company binds its directors and officers personally, so far as their personal action is sought to be restrained. This is what makes Rule 2A enforceable against individuals behind a corporate defendant. |
 
+::: proviso The proviso to Rule 3 is a gate, not a formality
+Rule 3 states the rule: notice **shall** be given in all cases. The proviso is the only door out of it, and it is a door with conditions attached to the far side.
+
+Read it as a sequence rather than a sentence. To grant an injunction without notice, the court must —
+
+**(a)** form the opinion that the object of granting the injunction would be defeated by delay; and
+**(b)** **record the reasons** for that opinion — reasons referable to *these* facts, not a recital of the statutory words; and
+**(c)** require the applicant to deliver or send by registered post, **immediately** after the order, the application, the supporting affidavit, the plaint and the documents relied on; and
+**(d)** require the applicant to file, on the day of the order or the day immediately following, an **affidavit of compliance** stating that those copies were so delivered or sent.
+
+Each of (b), (c) and (d) is an independent obligation, and each is independently a ground of attack. This matters enormously in practice, because all three are established **from the record alone** — the respondent proves them by pointing at the file, without filing evidence and without engaging on the merits at all.
+
+Requirement (d) is the one most often overlooked by applicants, which is why it is the first one a respondent should check.
+:::
+
+::: proviso The first proviso to Rule 4 — the only "shall" in the Order that vacates an order
+The body of Rule 4 is permissive: an injunction **may** be discharged, varied or set aside. The first proviso converts that discretion into a duty, but only when three conditions coincide:
+
+**(a)** a party has made a false or misleading statement — in the application or in a supporting affidavit; **and**
+**(b)** the statement was made **knowingly**, and relates to a **material particular**; **and**
+**(c)** the injunction was granted **without notice** to the opposite party.
+
+Where all three are present the court **shall vacate** the injunction. The single escape is a finding, *for reasons to be recorded*, that it is not necessary to do so in the interests of justice — and a court will rarely make that finding where the suppression goes to the very fact on which the order was granted.
+
+The **second** proviso runs the other way and protects the order. A party who has already been heard cannot come back and re-argue: he must show a **change in circumstances**, or **undue hardship**. That is what forecloses serial applications to vacate.
+:::
+
 ::: warning Section 41 of the Specific Relief Act sits over the whole Order
 Order XXXIX supplies the procedure; the substantive bars are in **Section 41 of the Specific Relief Act, 1963**, which lists the cases in which an injunction cannot be granted at all — to restrain a person from prosecuting a pending judicial proceeding, to restrain proceedings in a court not subordinate to that from which the injunction is sought, to restrain a person from applying to a legislative body, to restrain proceedings in a criminal matter, to prevent a breach of contract which could not be specifically enforced, to prevent a continuing breach in which the applicant has acquiesced, where equally efficacious relief can be obtained by any other usual mode of proceeding, where the applicant's conduct disentitles him to assistance, or where the applicant has no personal interest. A well-run defence to an injunction application begins with Section 41, not with the balance of convenience.
 :::
 
-### 2. Plain-English Conceptual Demystification
+### How the Order actually runs
+
+**Tree 1 — will the injunction be granted?** The first two gates are statutory bars that most people skip straight past, and skipping them is how good applications get dismissed without the merits ever being reached. The last three are the golden principles, which appear nowhere in the text.
+
+<MicroTree
+  input="A suit is filed, and the plaintiff applies under Order XXXIX Rules 1 and 2 to stop the defendant doing something"
+  :gates="[
+    { q: 'Does the civil court have jurisdiction over this dispute at all?', note: 'Argue this before anything else. A Rent Act, a special tribunal or a statutory forum may have taken the subject-matter away — see Section 9.', no: 'The application dies with the suit. The three golden principles are never reached.' },
+    { q: 'Is the injunction barred by Section 41 of the Specific Relief Act, 1963?', note: 'Section 41 bars an injunction to stay a pending judicial proceeding, to restrain a superior or non-subordinate court, to restrain criminal proceedings, to enforce a contract that cannot be specifically enforced, where the plaintiff has acquiesced, where another usual mode of proceeding gives equally efficacious relief, or where the plaintiff has no personal interest.', no: 'No injunction can be granted, however strong the merits. A well-run defence starts here, not with the balance of convenience.' },
+    { q: 'PRIMA FACIE CASE — is there a serious question to be tried?', note: 'Not whether the plaintiff will win. Only whether the case is neither frivolous nor vexatious and discloses a real prospect of success on the material now available.', no: 'Refused. But note what this gate does NOT require: the plaintiff need not prove his case on a balance of probabilities, and the court must not decide the suit at this stage.' },
+    { q: 'BALANCE OF CONVENIENCE — who suffers more if the order is wrongly made than the other suffers if it is wrongly refused?', note: 'A comparison of the mischief of each possible error, weighted towards preserving the existing state of affairs.', no: 'Refused, or granted on terms — security, an undertaking as to damages, a deposit, an account. Where the balance is fine, an injunction on terms is usually the right order.' },
+    { q: 'IRREPARABLE INJURY — is the harm incapable of being adequately compensated in money?', note: 'Because the subject-matter is unique (land, goodwill, a going concern, confidential information), or the defendant is not good for the money, or the loss cannot be measured.', no: 'Refused. A quantifiable money loss recoverable from a solvent defendant is by definition reparable — and the right application is Order XXXVIII Rule 5 for attachment before judgment, not this one.' },
+    { q: 'CONDUCT — has the plaintiff come with clean hands, promptly, without suppression or acquiescence?', note: 'The fourth principle, unwritten and undefeatable. Injunction is equitable relief.', no: 'Refused. Delay defeats equity; suppression is fatal; and if the order was obtained ex parte on a false or misleading material statement, the first proviso to Rule 4 makes vacation MANDATORY.' }
+  ]"
+  result="a temporary injunction may be granted, on such terms as the court thinks fit, until the disposal of the suit or until further orders"
+  caveat="Every one of these gates is conjunctive. All three golden principles must be satisfied, not merely a majority of them — and none of the three appears anywhere in the text of the Order."
+  resultKind="discretionary"
+/>
+
+**Tree 2 — may it be granted without hearing the other side?** This is a separate question with its own gates, and it is where most ex parte orders are eventually lost.
+
+<MicroTree
+  input="The plaintiff asks for the injunction NOW, before the defendant is served or heard"
+  :gates="[
+    { q: 'Does it appear that the object of granting the injunction would be defeated by the delay?', note: 'Rule 3 makes notice the rule and ex parte the exception. The tree will be felled, the property sold, the information published — the urgency must be real and specific.', no: 'Notice must be given. The court shall in all cases direct notice before granting an injunction, and an order made without this is made in breach of a mandatory requirement.' },
+    { q: 'Has the court RECORDED ITS REASONS for that opinion?', note: 'Reasons referable to these facts. Not a formula.', no: 'This is the commonest fatal defect of all. An order reading only “heard counsel; ad interim injunction as prayed” does not comply with the proviso to Rule 3, and is liable to be vacated on that ground alone, without touching the merits.' },
+    { q: 'Has the applicant served the application, the supporting affidavit, the plaint and the documents IMMEDIATELY on the opposite party?', note: 'Proviso (a) to Rule 3 — by delivery or registered post, immediately after the order is made.', no: 'Ground for vacation, independent of the merits.' },
+    { q: 'Has the applicant filed the affidavit of compliance on the day of the order or the day after?', note: 'Proviso (b) to Rule 3 — a distinct and separate obligation.', no: 'The second commonest defect, and routinely overlooked by applicants. Another independent ground for vacation.' },
+    { q: 'Has the application been finally disposed of within THIRTY DAYS, or has the court recorded why it could not be?', note: 'Rule 3A. The safeguard against the ex parte order that quietly becomes permanent.', no: 'Move immediately for vacation under Rule 4, and if the court will not act, Article 227 of the Constitution.' }
+  ]"
+  result="the ex parte injunction stands until the application is heard on notice and finally disposed of"
+  caveat="An ex parte applicant owes the court a duty of FULL AND FRANK DISCLOSURE, including of facts that damage his own case, because the only other person who could have told the court is absent. Under the first proviso to Rule 4, a knowingly false or misleading statement on a material particular means the court SHALL vacate the injunction."
+  resultKind="discretionary"
+/>
+
+### In plain English
 
 **Sub-module A — the three golden principles.**
 
@@ -139,43 +236,202 @@ An order that simply says "status quo to be maintained" invites an execution-sta
 | Where the plaintiff has acquiesced | Section 41(f) and (h); and, at the interlocutory stage, delay defeats equity. |
 | To restrain the State from performing a statutory duty | Section 41 and the general principle that public functions are not lightly restrained. |
 
-### 3. Courtroom & Practical Illustrations
+### Test your instinct
 
-**Illustration 1 — the construction case.** P owns a plot and alleges that D, the adjoining owner, is raising a wall encroaching two feet onto P's land. P files a suit for mandatory injunction and possession, with an application under Rules 1 and 2 for a restraint on further construction. Construction is at plinth level.
+Six situations. In each, read the facts, decide what you would argue and what you think the court will do, and only then open the ruling. The pattern to watch for is that in four of the six, the case is won or lost on something other than the three golden principles.
 
-- **Sword (plaintiff):** Prima facie case established by the sale deed, the sanctioned plan and the demarcation report. Balance of convenience overwhelmingly favours restraint at plinth level: stopping now costs D a delay; allowing completion means P must later seek demolition. Irreparable injury — land is not compensable in damages, and the encroachment, once built upon, becomes a fait accompli. Ask specifically for an injunction restraining construction **beyond the existing plinth**, and for a Commissioner under Order XXVI Rule 9 to record the state of construction.
-- **Shield (defendant):** Attack the demarcation. Contend that the plan is sanctioned, that P delayed until the investment was made (laches and acquiescence — P watched the foundation being laid for three months), and that if P ultimately succeeds, demolition is a perfectly available final remedy so the injury is not irreparable. Offer an undertaking that the construction will be at D's own risk and subject to the result of the suit — courts frequently accept this in preference to a stoppage order.
+::::instinct The wall that reached the plinth
+
+Anita owns a plot in Pune. Her neighbour Bharat has begun raising a boundary wall which, on Anita's demarcation report, encroaches two feet onto her land. The wall is at plinth level. Anita sues for a mandatory injunction and possession, with an application under Rules 1 and 2 to restrain further construction.
+
+Bharat's answer is that his building plan is sanctioned, that Anita watched the foundation go in for three months and said nothing, and that if she ultimately wins, the wall can simply be demolished — so her injury is not irreparable.
+
+**Which of Bharat's three answers is the dangerous one, and what should Anita have filed on the same day as her injunction application?**
+
+:::ruling
+
+The dangerous answer is the third — that demolition is an available final remedy, so there is no irreparable injury. It is dangerous because it is *doctrinally* correct as a general proposition and has to be met head-on rather than ignored. Anita's reply is that the injury is not the wall but the fait accompli: once the structure is complete and occupied, a demolition decree becomes a decree the court will hesitate to execute, and the practical value of her success is destroyed. That is the classic content of "irreparable" — not physical impossibility of repair, but the loss of the substance of the relief.
+
+The sanctioned plan is the weakest of the three: a municipal sanction is granted subject to title and confers no right to build on somebody else's land.
+
+The delay point is real and must be answered on the facts — what Anita knew, and when. It is the reason her application should have been filed when the foundation was dug, not at plinth.
+
+And the thing she should have filed the same day is an application under **Order XXVI Rule 9** for a Local Commissioner to inspect and report on the physical state of the property. It fixes the position on the date of institution, and it forecloses the "it was always like that" defence that otherwise has to be fought out at trial on oral evidence three years later.
+
+The realistic order is a restraint on construction **beyond the existing plinth** — which is why the prayer must be drafted at that level of specificity rather than as "restraining the defendant from constructing".
+
+:::
+
+::::
 
 ::: tip The Commissioner is the underrated application
 In any construction, encroachment or possession dispute, an application under **Order XXVI Rule 9** for a Local Commissioner to inspect and report on the physical state of the property, filed on the same day as the injunction application, is worth more than three affidavits. It fixes the factual position on the date of institution and forecloses the "as it always was" defence.
 :::
 
-**Illustration 2 — restraint on alienation.** P sues for specific performance of an agreement to sell dated 2023, and seeks an injunction restraining D from alienating or creating third-party rights in the suit property.
+::::instinct The seller whose hands the buyer wanted tied
 
-- **Sword (plaintiff):** The property is in dispute in the suit and is in danger of being alienated — Rule 1(a) squarely. Irreparable injury is established by the nature of the relief: specific performance of an agreement relating to immovable property. Plead readiness and willingness in the plaint (s. 16(c), Specific Relief Act, 1963) — an injunction in a specific performance suit routinely fails because readiness and willingness are inadequately pleaded, which destroys the prima facie case.
-- **Shield (defendant):** Contend that P has not pleaded or demonstrated readiness and willingness; that the agreement is unregistered and inadequately stamped; that time was of the essence and P failed to perform. On the balance of convenience, point to the doctrine of *lis pendens* under **s. 52 of the Transfer of Property Act, 1882** — any transferee during the pendency takes subject to the result, so P is protected without an injunction. This is a genuinely strong argument and often succeeds in converting a restraint into a direction to disclose any transfer.
+Chetan holds an agreement to sell dated 2023 in respect of Deepa's flat. Deepa has not performed. Chetan sues for specific performance and applies for an injunction restraining Deepa from alienating the flat or creating third-party rights in it.
 
-**Illustration 3 — the ex parte injunction obtained by suppression.** P obtains an ex parte injunction restraining D from interfering with P's possession of a godown. P does not disclose that six months earlier a criminal court had passed an order under s. 145 CrPC (now the corresponding provision of the BNSS) attaching the property and finding D in possession.
+Deepa's counsel makes one argument on the balance of convenience which, in practice, defeats this kind of application more often than any other.
 
-- **Sword (defendant):** Application under **Rule 4, first proviso**. The suppressed order goes to the very question of possession — the material particular. The statement of possession in P's affidavit was knowingly false or at least knowingly misleading. The injunction was ex parte. Therefore the court "shall vacate" it. Add the independent grounds: no reasons recorded under the Rule 3 proviso; no compliance affidavit under proviso (b); no disposal within thirty days under Rule 3A.
-- **Shield (plaintiff):** The only answer is that the omission was not knowing and not material — a difficult argument where the suppressed order decides the very issue. P's realistic course is to disclose immediately, apologise, and invite the court to consider, under the exception in the proviso, whether the interests of justice nevertheless require the injunction to stand.
+**What is it?**
 
-**Illustration 4 — the bank guarantee.** D, a contractor, has furnished an unconditional bank guarantee. The employer invokes it. D sues for an injunction restraining encashment, alleging that the underlying contract was breached by the employer.
+:::ruling
 
-- **Sword (contractor):** The only two recognised exceptions are **egregious fraud** of which the bank has notice, going to the root of the transaction, and **irretrievable injustice** or special equities. D must plead one of them with particulars under Order VI Rule 4. A pleaded dispute about performance of the underlying contract is not enough and will be dismissed at the threshold.
-- **Shield (employer):** The guarantee is an independent contract between the bank and the beneficiary. The courts do not interfere with the autonomy of that contract; the contractor's remedy lies in damages, or in arbitration under the underlying contract. There is no irreparable injury, because money is by definition compensable.
+**Section 52 of the Transfer of Property Act, 1882 — *lis pendens*.** A transfer made during the pendency of the suit is not void, but the transferee takes subject to the result. So Chetan is *already* protected without an injunction: if he wins, the decree binds whoever bought in the meantime. On the balance of convenience, the mischief to him from refusal is therefore close to nil, while a restraint freezes Deepa's asset for the years the suit will take.
 
-**Illustration 5 — the injunction against a tenant's eviction.** P, a tenant, sues his landlord D for a permanent injunction restraining dispossession otherwise than in due process of law, and seeks a temporary injunction.
+This argument frequently succeeds in converting a restraint on alienation into a lesser order — a direction that the defendant disclose any transfer to the court, or that any transferee be impleaded. That halfway order is often the realistic outcome and is worth asking for in the alternative.
 
-- **Sword (tenant):** Even a tenant whose tenancy has been terminated is entitled to be evicted only in due process of law; a settled possession, however precarious, is protected against forcible dispossession. The prima facie case is possession, not title. Irreparable injury: dispossession from a business premises destroys goodwill.
-- **Shield (landlord):** Contend that the civil court's jurisdiction is barred by the applicable Rent Control Act, which provides a complete code and an exclusive forum — a **Section 9 CPC** objection which, if good, disposes of the injunction application without reaching the three principles. This is the correct order of argument: jurisdiction first, then Section 41 of the Specific Relief Act, then the three principles.
+The second thing to notice is where Chetan's application is most likely to die, and it is not at Stage 3 at all. It is at the prima facie case, because **readiness and willingness** (s. 16(c), Specific Relief Act, 1963) has been inadequately pleaded in the plaint. An injunction application in a specific performance suit stands or falls on the plaint that carries it. If the averment of continuous readiness and willingness is a single sentence of boilerplate, the prima facie case collapses and nothing downstream matters.
 
-**Illustration 6 — mandatory injunction at the interlocutory stage.** P's water connection is severed by D. P seeks an interim **mandatory** injunction directing restoration.
+:::
 
-- **Sword (plaintiff):** An interim mandatory injunction is available, but only in a clear case: the court must be satisfied of a **higher standard** than for a prohibitory injunction — a strong prima facie case, and that the injury is such that compensation cannot be an adequate remedy, and that the balance of convenience is clearly in favour. The classic case is restoration of the status quo ante where the defendant has acted stealthily or in defiance of an order.
-- **Shield (defendant):** The relief sought at the interlocutory stage is the very relief claimed in the suit; granting it decrees the suit without trial. Courts are, and should be, reluctant.
+::::
 
-### 4. Procedural Interlocking Matrix
+::::instinct The possession he forgot to mention
+
+Bharat obtains an ex parte injunction restraining Anita from interfering with his possession of a godown. What Bharat's affidavit does not mention is that six months earlier a criminal court passed an attachment order in proceedings over the same godown, and recorded a finding that **Anita** was in possession.
+
+Anita discovers the injunction three weeks later.
+
+**She has one application to make and four grounds to make it on. What are they?**
+
+:::ruling
+
+The application is under **Rule 4, first proviso**. The four grounds, in descending order of strength:
+
+1. **Knowing suppression of a material particular.** The suppressed order decides the very question — possession — on which the injunction was granted. Bharat's statement of possession was at the least knowingly misleading. The injunction was granted ex parte. The proviso then says the court **shall vacate** it. The only escape is a recorded finding that the interests of justice do not require vacation, and a court will rarely make that finding where the suppression goes to the core fact.
+2. **No reasons recorded** under the proviso to Rule 3. If the order says only that an ad interim injunction is granted as prayed, it is unsustainable on that ground alone, without touching the merits.
+3. **No compliance affidavit** under proviso (b) to Rule 3 — the affidavit that the copy, plaint, affidavit and documents were despatched to Anita on the day of the order.
+4. **No disposal within thirty days** under Rule 3A, with no reasons recorded for the delay.
+
+Notice that grounds 2 to 4 are procedural and require no evidence at all. They are established from the record. This is the reason a defendant's first step on receiving an ex parte injunction is to inspect the file, not to draft a reply on the merits.
+
+Bharat's only realistic course, once caught, is to disclose immediately, accept the error, and invite the court to consider under the exception whether the interests of justice nevertheless require the injunction to stand. Fighting the suppression point compounds it, and the modern authorities contemplate actual costs.
+
+:::
+
+::::
+
+::::instinct The guarantee the bank had to honour
+
+Chetan is a contractor who has furnished an **unconditional** bank guarantee to his employer. The employer invokes it. Chetan sues for an injunction restraining encashment, pleading in detail that the employer breached the underlying contract, delayed site handover, and withheld running bills.
+
+**Chetan's pleading is careful, specific and probably true. Why will the injunction still be refused?**
+
+:::ruling
+
+Because he has pleaded the wrong case. A bank guarantee is an **independent contract** between the bank and the beneficiary. Its whole commercial purpose is that it pays on demand without the beneficiary having to prove the underlying dispute first. If a court restrained encashment whenever the contractor had an arguable grievance about the main contract, the instrument would be worthless.
+
+There are only two recognised exceptions:
+
+- **Egregious fraud** — fraud of which the bank has notice, going to the root of the transaction, not merely an allegation that the invocation is unjustified; and
+- **Irretrievable injustice** or special equities — an exceptional situation where the money, once paid, could never realistically be recovered.
+
+Either must be pleaded with particulars, as Order VI Rule 4 requires for fraud. A well-pleaded dispute about performance of the underlying contract is not one of them and is dismissed at the threshold.
+
+There is also a clean Stage 3 answer: the claim sounds in money. Money is by definition compensable, so there is no irreparable injury. Chetan's remedy is damages, or arbitration under the underlying contract.
+
+:::
+
+::::
+
+::::instinct The tenant, the landlord, and the argument taken in the wrong order
+
+Anita is Bharat's tenant in a shop. Her tenancy has been terminated by notice. Fearing that Bharat will simply put her goods on the pavement, she sues for a permanent injunction restraining dispossession otherwise than in due process of law, and applies for a temporary injunction.
+
+Bharat's counsel opens by arguing that Anita has no prima facie case because her tenancy is admittedly terminated.
+
+**That is a respectable argument. But it is the second-best one, and taking it first is a mistake. Why?**
+
+:::ruling
+
+Because the best argument is jurisdictional, and jurisdiction comes first. If the applicable State Rent Control Act is a complete code providing an exclusive forum for eviction and related disputes, the civil court's jurisdiction is barred — a **Section 9 CPC** objection. If that objection is good, the injunction application falls with the suit and the three golden principles are never reached.
+
+The correct order of argument in every injunction matter is:
+
+1. **Jurisdiction** — is this court competent at all (s. 9, pecuniary, territorial)?
+2. **Section 41, Specific Relief Act, 1963** — is an injunction barred in this class of case regardless of merits?
+3. **The three principles** — prima facie case, balance of convenience, irreparable injury.
+4. **Conduct** — delay, suppression, clean hands.
+
+Taking them out of order costs you the argument's force: once you have engaged on the prima facie case, you have implicitly conceded that the court is the right one to decide it.
+
+On the merits, incidentally, Anita's position is stronger than it looks. Even a tenant whose tenancy has ended is entitled to be evicted only in due process of law; settled possession, however precarious, is protected against forcible dispossession. Her prima facie case rests on **possession, not title** — a distinction worth pleading expressly, because it removes the termination notice from the equation.
+
+:::
+
+::::
+
+::::instinct The water connection cut on a Saturday
+
+Deepa's water connection is severed by her landlord Bharat on a Saturday afternoon, after she filed a suit against him. She applies on Monday for an interim **mandatory** injunction directing restoration.
+
+Bharat's answer is that the relief she seeks at the interlocutory stage is the very relief claimed in her suit, so granting it would decree the suit without a trial.
+
+**Bharat's objection is a genuine principle. Why does it not save him here?**
+
+:::ruling
+
+The objection is real: an interim mandatory injunction is granted sparingly, and the court applies a **higher standard** than for a prohibitory order — a strong prima facie case, injury not adequately compensable in damages, and a balance of convenience clearly in favour. The reluctance is precisely because the interim order can amount to a decree.
+
+But this is the paradigm case where it is granted, for two reasons.
+
+First, the relief sought is **restoration of the status quo ante**, not the creation of a new state of affairs. The court is not giving Deepa something she did not have; it is putting back what Bharat took away after the suit was instituted.
+
+Second, and decisively, Bharat acted **unilaterally and after the litigation had begun**. A party who alters the position on the ground by self-help while the matter is before the court cannot then invoke the court's reluctance to disturb the position on the ground. The conduct limb, which usually operates against the applicant, here operates against the respondent.
+
+The general rule survives. What defeats Bharat is that he supplied the exception himself.
+
+:::
+
+::::
+### Practitioner HUD — operational realities
+
+#### The winning ratio
+
+If you take one sentence from this chapter into court, take this one.
+
+::: tip The proposition to plead
+**Dalpat Kumar v. Prahlad Singh**, (1992) 1 SCC 719 —
+
+"A prima facie case alone does not entitle a party to a temporary injunction. The court must further be satisfied that the balance of convenience is in the applicant's favour and that refusal would cause an injury which cannot be compensated in money."
+
+The three requirements are **cumulative**, and the sentence works in both directions. For the applicant it is a drafting instruction: address all three, separately, in three numbered paragraphs. For the respondent it is the shortest available route to refusal — concede the prima facie case if you must, and win on the other two.
+:::
+
+#### Sword and shield
+
+| Situation | As applicant (sword) | As respondent (shield) |
+|---|---|---|
+| **Construction / encroachment** | Prima facie case from title deed, sanctioned plan and demarcation. Frame the injury as the fait accompli, not the wall. Ask for restraint **beyond the existing plinth**, plus a Commissioner under O. XXVI R. 9 the same day. | Laches — what did he know, and when? Offer an undertaking that construction proceeds at the defendant's own risk and subject to the result. Courts frequently prefer this to a stoppage order. |
+| **Restraint on alienation** | R. 1(a) squarely — property in dispute, in danger of being alienated. Plead readiness and willingness properly in the **plaint**; the application inherits its prima facie case from the plaint. | **S. 52, Transfer of Property Act, 1882.** *Lis pendens* already protects him, so the mischief from refusal is minimal. Offer a disclosure direction instead of a freeze. |
+| **Money claims** | Do not file under Order XXXIX at all. File under **O. XXXVIII R. 5** (attachment before judgment). | One sentence: damages are adequate, therefore no irreparable injury. |
+| **Bank guarantee** | Plead **egregious fraud** with particulars (O. VI R. 4) or **irretrievable injustice**. Nothing else works. | The guarantee is an independent contract. A dispute about the underlying contract is irrelevant, and money is compensable. |
+| **Threatened dispossession** | Plead **possession, not title**. Settled possession is protected against forcible dispossession even where the tenancy has ended. | Take **jurisdiction first** — Rent Act as a complete code, s. 9 CPC — before engaging on the prima facie case. |
+| **Ex parte injunction against you** | — | Inspect the file before drafting the reply. R. 3 proviso (no recorded reasons), proviso (b) (no compliance affidavit), R. 3A (no disposal in thirty days) are established from the record and need no evidence. Then suppression under the first proviso to R. 4. Then the merits. |
+| **Interim mandatory injunction** | Available on a **higher standard**. Strongest where the relief is restoration of the status quo ante and the respondent acted unilaterally after institution. | The relief sought is the relief claimed in the suit; granting it decrees the suit without trial. |
+| **Breach of an injunction** | **R. 2A** before the court that granted it — not contempt in the High Court. | R. 2A operates only while the injunction **subsists**; it does not survive disposal of the suit. And it cannot be invoked on a prayer too vague to identify what was breached. |
+
+#### The limitation clock
+
+| Step | Time | Source |
+|---|---|---|
+| Ex parte injunction — service of the papers on the respondent | **The same day** the order is made | Proviso (a) to R. 3 |
+| Ex parte injunction — affidavit of compliance filed | On the day of the order, or the day immediately after | Proviso (b) to R. 3 |
+| Ex parte injunction — disposal of the application | **30 days**, failing which the court must record its reasons | R. 3A |
+| Appeal from an order under RR. 1, 2, 2A, 4 or 10 **to a High Court** | **90 days** from the date of the order | O. XLIII R. 1(r); Art. 116, Limitation Act, 1963 |
+| Appeal from such an order **to any other court** (e.g. the District Court) | **30 days** from the date of the order | O. XLIII R. 1(r); Art. 117, Limitation Act, 1963 |
+| Application under R. 4 to discharge, vary or set aside | No period prescribed — but move **immediately on service**; delay is itself an answer | R. 4 |
+| Application under R. 2A for disobedience | No period prescribed — but only **while the injunction subsists** | R. 2A |
+| Detention under R. 2A | Not exceeding **three months**; attachment not to remain beyond **one year** | R. 2A(1) and (2) |
+| Compensation for an injunction obtained on insufficient grounds | On dismissal of the suit or vacation, within the court's pecuniary limits | S. 95 CPC |
+
+::: warning Before you file
+Confirm the applicable Article and the correct forum for the appeal against the current Limitation Act and your State's amendments before computing the period. The 90/30 split above turns on which court the appeal lies to, and getting it wrong is the commonest way an otherwise good appeal against an injunction order is lost.
+:::
+
+#### Interlocking matrix — what this connects to
 
 | Order XXXIX provision | Interlocks with | What the connection does |
 |---|---|---|
@@ -218,7 +474,7 @@ In any construction, encroachment or possession dispute, an application under **
 An application under Order XXXIX bears the fixed court fee prescribed by the applicable State Court Fees Act for an interlocutory application; it is not valued ad valorem. But the **suit** for a permanent injunction is valued under the Suits Valuation Act and the State Court Fees Act, and undervaluation of the suit for injunction is a standard threshold objection which, if successful, takes the interlocutory application with it.
 :::
 
-### 5. Landmark & Modern Jurisprudence
+#### The authorities
 
 **Dalpat Kumar v. Prahlad Singh**, (1992) 1 SCC 719 — Supreme Court of India.
 
@@ -318,7 +574,7 @@ An application under Order XXXIX bears the fixed court fee prescribed by the app
 Every citation, bench strength and current status above must be confirmed against the official report and a current citator before it is placed before a court. The law on injunctions restraining encashment of bank guarantees, and on interim mandatory injunctions, has continued to develop, and the most recent decision on the specific point should be checked.
 :::
 
-### 6. The Advocate's Toolkit
+#### Strategy and drafting
 
 **Drafting the injunction application — the anatomy**
 
@@ -384,15 +640,41 @@ Every citation, bench strength and current status above must be confirmed agains
 | Vacation under R. 4 | Immediately on service. Take the Rule 3 proviso defects first (no recorded reasons, no compliance affidavit), then suppression under the first proviso, then the merits. |
 | Rule 2A for breach | Promptly, and while the injunction subsists. Rule 2A does not survive the disposal of the suit. |
 | Section 95 compensation | On dismissal of the suit or vacation of the injunction, and within the pecuniary limits of the court. |
-| Appeal under O. XLIII R. 1(r) | Within 30 days (Art. 116, Limitation Act, 1963, for an appeal to a High Court from an order; check the applicable Article and forum). |
+| Appeal under O. XLIII R. 1(r) | 90 days to a High Court (Art. 116, Limitation Act, 1963); 30 days to any other court (Art. 117). Confirm the forum before computing the period — see the limitation clock above. |
 
 ## Rule 2A — the consequence of disobedience
 
-### 1. Verbatim Bare Act Text & Statutory Mechanics
+### The dispute this solves
 
-> **Rule 2A. Consequence of disobedience or breach of injunction.** — (1) In the case of disobedience of any injunction granted or other order made under rule 1 or rule 2 or breach of any of the terms on which the injunction was granted or the order made, the Court granting the injunction or making the order, or any Court to which the suit or proceeding is transferred, may order the property of the person guilty of such disobedience or breach to be attached, and may also order such person to be detained in the civil prison for a term not exceeding three months, unless in the meantime the Court directs his release.
+::: oneminute The order she won, and the two floors that went up anyway
+Anita got her injunction. On 3 March the court restrained Bharat from raising any construction beyond the plinth existing on that date. The order was served on him the same evening.
+
+By the middle of April there are two floors standing.
+
+So Anita has a piece of paper that says Bharat may not do the thing that Bharat has now done. **What is the paper worth?**
+
+That question is the whole of Rule 2A, and it matters more than it looks. An injunction is not self-executing. It is a prohibition addressed to a person, and if that person ignores it, something must happen — or every injunction in the country is a suggestion. Rule 2A is the something.
+
+Two things about it surprise people. The first is that it is **coercive, not punitive**: its object is to get Bharat to comply, which is why he can be released the moment he does. The second is that it does **not, in terms, undo the two floors**. Rule 2A can attach Bharat's property and put him in civil prison. Getting the floors taken down is a separate argument, made under a different provision, and if you do not make it in the same application you will not get it.
+:::
+
+::: story Why the standard of proof is higher than you expect
+The consequence at the end of Rule 2A is detention in prison. Once a provision can end with a person losing his liberty, the courts read it narrowly and demand proof rather than inference. So the applicant must establish that the disobedience was **wilful** — deliberate and conscious — to a standard approaching that in a contempt proceeding.
+
+This has a consequence that reaches backwards in time, to the day you drafted the injunction application. If the order says only "status quo to be maintained", Bharat's answer to the Rule 2A application is not that he obeyed. It is that nobody can say precisely what he was forbidden to do, and therefore nothing was wilfully breached.
+
+**The enforceability of your injunction is decided when you draft the prayer, not when it is breached.** Everything in the "Strategy and drafting" panel below about precise prayers exists because of this rule.
+:::
+
+### The Act, decompiled
+
+Rule 2A has two sub-rules. Sub-rule (1) gives the court its two weapons — attachment and detention. Sub-rule (2) puts a clock on the first of them and says what happens when the clock runs out.
+
+Badge legend: [[!shall]] is mandatory, the court has no choice. [[?may]] is discretionary. [[=terms of art]] carry a defined meaning.
+
+> **Rule 2A. Consequence of disobedience or breach of injunction.** — (1) In the case of disobedience of any injunction granted or other order made under rule 1 or rule 2 or breach of any of the terms on which the injunction was granted or the order made, the Court granting the injunction or making the order, or any Court to which the suit or proceeding is transferred, [[?may]] order the property of the person guilty of such disobedience or breach to be attached, and [[?may]] also order such person to be detained in the [[=civil prison]] for a term not exceeding three months, unless in the meantime the Court directs his release.
 >
-> (2) No attachment made under this rule shall remain in force for more than one year, at the end of which time, if the disobedience or breach continues, the property attached may be sold and out of the proceeds, the Court may award such compensation as it thinks fit to the injured party and shall pay the balance, if any, to the party entitled thereto.
+> (2) No attachment made under this rule shall remain in force for more than one year, at the end of which time, if the disobedience or breach continues, the property attached may be sold and out of the proceeds, the Court may award such compensation as it thinks fit to the injured party and [[!shall pay the balance]], if any, to the party entitled thereto.
 
 **Statutory mechanics**
 
@@ -406,11 +688,40 @@ Every citation, bench strength and current status above must be confirmed agains
 | Sub-rule (2): attachment not to exceed **one year**; thereafter **sale** | Escalation | If disobedience continues for a year, the attached property may be sold and compensation awarded to the injured party from the proceeds. |
 | Sub-rule (2): "**shall pay the balance**… to the party entitled" | Mandatory | The surplus returns to the owner. Rule 2A is not confiscatory. |
 
+::: proviso There is no proviso to Rule 2A — and the gate is judge-made
+Rules 3 and 4 tell you their conditions in the text. Rule 2A does not. Read literally, sub-rule (1) says that in the case of disobedience the court **may** attach and **may** detain, and stops there. No standard of proof, no requirement of knowledge, no mention of wilfulness.
+
+All three are nonetheless conditions of the jurisdiction, and they are supplied by construction rather than by a proviso:
+
+**(a)** the order breached must have been made under **Rule 1 or Rule 2** — not under any other provision, and not an order of a general nature;
+**(b)** the injunction must be **subsisting** at the time you apply, so Rule 2A cannot survive the disposal of the suit;
+**(c)** the person proceeded against must have had **knowledge** of the order; and
+**(d)** the disobedience must be **wilful**, proved to a standard approaching that in a contempt proceeding — because the provision ends in imprisonment, and a penal consequence attracts strict construction.
+
+This is worth pausing on, because it cuts against the habit the rest of this Order teaches. Elsewhere the gating conditions are printed in the statute and you can check them off. Here the text is at its widest exactly where the consequence is at its heaviest, and the restraints live in the case law. Reading Rule 2A alone will mislead you about what you have to prove.
+:::
+
 ::: warning The threshold is wilfulness, and the standard of proof is high
 Because the consequence is detention, the disobedience must be established to a standard approaching that in criminal contempt: **wilful and deliberate**, not merely a possible or arguable breach. Where the order is ambiguous, or where the alleged contemnor acted on a bona fide interpretation, Rule 2A will not be applied. This is another reason to draft the prayer with precision — an imprecise injunction is unenforceable.
 :::
 
-### 2. Plain-English Conceptual Demystification
+### How the Rule actually runs
+
+<MicroTree
+  input="An order of injunction has been made, and the other side has done the very thing it forbids"
+  :gates="[
+    { q: 'Was the order made under Rule 1 or Rule 2 of Order XXXIX?', note: 'Not any order of the court — this specific class of order.', no: 'Rule 2A does not apply. An order under some other provision, or an order of a general nature, is outside it. Your remedies are Section 151, or execution, or — as a last resort — the contempt jurisdiction.' },
+    { q: 'Is that injunction still SUBSISTING today?', note: 'It must be alive at the moment you apply, not merely alive at the moment of breach.', no: 'Rule 2A dies with the injunction. If the suit has been decided, a temporary injunction under Rule 1 or 2 has come to an end, and breach of the resulting permanent injunction is enforced by execution under Order XXI Rule 32 instead.' },
+    { q: 'Did the person against whom you apply KNOW of the order?', note: 'Service, or actual knowledge — including his presence in court when it was made. Rule 5 extends the reach to the officers of a corporate defendant.', no: 'An order cannot be disobeyed by someone unaware of it. This is why the compliance affidavit under proviso (b) to Rule 3 is worth filing carefully: it is the best evidence of service you will ever have.' },
+    { q: 'Can you identify the breach PRECISELY, by reference to the words of the order?', note: 'Match conduct to prohibition, phrase by phrase.', no: 'If the order says only “status quo to be maintained” or “do not interfere”, there is nothing to match. The application fails not because he obeyed but because the order cannot be enforced. The defect was in the prayer.' },
+    { q: 'Was the disobedience WILFUL — deliberate and conscious?', note: 'The standard approaches that in a contempt proceeding. Inference is not enough.', no: 'A bona fide reading of an ambiguous order, or an act done by a contractor without the party’s knowledge, defeats Rule 2A. Strict construction applies because the provision ends in imprisonment.' }
+  ]"
+  result="the court may order the person’s property ATTACHED, or order him DETAINED in civil prison for up to three months, or both — the two are independent, and neither is a precondition of the other"
+  caveat="Note what the result does NOT include. Rule 2A coerces; it does not restore. To have the two floors taken down you must ask separately, under Section 151, for a direction restoring the position as it stood on the date of the order — on the principle that no party may benefit from his own disobedience. Put that prayer in the same application. And note the clock in sub-rule (2): an attachment lapses after one year, at which point, if the disobedience continues, the property may be SOLD, compensation awarded to the injured party out of the proceeds, and the balance returned."
+  resultKind="discretionary"
+/>
+
+### In plain English
 
 **Sub-module A — what Rule 2A is for.** It is a **coercive**, not a punitive, jurisdiction. Its object is to secure obedience to the order, which is why detention ends the moment the court directs release, and why attachment is lifted on compliance. Punishment as such belongs to the contempt jurisdiction.
 
@@ -440,24 +751,133 @@ Rule 2A punishes and coerces, but it does not in terms empower the court to undo
 - **Section 52, Transfer of Property Act, 1882** — where the breach is an alienation, the transferee takes subject to the result of the suit in any event;
 - an application to **amend** the plaint to add a prayer for mandatory injunction and demolition.
 
-### 3. Courtroom & Practical Illustrations
+### Test your instinct
 
-**Illustration 1 — construction raised in defiance.** An injunction restrains D from raising construction beyond plinth level. D completes two floors within six weeks.
+::::instinct The two floors
 
-- **Sword (plaintiff):** Application under Rule 2A, annexing (i) the order, (ii) proof of service or knowledge, (iii) photographs with dates, and (iv) an application under Order XXVI Rule 9 for a Commissioner to record the present state of construction and compare it with the state recorded earlier. Simultaneously, an application under s. 151 for a direction to demolish the offending construction and restore the position as on the date of the order. The two applications together are far stronger than either alone.
-- **Shield (defendant):** Attack the precision of the order — was "plinth level" defined? Attack knowledge — when exactly was the order served? Attack wilfulness — was the construction carried out by a contractor under a pre-existing contract, without D's knowledge of the order? Each of these, if established, defeats Rule 2A, because the standard is wilful disobedience.
+The court restrains Bharat from raising construction beyond the plinth existing on 3 March. The order is served on him the same evening. By mid-April two floors are standing.
 
-**Illustration 2 — alienation in breach.** An injunction restrains D from alienating the suit property. D executes a registered sale deed in favour of X.
+Anita's counsel drafts a Rule 2A application seeking attachment of Bharat's property and his detention in civil prison.
 
-- **Sword (plaintiff):** Rule 2A against D. As against X, the plaintiff does not need Rule 2A at all: **s. 52 of the Transfer of Property Act, 1882** binds X to the result of the suit. Implead X under Order I Rule 10(2) so that the decree binds him directly and is executable against him.
-- **Shield (defendant):** Where the agreement to sell predated the injunction and the sale deed merely completed a pre-existing obligation, argue absence of wilfulness — although this is a weak argument if the injunction was clear, since the correct course was to apply for modification, not to proceed.
+**The application is competent and will probably succeed. It is also incomplete, and the omission is the one Anita will care about most. What is missing?**
 
-**Illustration 3 — breach of a condition, not of the injunction.** An injunction is granted on the condition that P furnishes security of ₹20,00,000 within four weeks. P does not.
+:::ruling
 
-- **Sword (defendant):** Rule 2A's second limb — "breach of any of the terms on which the injunction was granted". But the more direct and effective remedy is an application under **Rule 4** to vacate, on the ground that the condition on which the order was made has not been satisfied, so that the order has spent itself.
-- **Shield (plaintiff):** Apply for extension of time and deposit immediately; courts ordinarily accept late compliance where the delay is short and explained.
+**The prayer for restoration.** Rule 2A attaches and detains. It does not, in terms, empower the court to pull the floors down. If Anita's application asks only for attachment and detention, she may well get both — and the two floors will still be standing at the end of it, which is not what she came for.
 
-### 4. Procedural Interlocking Matrix
+The complete application asks for four things together:
+
+1. A finding of **wilful disobedience** and consequential relief under **Rule 2A**;
+2. A direction under **Section 151** that Bharat restore the suit property to the position in which it stood on 3 March, and in default that Anita be authorised to carry out the restoration at his cost — resting on the principle that no party may be permitted to benefit from his own disobedience, and that a court can undo what was done in violation of its own order;
+3. A **Local Commissioner under Order XXVI Rule 9** to inspect and report on the present state of the construction, so that the breach is proved by an officer of the court rather than by contested photographs;
+4. Leave to **amend the plaint** to add a prayer for mandatory injunction and demolition, so that the final decree can deliver what the interim order could not.
+
+The evidentiary package matters as much as the prayer. Annex the certified copy of the order; the affidavit of service, or better still the **compliance affidavit filed under proviso (b) to Rule 3**, which is the strongest available proof of knowledge; the Commissioner's report; and the interval between service and breach, which is how wilfulness is actually established.
+
+:::
+
+::::
+
+::::instinct The contractor's defence
+
+Same facts, but Bharat's reply raises three answers rather than one. He says: (i) the order used the words "plinth level" without defining what that meant on a partly excavated site; (ii) his contractor carried out the work under a contract signed in January, and Bharat did not personally instruct any of it after 3 March; (iii) in any event, he has now stopped.
+
+**Which of the three is the real defence, and what does the third one actually achieve?**
+
+:::ruling
+
+**The first is the real defence**, and it is a serious one. If the order does not define what was prohibited with enough precision to match against conduct, there is nothing for the court to find a wilful breach of. Ambiguity in the order is construed in favour of the person said to have disobeyed it, because the provision ends in imprisonment and is strictly construed. This is the single commonest reason Rule 2A applications fail, and it is a defect the *applicant* created.
+
+**The second is weak but not frivolous.** Wilfulness is personal, so acts genuinely done without a party's knowledge do not establish it. But once served, Bharat was under a duty to stop his own contractor. The pre-existing contract is not an answer to that; the correct course was to apply for modification of the order, not to let the work continue and explain afterwards. The absence of any application to modify is itself evidence of wilfulness.
+
+**The third achieves something real, but not an acquittal.** Rule 2A is coercive, not punitive — its object is compliance. Sub-rule (1) says detention lasts "unless in the meantime the Court directs his release", which means that purging the disobedience is a live route out. Stopping, and better still restoring, substantially reduces the likelihood of detention and may avoid attachment altogether. What it does not do is erase a completed wilful breach, and it does not answer the Section 151 restoration prayer at all.
+
+:::
+
+::::
+
+::::instinct The sale deed executed on the Tuesday
+
+An injunction restrains Deepa from alienating the suit property. On the following Tuesday she executes a registered sale deed in favour of Chetan, who knows nothing of the litigation.
+
+**Anita's counsel proposes a Rule 2A application against Deepa and a Rule 2A application against Chetan. One of those is a mistake. Which, and what should be done instead?**
+
+:::ruling
+
+The application against **Chetan** is the mistake. He was not a party, he had no knowledge of the order, and an injunction cannot be disobeyed by a person to whom it was never addressed. Rule 2A against him fails at the knowledge gate.
+
+He also does not need to be pursued under Rule 2A, because **Section 52 of the Transfer of Property Act, 1882** does the work already. A transfer during the pendency of the suit is not void, but Chetan takes subject to the outcome. He is bound by the decree whether or not he knew.
+
+What should be done instead is to **implead him under Order I Rule 10(2)**, so that the decree names him and can be executed against him directly, rather than leaving the plaintiff to argue *lis pendens* at the execution stage against a stranger to the record.
+
+Against Deepa, Rule 2A is properly available. Her likely defence — that the agreement to sell predated the injunction and the sale deed merely completed a pre-existing obligation — is weak where the order was clear, because the answer to a pre-existing obligation that collides with an injunction is an application to modify, not performance in the teeth of the order.
+
+:::
+
+::::
+
+::::instinct The security that was never furnished
+
+An injunction is granted in Chetan's favour on the express condition that he furnish security of ₹20,00,000 within four weeks. Four weeks pass. Nothing is furnished.
+
+Deepa's counsel proposes a Rule 2A application against Chetan for breach of the terms on which the injunction was granted.
+
+**Rule 2A does cover this. So why is it the wrong application?**
+
+:::ruling
+
+It is covered — the second limb of Rule 2A reaches "breach of any of the terms on which the injunction was granted", not merely disobedience of the prohibition. So the application is competent.
+
+It is nevertheless the wrong one, for a practical reason. Rule 2A asks the court to attach Chetan's property or detain him — heavy relief, requiring proof of wilfulness, and on which the court has a discretion it will exercise cautiously against a plaintiff who is merely late with a deposit.
+
+What Deepa actually wants is for the injunction to **stop operating**. That is an application under **Rule 4** to discharge or vary the order, on the ground that the condition on which it was made has not been satisfied, so that the order has spent itself. It is quicker, it needs no finding of wilfulness, and it delivers the result.
+
+Chetan's answer, incidentally, is to apply for extension of time and deposit immediately. Courts ordinarily accept late compliance where the delay is short and explained — which is why the Rule 4 application should be moved before he thinks of it.
+
+:::
+
+::::
+
+### Practitioner HUD — operational realities
+
+#### The winning ratio
+
+::: tip The proposition to plead
+**Food Corporation of India v. Sukh Deo Prasad**, (2009) 5 SCC 665 —
+
+"Order XXXIX Rule 2A applies only to the breach of an injunction granted under Rules 1 or 2 and must be strictly construed; the disobedience must be wilful and must be proved, not inferred."
+
+Two words in that sentence do all the work. **"Only"** confines the provision to orders under Rules 1 and 2, which is the first thing a respondent should check. **"Proved"** is the answer to the application built on photographs and indignation: the applicant must establish wilfulness, and a court asked to send a man to prison will not supply the finding by inference.
+:::
+
+#### Sword and shield
+
+| | As applicant (sword) | As respondent (shield) |
+|---|---|---|
+| **The order** | Certified copy of the order and of the application on which it was made. Show that it was made under Rule 1 or Rule 2. | Was it an order under Rules 1 or 2 at all? Orders of a general nature, and orders under other provisions, are outside Rule 2A. |
+| **Subsistence** | Confirm the injunction is alive today, not merely on the date of breach. | Has the suit been disposed of? Rule 2A dies with the injunction; the remedy is then O. XXI R. 32. |
+| **Knowledge** | The compliance affidavit under proviso (b) to R. 3; affidavit of service; postal tracking; or the respondent's presence in court on the date. | When precisely was it served? Was the person against whom relief is sought within R. 5 at all? |
+| **The breach** | Local Commissioner's report under **O. XXVI R. 9** — the strongest proof. Dated photographs, municipal records, the registered instrument. | Match the conduct against the words of the order. If the order is imprecise, nothing can be matched. |
+| **Wilfulness** | The interval between service and breach; correspondence; the **absence of any application to modify** the order. | Bona fide reading of an ambiguous order; acts of third parties without knowledge; prompt cessation on notice. |
+| **The remedy** | Ask for attachment **and** detention — they are independent — **and** for restoration under s. 151 in the same application. | Purge the disobedience. Sub-rule (1) contemplates release "in the meantime"; the jurisdiction is coercive, not punitive. |
+| **Forum** | The court that granted the order. | If the applicant has gone to the High Court in contempt, say so: the specific remedy under the Code must be pursued first. |
+
+#### The limitation clock
+
+| Step | Time | Source |
+|---|---|---|
+| Application under R. 2A | No period prescribed — but only **while the injunction subsists**, and delay undermines the assertion of urgency and wilfulness | R. 2A; *Kanwar Singh Saini* |
+| Detention in civil prison | Not exceeding **three months**, and terminable at any time on the court directing release | R. 2A(1) |
+| Attachment | Lapses after **one year**; if the disobedience continues at that point the property may be **sold** | R. 2A(2) |
+| Appeal from an order under R. 2A to a High Court | **90 days** | O. XLIII R. 1(r); Art. 116, Limitation Act, 1963 |
+| Appeal from such an order to any other court | **30 days** | O. XLIII R. 1(r); Art. 117, Limitation Act, 1963 |
+| Execution for breach of a **permanent** injunction after decree | Governed by the execution provisions, not R. 2A | O. XXI R. 32 |
+
+::: danger Before you file
+Rule 2A is one of the few applications in which the applicant's own earlier drafting is the respondent's best defence. Before filing, read the injunction order as an adversary would and ask: could a reasonable person, acting in good faith, have read this order as permitting what the respondent did? If the answer is yes, the Rule 2A application will fail, and the correct step is an application for clarification and a fresh, precisely worded order — not a contempt-flavoured application that will be dismissed and will cost you credibility on the main matter.
+:::
+
+#### Interlocking matrix — what this connects to
 
 | Provision | Interlocks with | Effect |
 |---|---|---|
@@ -470,7 +890,7 @@ Rule 2A punishes and coerces, but it does not in terms empower the court to undo
 | R. 2A(2) | Attachment and sale | Attachment lapses after one year; thereafter sale and compensation to the injured party |
 | Proof of the breach | O. XXVI R. 9 | A Commissioner's report is the standard proof of a physical breach |
 
-### 5. Landmark & Modern Jurisprudence
+#### The authorities
 
 **Food Corporation of India v. Sukh Deo Prasad**, (2009) 5 SCC 665 — Supreme Court of India.
 
@@ -510,7 +930,7 @@ Rule 2A punishes and coerces, but it does not in terms empower the court to undo
 Citations, bench strength and current status must be verified against the official report and a current citator before reliance. The interaction between Rule 2A and the contempt jurisdiction has been considered in several later decisions and should be checked for the position in the relevant High Court.
 :::
 
-### 6. The Advocate's Toolkit
+#### Strategy and drafting
 
 **Proving a Rule 2A breach — the evidentiary package**
 

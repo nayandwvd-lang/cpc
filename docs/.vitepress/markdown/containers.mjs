@@ -111,8 +111,61 @@ function titleOf(info, name) {
   return info.slice(name.length).trim()
 }
 
+/**
+ * Inline badges for the decompiled bare Act.
+ *
+ *   [[!shall]]        → mandatory, red
+ *   [[?may]]          → discretionary, blue
+ *   [[=res judicata]] → term of art, dotted (picked up by LegalGlossary)
+ *
+ * An inline rule rather than raw <span> in the markdown, because the bare Act
+ * text gets annotated dozens of times per provision and raw HTML at that
+ * density makes the source unreadable — which is how annotations rot.
+ *
+ * The visible word stays plain text in the rendered output, so search still
+ * indexes "shall" and "res judicata" normally.
+ */
+function addBadges(md) {
+  const OPEN = 0x5b /* [ */
+  const KINDS = {
+    '!': ['cpc-mand', 'Mandatory'],
+    '?': ['cpc-disc', 'Discretionary'],
+    '=': ['cpc-art', 'Term of art']
+  }
+
+  md.inline.ruler.before('link', 'cpc_badge', (state, silent) => {
+    const start = state.pos
+    if (state.src.charCodeAt(start) !== OPEN) return false
+    if (state.src.charCodeAt(start + 1) !== OPEN) return false
+
+    const kind = state.src[start + 2]
+    if (!KINDS[kind]) return false
+
+    const end = state.src.indexOf(']]', start + 3)
+    if (end === -1) return false
+
+    const body = state.src.slice(start + 3, end)
+    // A badge never spans a line break or nests another badge.
+    if (!body || body.includes('\n') || body.includes('[[')) return false
+
+    if (!silent) {
+      const [cls, title] = KINDS[kind]
+      const token = state.push('html_inline', '', 0)
+      token.content =
+        `<span class="${cls}" title="${title}">` +
+        md.utils.escapeHtml(body) +
+        '</span>'
+    }
+
+    state.pos = end + 2
+    return true
+  })
+}
+
 export function cpcContainers(md) {
   const esc = md.utils.escapeHtml
+
+  addBadges(md)
 
   addContainer(
     md,
@@ -144,5 +197,73 @@ export function cpcContainers(md) {
       )
     },
     () => '</div>\n'
+  )
+
+  /**
+   * ::: proviso Provided that the suit is of a civil nature
+   *
+   * A gating proviso is not a note — it is a condition that can defeat the
+   * whole provision, and beginners consistently read past it. It gets its own
+   * yellow box so the eye cannot skip it.
+   */
+  addContainer(
+    md,
+    'proviso',
+    (tokens, idx) => {
+      const title = titleOf(tokens[idx].info, 'proviso')
+      return (
+        '<div class="cpc-proviso">' +
+        '<p class="cpc-proviso-head">' +
+        '<span class="cpc-proviso-kicker">Gating proviso</span>' +
+        (title ? `<span class="cpc-proviso-title">${esc(title)}</span>` : '') +
+        '</p>\n'
+      )
+    },
+    () => '</div>\n'
+  )
+
+  /**
+   * Test-your-instinct. Nested, so the facts stay visible and only the ruling
+   * is hidden behind the disclosure:
+   *
+   *   ::::instinct Anita files again
+   *   The facts, then the question.
+   *   :::ruling
+   *   What the court actually does, and why.
+   *   :::
+   *   ::::
+   *
+   * <details> rather than a Vue component on purpose: it is keyboard
+   * accessible and it still works with JS disabled or before hydration, and
+   * the hidden answer stays in the markdown so search can reach it.
+   */
+  addContainer(
+    md,
+    'instinct',
+    (tokens, idx) => {
+      const title = titleOf(tokens[idx].info, 'instinct')
+      return (
+        '<div class="cpc-instinct">' +
+        '<p class="cpc-instinct-head">' +
+        '<span class="cpc-instinct-kicker">Test your instinct</span>' +
+        (title ? `<span class="cpc-instinct-title">${esc(title)}</span>` : '') +
+        '</p>\n'
+      )
+    },
+    () => '</div>\n'
+  )
+
+  addContainer(
+    md,
+    'ruling',
+    (tokens, idx) => {
+      const label = titleOf(tokens[idx].info, 'ruling') || 'Reveal the ruling'
+      return (
+        '<details class="cpc-ruling">' +
+        `<summary><span>${esc(label)}</span></summary>` +
+        '<div class="cpc-ruling-body">\n'
+      )
+    },
+    () => '</div></details>\n'
   )
 }

@@ -389,7 +389,225 @@
 }
 
 /* --------------------------------------------------------------------------
-   8. Print — practitioners print sections and carry them into court
+   8. The decompiled bare Act — inline badges
+   ------------------------------------------------------------------------
+
+   A beginner reading statutory text cannot see the difference between a
+   command and a permission, and that difference is most of the meaning. So we
+   colour it: "shall" is a duty the court has no choice about, "may" is a
+   discretion. Once you have seen it marked a dozen times you start seeing it
+   unmarked, which is the actual goal.
+   -------------------------------------------------------------------------- */
+
+.vp-doc .cpc-mand,
+.vp-doc .cpc-disc,
+.vp-doc .cpc-art {
+  padding: 0 5px;
+  border-radius: 4px;
+  font-weight: 700;
+  font-family: var(--vp-font-family-base);
+  font-size: 0.94em;
+  white-space: nowrap;
+}
+
+.vp-doc .cpc-mand {
+  background: var(--vp-c-danger-soft);
+  color: var(--vp-c-danger-1);
+  box-shadow: inset 0 0 0 1px var(--vp-c-danger-1);
+}
+
+.vp-doc .cpc-disc {
+  background: var(--vp-c-tip-soft);
+  color: var(--vp-c-tip-1);
+  box-shadow: inset 0 0 0 1px var(--vp-c-tip-1);
+}
+
+.vp-doc .cpc-art {
+  background: none;
+  padding: 0;
+  font-weight: 600;
+  font-style: italic;
+  white-space: normal;
+  border-bottom: 1px dotted var(--vp-c-brand-1);
+}
+
+/* A legend the reader meets once per page, so the colours mean something. */
+.cpc-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 18px;
+  margin: 14px 0 18px;
+  padding: 10px 14px;
+  border: 1px dashed var(--vp-c-divider);
+  border-radius: 8px;
+  font-size: 0.82rem;
+  color: var(--vp-c-text-3);
+}
+
+/* ---- gating proviso ---- */
+
+.vp-doc .cpc-proviso {
+  margin: 20px 0;
+  padding: 14px 18px 2px;
+  border: 1px solid var(--vp-c-warning-1);
+  border-left-width: 5px;
+  border-radius: 10px;
+  background: var(--vp-c-warning-soft);
+}
+
+.vp-doc .cpc-proviso-head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 6px 12px;
+  margin: 0 0 8px;
+}
+
+.cpc-proviso-kicker {
+  flex: none;
+  padding: 3px 10px;
+  border-radius: 999px;
+  background: var(--vp-c-warning-1);
+  color: #2a2000;
+  font-size: 0.66rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+.cpc-proviso-title {
+  font-size: 0.97rem;
+  font-weight: 700;
+  color: var(--vp-c-text-1);
+}
+
+.vp-doc .cpc-proviso p:not(.cpc-proviso-head) {
+  font-size: 0.93rem;
+  line-height: 1.75;
+  margin: 0 0 12px;
+}
+
+/* ---- test your instinct ---- */
+
+.vp-doc .cpc-instinct {
+  margin: 24px 0;
+  padding: 16px 20px 6px;
+  border: 2px solid var(--vp-c-brand-1);
+  border-radius: 12px;
+  background: var(--vp-c-bg-soft);
+}
+
+.vp-doc .cpc-instinct-head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 6px 12px;
+  margin: 0 0 10px;
+}
+
+.cpc-instinct-kicker {
+  flex: none;
+  padding: 3px 10px;
+  border-radius: 999px;
+  background: var(--vp-c-brand-1);
+  color: #fff;
+  font-size: 0.66rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+.dark .cpc-instinct-kicker {
+  color: #1b1717;
+}
+
+.cpc-instinct-title {
+  font-size: 0.99rem;
+  font-weight: 700;
+  color: var(--vp-c-text-1);
+}
+
+.vp-doc .cpc-instinct p:not(.cpc-instinct-head) {
+  line-height: 1.75;
+  margin: 0 0 12px;
+}
+
+/* The disclosure. Answering before opening is the entire point, so the
+   summary is a deliberate, button-like commitment rather than a stray link. */
+.vp-doc .cpc-ruling {
+  margin: 4px 0 14px;
+  border-top: 1px solid var(--vp-c-divider);
+  padding-top: 12px;
+}
+
+.vp-doc .cpc-ruling > summary {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 7px 16px;
+  border: 1px solid var(--vp-c-brand-1);
+  border-radius: 999px;
+  background: var(--vp-c-bg);
+  color: var(--vp-c-brand-1);
+  font-size: 0.86rem;
+  font-weight: 700;
+  cursor: pointer;
+  list-style: none;
+  user-select: none;
+}
+
+.vp-doc .cpc-ruling > summary::-webkit-details-marker {
+  display: none;
+}
+
+.vp-doc .cpc-ruling > summary::before {
+  content: '▸';
+  font-size: 0.8em;
+}
+
+.vp-doc .cpc-ruling[open] > summary::before {
+  content: '▾';
+}
+
+.vp-doc .cpc-ruling > summary:hover {
+  background: var(--vp-c-brand-soft);
+}
+
+.cpc-ruling-body {
+  margin-top: 12px;
+  padding: 2px 16px;
+  border-left: 3px solid var(--vp-c-brand-1);
+}
+
+.vp-doc .cpc-ruling-body > :last-child {
+  margin-bottom: 0;
+}
+
+/* --------------------------------------------------------------------------
+   9. Practitioner mode
+   ------------------------------------------------------------------------
+
+   One class on <html> collapses the teaching scaffolding. The content stays
+   in the DOM — hidden, not removed — so it still prints and still answers
+   the browser's own find-in-page if the reader goes looking.
+   -------------------------------------------------------------------------- */
+
+.cpc-practitioner .vp-doc .cpc-oneminute,
+.cpc-practitioner .vp-doc .cpc-story,
+.cpc-practitioner .vp-doc .cpc-instinct,
+.cpc-practitioner .vp-doc .cpc-ground,
+.cpc-practitioner .cpc-keyterms,
+.cpc-practitioner .cpc-test,
+.cpc-practitioner .cpc-flow,
+.cpc-practitioner .cpc-meta-outcomes,
+.cpc-practitioner .vp-doc .cpc-novice {
+  display: none !important;
+}
+
+/* --------------------------------------------------------------------------
+   10. Print — practitioners print sections and carry them into court
    -------------------------------------------------------------------------- */
 
 @media print {
@@ -425,8 +643,34 @@
   .vp-doc .custom-block,
   .vp-doc .cpc-oneminute,
   .vp-doc .cpc-story,
+  .vp-doc .cpc-proviso,
+  .vp-doc .cpc-instinct,
   .vp-doc table {
     page-break-inside: avoid;
+  }
+
+  /* On paper the answer cannot be hidden behind a click, so open it. */
+  .vp-doc .cpc-ruling > summary {
+    border: none;
+    padding: 0;
+  }
+
+  .cpc-ruling-body {
+    display: block !important;
+  }
+
+  /* Badges lose their colour, so give them a shape instead. */
+  .vp-doc .cpc-mand,
+  .vp-doc .cpc-disc {
+    background: none !important;
+    color: #000 !important;
+    box-shadow: none !important;
+    text-decoration: underline;
+  }
+
+  .vp-doc .cpc-proviso {
+    background: none;
+    border: 1pt solid #000;
   }
 
   /* Colour is gone on paper, so the two teaching blocks keep their identity
