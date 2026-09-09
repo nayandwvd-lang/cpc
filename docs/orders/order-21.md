@@ -1132,17 +1132,49 @@ Set against this: everything spent is recoverable under **section 35** as costs 
 
 ## Rules 41 to 63 — Attachment of property and the adjudication of claims
 
-### 1. Verbatim Bare Act Text & Statutory Mechanics — Rules 41 to 63
+### The dispute this solves
 
-> **Rule 41. Examination of judgment-debtor as to his property.** — (1) Where a decree is for the payment of money the decree-holder may apply to the Court for an order that — (a) the judgment-debtor, or (b) in the case of a corporation, any officer thereof, or (c) any other person, be orally examined as to whether any or what debts are owing to the judgment-debtor and whether the judgment-debtor has any and what other property or means of satisfying the decree; and the Court may make an order for the attendance and examination of such judgment-debtor, or officer or other person, and for the production of any books or documents.
->
-> (2) Where a decree for the payment of money has remained unsatisfied for a period of thirty days, the Court may, on the application of the decree-holder and without prejudice to its power under sub-rule (1), by order require the judgment-debtor or, where the judgment-debtor is a corporation, any officer thereof, **to make an affidavit stating the particulars of the assets of the judgment-debtor**.
->
-> (3) In case of disobedience of any order made under sub-rule (2), the Court making the order, or any Court to which the proceeding is transferred, may **detain him in the civil prison for a term not exceeding three months** unless before the expiry of such term the Court directs his release.
+::: oneminute Anita finally finds an asset. Then somebody else says it is theirs.
+Anita has a money decree against Bharat for ₹22,00,000. Bharat says he has nothing. Anita, after some digging, finds a godown on the edge of town that everybody in the market knows as Bharat's.
 
-> **Section 60(1).** — The following property is liable to attachment and sale in execution of a decree, namely, lands, houses or other buildings, goods, money, bank-notes, cheques, bills of exchange, hundis, promissory notes, Government securities, bonds or other securities for money, debts, shares in a corporation and, save as hereinafter mentioned, all other saleable property, movable or immovable, belonging to the judgment-debtor, or over which, or the profits of which, he has a disposing power which he may exercise for his own benefit, whether the same be held in the name of the judgment-debtor or by another person in trust for him or on his behalf:
+So she attaches it. And the moment she does, two questions arrive that decide the rest of the execution.
+
+**The first is what the attachment actually gave her.** The intuitive answer — that the godown is now, in some sense, hers to sell — is wrong, and getting it wrong is the commonest conceptual error in execution practice. Attachment gives Anita **nothing in the property at all**. It does not create a charge, a lien, an interest or a title. What it does is far narrower: it makes any private transfer by Bharat from that moment **void as against her claim**. It freezes; it does not acquire.
+
+**The second is who else can be heard.** Three weeks later Bharat's brother Chetan files a petition saying the godown was sold to him four years ago, that he has been in possession throughout, and that Bharat has no saleable interest in it whatever. Chetan is not a party to Anita's suit. He is bound by nothing.
+
+Rules 41 to 63 deal with both. They tell you how to **find** the debtor's property (Rule 41), what property is **attachable** at all (section 60), the **mode** of attachment for each species of property — and it is a different mode for each, with the wrong mode being a nullity — and then, in Rule 58, they give the executing court the power and the duty to **try Chetan's claim as a trial**, deciding title, with the resulting order deemed a decree.
+
+**The one idea to carry through this block:** attachment is a freeze, not an acquisition — and because it is only a freeze, the executing court must be able to ask, before the auction, whether the thing being frozen ever belonged to the debtor at all.
+:::
+
+::: story Why an attachment can die without anybody noticing
+Two of the most costly things that happen in execution happen silently. No order is passed, no notice issues, nobody tells the decree-holder. The attachment simply stops existing.
+
+The reason lies in what attachment is for. Because it confers no title and no charge, an attachment is not a property right that the decree-holder owns and keeps until somebody takes it away. It is a **procedural incident of a live execution** — a restraint that the court imposes while it is actively working on realising the decree. Take away the live execution, and the restraint has nothing to attach itself to.
+
+**Rule 55** is the benign case. If the decretal amount with costs and attachment charges is paid into court, or satisfaction is otherwise certified, or the decree is set aside on appeal, the attachment is "deemed to be withdrawn." There is nothing left to secure. No application is needed and none should be filed.
+
+**Rule 57(2)** is the dangerous case, and it is the 1976 amendment that most quietly wrecks decree-holders. If the execution application is **dismissed for any reason at all** — dismissed for default of appearance, dismissed for non-deposit of process fee, dismissed for statistical disposal at the end of a court year, dismissed by consent while the parties talk settlement — the court is required by Rule 57(1) to say whether the attachment continues or ceases, and to state the period. If it says nothing, sub-rule (2) operates: the attachment is **deemed to have ceased**.
+
+Consider what that means for Anita. Her godown attachment of 2019 is dead from the day in 2021 that a clerk wrote "EP dismissed for non-prosecution" on the file. When Bharat sells the godown in 2022, section 64 does not touch that sale, because on that date there was no attachment for the sale to be void against. And no order made in 2023 can retrospectively revive it against a purchaser who searched the register and found nothing.
+
+The lesson is not a rule to memorise. It is a habit: **whenever an execution application is disposed of, in any manner, for any reason, obtain an express direction under Rule 57(1) that the attachment shall continue, with the period recorded** — and read the order sheet before you leave the court.
+:::
+
+### The Act, decompiled
+
+Twenty-three rules and two sections, doing four separate jobs. **Rule 41** is discovery — how you find out what the debtor owns. **Section 60** defines the pool of attachable property and, in its proviso, the subsistence floor that is exempt. **Rules 43 to 54** set out the mode of attachment, which differs for every species of property. And **Rules 55 to 63**, with **section 64**, govern what an attachment does, when it dies, and how a stranger to the decree gets heard.
+
+> **Rule 41. Examination of judgment-debtor as to his property.** — (1) Where a decree is for the payment of money the decree-holder [[?may apply]] to the Court for an order that — (a) the judgment-debtor, or (b) in the case of a corporation, any officer thereof, or (c) any other person, be orally examined as to whether any or what debts are owing to the judgment-debtor and whether the judgment-debtor has any and what other property or means of satisfying the decree; and the Court [[?may make an order]] for the attendance and examination of such judgment-debtor, or officer or other person, and for the production of any books or documents.
 >
-> *Provided that the following particulars shall not be liable to such attachment or sale, namely —*
+> (2) Where a decree for the payment of money has remained unsatisfied for a period of thirty days, the Court [[?may]], on the application of the decree-holder and without prejudice to its power under sub-rule (1), by order require the judgment-debtor or, where the judgment-debtor is a corporation, any officer thereof, [[!to make an affidavit stating the particulars of the assets]] of the judgment-debtor.
+>
+> (3) In case of disobedience of any order made under sub-rule (2), the Court making the order, or any Court to which the proceeding is transferred, [[?may detain him in the civil prison]] for a term **not exceeding three months** unless before the expiry of such term the Court directs his release.
+
+> **Section 60(1).** — The following property [[!is liable to attachment and sale]] in execution of a decree, namely, lands, houses or other buildings, goods, money, bank-notes, cheques, bills of exchange, hundis, promissory notes, Government securities, bonds or other securities for money, debts, shares in a corporation and, save as hereinafter mentioned, all other saleable property, movable or immovable, belonging to the judgment-debtor, or over which, or the profits of which, he has a disposing power which he may exercise for his own benefit, whether the same be held in the name of the judgment-debtor or by another person in trust for him or on his behalf:
+>
+> **Provided that** the following particulars [[!shall not be liable]] to such attachment or sale, namely —
 > *(a) the necessary wearing-apparel, cooking vessels, beds and bedding of the judgment-debtor, his wife and children, and such personal ornaments as, in accordance with religious usage, cannot be parted with by any woman;*
 > *(b) tools of artisans, and, where the judgment-debtor is an agriculturist, his implements of husbandry and such cattle and seed-grain as may in the opinion of the Court be necessary to enable him to earn his livelihood as such…;*
 > *(c) houses and other buildings (with the materials and the sites thereof and the land immediately appurtenant thereto and necessary for their enjoyment) belonging to an agriculturist or a labourer or a domestic servant and occupied by him;*
@@ -1156,53 +1188,53 @@ Set against this: everything spent is recoverable under **section 35** as costs 
 > *(o) any allowance declared by any Indian law to be exempt from liability to attachment or sale in execution of a decree; and*
 > *(p) where the judgment-debtor is a person liable for arrears of any tax… any movable property exempt from sale…*
 
-> **Section 64. Private alienation of property after attachment to be void.** — (1) Where an attachment has been made, any private transfer or delivery of the property attached or of any interest therein and any payment to the judgment-debtor of any debt, dividend or other monies contrary to such attachment, **shall be void as against all claims enforceable under the attachment**.
+> **Section 64. Private alienation of property after attachment to be void.** — (1) Where an attachment has been made, any private transfer or delivery of the property attached or of any interest therein and any payment to the judgment-debtor of any debt, dividend or other monies contrary to such attachment, [[!shall be void]] as against **all claims enforceable under the attachment**.
 >
-> (2) Nothing in this section shall apply to any private transfer or delivery of the property attached or of any interest therein, **made in pursuance of any contract for such transfer or delivery entered into and registered before the attachment**.
+> (2) Nothing in this section shall apply to any private transfer or delivery of the property attached or of any interest therein, made in pursuance of any contract for such transfer or delivery **entered into and [[=registered]] before the attachment**.
 >
 > *Explanation. — For the purposes of this section, claims enforceable under an attachment include claims for the rateable distribution of assets.*
 
-> **Rule 43. Attachment of movable property, other than agricultural produce, in possession of judgment-debtor.** — Where the property to be attached is movable property, other than agricultural produce, in the possession of the judgment-debtor, the attachment shall be made by actual seizure, and the attaching officer shall keep the property in his own custody or in the custody of one of his subordinates, and shall be responsible for the due custody thereof: *Provided that when the property seized is subject to speedy and natural decay… the officer may sell it at once.*
+> **Rule 43. Attachment of movable property, other than agricultural produce, in possession of judgment-debtor.** — Where the property to be attached is movable property, other than agricultural produce, in the possession of the judgment-debtor, the attachment [[!shall be made by actual seizure]], and the attaching officer shall keep the property in his own custody or in the custody of one of his subordinates, and shall be responsible for the due custody thereof: **Provided that** when the property seized is subject to speedy and natural decay… the officer [[?may sell it at once]].
 
-> **Rule 46. Attachment of debt, share and other property not in possession of judgment-debtor.** — (1) In the case of — (a) a debt not secured by a negotiable instrument, (b) a share in the capital of a corporation, (c) other movable property not in the possession of the judgment-debtor…, the attachment shall be made by a **written order prohibiting** — (i) in the case of the debt, the creditor from recovering the debt and the debtor from making payment thereof until the further order of the Court; (ii) in the case of the share, the person in whose name the share may be standing from transferring the same or receiving any dividend thereon; (iii) in the case of the other movable property…, the person in possession of the same from giving it over to the judgment-debtor.
+> **Rule 46. Attachment of debt, share and other property not in possession of judgment-debtor.** — (1) In the case of — (a) a debt not secured by a negotiable instrument, (b) a share in the capital of a corporation, (c) other movable property not in the possession of the judgment-debtor…, the attachment [[!shall be made]] by a **written order prohibiting** — (i) in the case of the debt, the creditor from recovering the debt and the debtor from making payment thereof until the further order of the Court; (ii) in the case of the share, the person in whose name the share may be standing from transferring the same or receiving any dividend thereon; (iii) in the case of the other movable property…, the person in possession of the same from giving it over to the judgment-debtor.
 
-> **Rule 46A. Notice to garnishee.** — (1) The Court may in the case of a debt (other than a debt secured by a mortgage or a charge) which has been attached under rule 46, upon the application of the attaching creditor, issue notice to the garnishee liable to pay such debt, calling upon him either to pay into Court the debt due from him to the judgment-debtor… or to appear and show cause why he should not do so.
+> **Rule 46A. Notice to garnishee.** — (1) The Court [[?may]] in the case of a debt (other than a debt secured by a mortgage or a charge) which has been attached under rule 46, upon the application of the attaching creditor, issue notice to the garnishee liable to pay such debt, calling upon him either to pay into Court the debt due from him to the judgment-debtor… or to appear and show cause why he should not do so.
 
-> **Rule 52. Attachment of property in custody of Court or public officer.** — Where the property to be attached is in the custody of any Court or public officer, the attachment shall be made by a notice to such Court or officer, requesting that such property, and any interest or dividend becoming payable thereon, may be held subject to the further orders of the Court from which the notice is issued.
+> **Rule 52. Attachment of property in custody of Court or public officer.** — Where the property to be attached is in the custody of any Court or public officer, the attachment [[!shall be made by a notice]] to such Court or officer, requesting that such property, and any interest or dividend becoming payable thereon, may be held subject to the further orders of the Court from which the notice is issued.
 
-> **Rule 54. Attachment of immovable property.** — (1) Where the property is immovable, the attachment shall be made by an order **prohibiting the judgment-debtor from transferring or charging the property in any way, and all persons from taking any benefit from such transfer or charge.**
+> **Rule 54. Attachment of immovable property.** — (1) Where the property is immovable, the attachment [[!shall be made by an order]] **prohibiting the judgment-debtor from transferring or charging the property in any way, and all persons from taking any benefit from such transfer or charge.**
 >
-> (1A) The order shall also require the judgment-debtor to attend Court on a specified date to take notice of the date to be fixed for settling the terms of the proclamation of sale.
+> (1A) The order [[!shall also require]] the judgment-debtor to attend Court on a specified date to take notice of the date to be fixed for settling the terms of the proclamation of sale.
 >
-> (2) The order shall be proclaimed at some place on or adjacent to such property by beat of drum or other customary mode, and a copy of the order shall be affixed on a conspicuous part of the property and then upon a conspicuous part of the court-house, and also, where the property is land paying revenue to the Government, in the office of the Collector of the district in which the land is situate and, where the property is land situate in a village, also in the office of the Gram Panchayat, if any, having jurisdiction over that village.
+> (2) The order [[!shall be proclaimed]] at some place on or adjacent to such property by beat of drum or other customary mode, and a copy of the order [[!shall be affixed]] on a conspicuous part of the property and then upon a conspicuous part of the court-house, and also, where the property is land paying revenue to the Government, in the office of the Collector of the district in which the land is situate and, where the property is land situate in a village, also in the office of the Gram Panchayat, if any, having jurisdiction over that village.
 >
-> (3) Where the Court so directs, the prohibitory order shall be published in the Official Gazette or in a local newspaper, or in both…
+> (3) Where the Court so directs, the prohibitory order [[?may be directed to be published]] in the Official Gazette or in a local newspaper, or in both…
 >
-> (4) Such order shall take effect, as against purchasers for value in good faith, from the time when a copy thereof is affixed on the property, and, in the case of all other transfers, from the time when such order is made.
+> (4) Such order [[!shall take effect]], as against **purchasers for value in good faith**, from the time when a copy thereof is affixed on the property, and, in the case of all other transfers, from the time when such order is made.
 
-> **Rule 55. Removal of attachment after satisfaction of decree.** — Where — (a) the amount decreed with costs and all charges and expenses resulting from the attachment of any property are paid into Court, or (b) satisfaction of the decree is otherwise made through the Court or certified to the Court, or (c) the decree is set aside or reversed, **the attachment shall be deemed to be withdrawn**…
+> **Rule 55. Removal of attachment after satisfaction of decree.** — Where — (a) the amount decreed with costs and all charges and expenses resulting from the attachment of any property are paid into Court, or (b) satisfaction of the decree is otherwise made through the Court or certified to the Court, or (c) the decree is set aside or reversed, [[!the attachment shall be deemed to be withdrawn]]…
 
-> **Rule 57. Determination of attachment.** — (1) Where any property has been attached in execution of a decree and the Court, for any reason, passes an order dismissing the application for the execution of the decree, the Court shall direct **whether the attachment shall continue or cease** and shall also indicate the period up to which such attachment shall continue or the date on which it shall cease.
+> **Rule 57. Determination of attachment.** — (1) Where any property has been attached in execution of a decree and the Court, for any reason, passes an order dismissing the application for the execution of the decree, the Court [[!shall direct]] **whether the attachment shall continue or cease** and [[!shall also indicate]] the period up to which such attachment shall continue or the date on which it shall cease.
 >
-> (2) If the Court omits to give such direction, the attachment shall be **deemed to have ceased**.
+> (2) If the Court omits to give such direction, [[!the attachment shall be deemed to have ceased]].
 
-> **Rule 58. Adjudication of claims to, or objections to attachment of, property.** — (1) Where any claim is preferred to, or any objection is made to the attachment of, any property attached in execution of a decree on the ground that such property is not liable to such attachment, **the Court shall proceed to adjudicate upon the claim or objection in accordance with the provisions herein contained:**
+> **Rule 58. Adjudication of claims to, or objections to attachment of, property.** — (1) Where any claim is preferred to, or any objection is made to the attachment of, any property attached in execution of a decree on the ground that such property is not liable to such attachment, [[!the Court shall proceed to adjudicate]] upon the claim or objection in accordance with the provisions herein contained:
 >
-> *Provided that no such claim or objection shall be entertained —*
+> **Provided that** no such claim or objection [[!shall be entertained]] —
 > *(a) where, before the claim is preferred or objection is made, the property attached has already been sold; or*
 > *(b) where the Court considers that the claim or objection was designedly or unnecessarily delayed.*
 >
-> (2) All questions (including questions relating to right, title or interest in the property attached) arising between the parties to a proceeding or their representatives under this rule and relevant to the adjudication of the claim or objection, **shall be determined by the Court dealing with the claim or objection and not by a separate suit**.
+> (2) All questions (including questions relating to right, title or interest in the property attached) arising between the parties to a proceeding or their representatives under this rule and relevant to the adjudication of the claim or objection, [[!shall be determined by the Court]] dealing with the claim or objection and **not by a separate suit**.
 >
-> (3) Upon the determination of the questions referred to in sub-rule (2), the Court shall, in accordance with such determination, — (a) allow the claim or objection and release the property from attachment either wholly or to such extent as it thinks fit; or (b) disallow the claim or objection; or (c) continue the attachment subject to any mortgage, charge or other interest in favour of any person; or (d) pass such order as in the circumstances of the case it deems fit.
+> (3) Upon the determination of the questions referred to in sub-rule (2), the Court [[!shall]], in accordance with such determination, — (a) allow the claim or objection and release the property from attachment either wholly or to such extent as it thinks fit; or (b) disallow the claim or objection; or (c) continue the attachment subject to any mortgage, charge or other interest in favour of any person; or (d) pass such order as in the circumstances of the case it deems fit.
 >
-> (4) Where any claim or objection has been adjudicated upon under this rule, **the order made thereon shall have the same force and be subject to the same conditions as to appeal or otherwise as if it were a decree.**
+> (4) Where any claim or objection has been adjudicated upon under this rule, [[!the order made thereon shall have the same force]] and be subject to the same conditions as to appeal or otherwise **as if it were a decree**.
 >
-> (5) Where a claim or an objection is preferred and the Court, under the proviso to sub-rule (1), refuses to entertain it, the party against whom such order is made may institute a suit to establish the right which he claims to the property in dispute; but, subject to the result of such suit, if any, an order so refusing to entertain the claim or objection shall be conclusive.
+> (5) Where a claim or an objection is preferred and the Court, under the proviso to sub-rule (1), refuses to entertain it, the party against whom such order is made [[?may institute a suit]] to establish the right which he claims to the property in dispute; but, subject to the result of such suit, if any, an order so refusing to entertain the claim or objection shall be conclusive.
 
-> **Rule 59. Stay of sale.** — Where before the claim was preferred or the objection was made, the property attached had already been advertised for sale, the Court ordering the sale may — (a) if the property is movable, make an order postponing the sale pending the adjudication of the claim or objection, or (b) if the property is immovable, make an order that, pending the adjudication of the claim or objection, the property shall not be sold, or, that pending such adjudication, the property may be sold but the sale shall not be confirmed.
+> **Rule 59. Stay of sale.** — Where before the claim was preferred or the objection was made, the property attached had already been advertised for sale, the Court ordering the sale [[?may]] — (a) if the property is movable, make an order postponing the sale pending the adjudication of the claim or objection, or (b) if the property is immovable, make an order that, pending the adjudication of the claim or objection, the property shall not be sold, or, that pending such adjudication, the property may be sold but the sale shall not be confirmed.
 
-> **Rule 63. Saving of suits to establish right to attached property.** — Save as otherwise provided, nothing in rule 58 shall be deemed to bar the institution of a suit to establish the right which he claims to the property attached, but, subject to the result of such suit, if any, an order made under rule 58 shall be conclusive.
+> **Rule 63. Saving of suits to establish right to attached property.** — Save as otherwise provided, nothing in rule 58 [[!shall be deemed to bar]] the institution of a suit to establish the right which he claims to the property attached, but, subject to the result of such suit, if any, an order made under rule 58 shall be conclusive.
 
 | Operative expression | Character | Consequence |
 |---|---|---|
@@ -1237,7 +1269,64 @@ Attachment is the most misunderstood step in execution because litigants treat i
 **Third**, because attachment creates no title, the person really in possession under an independent claim is not bound. That is the whole reason Rule 58 exists: it is the mechanism by which the executing court decides, before sale, whether the property being sold in fact belongs to the judgment-debtor at all. Rule 58 is not an interruption of execution; it is part of it.
 :::
 
-### 2. Plain-English Conceptual Demystification — Rules 41 to 63
+::: proviso The proviso to Rule 58(1) — the two doors that are closed to a claimant
+Rule 58(1) is emphatic: the Court **shall proceed to adjudicate**. There is no discretion to send the claimant away to file a suit — that was the pre-1976 position and the 1976 amendment abolished it deliberately.
+
+But the duty is preceded by a gate, and the gate has two bars. A claim or objection **shall not be entertained** —
+
+**(a) where, before the claim is preferred, the property attached has already been sold.** This is mechanical and jurisdictional. Once the auction has happened, the attachment has spent itself; there is nothing left to release. The claimant is not left without a remedy, but the remedy changes: it becomes **Rule 91** — an application by the purchaser on the ground that the judgment-debtor had no saleable interest — or a title suit. Both are worse than Rule 58, and both are on a clock.
+
+**(b) where the Court considers that the claim or objection was designedly or unnecessarily delayed.** This is a finding of fact, and it exists for a reason every execution practitioner knows: the classic obstruction is a brother or a wife surfacing with a claim three days before the auction. A court refusing entertainment under bar (b) must record why.
+
+**What follows from the two bars is the single most important piece of practical advice in this block.** Filing a Rule 58 claim does **not** stop the sale. Nothing about it is automatic. If the claimant files his claim and does nothing else, and the property is sold while the claim is pending, **bar (a) then defeats his own claim.** He will have destroyed his remedy by using it.
+
+So the claim under Rule 58 and the application under **Rule 59** to stay the sale are not two steps. They are one step, filed in the same breath and pressed on the same day.
+:::
+
+::: proviso Section 64(2) — the one word that decides who wins
+Section 64(1) voids private transfers made after attachment. Section 64(2), as it stands after the 2002 amendment, saves one class of transfer: one made in pursuance of a contract "entered into **and registered** before the attachment."
+
+That word — *registered* — does almost all the work in contested claim petitions, and it is the difference between two claimants whose stories sound identical.
+
+Chetan with a **registered** agreement to sell dated before the attachment wins, and wins cleanly. The reasoning is *Vannarakkal Kallalathil Sreedharan*: an attaching creditor can attach no more than the right, title and interest which the judgment-debtor possessed on the date of attachment — and that interest was already burdened by an obligation to convey.
+
+Chetan with an **unregistered** agreement to sell dated before the attachment loses, and section 64(2) is not even reached. Nor can he retreat to part performance: after the 2001 amendment to section 53A of the Transfer of Property Act, an unregistered agreement will not support that defence either.
+
+**The instruction, for both sides:** before you argue about possession, consideration, conduct or delay, look at the endorsement on the document. If it is unregistered, the decree-holder should say so in his first paragraph, and the claimant should stop relying on the document and build his case on **possession on his own account** instead.
+:::
+
+### How this actually runs
+
+Two trees. The first is the decree-holder's — you have found something and want to attach it, and every gate on the way is one that voids the attachment if you get it wrong. The second is the stranger's — somebody who is not a party to the decree says the property is his, and the question is whether he will be heard at all.
+
+<MicroTree
+  input="You have located property you believe belongs to the judgment-debtor and you want it attached"
+  :gates="[
+    { q: 'Is execution barred altogether right now?', note: 'Section 14 of the IBC (corporate debtor) and section 96 (personal guarantor) prohibit execution absolutely during a moratorium. Check the IBC portal before, not after.', no: 'Stop. An attachment made during a moratorium is void and will be set aside with costs against you.' },
+    { q: 'Is the property attachable at all under section 60?', note: 'Two questions in one. Is it SALEABLE property which the debtor owns, or over which he has a beneficial disposing power — including property held benami in another’s name on his behalf? And is it outside the proviso — wearing apparel, cooking vessels, beds, a woman’s religiously inalienable ornaments, an artisan’s tools, an agriculturist’s implements and occupied house, provident fund, life-insurance monies, a right to future maintenance, and salary to the extent of the first ₹1,000 and two-thirds of the remainder?', no: 'The attachment is without jurisdiction. Note that the exemptions cannot be waived — a debtor’s agreement permitting attachment of exempt property is void, so consent is no answer.' },
+    { q: 'Have you selected the CORRECT MODE for this species of property?', note: 'Movables in the debtor’s possession — actual seizure (R. 43). Agricultural produce — R. 44. Debts, shares, movables NOT in his possession — a written prohibitory order (R. 46), with the garnishee route under RR. 46A–46I for an identifiable debtor. Property in the custody of a court or public officer — notice (R. 52). A partner’s interest — a charging order (R. 49), never a seizure of firm assets. Immovable property — a prohibitory order (R. 54).', no: 'There is no attachment in law. Seizing share certificates, taking possession of a debt, or seizing firm assets for a partner’s personal decree are each a nullity — and you will discover it only when a claim is filed and the sale collapses.' },
+    { q: 'For immovable property — have all four publicity steps under Rule 54(2) been effected AND proved?', note: 'Beat of drum on or adjacent to the property; affixture on the property; affixture on the court-house; a copy to the Collector for revenue land and to the Gram Panchayat for village land. Photograph the affixture with a date stamp and file the photographs.', no: 'The attachment survives — non-compliance is a material irregularity under R. 90, not a nullity. But R. 54(4) means that against a PURCHASER FOR VALUE IN GOOD FAITH the order bites only from affixture, so every day of delay is a window in which a stranger takes good title.' },
+    { q: 'Has the execution application since been dismissed for ANY reason — including default, non-deposit of process fee, or statistical disposal?', note: 'Rule 57(1) requires the court to direct whether the attachment continues or ceases, and to state the period.', no: 'Then confirm the court SAID SO on the record. If it was silent, Rule 57(2) has already operated and the attachment is deemed to have ceased. It cannot be revived to the prejudice of an intervening transferee.' }
+  ]"
+  result="a valid attachment, under which any private transfer by the judgment-debtor is void as against your claim under section 64(1) — and under which the property may be brought to sale under Rules 64 onwards"
+  caveat="Be clear about what you have won. The attachment gives you NO charge, NO lien and NO title. It gives you the right to have the property sold free of the offending transfer, and nothing more. That is why a prior mortgagee, a holder of a registered pre-attachment agreement under section 64(2), and a secured creditor under SARFAESI all defeat you — and why an attachment confers no priority in the IBC waterfall."
+  resultKind="mandatory"
+/>
+
+<MicroTree
+  input="You are a stranger to the decree and property you say is yours has been attached in execution"
+  :gates="[
+    { q: 'Has the property ALREADY BEEN SOLD?', note: 'Proviso (a) to Rule 58(1). This is jurisdictional and mechanical — once the auction has happened, there is no attachment left to release.', no: 'Rule 58 is closed to you. Your remedy shifts to Rule 91 — sixty days under Article 127 — or to a title suit. Both are worse, and both are on a shorter clock.' },
+    { q: 'Are you moving PROMPTLY, and can you prove when you first learnt of the attachment?', note: 'Proviso (b) — a claim “designedly or unnecessarily delayed” shall not be entertained. Annex a chronology of knowledge to the petition itself; do not wait to be asked.', no: 'The court may refuse entertainment. You are then relegated to a suit under Rule 58(5) and Rule 63 — Article 58, three years — and the refusal is otherwise conclusive against you.' },
+    { q: 'Have you filed an application under RULE 59 in the same breath as the claim?', note: 'A claim does not stop the sale. Rule 59 requires a separate order: postponement for movables; for immovables, either that the property shall not be sold, or that it may be sold BUT THE SALE SHALL NOT BE CONFIRMED.', no: 'File it today. If the sale goes through while your claim is pending, proviso (a) then bars your own claim and you will have defeated yourself. Ask for the “sold but not confirmed” order in the alternative — courts grant it far more readily and it protects you fully.' },
+    { q: 'Can you show that on the DATE OF ATTACHMENT the property was in your possession ON YOUR OWN ACCOUNT?', note: 'This is the real test, not title on paper. A claimant with a paper title but no possession fails. A claimant in possession as the judgment-debtor’s licensee or benamidar fails. Municipal tax receipts, the electricity connection, society records, revenue entries and the traceable source of consideration are what win.', no: 'You are relying on a document alone. If it is a contract of sale ENTERED INTO AND REGISTERED before the attachment, section 64(2) still saves you outright. If it is unregistered, section 64(2) does not apply and section 53A of the TPA will not help you either.' }
+  ]"
+  result="the executing court must adjudicate the claim on the merits, determining all questions of right, title and interest under Rule 58(2), and may release the property from attachment wholly or in part under Rule 58(3)(a)"
+  caveat="Then note what the order is. Under Rule 58(4) it has the same force AS IF IT WERE A DECREE. The remedy against it is a FIRST APPEAL under section 96 — not a revision under section 115, and not an Order XLIII appeal. Filing a revision is the single most common procedural casualty in this block, because by the time it is dismissed as not maintainable the appeal is time-barred."
+  resultKind="mandatory"
+/>
+
+### In plain English
 
 **(a) Rule 41 is the discovery stage of execution, and it has teeth.** Sub-rule (1) allows oral examination of the debtor, of an officer of a corporate debtor, or of **any other person** who might know about the debtor's assets — a banker, an accountant, a business partner. Sub-rule (2), inserted in 1976, allows the court to compel an **affidavit of assets** once the decree has been unsatisfied for thirty days. Sub-rule (3) makes disobedience of that order punishable with up to **three months in civil prison** — and, critically, that detention is not subject to the section 51 proviso, because it punishes disobedience of an order of the court, not the failure to pay. This is the fastest coercive route in the whole Order and it is used far too little.
 
@@ -1259,33 +1348,170 @@ Attachment is the most misunderstood step in execution because litigants treat i
 
 **(j) Rule 59 is the claimant's most urgent step, and it is not automatic.** Filing a Rule 58 claim does **not** stop the sale. Rule 59 requires a separate order: postponement of the sale in the case of movables, or, for immovables, either an order that the property shall not be sold or an order that it may be sold but **the sale shall not be confirmed**. That second option matters — courts often prefer it, because it preserves the auction price while protecting the claimant. But if the claimant files a claim and does not move under Rule 59, and the property is sold, proviso (a) to Rule 58(1) then bars his own claim. He has defeated himself.
 
-### 3. Courtroom & Practical Illustrations — Rules 41 to 63
+### Test your instinct
 
-::: tip Illustration 1 — the wife who owns everything
-**Facts.** A holds a money decree against B for ₹68 lakh. B's affidavit under Rule 41(2) discloses a salary of ₹40,000 and no assets. The flat B lives in, the car he drives and the fixed deposits are all in his wife W's name. W was a homemaker until the year the suit was filed.
+Five situations. Decide what you would argue and what you think the court will do, and only then open the ruling. The pattern in this block: cases are decided by dates and by the endorsement on a document, not by the equities.
 
-**Sword — A's case.** Attach the flat under Rule 54 on the footing that it is held "by another person in trust for him or on his behalf" within section 60(1) — that is the benami limb, and it is part of the attachment provision itself. But be alert: the Benami Transactions (Prohibition) Act, 1988 as amended in 2016 bars a *suit* to enforce a benami claim, and courts differ on how far a decree-holder may plead benami in execution; the safer route is section 53 of the Transfer of Property Act — a transfer made with **intent to defeat or delay creditors** is voidable at the option of the creditor. Plead the timeline: W had no independent income, the consideration flowed from B's account (annex the statement obtained through a Rule 41(1) examination of the banker), and the purchase post-dates the demand notice. Attach also under Rule 46 the fixed deposits by prohibitory order on the bank, and issue a garnishee notice under Rule 46A to the bank and to B's employer for the attachable one-third of salary above ₹1,000.
+::::instinct The wife who owns everything
 
-**Shield — W's case.** W is not a party to the decree, and this is exactly what Rule 58 is for. File a claim within days of the attachment, and simultaneously move under Rule 59 for an order that the property shall not be sold pending adjudication. Plead possession on her own account: municipal tax receipts, electricity connection, the registered sale deed, and — decisively — the source of consideration. Produce her income tax returns showing gifts from her father, the bank trail of the consideration from her own account, and her name on the society records. Then take the legal point: the burden of proving benami is on the person alleging it and is heavy, and section 53 TPA requires the creditor to plead and prove intent to defeat, not merely that the transfer was intra-family.
+Anita holds a money decree against Bharat for ₹68 lakh. Bharat's affidavit under Rule 41(2) discloses a salary of ₹40,000 a month and no assets whatever. The flat he lives in, the car he drives and three fixed deposits are all in his wife Deepa's name. Deepa was a homemaker until the year the suit was filed.
+
+**Anita is sure the assets are really Bharat's. What does she attach, on what footing — and where is the trap in the obvious argument?**
+
+:::ruling
+
+**Attach on three fronts at once, and be careful which label you put on the first one.**
+
+**The obvious argument is benami, and it is the trap.** Section 60(1) does expressly reach property "held in the name of the judgment-debtor **or by another person in trust for him or on his behalf**" — that is the benami limb, and it sits inside the attachment provision itself. But the Benami Transactions (Prohibition) Act, 1988 as amended in 2016 bars a *suit* to enforce a benami claim, and courts differ on how far a decree-holder may plead benami in execution. Do not build the case on it alone.
+
+**The safer footing is section 53 of the Transfer of Property Act** — a transfer made with **intent to defeat or delay creditors** is voidable at the option of the creditor. Plead it as a timeline, not as an accusation: Deepa had no independent income; the consideration flowed from Bharat's account; the purchase post-dates the demand notice. Note the difference in what you must prove — section 53 requires intent to defeat, and mere intra-family transfer will not establish it.
+
+**Then get the evidence before you argue.** Rule 41(1)(c) permits oral examination of "**any other person**" — the banker, the accountant, the business partner. Summon the branch manager under Order XVI Rule 6 to produce the account statements, and examine him. The trail of consideration is the case.
+
+**And attach what is reachable now, without waiting.** A Rule 46 prohibitory order on the bank for the fixed deposits. A garnishee notice under Rule 46A to the bank and to Bharat's employer for the attachable portion of salary — remembering section 60 proviso (i): only **one-third of the salary above ₹1,000**, and under section 60(1A) the attachment runs for twenty-four months only.
+
+**Deepa's answer, if she is well advised, is Rule 58 and she should file it within days.** Claim, plus a Rule 59 application in the same breath. Plead **possession on her own account** — municipal tax receipts, the electricity connection, the registered sale deed, her name on the society records — and then the source of consideration: her returns showing gifts from her father, the bank trail from her own account. Then take the legal point, which is a good one: **the burden of proving benami lies on the person alleging it and it is heavy**, and section 53 TPA requires the creditor to plead and prove intent, not merely proximity.
+
+::::
+
+::::instinct The attachment that quietly died
+
+Anita attached Bharat's godown under Rule 54 in 2019. In 2021 the execution application was dismissed for non-deposit of process fee; the order sheet reads, in full, "EP dismissed for non-prosecution." In 2022 Bharat sold the godown to Chetan by a registered sale deed. In 2023 Anita revived the EP and now says the 2022 sale is void under section 64.
+
+**Is she right? And if not, what is left to her?**
+
+:::ruling
+
+**She is not right, and she should know it before she argues it.**
+
+**Rule 57(2) is categorical.** Where the court, on dismissing an execution application, omits to direct whether the attachment shall continue or cease, the attachment is **deemed to have ceased**. It is a consequence fixed by statute, not a discretion exercised by a judge, and it operated the moment the clerk wrote that line in 2021.
+
+So on the date of the 2022 sale **there was no attachment in existence**. Section 64(1) voids a private transfer only "as against all claims enforceable under the attachment" — and there was no attachment for the sale to be void against. This is *Bhurey Khan v. Yaseen Khan*: no subsequent order can retrospectively revive a deemed cesser to the prejudice of an intervening transferee.
+
+**Chetan's defence is therefore complete and short.** No subsisting attachment on the date of the deed; a purchaser for value in good faith who searched the encumbrance register and found nothing; section 64 inapplicable. If Anita attaches afresh, add Rule 54(4) — a fresh attachment operates against a bona fide purchaser only from the date of affixture on the property.
+
+**What is actually left to Anita is worth knowing, because it is not nothing.**
+
+First, an application under **Rule 57(1) read with section 151** to the court that dismissed the EP, asking it to record that it had intended the attachment to continue and to supply the direction. Some High Courts permit this where the dismissal was purely administrative. Expect it to be resisted, and expect *Bhurey Khan* to be cited against you.
+
+Second — and this is the real remedy — **attach afresh and attack the 2022 sale under section 53 of the Transfer of Property Act** as a transfer made to defeat creditors, Chetan being on notice of the pending litigation. That claim does not depend on the attachment at all. Article 59 gives three years.
+
+**The lesson is procedural, and it costs nothing to learn:** every disposal of an execution application, in any manner and for any reason, requires an express Rule 57(1) direction that the attachment continues, with the period stated. Read the order sheet before you leave.
+
+::::
+
+::::instinct The claim filed three days before the auction
+
+Bharat's land is attached and proclaimed for sale on the 30th. On the 27th, Bharat's brother Chetan files a claim under Rule 58, producing an **unregistered** agreement to sell dated four years earlier and asserting that he has been in possession throughout.
+
+**Each side has a decisive point available. What are they — and which side has to move first?**
+
+:::ruling
+
+**Chetan has to move first, and if he does not, he loses without the merits being reached.**
+
+**Anita's decisive point is the proviso, not the merits.** Invoke **proviso (b) to Rule 58(1)** and ask the court to *refuse to entertain* the claim as designedly delayed. Lay the chronology: the attachment was proclaimed under Rule 54(2) by beat of drum and by affixture on the property in [month/year]; Chetan lives in the same village; the sale proclamation under Rule 66 was published on [date]; the claim surfaces three days before the auction. Then take **section 64(2)**: it protects only a contract "entered into **and registered** before the attachment," so an unregistered agreement is no answer to the attachment at all — and after the 2001 amendment to section 53A of the Transfer of Property Act it will not even found a part-performance defence. Ask that the sale proceed, and at most that confirmation be deferred under Rule 59(b).
+
+**Chetan's decisive point is Rule 59, and it is urgent.** A claim does not stop a sale. If the land is sold on the 30th while his claim is pending, **proviso (a) to Rule 58(1) then bars his own claim** — the property has "already been sold" — and he will have destroyed his remedy by filing it. So the Rule 59 application goes in on the same day as the claim, and the prayer should be framed in the alternative: an order that the property shall not be sold, **or** that it may be sold but the sale shall not be confirmed. Courts grant the second far more readily than the first, and it protects him completely while preserving the auction price.
+
+**Then, on merits, he must abandon the document and stand on possession.** The agreement is unregistered and section 64(2) is closed to him. What Rule 58 actually asks is whether the property "is not liable to such attachment," and the classic enquiry is whether, **at the date of the attachment**, the property was in the claimant's possession **on his own account** and not on account of the judgment-debtor. So: continuous possession since [year], revenue entries, electricity bills, crop records, part consideration paid by traceable bank transfer. He must also meet delay head-on and first, because if the court refuses entertainment under the proviso the merits are never reached at all — when did he learn of the attachment, why did the beat of drum not reach him, and what did he do in the days after he knew.
+
+::::
+
+::::instinct The debtor who swears he has nothing
+
+Thirty-five days after the decree, Anita applies under Rule 41(2) and the court directs Bharat to file an affidavit of assets. Bharat does not file it. Two months later he still has not filed it, and the court has given him three opportunities.
+
+**Anita wants him detained. Does she have to prove means and refusal under the proviso to section 51 — and how long will this take compared with an arrest application?**
+
+:::ruling
+
+**No, she does not — and that is exactly why this is the fastest coercive route in the whole Order.**
+
+**Rule 41(3) is a distinct power with a distinct foundation.** In case of disobedience of an order made under sub-rule (2), the court "may detain him in the civil prison for a term **not exceeding three months**". What is being punished is **disobedience of an order of the court** — not the failure to pay the decree.
+
+The proviso to section 51 has nothing to say about it. That proviso conditions detention *in execution of the decree* on a recorded finding of means plus refusal, because *Jolly George Verghese* holds that a man may not be jailed for being poor. But Bharat is not being jailed for being poor here. He is being jailed for ignoring a direction of the court, and a man with no assets can comply with an order to say so on oath at no cost to himself. The defence of inability is structurally unavailable.
+
+**Compare the two routes and the asymmetry is stark.** An arrest application under Rule 37 requires a show-cause notice, a Rule 39 subsistence deposit at the State scale for the whole period sought, a Rule 40 inquiry with evidence on means, and a written finding on one of the three limbs of the section 51 proviso. That is a trial in miniature, funded up front, on which the burden is Anita's throughout. Rule 41(3) requires proof of one fact: the order was made, served, and not obeyed.
+
+**Which is why the sequencing advice is always the same — Rule 41 before Rule 37, never after.** Apply on day 30. If Bharat files a full and candid affidavit, Anita has a roadmap of assets and can attach. If he files a false one, that is a **complaint under section 379 of the BNSS, 2023** for an offence under **section 229 of the BNS, 2023** — ask for a warning to that effect to be recited in the order itself. And if he files nothing at all, Rule 41(3) is available on a record that takes a single application to build.
+
+**This provision is used far too little.** *Rahul S. Shah v. Jinendra Kumar Gandhi* directs executing courts to run execution on timelines rather than adjournments; Rule 41 is the instrument that makes that possible, and most files never see it.
+
+::::
+
+::::instinct The claimant who lost, and filed the wrong paper
+
+Chetan's claim petition under Rule 58 was heard on the merits and dismissed by a reasoned order. Twelve days later his advocate files a revision under section 115 before the High Court. Eight months on, the revision is dismissed as not maintainable.
+
+**What went wrong, and can it still be fixed?**
+
+:::ruling
+
+**What went wrong is Rule 58(4), and by the time it was discovered the remedy had expired.**
+
+Where a claim has been adjudicated under Rule 58, "the order made thereon **shall have the same force and be subject to the same conditions as to appeal or otherwise as if it were a decree**." The order is not an order in execution. It is a **deemed decree**.
+
+So the remedy is a **first appeal under section 96** — ninety days to a High Court under Article 116, thirty days to any other court under Article 117. It is not a revision under section 115, and it is not an appeal from an order under Order XLIII Rule 1, and neither of those will be entertained.
+
+**This is the single most common procedural casualty in this block**, and the reason is a genuine conceptual confusion: everything else that happens inside an execution proceeding is an order, appealable if at all under section 47 read with the definition of decree, or challengeable in revision. Rule 58(4) is a deliberate statutory exception, created by the 1976 amendment as part of the same design that abolished the separate title suit. Having taken away the suit, the legislature had to supply an appeal, and it did so by deeming the order a decree.
+
+**Can it be fixed? Sometimes, and only if it is moved on immediately.** File the first appeal now with an application under **section 5 of the Limitation Act**, pleading the time spent bona fide prosecuting the revision — **section 14** of that Act, and the line of authority applying its principle to section 5 applications, is designed for exactly this: a party who was diligently prosecuting a remedy in a court which lacked jurisdiction over that remedy. Annex the certified copy of the revision order and the memo of the revision to show the identity of the subject matter. Expect the respondent to say that a mistake of law by counsel is not sufficient cause; the answer is that the delay was not indolence but the pursuit of a wrong forum in good faith.
+
+**Two further things follow, and both matter.** Rule 63 and Rule 58(5) preserve a suit **only** where the court refused to entertain the claim under the proviso. Chetan's claim was adjudicated, so the suit route is closed to him and the Rule 58 order is conclusive. And there is a costs trap he should be warned about: the claim petition itself was filed on a **fixed court fee** as a miscellaneous application, but the appeal, being an appeal from a deemed decree, is valued in most States on the value of the subject matter.
+
+::::
+
+### Practitioner HUD — operational realities
+
+#### The winning ratio
+
+If you take one sentence from this block into court, take this one.
+
+::: tip The proposition to plead
+**Bhanwar Lal v. Satyanarain**, (1995) 1 SCC 6 — 2-Judge Bench —
+
+Section 64 does **not** render a post-attachment transfer void for all purposes. It is void **only as against claims enforceable under the attachment**. Attachment creates **no title, no charge and no interest** in the attaching creditor; the transfer remains valid and fully effective between transferor and transferee, and takes complete effect if the attachment is raised or the decree satisfied.
+
+For the claimant or the transferee this is the answer to the decree-holder's whole case whenever the attachment has lapsed: *"section 64 avoids the transfer only as against claims enforceable under the attachment; the attachment having ceased under Rule 57(2) on [date], there is no such claim, and the transfer took full effect."*
+
+For the decree-holder it is a warning against a very natural mistake. You have not acquired anything. You have acquired the right to have the property sold free of the offending transfer — which is why a prior mortgagee, a registered pre-attachment agreement-holder under section 64(2), a secured creditor under SARFAESI and the section 53 IBC waterfall all rank ahead of you, and why the attachment must be kept alive by an express Rule 57(1) direction at every disposal of the execution application.
 :::
 
-::: tip Illustration 2 — the attachment that quietly died
-**Facts.** A attached B's godown under Rule 54 in 2019. The EA was dismissed in 2021 for non-deposit of process fee, with the order reading only "EP dismissed for non-prosecution". A revived the EP in 2023. In the meantime B sold the godown to C in 2022 by a registered sale deed.
+#### Sword and shield
 
-**Sword — A's case.** This is difficult and A should know it. Rule 57(2) is categorical: where the court omits to direct that the attachment shall continue, the attachment is deemed to have ceased. The 2019 attachment was dead from the date of dismissal, so section 64 does not void the 2022 sale. A's realistic course is to apply under Rule 57(1) read with section 151 to the court which dismissed the EP, asking it to record that it had intended the attachment to continue and to supply the direction — some High Courts permit this where the dismissal was purely administrative — and simultaneously to attach afresh and to attack the 2022 sale under section 53 of the Transfer of Property Act as a transfer to defeat creditors, C being on notice of the litigation.
+| Situation | As decree-holder (sword) | As claimant / judgment-debtor (shield) |
+|---|---|---|
+| **Debtor says he has nothing** | Day 30 — **R. 41(2)** affidavit of assets, with a **R. 41(1)(c)** examination of the banker and an O. XVI R. 6 summons for the statements. Ask for a recital warning of BNSS s. 379. | File it, fully and candidly. A candid affidavit destroys the "dishonest concealment" limb and forces the fight onto means, where the burden is the decree-holder's. |
+| **Order for an affidavit disobeyed** | **R. 41(3)** — up to three months' detention for **disobedience of the order**. The s. 51 proviso does not apply, so no proof of means or refusal is needed. | The only real defence is compliance. Inability to pay is structurally irrelevant here, because a man with no assets can swear to that at no cost. |
+| **Assets in a spouse's or brother's name** | Two footings, and plead the second: s. 60(1) benami limb *and* **s. 53 TPA** — transfer with intent to defeat creditors. Prove the flow of consideration, not the relationship. | The burden of proving benami is on the person alleging it and is heavy; s. 53 TPA requires **intent**, not proximity. Lead the source of consideration and possession on your own account. |
+| **Choosing what to attach** | Match the mode to the species: seizure (R. 43), prohibitory order (R. 46), garnishee (RR. 46A–46I), notice (R. 52), charging order (R. 49), R. 54 order for immovables. | The wrong mode is a **nullity**. Take the point in the claim petition, not at the sale — a seizure of share certificates or of firm assets for a partner's personal decree is no attachment at all. |
+| **Bank balances and receivables** | **Garnishee** under RR. 46A–46I, not attachment and sale. Far faster, and payment by the garnishee is a valid discharge to him (RR. 46D, 46I). | The garnishee's own defences are tried under R. 46C as an issue in a suit. A disputed or contingent debt is not garnishable. |
+| **Salary** | Prohibitory order on the employer under R. 48 — but compute it correctly: only **one-third above ₹1,000**, and s. 60(1A) limits it to twenty-four months. | An over-attachment of salary is an attachment of exempt property and is set aside with costs. The exemption **cannot be waived by agreement**. |
+| **Immovable property attached** | Effect all four publicity steps under R. 54(2) and **photograph the affixture with a date stamp**. R. 54(4) makes the affixture date decisive against a bona fide purchaser. | Non-compliance is a material irregularity under R. 90, not a nullity — so plead the irregularity **plus substantial injury**, or it goes nowhere. |
+| **EA dismissed for any reason** | Obtain an express **R. 57(1)** direction that the attachment continues, with the period stated, before you leave the court. | Silence is your case. **R. 57(2)** — deemed cesser — operates by force of statute and cannot be revived against an intervening transferee (*Bhurey Khan*). |
+| **Stranger claims the property** | Proviso **(b)** first — designed or unnecessary delay — with a chronology of the proclamation and the claimant's proximity. Then s. 64(2): is the agreement **registered**? | **R. 58 + R. 59 in the same breath.** A claim without a R. 59 order is worthless: if the sale happens, proviso (a) bars your own claim. |
+| **Claimant relies on an agreement to sell** | If unregistered, say so in the first paragraph — s. 64(2) is closed and s. 53A TPA will not help after 2001. | If **registered before the attachment**, you win outright on *Vannarakkal*: the creditor attaches only the interest the debtor had, already burdened by the obligation to convey. |
+| **You lost the R. 58 claim** | Resist a revision as not maintainable, and resist s. 5 condonation of the resulting delay. | **First appeal under s. 96** — R. 58(4) deems the order a decree. Not a revision. Not O. XLIII. This is where claimants lose cases they had won on the facts. |
+| **Decree satisfied by the debtor** | Nothing to do — but record satisfaction under R. 2 promptly. | **R. 55 is self-executing.** Deposit the decretal amount with costs and attachment charges; the attachment is "deemed to be withdrawn" without any order. Deposit first, apply afterwards. |
 
-**Shield — C's case.** Rule 57(2) does the work. Plead that on the date of the sale deed there was no subsisting attachment, that C is a purchaser for value in good faith who searched the encumbrance register and found the attachment discharged, and that section 64 has no application to a transfer made when no attachment was in force. Add Rule 54(4) if any fresh attachment is relied upon: it operates against a bona fide purchaser only from affixture. Resist any attempt to "revive" the 2019 attachment: a deemed cesser under Rule 57(2) is a consequence fixed by statute and cannot be undone by a later order made behind C's back.
-:::
+#### The limitation clock
 
-::: tip Illustration 3 — the eleventh-hour claim before the auction
-**Facts.** B's land is attached and proclaimed for sale on the 30th. On the 27th, B's brother D files a claim under Rule 58 producing an unregistered agreement to sell dated four years earlier and asserting possession.
+| Step | Source | Period | Runs from | Note |
+|---|---|---|---|---|
+| Application under **R. 41(2)** for an affidavit of assets | O. XXI R. 41(2) | Available only after **30 days** of non-satisfaction | Date of the decree | The earliest coercive step available, and it costs nothing |
+| Detention for disobedience of the R. 41(2) order | **R. 41(3)** | Maximum **3 months** | Date of detention | Independent of s. 51 — no finding on means required |
+| Attachment of salary | **s. 60(1A)** | **24 months** in one decree-holder's favour | Date of the attachment order | A fresh attachment for the same decree needs a twelve-month gap |
+| Claim or objection to attachment | **R. 58 proviso (b)** | No fixed period — but **promptness is a condition** | Knowledge of the attachment | Annex a chronology of knowledge to the petition itself |
+| Claim after the property is sold | **R. 58 proviso (a)** | Barred absolutely | The sale | Remedy shifts to R. 91 or a suit |
+| Application under **R. 91** — no saleable interest | Art. 127, Limitation Act | **60 days** | Date of the sale | The fallback when proviso (a) has closed R. 58 |
+| Appeal from a **R. 58** order | R. 58(4) with **s. 96**; Art. 116 / 117 | **90 days** to a High Court; **30 days** to any other court | Date of the order | Deemed decree — **first appeal, not revision** |
+| Suit preserved where the claim was **refused entertainment** | R. 58(5) and **R. 63**; Art. 58 | **3 years** | When the right to sue accrues | Available **only** where the proviso was applied; if the claim was adjudicated, the order is conclusive |
+| Setting aside a transfer under **s. 53 TPA** | Art. 59 | **3 years** | When the facts entitling avoidance become known | Independent of the attachment — survives a Rule 57(2) cesser |
+| Application for **rateable distribution** | **s. 73** | Before **receipt of the assets** by the court | — | A day late and you are out of the fund entirely |
+| Cesser of attachment on dismissal of the EA | **R. 57(2)** | Immediate and automatic | Date of dismissal | No period, no notice, no revival |
 
-**Sword — A's (decree-holder's) case.** Invoke proviso (b) to Rule 58(1) and ask the court to **refuse to entertain** the claim as designedly delayed: the attachment was proclaimed under Rule 54(2) by beat of drum and affixture in [month/year], D lives in the same village, the proclamation under Rule 66 was published on [date], and yet the claim surfaces three days before the auction. Point to the unregistered agreement — section 64(2) protects only a contract "entered into and **registered** before the attachment", so an unregistered agreement is no answer to the attachment at all, and after the 2001 amendment to section 53A of the Transfer of Property Act an unregistered agreement cannot even found a part-performance defence. Ask that the sale proceed and, at most, that confirmation be deferred under Rule 59(b).
-
-**Shield — D's case.** Meet delay first, because if the court refuses entertainment under the proviso the merits are never reached: plead when D first learnt of the attachment, why the beat of drum did not reach him, and that he moved within days of knowledge. Move under **Rule 59** immediately — a claim without a Rule 59 order is worthless, because once the property is sold, proviso (a) bars the claim outright. On merits, rest on possession rather than on the agreement: continuous possession on his own account since [year], with revenue entries, electricity bills and crop records, and part consideration paid by traceable bank transfers. Frame the question the way Rule 58(2) requires — whether the property was liable to attachment at all, given that the judgment-debtor's saleable interest had already been reduced to a right to receive the balance price.
-:::
-
-### 4. Procedural Interlocking Matrix — Rules 41 to 63
+#### Interlocking matrix — what this connects to
 
 | Trigger | Provision | Interlocking Order/Rule | Limitation / fee | Application to file |
 |---|---|---|---|---|
@@ -1319,7 +1545,7 @@ Attachment is fee-light but cost-heavy, and the costs fall on the decree-holder 
 All of these are recoverable as costs of execution under **section 35** and rank in the sale proceeds ahead of the decretal amount under Rule 74 — but only if quantified and claimed.
 :::
 
-### 5. Landmark & Modern Jurisprudence — Rules 41 to 63
+#### The authorities
 
 **Vannarakkal Kallalathil Sreedharan v. Chandramaath Balakrishnan, (1990) 3 SCC 291** — 2-Judge Bench.
 *Facts:* A holder of an agreement to sell entered into before an attachment claimed priority over the attaching creditor.
@@ -1328,15 +1554,6 @@ All of these are recoverable as costs of execution under **section 35** and rank
 
 ::: tip Practitioner Takeaway
 "An attaching creditor can attach no more than the right, title and interest which the judgment-debtor possessed on the date of attachment; that interest was, on the date of attachment, already subject to the claimant's antecedent agreement of sale dated [•], and by the express terms of section 64(2) — the said agreement having been registered before the attachment — the subsequent conveyance is not void as against the attachment."
-:::
-
-**Bhanwar Lal v. Satyanarain, (1995) 1 SCC 6** — 2-Judge Bench.
-*Facts:* Concerned the effect of attachment on subsequent transfers and the scope of section 64.
-
-**Ratio decidendi:** Section 64 does not render the transfer void for all purposes; it is void only as against claims enforceable under the attachment. Attachment does not create any title, charge or interest in the attaching creditor, and the transfer remains valid and effective between the transferor and the transferee, taking full effect if the attachment is raised or the decree satisfied.
-
-::: tip Practitioner Takeaway
-"Section 64 avoids a post-attachment transfer only as against claims enforceable under the attachment; it confers no title or charge upon the attaching creditor, and the transfer subsists between the parties to it — so that on the attachment ceasing under Order XXI Rule 57(2), as it did here on [date], the transfer took full effect."
 :::
 
 **Silverline Forum Pvt. Ltd. v. Rajiv Trust, (1998) 3 SCC 723** — 2-Judge Bench.
@@ -1370,7 +1587,7 @@ All of these are recoverable as costs of execution under **section 35** and rank
 The interaction between section 64 and the Benami Transactions (Prohibition) Amendment Act, 2016 is unsettled and is the subject of continuing litigation following the Supreme Court's decision on the prospective operation of the 2016 amendments. The priority of an execution attachment as against a secured creditor under the SARFAESI Act, 2002 and as against the waterfall under section 53 of the Insolvency and Bankruptcy Code, 2016 is governed by the non-obstante clauses in those statutes and not by section 64 — check the current position before advising a decree-holder that his attachment gives him priority. Section 60's monetary exemption figures are amended by State legislation in several States.
 :::
 
-### 6. The Advocate's Toolkit — Rules 41 to 63
+#### Strategy and drafting
 
 ::: danger Seven failures in attachment and claims
 1. **Using the wrong mode of attachment.** Seizing share certificates instead of issuing a prohibitory order under Rule 46; seizing partnership assets instead of obtaining a charging order under Rule 49; taking possession of a debt. Each is a nullity, and each is discovered only when a claim is filed.
