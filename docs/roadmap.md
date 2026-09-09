@@ -7,7 +7,7 @@ Two presentation schemas are currently in the guide, and chapters are being migr
 - the original **six-part** schema — bare Act, plain English, illustrations, interlocking matrix, jurisprudence, advocate's toolkit; and
 - the **five-stage** schema, which opens with the human dispute before the section number, marks `shall` / `may` / provisos inline in the bare Act, adds a mechanical micro-tree and a scenario you answer before revealing the ruling, and closes with a practitioner HUD.
 
-Migrated so far: **Sections 9–14** and **Order XXXIX**. The rest follow.
+Migrated so far: **Sections 9–14**, **Order XXI** (all 106 rules, in five blocks) and **Order XXXIX**. The rest follow.
 
 ## Published
 

@@ -2204,45 +2204,85 @@ The strictness of *Manilal Mohanlal Shah* on Rule 85 has been the subject of lat
 
 ## Rules 97 to 106 — Resistance to possession: the self-contained adjudicatory code
 
-### 1. Verbatim Bare Act Text & Statutory Mechanics — Rules 97 to 106
+### The dispute this solves
 
-> **Rule 97. Resistance or obstruction to possession of immovable property.** — (1) Where the holder of a decree for the possession of immovable property or the purchaser of any such property sold in execution of a decree is resisted or obstructed by **any person** in obtaining possession of the property, he may make an application to the Court complaining of such resistance or obstruction.
->
-> (2) The Court shall proceed to adjudicate upon the application in accordance with the provisions herein contained.
+::: oneminute The bailiff arrives, and a stranger is standing in the doorway.
+Chetan has bought Bharat's godown at the court auction. The sale is confirmed, the certificate is issued, and he applies for delivery of possession. The bailiff goes to the premises — and finds a woman named Deepa in occupation, who refuses to move and says the godown is hers.
 
-> **Rule 98. Orders after adjudication.** — (1) Upon the determination of the questions referred to in rule 101, the Court shall, in accordance with such determination and subject to the provisions of sub-rule (2), — (a) make an order allowing the application and directing that the applicant be put into the possession of the property or dismissing the application; or (b) pass such other order as, in the circumstances of the case, it may deem fit.
+Everything now turns on one question, and it is not "who is Deepa?" It is: **does Deepa claim through Bharat, or independently of him?**
+
+If she claims **through** Bharat — his wife, his employee, his licensee, his benamidar, or somebody he sold to *after Anita filed the suit* — she is standing in his shoes, and the decree that binds him binds her. She is removed, and if she keeps obstructing she can be sent to civil prison for up to thirty days.
+
+If she claims **independently** — a tenant from before the suit, a co-owner nobody impleaded, a prior mortgagee in possession — then her claim has to be **tried**. Not brushed aside, not relegated to a fresh suit: tried, by the executing court, with issues and evidence.
+
+That is what Rules 97 to 106 are. Since 1976 they are a **complete adjudicatory code** — a suit conducted inside the execution. **Rule 101** requires the executing court to decide *all* questions including title, "and not by a separate suit", and deems it to have jurisdiction to do so however small its ordinary pecuniary limit. **Rule 103** then makes the resulting order **a decree**, so the challenge to it is a **first appeal under section 96**.
+
+**The one idea to carry through this block:** a contested delivery of possession is not an incident of execution — it is a trial. Both sides must bring their whole case to the first hearing, because the order that comes out of it is a decree and it binds them.
+:::
+
+::: story The second lawsuit that used to follow every delivery of possession
+Before 1976 the law here produced an absurdity that everybody could see and nobody could fix.
+
+A decree-holder obstructed by a stranger complained to the executing court. The court held a **summary enquiry** — quick, on affidavits, no real trial. It then made an order. And whichever side lost that summary enquiry had **one year in which to file a regular suit** to establish the very right the court had just pretended to decide.
+
+So the enquiry decided nothing. It was a formality that both sides went through on the way to the real litigation, which then took a decade. A man who had won his possession suit, won his appeal, and won his auction found that obtaining the keys required him to start again from the plaint.
+
+The 1976 amendment abolished that architecture and replaced it with three sentences that between them do all the work.
+
+**First, Rule 97(1) widened the door.** Obstruction "by **any person**" is complained of to the executing court. The old and much-litigated distinction between obstruction by the judgment-debtor (dealt with one way) and obstruction by a stranger (dealt with another) simply disappears. One provision, one procedure, every obstructor.
+
+**Second, Rule 101 closed the exit.** All questions — expressly "including questions relating to right, title or interest in the property" — "shall be determined by the Court dealing with the application **and not by a separate suit**". And because the executing court might be a court of modest pecuniary jurisdiction faced with a title dispute worth crores, the rule adds a deeming clause: notwithstanding anything to the contrary in any other law, that court "**shall be deemed to have jurisdiction**" to decide them.
+
+**Third, Rule 103 fixed the remedy.** The order "shall have the same force and be subject to the same conditions as to an appeal or otherwise **as if it were a decree**." Not a summary order reviewable in revision — a decree, carrying a first appeal under section 96.
+
+Read together, those three provisions convert a bailiff's report into a suit. And that has a consequence which practitioners routinely underestimate: **there is no second round**. The obstructor cannot keep his powder dry, produce a bare denial at the enquiry and reserve his documents for the suit he intends to file — Rule 101 has abolished that suit. The decree-holder, equally, cannot treat the proceeding as a formality to be got through on an affidavit; if the obstructor raises a genuine independent title, issues must be framed and evidence recorded.
+
+**Rule 102 is the pressure valve that keeps the scheme workable.** Without it, any decree for possession could be defeated by selling the property to a cousin in the middle of the trial and letting the cousin demand a full Rule 101 adjudication. So Rule 102 says that **nothing in Rules 98 and 100 applies** to a person to whom the judgment-debtor transferred the property after the suit was instituted. He gets no adjudication at all. Section 52 of the Transfer of Property Act has already settled his position: he took subject to the result of the suit, and he is simply removed.
+
+**The lesson is about which document you look at first.** When an obstructor appears, before anything else, put the date on his title deed beside the date the suit was instituted. That single comparison decides most Rule 97 applications before any evidence is led.
+:::
+
+### The Act, decompiled
+
+Ten rules that operate as one machine. **Rules 97 and 99** are the two **entry points** — kept out, and thrown out. **Rules 98, 100 and 101** are the **adjudication**. **Rule 102** is the **exclusion** of the transferee *pendente lite*. **Rules 103 and 104** fix the **status of the order** and what survives it. **Rules 105 and 106** supply the **procedural spine**, and extend it back to Rule 58 claims.
+
+> **Rule 97. Resistance or obstruction to possession of immovable property.** — (1) Where the holder of a decree for the possession of immovable property or the purchaser of any such property sold in execution of a decree is resisted or obstructed by **any person** in obtaining possession of the property, he [[?may make an application]] to the Court complaining of such resistance or obstruction.
 >
-> (2) Where, upon such determination, the Court is satisfied that the resistance or obstruction was occasioned **without any just cause** by the judgment-debtor or by some other person at his instigation or on his behalf, or by any transferee, where such transfer was made during the pendency of the suit or execution proceeding, it shall direct that the applicant be put into possession of the property, and where the applicant is still resisted or obstructed in obtaining possession, the Court may also, at the instance of the applicant, order the judgment-debtor, or any person acting at his instigation or on his behalf, **to be detained in the civil prison for a term which may extend to thirty days.**
+> (2) The Court [[!shall proceed to adjudicate]] upon the application in accordance with the provisions herein contained.
+
+> **Rule 98. Orders after adjudication.** — (1) Upon the determination of the questions referred to in rule 101, the Court [[!shall]], in accordance with such determination and subject to the provisions of sub-rule (2), — (a) make an order allowing the application and directing that the applicant be put into the possession of the property or dismissing the application; or (b) pass such other order as, in the circumstances of the case, it may deem fit.
+>
+> (2) Where, upon such determination, the Court is satisfied that the resistance or obstruction was occasioned **without any just cause** by the judgment-debtor or by some other person at his instigation or on his behalf, or by any transferee, where such transfer was made during the pendency of the suit or execution proceeding, it [[!shall direct]] that the applicant be put into possession of the property, and where the applicant is still resisted or obstructed in obtaining possession, the Court [[?may also]], at the instance of the applicant, order the judgment-debtor, or any person acting at his instigation or on his behalf, **to be detained in the civil prison for a term which may extend to thirty days.**
 
 > **Rule 99. Dispossession by decree-holder or purchaser.** — (1) Where any person other than the judgment-debtor is dispossessed of immovable property by the holder of a decree for the possession of such property or, where such property has been sold in execution of a decree, by the purchaser thereof, **he may make an application to the Court complaining of such dispossession.**
 >
-> (2) The Court shall proceed to adjudicate upon the application in accordance with the provisions herein contained.
+> (2) The Court [[!shall proceed to adjudicate]] upon the application in accordance with the provisions herein contained.
 
-> **Rule 100. Order to be passed upon application complaining of dispossession.** — Upon the determination of the questions referred to in rule 101, the Court shall, in accordance with such determination, — (a) make an order directing that the applicant be put into the possession of the property or dismissing the application; or (b) pass such other order as, in the circumstances of the case, it may deem fit.
+> **Rule 100. Order to be passed upon application complaining of dispossession.** — Upon the determination of the questions referred to in rule 101, the Court [[!shall]], in accordance with such determination, — (a) make an order directing that the applicant be put into the possession of the property or dismissing the application; or (b) pass such other order as, in the circumstances of the case, it may deem fit.
 
-> **Rule 101. Question to be determined.** — **All questions (including questions relating to right, title or interest in the property) arising between the parties to a proceeding on an application under rule 97 or rule 99 or their representatives, and relevant to the adjudication of the application, shall be determined by the Court dealing with the application and not by a separate suit and for this purpose, the Court shall, notwithstanding anything to the contrary contained in any other law for the time being in force, be deemed to have jurisdiction to decide such questions.**
+> **Rule 101. Question to be determined.** — **All questions (including questions relating to right, title or interest in the property) arising between the parties to a proceeding on an application under rule 97 or rule 99 or their representatives, and relevant to the adjudication of the application, [[!shall be determined]] by the Court dealing with the application and not by a separate suit and for this purpose, the Court shall, notwithstanding anything to the contrary contained in any other law for the time being in force, [[!be deemed to have jurisdiction]] to decide such questions.**
 
-> **Rule 102. Rules not applicable to transferee** ***pendente lite***. — Nothing in rules 98 and 100 shall apply to resistance or obstruction in execution of a decree for the possession of immovable property by a person to whom the judgment-debtor has transferred the property after the institution of the suit in which the decree was passed or to the dispossession of any such person.
+> **Rule 102. Rules not applicable to transferee** ***pendente lite***. — [[!Nothing in rules 98 and 100 shall apply]] to resistance or obstruction in execution of a decree for the possession of immovable property by a person to whom the judgment-debtor has transferred the property after the institution of the suit in which the decree was passed or to the dispossession of any such person.
 >
 > *Explanation. — In this rule, "transfer" includes a transfer by operation of law.*
 
-> **Rule 103. Orders to be treated as decrees.** — Where any application has been adjudicated upon under rule 98 or rule 100, **the order made thereon shall have the same force and be subject to the same conditions as to an appeal or otherwise as if it were a decree.**
+> **Rule 103. Orders to be treated as decrees.** — Where any application has been adjudicated upon under rule 98 or rule 100, **the order made thereon [[!shall have the same force]] and be subject to the same conditions as to an appeal or otherwise as if it were a decree.**
 
-> **Rule 104. Order under rule 101 or rule 103 to be subject to the result of pending suit.** — Every order made under rule 101 or rule 103 shall be subject to the result of any suit that may be pending on the date of commencement of the proceeding in which such order is made, if in such suit the party against whom the order under rule 101 or rule 103 is made has sought to establish a right which he claims to the present possession of the property.
+> **Rule 104. Order under rule 101 or rule 103 to be subject to the result of pending suit.** — Every order made under rule 101 or rule 103 [[!shall be subject to the result of any suit]] that may be pending on the date of commencement of the proceeding in which such order is made, if in such suit the party against whom the order under rule 101 or rule 103 is made has sought to establish a right which he claims to the present possession of the property.
 
-> **Rule 105. Hearing of application.** — (1) The Court, before which an application under any of the foregoing rules of this Order is pending, may fix a day for the hearing of the application.
+> **Rule 105. Hearing of application.** — (1) The Court, before which an application under any of the foregoing rules of this Order is pending, [[?may fix a day]] for the hearing of the application.
 >
-> (2) Where on the day fixed or on any other day to which the hearing may be adjourned the applicant does not appear when the case is called on for hearing, **the Court may make an order that the application be dismissed.**
+> (2) Where on the day fixed or on any other day to which the hearing may be adjourned the applicant does not appear when the case is called on for hearing, **the Court [[?may make an order]] that the application be dismissed.**
 >
-> (3) Where the applicant appears and the opposite party to whom the notice has been issued by the Court does not appear, the Court may hear the application **ex parte** and pass such order as it thinks fit.
+> (3) Where the applicant appears and the opposite party to whom the notice has been issued by the Court does not appear, the Court [[?may hear the application]] **ex parte** and pass such order as it thinks fit.
 >
 > *Explanation. — An application referred to in sub-rule (1) includes a claim or objection made under rule 58.*
 
-> **Rule 106. Setting aside orders passed ex parte, etc.** — (1) The applicant, against whom an order is made under sub-rule (2) of rule 105 or the opposite party against whom an order is passed ex parte under sub-rule (3) of that rule or under sub-rule (4) of rule 23, may apply to the Court to set aside the order, and if he satisfies the Court that there was sufficient cause for his non-appearance when the application was called on for hearing, the Court shall set aside the order on such terms as to costs or otherwise as it thinks fit, and shall appoint a day for the further hearing of the application.
+> **Rule 106. Setting aside orders passed ex parte, etc.** — (1) The applicant, against whom an order is made under sub-rule (2) of rule 105 or the opposite party against whom an order is passed ex parte under sub-rule (3) of that rule or under sub-rule (4) of rule 23, [[?may apply]] to the Court to set aside the order, and if he satisfies the Court that there was sufficient cause for his non-appearance when the application was called on for hearing, the Court [[!shall set aside the order]] on such terms as to costs or otherwise as it thinks fit, and shall appoint a day for the further hearing of the application.
 >
-> (2) No order shall be made on an application under sub-rule (1) unless notice of the application has been served on the other party.
+> (2) [[!No order shall be made]] on an application under sub-rule (1) unless notice of the application has been served on the other party.
 >
-> (3) **An application under sub-rule (1) shall be made within thirty days from the date of the order, or where, in the case of an ex parte order, the notice was not duly served, within thirty days from the date when the applicant had knowledge of the order.**
+> (3) **An application under sub-rule (1) [[!shall be made within thirty days]] from the date of the order, or where, in the case of an ex parte order, the notice was not duly served, within thirty days from the date when the applicant had knowledge of the order.**
 
 | Operative expression | Character | Consequence |
 |---|---|---|
@@ -2276,7 +2316,72 @@ So the modern position is that a contested delivery of possession is tried as a 
 **Rule 102 is the exception that makes the scheme workable.** A person who took a transfer from the judgment-debtor *after the suit was instituted* gets nothing from Rules 98 and 100 — because section 52 of the Transfer of Property Act already binds him to the decree. Without Rule 102, every decree for possession could be defeated by a sale to a cousin during the trial, followed by years of Rule 101 adjudication.
 :::
 
-### 2. Plain-English Conceptual Demystification — Rules 97 to 106
+::: proviso Rule 102 — the bar that decides most obstruction applications before evidence
+> *"Nothing in rules 98 and 100 shall apply to resistance or obstruction in execution of a decree for the possession of immovable property by a person to whom the judgment-debtor has transferred the property **after the institution of the suit** in which the decree was passed or to the dispossession of any such person."*
+>
+> *Explanation. — In this rule, "transfer" includes a transfer **by operation of law**.*
+
+Read what this actually does. Rules 98 and 100 are the *only* provisions under which an order can be made in the obstructor's favour. Rule 102 withdraws both of them from a single class of person: the transferee *pendente lite*.
+
+He is not given a poor case. He is given **no case** — there is no order the court can make for him.
+
+The reason is that section 52 of the Transfer of Property Act has already decided his position. A transfer made while the suit was pending does not affect the rights of the other party under the decree that follows. The transferee took the property with the litigation attached to it. Rule 102 simply refuses to relitigate in execution what section 52 settled at the moment of the transfer.
+
+Three practical points follow.
+
+**The comparison is of two dates, and nothing else.** The date of institution of the suit against the date of the transfer. Not the date of the decree, not the date of the attachment, not the date of the sale. A transfer on the day before the plaint was presented is outside Rule 102 and must be adjudicated; a transfer on the day after is inside it and is not.
+
+**The *Explanation* closes the obvious escape.** "Transfer" includes a transfer **by operation of law** — so devolution on death, vesting in an official assignee, a transfer under a statutory scheme, and a purchase at *another* court's auction during the pendency of the suit are all caught. The judgment-debtor cannot manufacture an independent claimant by arranging for the property to pass otherwise than by his own deed.
+
+**But Rule 102 does not reach a claim that does not come through the judgment-debtor at all.** A tenant inducted before the suit, a co-owner who was never impleaded, a mortgagee in possession under a mortgage predating the suit — none of them is a transferee *pendente lite*, however recent their entry into possession may look. For them Rule 101 applies in full and their claim must be tried.
+:::
+
+::: proviso Rule 104 — the only suit that survives, and the date that decides it
+> *"Every order made under rule 101 or rule 103 [[!shall be subject to the result of any suit]] that may be pending **on the date of commencement of the proceeding in which such order is made**, if in such suit the party against whom the order under rule 101 or rule 103 is made has sought to establish a right which he claims to the present possession of the property."*
+
+Rule 101 abolishes the separate suit. Rule 104 preserves exactly one — and it is defined entirely by a date.
+
+The suit must have been **pending on the date the Rule 97 or Rule 99 proceeding commenced**. Not filed later, however genuine; not contemplated, however clearly threatened. If it was already on the file when the obstruction was complained of, the Rule 101 adjudication is provisional as against that suit, and the suit's eventual decree prevails.
+
+There is a second, equally strict condition that is easy to miss. In that suit the obstructor must have "sought to establish a right which he claims to the **present possession** of the property." A suit for a declaration of title with no claim to present possession does not qualify. Nor does a suit for damages, or for specific performance without a possession prayer, or a suit merely seeking an injunction restraining interference.
+
+The practical consequence runs in both directions.
+
+**For the obstructor:** if you have a real independent title and a suit already on the file, say so in your Rule 97 reply and produce the certified copy of the plaint at the first hearing — that single document converts an adverse order from final to provisional. If you have no suit, do not file one now; it is barred by Rule 101's "not by a separate suit", and filing it will be treated as an admission that you had nothing to put before the executing court.
+
+**For the decree-holder:** the first search to run, before contesting the obstruction on the merits, is for a pending suit by the obstructor. If there is one, the fight is not really in the execution at all, and the sensible course is often to seek transfer and consolidation rather than to win a Rule 101 order that Rule 104 will then subordinate.
+:::
+
+### How this actually runs
+
+<MicroTree
+  input="Chetan applies for delivery of possession and is resisted or obstructed at the property"
+  :gates="[
+    { q: 'Is the complaint under Rule 97 made within thirty days of the resistance or obstruction?', note: 'Article 129, Limitation Act — the clock runs from the date of the obstruction, not from the decree, the sale, the confirmation or the sale certificate.', no: 'The complaint is time-barred. The execution may be perfectly good in every other respect and the decree-holder is still out — his only route to the property is a fresh delivery application, and a fresh obstruction, which the obstructor has no reason to provide.' },
+    { q: 'Is the applicant the holder of a decree for possession of immovable property, or the purchaser of such property sold in execution?', note: 'Rule 97(1). The obstructor may be “any person” — but the applicant class is closed.', no: 'Rule 97 is not available. A person claiming possession otherwise than under a decree or a court sale must sue; the executing court has nothing before it.' },
+    { q: 'Does the obstructor claim independently of the judgment-debtor — not through him, and not under a transfer made after the suit was instituted?', note: 'Rule 102 and its Explanation. Compare the date of the transfer with the date of institution of the suit before anything else.', no: 'Rules 98 and 100 do not apply to him at all. Under Rule 98(2) the obstruction is “without any just cause”; the Court shall direct that the applicant be put into possession, and continued obstruction may be met with detention in civil prison for up to thirty days.' },
+    { q: 'Has the Court framed and tried all questions relevant to the application, including right, title and interest?', note: 'Rule 101 — “and not by a separate suit”; the Court is deemed to have jurisdiction however modest its ordinary pecuniary limit.', no: 'An order made without trying the title question is liable to be set aside in appeal. The proceeding is not summary and cannot be disposed of on affidavits over a party’s objection where a genuine independent claim is raised.' },
+    { q: 'Was there no suit already pending, on the date this proceeding commenced, in which the obstructor sought to establish a right to present possession?', note: 'Rule 104 — the saving is confined to a pre-existing suit claiming present possession.', no: 'The order stands, but it is provisional: it is expressly subject to the result of that suit, and the decree in the suit will prevail over it.' }
+  ]"
+  result="The Court determines the questions under Rule 101 and makes an order under Rule 98 or Rule 100 — delivery, or dismissal — and that order has the force of a decree."
+  caveat="The order is a decree by force of Rule 103. It is not open to challenge in a fresh suit, and it binds the obstructor on every question he could have raised."
+  resultKind="mandatory"
+/>
+
+<MicroTree
+  input="An order has gone against you on a Rule 97 or Rule 99 application"
+  :gates="[
+    { q: 'Was the application adjudicated on the merits under Rule 98 or Rule 100, after a Rule 101 determination?', note: 'Rule 103 attaches only to an adjudication “under rule 98 or rule 100”.', no: 'Then it is not a decree and an appeal is the wrong paper. A dismissal for your non-appearance under Rule 105(2), or an order passed ex parte against you under Rule 105(3), is cured by a Rule 106 application to set aside — within thirty days of the order, or of your knowledge of it where notice was not duly served.' },
+    { q: 'Is your challenge a first appeal under section 96?', note: 'Rule 103 — the order “shall have the same force and be subject to the same conditions as to an appeal or otherwise as if it were a decree”.', no: 'A revision under section 115 is not maintainable, and neither is a miscellaneous appeal under Order XLIII. This is the single most common fatal error in the block: by the time the revision is dismissed as incompetent, the appeal period has run, and section 5 is met with the answer that you chose the wrong remedy with your eyes open.' },
+    { q: 'Have you filed it in the forum fixed by the valuation of the property, and paid ad valorem court fee as on a first appeal?', note: 'Because the order is deemed a decree, the appeal is valued and stamped as an appeal from a decree — not as a miscellaneous appeal.', no: 'The memorandum is liable to be returned. Time continues to run while it is out of the file.' },
+    { q: 'Is the appeal within the period prescribed for a first appeal from that court?', note: 'Article 116 or 117 of the Limitation Act according to the forum — ninety days to the High Court, thirty days to any other court.', no: 'The order becomes final. Rule 101 has already abolished the suit that might once have been filed, so there is no second route to the same question.' }
+  ]"
+  result="The appeal is a first appeal against a deemed decree — heard on facts and law, with the whole Rule 101 adjudication open for reconsideration."
+  caveat="If the obstructor had a suit pending under Rule 104, that suit — not the appeal — is where the question is finally decided."
+  resultKind="mandatory"
+/>
+
+### In plain English
 
 **(a) There are two entry points, and they mirror each other.** Rule 97 is for the decree-holder or auction-purchaser who is **kept out** — he complains of resistance or obstruction. Rule 99 is for the stranger who has been **thrown out** — he complains of dispossession. Both lead to the same adjudication under Rule 101 and the same order-as-decree under Rule 103. The symmetry is deliberate: the Code does not care whether the contest arises before or after the bailiff's visit; it wants the question of entitlement to possession decided once, in the executing court.
 
@@ -2298,33 +2403,183 @@ So the modern position is that a contested delivery of possession is tried as a 
 
 **(j) The scheme is now the *only* route, and that cuts both ways.** For the decree-holder it means he cannot be told to file a suit and start again. For the obstructor it means he cannot keep his powder dry: he must put his entire title case before the executing court, with all his documents and witnesses, because the resulting decree will bind him and Rule 101 forecloses the suit he might once have filed. Both sides must treat a Rule 97 proceeding as a trial from the first hearing.
 
-### 3. Courtroom & Practical Illustrations — Rules 97 to 106
+### Test your instinct
 
-::: tip Illustration 1 — the brother who appears at the door
-**Facts.** A obtains a decree for possession against B in respect of a house. The bailiff is met by B's brother C, who says he has been in possession for twenty years as an exclusive owner under an oral family partition and that the house was never B's.
+Five situations. Decide what you would argue and what you think the court will do, and only then open the ruling. The pattern in this block: almost everything turns on a date, and the date is rarely the one the parties are arguing about.
 
-**Sword — A's case.** File under Rule 97 **within thirty days of the obstruction** — diarise the date the bailiff's report records. Do not treat it as a formality: plead the case as you would a plaint. Show that C is a person claiming through the judgment-debtor: the property stands in B's name in the municipal record and the mutation register; the electricity connection is B's; C's own address in three earlier documents is elsewhere; and the "oral partition" is unsupported by any contemporaneous record. Then invoke Rule 98(2): the obstruction is without just cause and is at B's instigation, both brothers residing together, and ask for delivery and, if obstruction continues, detention up to thirty days.
+::::instinct The brother who has lived there for twenty years
 
-**Shield — C's case.** Rule 101 is your friend, because it entitles you to a **trial**, not a summary rejection. Ask the court to frame issues on title and possession and to record evidence — resist any attempt to dispose of the matter on affidavits. On merits, prove independent possession: revenue and municipal receipts in your own name, ration card, voter roll, school records of children at the address, and the fact that A knew of your possession before filing the suit and deliberately did not implead you. Take the Rule 102 point pre-emptively: your claim does not rest on any transfer from B, and certainly none after the suit, so Rule 102 has no application to you. If you had already filed a partition suit before the bailiff came, plead **Rule 104** — the Rule 101 order will be subject to the result of that suit.
+Anita has a decree for possession of a house against Bharat. The bailiff is met at the door by Bharat's brother, who says he has been in exclusive possession for twenty years under an oral family partition, that the house was never Bharat's, and that he was never made a party to the suit. The house is worth about ₹4 crore. The executing court is a Civil Judge (Junior Division) whose ordinary pecuniary limit is ₹10 lakh.
+
+Bharat's brother takes a preliminary objection: whatever else this court can do, it cannot try a title dispute over property worth forty times its pecuniary limit, and Anita must be left to a declaratory suit in the district court.
+
+**Is he right — and if he is not, has he helped himself or hurt himself by raising the point?**
+
+:::ruling
+
+**He is wrong, and he has hurt himself badly.**
+
+**Rule 101 anticipated exactly this objection and legislated it away.** All questions "including questions relating to right, title or interest in the property" arising between the parties "shall be determined by the Court dealing with the application and not by a separate suit" — and then the operative words: "for this purpose, the Court shall, **notwithstanding anything to the contrary contained in any other law for the time being in force**, be deemed to have jurisdiction to decide such questions."
+
+That deeming clause exists for no other reason. Without it a court of limited pecuniary jurisdiction executing a decree for possession of a valuable property could not try the title claim of an obstructor, and the whole 1976 scheme would collapse back into the summary-enquiry-plus-suit model it replaced. The deemed jurisdiction is confined to questions "relevant to the adjudication of the application" — the court does not acquire a roving jurisdiction to decide any dispute between these parties — but the title question raised by an obstructor is squarely within it.
+
+**Why the objection hurts him.** He has just told the court that his own case cannot be decided here. If the court accepts Rule 101, as it must, he is bound by the determination, and Rule 101 has abolished the suit he was hoping to keep in reserve. He should have spent that hearing asking for issues to be framed.
+
+**What he should actually be arguing.** *Brahmdeo Chaudhary* and *Shreenath v. Rajesh* give him a real entitlement: he is a person in possession claiming an independent right, "any person" in Rule 97(1) is of the widest amplitude, and he is entitled to be **heard before he is dispossessed** — not relegated to a suit, and not told to submit to dispossession and then apply under Rule 99. So the application to make is for **issues and evidence**, resisting any disposal on affidavits, and then to prove independent possession: revenue and municipal receipts in his own name, the voter roll, school records, and the fact that Anita knew of his possession before filing and chose not to implead him.
+
+**Anita's answer is Rule 98(2) plus documents.** The house stands in Bharat's name in the mutation register and the municipal record; the electricity connection is Bharat's; the brother's own address in three earlier documents is elsewhere; the "oral partition" has no contemporaneous record. Both brothers live together — so the obstruction is "without any just cause" at the judgment-debtor's instigation, which unlocks delivery and, on continued obstruction, detention for up to thirty days. And under *Rahul S. Shah*, she can press for the objection to be decided within sixty days.
+
+::::
+
+::::instinct "A lease is not a transfer"
+
+Anita sues Bharat for possession of a shop in 2018. In 2021, with the suit part-heard, Bharat grants a registered five-year lease of the shop to Deepa, who takes possession and opens a business. Anita gets her decree in 2024. Deepa obstructs delivery.
+
+Deepa's counsel makes a careful argument. Rule 102 speaks of a person "to whom the judgment-debtor has **transferred the property**". A lease, he says, transfers no property — it creates only a right to enjoy for a term, the reversion remains with Bharat, and Deepa is therefore outside Rule 102 and entitled to a full Rule 101 adjudication of her tenancy.
+
+**Does the argument work?**
+
+:::ruling
+
+**No. A lease is a transfer of an interest in immovable property, and Rule 102 applies in terms.**
+
+Section 105 of the Transfer of Property Act defines a lease as "a transfer of a right to enjoy" immovable property — it sits in the Act as a species of transfer, and *lis pendens* under section 52 has always been applied to leases granted during the pendency of a suit in which the right to the property is directly and specifically in question. Rule 102's *Explanation*, which extends "transfer" even to a transfer **by operation of law**, points firmly the same way: the rule is drawn to catch every route by which possession can be passed during the litigation, not to be defeated by the choice of instrument.
+
+**So the two documents decide the case.** Certified copy of the plaint showing 2018; registered lease deed showing 2021. Nothing in rules 98 and 100 applies to Deepa, which means there is no order the court can make in her favour — she is removed without her tenancy being adjudicated at all. *Silverline Forum* is the authority: the threshold question is whether the obstructor is a transferee *pendente lite*, and the court is not obliged to embark on a title enquiry merely because a claim is asserted.
+
+Anita should additionally ask for a finding under Rule 98(2) that the obstruction was by a transferee during the pendency of the suit, which opens the detention power against Bharat for instigating it.
+
+**Where Deepa's real defence lies — and it is not in the word "transfer".**
+
+*Look for a prior arrangement.* If she was in possession under an earlier oral or unregistered arrangement and the 2021 deed merely formalised it, then the possession — not the paper — predates the suit, and *lis pendens* attaches to the transfer.
+
+*Check the identity of the property.* If the demised portion is larger than or different from the decreed portion, the excess falls outside the decree altogether.
+
+*Check the nature of the suit.* Section 52 attaches only where the right to immovable property is "directly and specifically in question". A suit purely for money, or for damages, does not attract it.
+
+*And preserve what survives.* Her claim against Bharat for the security deposit and for improvements is unaffected by losing possession, and should be reserved on the record so that it is not said later to have been abandoned.
+
+::::
+
+::::instinct The revision that was filed in time
+
+An obstruction application under Rule 97 is dismissed after a full trial: issues framed, witnesses examined, the obstructor's title rejected on the merits. His counsel files a revision under section 115 in the High Court, well within ninety days. Fourteen months later the High Court dismisses it as not maintainable, holding that the order is a decree under Rule 103. Counsel immediately files a first appeal with an application under section 5 and section 14 of the Limitation Act, annexing the revision papers.
+
+**What is the answer he will get, and was there anything he could have done differently once the revision was filed?**
+
+:::ruling
+
+**He will be told that he chose the wrong remedy with his eyes open, and section 14 will not save him.**
+
+**Rule 103 is unambiguous and it is not new.** An order adjudicated under Rule 98 or Rule 100 "shall have the same force and be subject to the same conditions as to an appeal or otherwise **as if it were a decree**." Deemed a decree means: **first appeal under section 96**, to the district court or the High Court according to valuation, on ad valorem court fee. Not a revision under section 115. Not a miscellaneous appeal under Order XLIII. Not a fresh suit, which Rule 101 has abolished.
+
+**This is the single most common fatal error in the block**, and its cost is structural rather than accidental: the revision consumes the appeal period while it is pending, and the dismissal arrives long after the appeal has become time-barred.
+
+**Why section 14 is a weak answer.** It excludes time spent prosecuting another proceeding "with due diligence and in good faith" in a court unable to entertain it for **defect of jurisdiction or other cause of a like nature**. The High Court had jurisdiction; what it lacked was a revisable order. And "good faith" requires due care and attention. Where the statute in terms deems the order a decree and the point is covered by long-settled authority, a court is unlikely to find that the choice of a revision was made with due care. The application will usually be met with the observation that the party elected its remedy.
+
+**What could have been done.** Within the appeal period, and while the revision was still pending, file the **first appeal as well**, with an application to keep it pending or to hold it in abeyance until the revision is decided. Filing two proceedings is untidy and will attract a comment from the Bench; being out of time is fatal. The untidy course is the right one.
+
+**The diary rule that prevents all of this.** The moment an order is passed on a Rule 97 or Rule 99 application after adjudication, enter two dates: the appeal date under Article 116 or 117 (ninety days to the High Court, thirty days to any other court), and — separately — the thirty-day Rule 106(3) date, in case the order turns out to have been ex parte or in default rather than on the merits. Which of the two applies is decided by what the order did, not by what it is called.
+
+::::
+
+::::instinct The suit filed the week after the bailiff came
+
+Deepa obstructs delivery on 3 March. Chetan, the auction-purchaser, files his Rule 97 application on 10 March. On 17 March Deepa institutes a title suit in the district court claiming a declaration that she is the owner and that the court sale does not bind her, and applies in the execution for the Rule 101 adjudication to await the result of that suit under Rule 104.
+
+She also has, on the file since 2019, an earlier suit against Bharat seeking a declaration that a 2015 sale deed in his favour was a sham — but that suit contains no prayer for possession, because she says she was already in possession and needed none.
+
+**Does either suit help her?**
+
+:::ruling
+
+**Neither does — and the two failures are for different reasons, which is the point of the example.**
+
+**The March suit fails on the date.** Rule 104 subordinates the Rule 101 order to the result of "any suit that may be pending **on the date of commencement of the proceeding in which such order is made**." The proceeding commenced on 10 March. Her suit was instituted on 17 March. It is not saved — and worse, it is affirmatively barred by Rule 101's "and not by a separate suit", so it is liable to be rejected and its institution will be read against her as an admission that she had nothing to put before the executing court.
+
+**The 2019 suit fails on the prayer.** It was undoubtedly pending on 10 March, so it clears the date. But Rule 104 has a second condition that is easy to read past: in that suit the party "has sought to establish a **right which he claims to the present possession** of the property." A suit for a declaration that a deed is a sham, with no claim to present possession, does not qualify. Nor would a suit for damages, or for specific performance without a possession prayer, or one seeking only an injunction against interference.
+
+**What she should have done, in order.** Amended the 2019 plaint to add a prayer for possession, or for a declaration of her right to present possession, **before** obstructing — an amendment under Order VI Rule 17 is far easier to obtain before the execution proceeding starts than after. Then, at the first hearing of the Rule 97 application, produced the certified copy of the amended plaint. That single document would have converted the coming order from final to provisional.
+
+**And what Chetan should do first, before contesting anything on the merits.** Run a search for pending suits by the obstructor. If a qualifying suit exists, the real fight is not in the execution at all, and the sensible course is to seek transfer and consolidation rather than to win a Rule 101 order that Rule 104 will then subordinate to somebody else's decree.
+
+::::
+
+::::instinct The claim petition dismissed because nobody appeared
+
+Deepa's claim under Rule 58 to property attached in Anita's execution is listed for hearing. Her counsel is detained in another court, nobody appears, and the claim is dismissed for default under Rule 105(2). Six weeks later, on being told the property is about to be proclaimed for sale, she instructs a new advocate.
+
+He advises that a dismissal for default is not an adjudication, that Rule 58(4) — which makes an order on a claim appealable as a decree — has no application to a dismissal without adjudication, and that her only course is a suit to establish her title.
+
+**Is that right?**
+
+:::ruling
+
+**No. The remedy is a Rule 106 application to set aside, and the *Explanation* to Rule 105 puts it beyond argument.**
+
+His first two propositions are sound. A dismissal for default is not an adjudication of the claim, and Rule 58(4) attaches to a determined claim. But the conclusion does not follow, because he has stopped reading one rule too early.
+
+**The *Explanation* to Rule 105 provides: "An application referred to in sub-rule (1) includes a claim or objection made under rule 58."** Rules 105 and 106 therefore govern the conduct of Rule 58 claims as well as Rule 97 and Rule 99 applications. So the dismissal of Deepa's claim for her non-appearance is an order "made under sub-rule (2) of rule 105", and Rule 106(1) gives her an application to set it aside on proof of sufficient cause for the non-appearance — on which the Court **shall** set aside the order, on such terms as to costs as it thinks fit, and appoint a day for further hearing.
+
+That matters enormously. Advising a suit instead would run straight into Rule 58's own bar on a separate suit, and would waste the one remedy she has.
+
+**But the clock is the problem, and it is nearly out.** Rule 106(3): thirty days from the date of the order — or thirty days from the date of **knowledge**, but only "where, in the case of an ex parte order, the notice was not duly served." Deepa's case is not an ex parte order against a party who was never served; it is a dismissal of her own application, in a proceeding she instituted, on a date her counsel knew. The knowledge extension is very unlikely to be available to her, and six weeks have gone.
+
+**So the application is filed with a section 5 application, and it is filed today.** Ground it on the counsel's engagement elsewhere, supported by that court's cause list and an affidavit from counsel — a personal explanation for each of the six weeks, not a formula. And because the property is about to be proclaimed, move simultaneously for an interim order staying the sale, since a claim revived after the sale runs into the first bar in the proviso to Rule 58(1): no claim shall be entertained where the property has already been sold.
+
+**The confusion worth naming.** There are two thirty-day clocks in this block and they measure different things. **Article 129** of the Limitation Act runs from the **date of the resistance or obstruction** and governs the Rule 97 complaint. **Rule 106(3)** runs from the **order or from knowledge** and governs setting aside a default or ex parte order. Diarising one in the belief that it covers the other is how good claims are lost.
+
+::::
+
+### Practitioner HUD — operational realities
+
+#### The winning ratio
+
+If you take one sentence from this block into court, take this one.
+
+::: tip The proposition to plead
+**Shreenath v. Rajesh**, (1998) 4 SCC 543 — 2-Judge Bench —
+
+The expression "**any person**" in Rule 97(1) is of the widest amplitude and takes in a tenant or any other person claiming an independent right. The 1976 amendments were made precisely so that the executing court could decide such claims and eliminate the multiplicity of proceedings the old scheme produced. The executing court is therefore **bound to adjudicate**, and its determination has the force of a decree under Rule 103.
+
+For the obstructor this is the entitlement: *"I am a person in possession under an independent claim; Rule 97(1) covers me; and I am entitled to have my right determined under Rule 101 before I am dispossessed, and not to be relegated to a suit."* Read with **Brahmdeo Chaudhary** — he must be heard **before** dispossession, not sent away to apply under Rule 99 afterwards.
+
+For the decree-holder it is a warning and a weapon at once. A warning, because a genuine independent claim cannot be brushed aside on affidavits and must be tried. A weapon, because the same sentence forecloses the second round: the determination **is a decree**, Rule 101 has abolished the separate suit, and the obstructor who holds material back has lost the only forum in which he could ever have produced it.
 :::
 
-::: tip Illustration 2 — the tenant inducted during the trial
-**Facts.** A sues B for possession in 2018. In 2021, while the suit is pending, B grants a registered five-year lease to T, who takes possession and starts a business. A gets a decree in 2024. T obstructs delivery.
+#### Sword and shield
 
-**Sword — A's case.** This is Rule 102 in its pure form and it should be pleaded first and last. T's lease is dated after the institution of the suit; it is therefore a transfer *pendente lite* to which **section 52 of the Transfer of Property Act** applies and, by Rule 102, "nothing in rules 98 and 100 shall apply" to his obstruction. He is not entitled to an adjudication of his lease at all; he is simply removed. Annex the certified copy of the plaint showing the date of institution against the registered lease deed showing its date — those two documents decide the application. Ask additionally for a finding under Rule 98(2) that the obstruction was by a transferee during the pendency of the suit, which unlocks the detention power against B for instigating it.
+| Situation | As decree-holder / purchaser (sword) | As obstructor / dispossessed party (shield) |
+|---|---|---|
+| **Somebody is at the door** | File under **R. 97 within thirty days** of the obstruction — diarise the date in the bailiff's report the day it is filed. | You need not wait to be thrown out. *Ashan Devi* — a person in settled possession under an independent claim may move the executing court **before** dispossession. |
+| **You have already been thrown out** | R. 95 reaches the debtor, those acting for him, and those claiming under a title he created after the attachment — nobody else. | **R. 99** — a stranger dispossessed by the decree-holder or purchaser gets restoration in the execution itself, and the framing puts the burden on them. |
+| **The first document to look at** | Certified copy of the plaint (date of institution) beside the obstructor's title deed. | If your possession predates the suit, say so in the first paragraph of your reply and prove it with pre-suit documents. |
+| **Transfer taken during the suit** | **R. 102** — nothing in RR. 98 and 100 applies. No adjudication of his claim is owed at all. *Silverline Forum*. | Do not fight R. 102 frontally. Look for a **prior arrangement** that the deed merely formalised; for a mismatch between the demised and the decreed property; or for a suit in which the right to the property was not "directly and specifically in question". |
+| **"This court cannot try a title worth crores"** | **R. 101** deems jurisdiction "notwithstanding anything to the contrary in any other law". Take the point and move on. | Never raise it. It cannot succeed, and it tells the court you have no case to put here. Ask for **issues** instead. |
+| **The court proposes to decide on affidavits** | Where the obstructor is a transferee *pendente lite*, press for exactly that — no enquiry is owed. | Where you claim independently, insist on **issues and evidence**. An order made without trying the title question is vulnerable in appeal. |
+| **The obstruction is by the debtor's men** | **R. 98(2)** — resistance "without any just cause" at his instigation unlocks delivery **and detention up to thirty days**. Plead the instigation as a fact and prove it. | The power needs a finding on evidence of instigation or of a transfer date. Losing on the merits does not by itself make your obstruction "without just cause". |
+| **A suit is pending** | Search for it **before** contesting the merits. If it qualifies, seek transfer and consolidation rather than a provisional order. | **R. 104** — but only a suit pending on the date this proceeding commenced, **and** one claiming a right to **present possession**. Amend the plaint before you obstruct, not after. |
+| **Objections that belong to the trial** | *Rahul S. Shah* — the executing court "shall not entertain any objection… which could have been raised at the stage of trial". | Confine yourself to rights that are genuinely independent of the decree. Rehearsing the defence you lost is an invitation to costs. |
+| **Delay** | *Rahul S. Shah* — press for adjudication **within sixty days** of filing, and for costs where the obstruction is an abuse. | Delay cuts against you too: the sixty-day direction is the answer to an adjournment strategy. |
+| **The order has gone against you** | Resist any suit as barred by R. 101; resist any revision as incompetent under R. 103. | **First appeal under s. 96**, ad valorem, in the forum fixed by valuation. Not s. 115. Not O. XLIII. |
+| **The order was in default or ex parte** | Serve properly and keep the endorsement — it is what defeats the knowledge extension. | **R. 106(1)** within **thirty days**; the knowledge extension applies only to an **ex parte** order where notice was not duly served. |
+| **A Rule 58 claim was dismissed for default** | The dismissal is not an adjudication; do not treat it as res judicata. | The *Explanation* to **R. 105** brings R. 58 claims within RR. 105–106 — so the remedy is a **R. 106 application**, not a suit. Move before the sale: the proviso to R. 58(1) bars a claim once the property is sold. |
 
-**Shield — T's case.** Rule 102 is difficult to escape, so do not fight it frontally. Look for a **prior** arrangement: if T was in possession under an earlier arrangement and the 2021 deed merely formalised it, plead and prove the earlier possession, because *lis pendens* attaches to the transfer, not to the paper. Examine whether the property leased is in fact the property decreed — an excess or a different portion falls outside the decree. Consider whether the suit was one in which the right to the property was "directly and specifically in question" as section 52 requires; a suit purely for money or for damages does not attract *lis pendens*. And preserve the claim for improvements and for the return of the security deposit against B, which survives independently of possession.
-:::
+#### The limitation clock
 
-::: tip Illustration 3 — the auction-purchaser who was thrown out
-**Facts.** X, an auction-purchaser, obtains a sale certificate and takes delivery under Rule 95. Two months later, Y — who was never a party and claims under a registered sale deed of 2009, ten years before the suit — re-enters and locks the premises. X approaches the court.
+| Step | Source | Period | Runs from | Note |
+|---|---|---|---|---|
+| Complaint of resistance or obstruction (**R. 97**) | **Art. 129**, Limitation Act | **30 days** | The **date of the resistance or obstruction** | Not from the decree, the sale, the confirmation or the certificate. The commonest way a good execution is lost |
+| Purchaser's application for delivery (**R. 95**) | **Art. 134** | **1 year** | When the sale becomes **absolute** | Art. 134 gets you to the door; Art. 129 governs what happens at it |
+| Complaint of dispossession (**R. 99**) | **Art. 129** | **30 days** | The dispossession | The mirror of the R. 97 clock |
+| Adjudication of a RR. 97–106 application | *Rahul S. Shah*, (2021) 6 SCC 418 | **60 days** | Filing | A direction, not a limitation; reasons must be recorded if exceeded |
+| Setting aside a dismissal for default or an ex parte order (**R. 106(1)**) | **R. 106(3)** — self-contained | **30 days** | Date of the **order**; or of **knowledge**, but only where an ex parte order was passed and notice was not duly served | Applies to **R. 58** claims too, by the *Explanation* to R. 105 |
+| Notice before an order under R. 106(1) | **R. 106(2)** | — | — | No order may be made without notice to the other party — an ex parte setting-aside is itself liable to be set aside |
+| Appeal from an order under **R. 98 / R. 100** | **R. 103** + s. 96; Arts. 116 / 117 | **90 days** to a High Court; **30 days** to any other court | Date of the order | It is a **first appeal on a deemed decree**, valued and stamped as such |
+| Suit to reagitate the same question | **R. 101** | — | — | Barred outright — "and not by a separate suit" |
+| Pre-existing suit saved | **R. 104** | — | Must be **pending on the date the proceeding commenced** | And must claim a right to **present possession** |
 
-**Sword — X's case.** X's position is that he has already been put into possession by the court and has been ousted, so the appropriate application is under **Rule 97** complaining of resistance and obstruction in obtaining and retaining possession — filed within thirty days of the re-entry. Rely on section 65: on confirmation, the property vested in X **from the date of sale**. Ask the court under Rule 101 to determine Y's title claim, and press the point that Y's 2009 deed, if genuine, should have been asserted at the Rule 66 proclamation stage or by a claim under Rule 58 before the sale — his silence through the attachment, the proclamation and the sale is a circumstance the court may weigh. Ask for police assistance in restoring possession under section 151.
-
-**Shield — Y's case.** Y should move **first**, under **Rule 99**, complaining that he — a person other than the judgment-debtor — was dispossessed by the auction-purchaser. That framing matters, because Rule 99 puts the burden of justifying the dispossession on X and entitles Y to restoration if his independent title is made out. Plead the 2009 registered deed, mutation, tax receipts and continuous possession, and that his title predates the suit by a decade so that Rule 102 has no application whatever. Then take the substantive point: an auction-purchaser buys only the right, title and interest of the **judgment-debtor**, and if the judgment-debtor had parted with the property in 2009 he had no saleable interest — which X's remedy under Rule 91 (had he moved within sixty days) was designed to address, and which cannot now be cured by dispossessing a stranger. Invoke **Rule 104** if a title suit was already pending when the execution proceeding began.
-:::
-
-### 4. Procedural Interlocking Matrix — Rules 97 to 106
+#### Interlocking matrix — what this connects to
 
 | Trigger | Provision | Interlocking Order/Rule | Limitation / fee | Application to file |
 |---|---|---|---|---|
@@ -2353,7 +2608,7 @@ The sting is in **Rule 103**. Because the order is deemed a decree, the **appeal
 Costs of the proceeding are recoverable under section 35, and where obstruction is found to be frivolous, *Rahul S. Shah* requires that costs follow — ask for them specifically and quantify them.
 :::
 
-### 5. Landmark & Modern Jurisprudence — Rules 97 to 106
+#### The authorities
 
 **Brahmdeo Chaudhary v. Rishikesh Prasad Jaiswal, (1997) 3 SCC 694** — 2-Judge Bench.
 *Facts:* A stranger to the decree obstructed delivery of possession and was told that his remedy lay only after dispossession.
@@ -2371,15 +2626,6 @@ Costs of the proceeding are recoverable under section 35, and where obstruction 
 
 ::: tip Practitioner Takeaway
 "The threshold question under Order XXI is whether the obstructor is a transferee *pendente lite*, in which case Rule 102 excludes him from Rules 98 and 100 altogether and no adjudication of his asserted title is called for; only a person claiming independently of the judgment-debtor is entitled to a determination under Rule 101."
-:::
-
-**Shreenath v. Rajesh, (1998) 4 SCC 543** — 2-Judge Bench.
-*Facts:* A tenant, not a party to the decree, obstructed delivery, and the question was whether the executing court could inquire into his claim.
-
-**Ratio decidendi:** The words "any person" in Rule 97(1) are of the widest amplitude and include a tenant or any other person claiming an independent right; the 1976 amendments were made precisely to enable the executing court to decide such claims and to eliminate the multiplicity of proceedings which the old scheme produced. The executing court is bound to adjudicate, and its order is a decree.
-
-::: tip Practitioner Takeaway
-"The expression 'any person' in Order XXI Rule 97(1) is of the widest amplitude and takes in a tenant or any other person claiming an independent right; the executing court is bound to adjudicate the claim under Rule 101 and its determination has the force of a decree under Rule 103."
 :::
 
 **Ashan Devi v. Phulwasi Devi, (2003) 12 SCC 219** — 2-Judge Bench.
@@ -2404,7 +2650,7 @@ Costs of the proceeding are recoverable under section 35, and where obstruction 
 The relationship between Rules 97 to 106 and rent-control legislation is jurisdictionally sensitive: where a State's rent statute confers exclusive jurisdiction on a Rent Controller in respect of a tenant's eviction, the interaction with Rule 101's deeming clause has produced divergent High Court views, and the position in your State should be checked. The application of Rules 97 to 106 to sales under the SARFAESI Act, 2002 and to possession proceedings under section 14 of that Act is governed by that statute and by the District Magistrate's jurisdiction, not by Order XXI. The six-month and sixty-day timelines in *Rahul S. Shah* have been implemented through High Court circulars which differ in detail from State to State.
 :::
 
-### 6. The Advocate's Toolkit — Rules 97 to 106
+#### Strategy and drafting
 
 ::: danger Six failures in the possession block
 1. **Missing the thirty days under Article 129.** The period runs from the **date of resistance or obstruction**, recorded in the bailiff's report — not from the decree, the sale, or the date the decree-holder gave up negotiating. A decree-holder who takes symbolic delivery under Rule 36 and then spends two months trying to persuade the occupant has lost the remedy.
